@@ -7,11 +7,48 @@ DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
 
 os.makedirs("snapshots", exist_ok=True)
 
+PRIMARY_KEYWORDS = [
+    "fps",
+    "first-person shooter",
+    "third-person shooter",
+    "tps",
+    "shooter"
+]
+
+SECONDARY_KEYWORDS = [
+    "co-op",
+    "online co-op",
+    "coop",
+    "multiplayer",
+    "party",
+    "horror",
+    "pvp",
+    "pve",
+    "survival",
+    "tactical",
+    "extraction"
+]
+
 def get_new_releases():
     url = "https://store.steampowered.com/api/featuredcategories"
     res = requests.get(url)
     data = res.json()
     return data["new_releases"]["items"]
+
+def get_app_details(appid):
+    url = f"https://store.steampowered.com/api/appdetails?appids={appid}&filters=basic"
+    res = requests.get(url)
+
+    if res.status_code != 200:
+        return {}
+
+    data = res.json()
+    app_data = data.get(str(appid), {})
+
+    if not app_data.get("success"):
+        return {}
+
+    return app_data.get("data", {})
 
 def get_review_summary(appid):
     url = f"https://store.steampowered.com/appreviews/{appid}?json=1&language=all&purchase_type=all"
@@ -49,6 +86,47 @@ def get_current_players(appid):
     data = res.json()
     return data.get("response", {}).get("player_count", 0)
 
+def calculate_scout_score(game):
+    score = 0
+    reasons = []
+
+    text = (
+        game["name"] + " " +
+        game.get("short_description", "") + " " +
+        " ".join(game.get("genres", [])) + " " +
+        " ".join(game.get("categories", []))
+    ).lower()
+
+    for keyword in PRIMARY_KEYWORDS:
+        if keyword in text:
+            score += 50
+            reasons.append(f"FPS/TPS系: {keyword}")
+            break
+
+    for keyword in SECONDARY_KEYWORDS:
+        if keyword in text:
+            score += 20
+            reasons.append(f"協力/対戦/パーティ系: {keyword}")
+            break
+
+    if game["total_reviews"] >= 5:
+        score += 10
+        reasons.append("レビュー5件以上")
+
+    if game["positive_rate"] >= 80:
+        score += 15
+        reasons.append("好評率80%以上")
+
+    if game["current_players"] >= 50:
+        score += 15
+        reasons.append("現在プレイヤー50人以上")
+
+    if game["total_reviews"] == 0 and game["current_players"] == 0:
+        score -= 20
+        reasons.append("反応が薄い")
+
+    return score, reasons
+
 games = get_new_releases()
 results = []
 
@@ -58,11 +136,16 @@ for game in games[:50]:
 
     review = get_review_summary(appid)
     players = get_current_players(appid)
+    details = get_app_details(appid)
 
     if review is None:
         continue
 
-    results.append({
+    genres = [g.get("description", "") for g in details.get("genres", [])]
+    categories = [c.get("description", "") for c in details.get("categories", [])]
+    short_description = details.get("short_description", "")
+
+    item = {
         "name": name,
         "appid": appid,
         "price": game.get("final_price"),
@@ -71,37 +154,56 @@ for game in games[:50]:
         "current_players": players,
         "total_reviews": review["total_reviews"],
         "positive_rate": review["positive_rate"],
-        "steam_score": review["steam_score"]
-    })
+        "steam_score": review["steam_score"],
+        "genres": genres,
+        "categories": categories,
+        "short_description": short_description
+    }
+
+    scout_score, reasons = calculate_scout_score(item)
+
+    item["scout_score"] = scout_score
+    item["reasons"] = reasons
+
+    results.append(item)
+
+results.sort(key=lambda x: x["scout_score"], reverse=True)
 
 today = datetime.now().strftime("%Y%m%d_%H%M%S")
-filename = f"snapshots/steam_new_releases_{today}.json"
+filename = f"snapshots/steam_scout_ranked_{today}.json"
 
 with open(filename, "w", encoding="utf-8") as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
 
 print("保存完了:", filename)
+print()
 
-for game in results:
-    print(game["name"])
+for i, game in enumerate(results, start=1):
+    print(f"{i}位: {game['name']}")
+    print("  スコア:", game["scout_score"])
     print("  好評率:", game["positive_rate"], "%")
     print("  レビュー数:", game["total_reviews"])
     print("  現在プレイヤー:", game["current_players"])
+    print("  ジャンル:", ", ".join(game["genres"]))
+    print("  理由:", ", ".join(game["reasons"]))
     print("  URL:", game["url"])
     print()
 
 if DISCORD_WEBHOOK_URL:
-    message_header = f"Steam新作ゲーム取得完了\n保存ファイル: {filename}\n\n"
+    message_header = f"Steam発掘候補ランキング\n保存ファイル: {filename}\n\n"
 
     messages = []
     current_message = message_header
 
-    for game in results:
+    for i, game in enumerate(results[:30], start=1):
         line = (
-            f"{game['name']}\n"
+            f"【{i}位】{game['name']}\n"
+            f"スコア: {game['scout_score']}\n"
             f"好評率: {game['positive_rate']}% / "
             f"レビュー: {game['total_reviews']} / "
             f"現在プレイヤー: {game['current_players']}\n"
+            f"ジャンル: {', '.join(game['genres'])}\n"
+            f"理由: {', '.join(game['reasons'])}\n"
             f"{game['url']}\n\n"
         )
 
