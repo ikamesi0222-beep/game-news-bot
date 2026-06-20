@@ -51,7 +51,7 @@ games = get_new_releases()
 
 results = []
 
-for game in games[:20]:
+for game in games[:50]:
     appid = game["id"]
     name = game["name"]
 
