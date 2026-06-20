@@ -3,6 +3,8 @@ import json
 import os
 from datetime import datetime
 
+DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
+
 os.makedirs("snapshots", exist_ok=True)
 
 def get_new_releases():
@@ -48,7 +50,6 @@ def get_current_players(appid):
     return data.get("response", {}).get("player_count", 0)
 
 games = get_new_releases()
-
 results = []
 
 for game in games[:50]:
@@ -80,7 +81,6 @@ with open(filename, "w", encoding="utf-8") as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
 
 print("保存完了:", filename)
-print()
 
 for game in results:
     print(game["name"])
@@ -89,3 +89,32 @@ for game in results:
     print("  現在プレイヤー:", game["current_players"])
     print("  URL:", game["url"])
     print()
+
+if DISCORD_WEBHOOK_URL:
+    message_header = f"Steam新作ゲーム取得完了\n保存ファイル: {filename}\n\n"
+
+    messages = []
+    current_message = message_header
+
+    for game in results:
+        line = (
+            f"{game['name']}\n"
+            f"好評率: {game['positive_rate']}% / "
+            f"レビュー: {game['total_reviews']} / "
+            f"現在プレイヤー: {game['current_players']}\n"
+            f"{game['url']}\n\n"
+        )
+
+        if len(current_message) + len(line) > 1800:
+            messages.append(current_message)
+            current_message = ""
+
+        current_message += line
+
+    if current_message:
+        messages.append(current_message)
+
+    for message in messages:
+        requests.post(DISCORD_WEBHOOK_URL, json={"content": message})
+else:
+    print("Discord Webhook URLが設定されていません")
