@@ -114,10 +114,10 @@ if DISCORD_WEBHOOK_URL:
     if current_message:
         messages.append(current_message)
 
- for message in messages:
-    r = requests.post(
-        DISCORD_WEBHOOK_URL,
-        json={"content": message}
-    )
+    for message in messages:
+        r = requests.post(DISCORD_WEBHOOK_URL, json={"content": message})
+        print("Discord送信:", r.status_code)
 
-    print("Discord送信:", r.status_code)
+    print("Discord処理終了")
+else:
+    print("Discord Webhook URLが設定されていません")
