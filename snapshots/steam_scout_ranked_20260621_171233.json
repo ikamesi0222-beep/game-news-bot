@@ -1,0 +1,555 @@
+[
+  {
+    "name": "Zombie Wasteland Together",
+    "appid": 4805240,
+    "price": 300,
+    "discount_percent": 50,
+    "url": "https://store.steampowered.com/app/4805240",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Zombie Wasteland Together is a 1–4 player co-op zombie shooter set in a post-apocalyptic desert. Team up with friends, fight endless hordes of infected, and survive using powerful weapons.",
+    "scout_score": 85,
+    "reasons": [
+      "FPS/TPS系: shooter",
+      "協力/対戦/パーティ系: co-op",
+      "好評率80%以上"
+    ]
+  },
+  {
+    "name": "BAENANA",
+    "appid": 4526300,
+    "price": 2200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4526300",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "BAENANA is a fast top‑down bullet‑hell arena shooter where fruit heroes blast waves of hostile veggies. Boost power‑ups, fire up to six weapons, and dodge heavy enemy bullet fire while crafting powerful roguelike builds to survive chaotic shoot’em‑up action.",
+    "scout_score": 65,
+    "reasons": [
+      "FPS/TPS系: shooter",
+      "好評率80%以上"
+    ]
+  },
+  {
+    "name": "Mesozoic Dawn",
+    "appid": 4334840,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4334840",
+    "current_players": 65,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mesozoic Dawn is a multiplayer online dinosaur survival game. Starting as a vulnerable juvenile dinosaur, you must navigate the perils of the prehistoric wilderness, utilizing the core &quot;Growth + Nesting = Evolution&quot; system to achieve leapfrog species iteration and evolution.",
+    "scout_score": 50,
+    "reasons": [
+      "協力/対戦/パーティ系: multiplayer",
+      "好評率80%以上",
+      "現在プレイヤー50人以上"
+    ]
+  },
+  {
+    "name": "Crazy Fruit Shooter",
+    "appid": 4453470,
+    "price": 1350,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4453470",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "One day you wake up and find yourself turned into a Fruitman? Face the endless waves of vegetables chasing you, grab your gun, and blast them away!",
+    "scout_score": 50,
+    "reasons": [
+      "FPS/TPS系: shooter"
+    ]
+  },
+  {
+    "name": "Akane's After-School Yokai Tales",
+    "appid": 4704480,
+    "price": 1800,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4704480",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bullet Hell Survival / Auto-Shooter. Survive the Onslaught. Weave through enemy swarms and survive until the end.",
+    "scout_score": 50,
+    "reasons": [
+      "FPS/TPS系: shooter",
+      "協力/対戦/パーティ系: survival",
+      "反応が薄い"
+    ]
+  },
+  {
+    "name": "Skillwood",
+    "appid": 2776630,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2776630",
+    "current_players": 37,
+    "total_reviews": 200,
+    "positive_rate": 92.5,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Skillwood is a relaxing woodcutter simulator inspired by survival simulators and incremental games. Chop wood, mine stone, trade with NPCs, upgrade forests, unlock new trees or new areas and prestige to do even better next run.",
+    "scout_score": 45,
+    "reasons": [
+      "協力/対戦/パーティ系: survival",
+      "レビュー5件以上",
+      "好評率80%以上"
+    ]
+  },
+  {
+    "name": "Wizzerd Quest 2",
+    "appid": 2907890,
+    "price": 3894,
+    "discount_percent": 34,
+    "url": "https://store.steampowered.com/app/2907890",
+    "current_players": 21,
+    "total_reviews": 21,
+    "positive_rate": 90.48,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "STOP THE DARK WIZZERD!!! Wizzerd Quest 2 is a retro first-person RPG with unhinged live-action FMV cutscenes, full splitscreen co-op, exciting boss encounters, and a vast open world to explore! Save the Roblins! Save the World! A standalone sequel to the shareware classic Wizzerd Quest!",
+    "scout_score": 45,
+    "reasons": [
+      "協力/対戦/パーティ系: co-op",
+      "レビュー5件以上",
+      "好評率80%以上"
+    ]
+  },
+  {
+    "name": "Treasure Beach",
+    "appid": 3939700,
+    "price": 2520,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3939700",
+    "current_players": 390,
+    "total_reviews": 61,
+    "positive_rate": 96.72,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Scavenge the beach and run a cozy trinket shop by the sea! Find hidden treasures or trash, clean and repair your finds, put them up for sale, and upgrade your workshop. Dig deeper and faster to make more money and buy back the beach from the greedy hotel.",
+    "scout_score": 40,
+    "reasons": [
+      "レビュー5件以上",
+      "好評率80%以上",
+      "現在プレイヤー50人以上"
+    ]
+  },
+  {
+    "name": "The Unrealtor",
+    "appid": 4420050,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4420050",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A couch co-op puzzle adventure where two players navigate a surreal house tour, solving perspective-based puzzles by matching objects across their splitscreen, and uncovering a shifting maze of impossible architecture.",
+    "scout_score": 35,
+    "reasons": [
+      "協力/対戦/パーティ系: co-op",
+      "好評率80%以上"
+    ]
+  },
+  {
+    "name": "Alfons World",
+    "appid": 3147560,
+    "price": 1800,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3147560",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Collect magical creatures called &quot;Papas&quot; in a vast world, have them engage in battles, build structures, farm, and produce industrial goods. This is a brand new open-world survival crafting game.",
+    "scout_score": 35,
+    "reasons": [
+      "協力/対戦/パーティ系: survival",
+      "好評率80%以上"
+    ]
+  },
+  {
+    "name": "Kill Per Second",
+    "appid": 4690070,
+    "price": 900,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4690070",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Kill Per Second is a top-down shooter with minimal feature so you can concentrate on one thing. Putting your cursor on the enemies. Survive the stages to test your skill.",
+    "scout_score": 30,
+    "reasons": [
+      "FPS/TPS系: shooter",
+      "反応が薄い"
+    ]
+  },
+  {
+    "name": "正体 SHOUT-AI",
+    "appid": 4797550,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4797550",
+    "current_players": 0,
+    "total_reviews": 5,
+    "positive_rate": 60.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game contains psychological horror, unsettling dialogue, screen noise, blackouts, glitches, fake code logs, and effects that may appear as if something is happening on the player's PC. It does not contain gore, explicit sexual content, drug use, or realistic violence against real people.",
+    "scout_score": 30,
+    "reasons": [
+      "協力/対戦/パーティ系: horror",
+      "レビュー5件以上"
+    ]
+  },
+  {
+    "name": "Idle Startup",
+    "appid": 4779560,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4779560",
+    "current_players": 612,
+    "total_reviews": 11,
+    "positive_rate": 36.36,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a tech company from a one-person garage into a global empire. Train six skills, complete their upgrade trees, chase milestone bonuses, and unlock new departments in this clean, addictive incremental idle game — progress keeps rolling even while you're away.",
+    "scout_score": 25,
+    "reasons": [
+      "レビュー5件以上",
+      "現在プレイヤー50人以上"
+    ]
+  },
+  {
+    "name": "Definitely Not a Cult",
+    "appid": 4813940,
+    "price": 2520,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4813940",
+    "current_players": 1,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build your “totally normal” community, upgrade your base, gather weird resources, recruit suspiciously calm members, and pretend the red flags are just decorative. Manage the chaos, unlock content, earn achievements, and do not ask why everyone keeps talking about pyramids.",
+    "scout_score": 25,
+    "reasons": [
+      "レビュー5件以上",
+      "好評率80%以上"
+    ]
+  },
+  {
+    "name": "Trolley Time",
+    "appid": 3936740,
+    "price": 2610,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3936740",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cute animals shopping for groceries - what chaos could possibly ensue? Play solo or with up to three friends in this bite-sized game, engaging in frantic action as you try to deliver as many groceries as possible within the time limit!",
+    "scout_score": 15,
+    "reasons": [
+      "好評率80%以上"
+    ]
+  },
+  {
+    "name": "SlackOffDiary",
+    "appid": 4789880,
+    "price": 2200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4789880",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "SlackOff Diary is a relaxed idle management game with light RPG combat. Recruit at the Tavern, breed pets, travel for loot, craft at the Forge Workshop, and pin the game to your wallpaper with Slack Off mode.",
+    "scout_score": 15,
+    "reasons": [
+      "好評率80%以上"
+    ]
+  },
+  {
+    "name": "PinballRobotDoctor",
+    "appid": 4794200,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4794200",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;PinballRobotDoctor&quot; is a &quot;simple&quot; pinball game. Control the cybernetic pinball &quot;mechanical repair&quot; device, using your fingertips to precisely deflect the metal pinball onto the launcher. Overcome obstacles by colliding with mechanisms and ultimately repair the target to complete the level.",
+    "scout_score": 15,
+    "reasons": [
+      "好評率80%以上"
+    ]
+  },
+  {
+    "name": "Infinite Space: Mining",
+    "appid": 4276210,
+    "price": 1560,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4276210",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build and automate your own industrial space empire. Mine asteroids, manage logistics, expand production lines with drones and conveyors, explore new sectors through wormholes, and grow your mining operation across the galaxy.",
+    "scout_score": 15,
+    "reasons": [
+      "好評率80%以上"
+    ]
+  },
+  {
+    "name": "EVIDENCE",
+    "appid": 4760040,
+    "price": 3150,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4760040",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "EVIDENCE is an atmospheric neo-noir detective thriller. Investigate murders, narcotics trafficking, underground casinos, disappearances, arson cases, robberies, and strange incidents that slowly begin connecting into something far bigger.",
+    "scout_score": 0,
+    "reasons": []
+  },
+  {
+    "name": "관상",
+    "appid": 4766750,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4766750",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "조선 시대 관상가로 위장해 수배자를 색출하는 추리 생존 게임. 매일 찾아오는 손님의 얼굴을 관찰하고, 수배 조건과 대조해 신고하세요. 잘못된 판단은 불이익으로, 올바른 판단은 생존으로 이어집니다. 30일 후 당신의 선택이 4가지 엔딩 중 하나를 결정합니다.",
+    "scout_score": 0,
+    "reasons": []
+  },
+  {
+    "name": "They See Me Rollin'",
+    "appid": 4766640,
+    "price": 1275,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4766640",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Roll, boost, jump, and smash your way through chaotic procedural tracks in this fast-paced arcade multiplayer racing game.",
+    "scout_score": 0,
+    "reasons": [
+      "協力/対戦/パーティ系: multiplayer",
+      "反応が薄い"
+    ]
+  },
+  {
+    "name": "Operation P.L.U.S.H",
+    "appid": 4597300,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4597300",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Operation Plush is a 1-4 player horde defender where you take control of dream-powered plushies defending your child's nighlight from the encroaching nightmare horde. Protect the dream, Defend the nightlight, Defeat the darkness",
+    "scout_score": 0,
+    "reasons": []
+  },
+  {
+    "name": "Relax Puzzle",
+    "appid": 4689480,
+    "price": 1870,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4689480",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Find tranquility in your busy day. This relaxing puzzle game features 100 beautiful scenes. Simply drag and swap to complete each image at your own pace, with no time limits—just pure, stress-free fun.",
+    "scout_score": 0,
+    "reasons": []
+  },
+  {
+    "name": "Two Types Pollos",
+    "appid": 4572890,
+    "price": 4800,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4572890",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Co-op management and survival simulator. Run your chicken shop, serve customers, and decorate while manufacturing &quot;sugar&quot; in the back. Fulfill orders to get the medicine that keeps you alive. Cook, manage, and survive alone or with a friend in this intense double life.",
+    "scout_score": 0,
+    "reasons": [
+      "協力/対戦/パーティ系: co-op",
+      "反応が薄い"
+    ]
+  },
+  {
+    "name": "Blackjack: CHEAT THE HOUSE!",
+    "appid": 4796990,
+    "price": 1760,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4796990",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Blackjack: CHEAT THE HOUSE! is a blackjack deck-building roguelike where you collect, buy, and upgrade &quot;cheats&quot; to beat the dealer. Work your way to $1,000,000 and unlock the 6 build trophies - cheat, win, repeat!",
+    "scout_score": -20,
+    "reasons": [
+      "反応が薄い"
+    ]
+  },
+  {
+    "name": "Oleander-X",
+    "appid": 4788930,
+    "price": 3780,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4788930",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Oleander-X is a pixel-art stealth action game about classified missions, buried evidence, and a cure that should never have existed. Infiltrate guarded facilities, gather proof, plant explosives, and escape before the truth turns against you.",
+    "scout_score": -20,
+    "reasons": [
+      "反応が薄い"
+    ]
+  },
+  {
+    "name": "Reality Stability Office",
+    "appid": 4570300,
+    "price": 2600,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4570300",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Reality is unstable, and information is distorted. As an auditor, you must identify anomalies using unreliable systems and conflicting data. But as you begin to lose your sanity, you’ll find yourself trying to control not just these anomalies, but yourself as well.",
+    "scout_score": -20,
+    "reasons": [
+      "反応が薄い"
+    ]
+  },
+  {
+    "name": "Mob Marathon",
+    "appid": 4663220,
+    "price": 1800,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4663220",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A side-scrolling runner where Twitch viewers help or sabotage you with 25+ commands. Run, survive, and watch your character transform. Features 9 characters, Endurance Mode, and Nightmare Mode. Fun for streamers, viewers, and solo players alike.",
+    "scout_score": -20,
+    "reasons": [
+      "反応が薄い"
+    ]
+  },
+  {
+    "name": "Cluck And Tag",
+    "appid": 4299270,
+    "price": 1200,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4299270",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Catch roaming chickens across the map, deliver them, and rack up points! If you aren't Hunter, throw beach balls at rivals to make them drop their loot; if you are Hunter, focus solely on the chase. In this chaotic pursuit played against friends or smart bots, the highest score wins!",
+    "scout_score": -20,
+    "reasons": [
+      "反応が薄い"
+    ]
+  },
+  {
+    "name": "Radar ATC simulator",
+    "appid": 4745320,
+    "price": 3150,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4745320",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is an air traffic controller simulator, specifically in a radar environment. It trains multitasking and air traffic reading skills to anticipate events, avoid risks, and optimize air traffic.",
+    "scout_score": -20,
+    "reasons": [
+      "反応が薄い"
+    ]
+  }
+]
