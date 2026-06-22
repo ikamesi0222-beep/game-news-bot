@@ -7,27 +7,38 @@ DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
 
 os.makedirs("snapshots", exist_ok=True)
 
-PRIMARY_KEYWORDS = [
-    "fps",
-    "first-person shooter",
-    "third-person shooter",
-    "tps",
-    "shooter"
-]
+GENRE_KEYWORDS = {
+    "FPS": 50,
+    "First-Person Shooter": 50,
+    "TPS": 50,
+    "Third-Person Shooter": 50,
+    "Shooter": 40,
+    "Extraction": 40,
+    "Tactical": 30,
+}
 
-SECONDARY_KEYWORDS = [
-    "co-op",
-    "online co-op",
-    "coop",
-    "multiplayer",
-    "party",
-    "horror",
-    "pvp",
-    "pve",
-    "survival",
-    "tactical",
-    "extraction"
-]
+SECONDARY_KEYWORDS = {
+    "Co-op": 30,
+    "Online Co-op": 30,
+    "Cooperative": 30,
+    "Multiplayer": 20,
+    "Party": 25,
+    "Horror": 20,
+    "PvP": 20,
+    "PvE": 15,
+    "Survival": 15,
+}
+
+GROWTH_KEYWORDS = {
+    "Progression": 20,
+    "Loot": 18,
+    "Skill Tree": 15,
+    "Crafting": 15,
+    "Base Building": 12,
+    "RPG": 10,
+    "Roguelite": 10,
+    "Roguelike": 10,
+}
 
 def get_new_releases():
     url = "https://store.steampowered.com/api/featuredcategories"
@@ -86,6 +97,39 @@ def get_current_players(appid):
     data = res.json()
     return data.get("response", {}).get("player_count", 0)
 
+def add_keyword_score(text, keywords, reasons, label, max_add=None):
+    score = 0
+
+    for keyword, point in keywords.items():
+        if keyword.lower() in text:
+            score += point
+            reasons.append(f"{label}: {keyword} +{point}")
+
+            if max_add is not None and score >= max_add:
+                score = max_add
+                break
+
+    return score
+
+def calculate_price_score(price):
+    if price is None:
+        return 0, "価格不明"
+
+    yen = price / 100
+
+    if yen == 0:
+        return 20, "無料 +20"
+    if yen <= 1000:
+        return 18, "1000円以下 +18"
+    if yen <= 2000:
+        return 15, "2000円以下 +15"
+    if yen <= 3000:
+        return 10, "3000円以下 +10"
+    if yen <= 5000:
+        return 3, "5000円以下 +3"
+
+    return -10, "5000円超 -10"
+
 def calculate_scout_score(game):
     score = 0
     reasons = []
@@ -97,33 +141,69 @@ def calculate_scout_score(game):
         " ".join(game.get("categories", []))
     ).lower()
 
-    for keyword in PRIMARY_KEYWORDS:
-        if keyword in text:
-            score += 50
-            reasons.append(f"FPS/TPS系: {keyword}")
-            break
+    genre_score = add_keyword_score(
+        text,
+        GENRE_KEYWORDS,
+        reasons,
+        "最優先ジャンル",
+        max_add=70
+    )
+    score += genre_score
 
-    for keyword in SECONDARY_KEYWORDS:
-        if keyword in text:
-            score += 20
-            reasons.append(f"協力/対戦/パーティ系: {keyword}")
-            break
+    secondary_score = add_keyword_score(
+        text,
+        SECONDARY_KEYWORDS,
+        reasons,
+        "次点ジャンル",
+        max_add=40
+    )
+    score += secondary_score
 
-    if game["total_reviews"] >= 5:
+    growth_score = add_keyword_score(
+        text,
+        GROWTH_KEYWORDS,
+        reasons,
+        "成長/積み上げ要素",
+        max_add=30
+    )
+    score += growth_score
+
+    price_score, price_reason = calculate_price_score(game.get("price"))
+    score += price_score
+    reasons.append(price_reason)
+
+    if game["positive_rate"] >= 90:
         score += 10
-        reasons.append("レビュー5件以上")
+        reasons.append("好評率90%以上 +10")
+    elif game["positive_rate"] >= 80:
+        score += 8
+        reasons.append("好評率80%以上 +8")
+    elif game["positive_rate"] >= 70:
+        score += 5
+        reasons.append("好評率70%以上 +5")
 
-    if game["positive_rate"] >= 80:
-        score += 15
-        reasons.append("好評率80%以上")
+    if game["total_reviews"] >= 50:
+        score += 8
+        reasons.append("レビュー50件以上 +8")
+    elif game["total_reviews"] >= 10:
+        score += 5
+        reasons.append("レビュー10件以上 +5")
+    elif game["total_reviews"] >= 1:
+        score += 3
+        reasons.append("レビュー1件以上 +3")
 
-    if game["current_players"] >= 50:
-        score += 15
-        reasons.append("現在プレイヤー50人以上")
-
-    if game["total_reviews"] == 0 and game["current_players"] == 0:
-        score -= 20
-        reasons.append("反応が薄い")
+    if game["current_players"] >= 500:
+        score += 10
+        reasons.append("現在プレイヤー500人以上 +10")
+    elif game["current_players"] >= 100:
+        score += 8
+        reasons.append("現在プレイヤー100人以上 +8")
+    elif game["current_players"] >= 10:
+        score += 5
+        reasons.append("現在プレイヤー10人以上 +5")
+    elif game["current_players"] >= 1:
+        score += 2
+        reasons.append("現在プレイヤー1人以上 +2")
 
     return score, reasons
 
@@ -179,8 +259,13 @@ print("保存完了:", filename)
 print()
 
 for i, game in enumerate(results, start=1):
+    price_text = "不明"
+    if game["price"] is not None:
+        price_text = f"{game['price'] / 100:.0f}円"
+
     print(f"{i}位: {game['name']}")
     print("  スコア:", game["scout_score"])
+    print("  価格:", price_text)
     print("  好評率:", game["positive_rate"], "%")
     print("  レビュー数:", game["total_reviews"])
     print("  現在プレイヤー:", game["current_players"])
@@ -196,14 +281,18 @@ if DISCORD_WEBHOOK_URL:
     current_message = message_header
 
     for i, game in enumerate(results[:30], start=1):
+        price_text = "不明"
+        if game["price"] is not None:
+            price_text = f"{game['price'] / 100:.0f}円"
+
         line = (
             f"【{i}位】{game['name']}\n"
-            f"スコア: {game['scout_score']}\n"
+            f"スコア: {game['scout_score']} / 価格: {price_text}\n"
             f"好評率: {game['positive_rate']}% / "
             f"レビュー: {game['total_reviews']} / "
             f"現在プレイヤー: {game['current_players']}\n"
             f"ジャンル: {', '.join(game['genres'])}\n"
-            f"理由: {', '.join(game['reasons'])}\n"
+            f"理由: {', '.join(game['reasons'][:5])}\n"
             f"{game['url']}\n\n"
         )
 
