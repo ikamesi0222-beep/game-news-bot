@@ -1,0 +1,604 @@
+[
+  {
+    "name": "Ashes of Morgravia",
+    "appid": 3316960,
+    "price": 995,
+    "discount_percent": 17,
+    "url": "https://store.steampowered.com/app/3316960",
+    "current_players": 24,
+    "total_reviews": 7,
+    "positive_rate": 85.71,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Ashes of Morgravia is a dark fantasy tactical deckbuilder where you move, strike, and adapt using dual decks to survive against necrotic horrors. Uncover lost divine secrets and fight for survival in a world swallowed by eternal night.",
+    "scout_score": 99,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: Horror +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Sineus Arena Survivors",
+    "appid": 4227400,
+    "price": 989,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4227400",
+    "current_players": 2042,
+    "total_reviews": 70,
+    "positive_rate": 51.43,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight hordes and defend your Stronghold in a bullet heaven survivor-like with co-op and tower defense. Gain power-ups every level, collect random artifacts from chests and grow stronger to survive, defeat the boss and claim a top spot on the Sineus Arena leaderboards!",
+    "scout_score": 66,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Dark Scrolls",
+    "appid": 2912550,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2912550",
+    "current_players": 109,
+    "total_reviews": 22,
+    "positive_rate": 54.55,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dark Scrolls is a fantasy-themed action platformer that fuses shmup-style chaos with roguelite progression and is packed with charm, challenge, and secrets.",
+    "scout_score": 63,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: Roguelite +10",
+      "無料 +20",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Lumina Veil",
+    "appid": 2840000,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2840000",
+    "current_players": 33,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lumina Veil, a horror game with a modern twist! Step into the shoes of a popular streamer on a journey into a strange new game. As you dive deeper, you'll find yourself escaping the isolation of your own world, only to discover that the lines between fantasy and reality are beginning to blur.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Hamster Pet: Desktop Companion",
+    "appid": 4565910,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4565910",
+    "current_players": 22,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Adopt a free desktop hamster companion that lives right on your screen! Feed it, watch it grow, unlock evolutions, and battle other players in PvP mode. A cozy virtual pet that keeps you company while you work or play.",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: PvP +20",
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Bingle Bingle",
+    "appid": 2789810,
+    "price": 1199,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2789810",
+    "current_players": 170,
+    "total_reviews": 606,
+    "positive_rate": 82.84,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Bingle Bingle&quot; is a &quot;roulette-building&quot; game where you create your own roulette wheel and build strategies around it. Combine balls, bets, tokens, pockets, and badges to trigger adrenaline-pumping synergies, win millions or billions of chips, and beat the casino.",
+    "scout_score": 42,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Plant Nursery Simulator",
+    "appid": 3474700,
+    "price": 779,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3474700",
+    "current_players": 62,
+    "total_reviews": 280,
+    "positive_rate": 95.36,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run your own cozy Plant Nursery in this relaxing sim. Grow crops, stock shelves, and help customers. Expand with greenhouses, hire staff, and decorate your dream shop. Perfect for fans of wholesome farming and sim games.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Crazy Neighbour",
+    "appid": 4678330,
+    "price": 343,
+    "discount_percent": 14,
+    "url": "https://store.steampowered.com/app/4678330",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A psychological horror game set in a small post-Soviet town. You play as a troubled man, drowning himself in cheap beer while being pulled deeper into the shadows of his dark past.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Deliverage",
+    "appid": 4456600,
+    "price": 1104,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4456600",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Deliverage is a hardcore open-world PvP delivery game where every shipment is a gamble. Fight other players for valuable cargo, repair and modify fragile vehicles, outplay rivals in a shifting economy, and climb from nothing to the top of a ruthless world.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: PvP +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Playful Day",
+    "appid": 4752860,
+    "price": 179,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4752860",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Playful Day is an all-ages casual game collection developed by game-loving educators. Enjoy lightweight, pure gameplay with global board games, puzzles and brain challenges. Supports local multiplayer &amp; offline play for solo time, family fun and friend gatherings.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Goo Deer",
+    "appid": 4349210,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4349210",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Goo Deer is a dark, first-person gas station management game set in a foggy world addicted to the strange drink Goo Deer. Craft and sell Goo Deer, manage inventory, and hire employees. you venture into the misty forest to hunt deer for ingredients. avoiding a dangerous creature lurking in the fog",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Goyslop",
+    "appid": 4237390,
+    "price": 356,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4237390",
+    "current_players": 2,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Goyslop is a satiric Nazi Souls-like game, filled with the biggest conspiracy theories about Jews. Fight your way through bosses and make Hitler the ultimate victor.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Neon Pulsefire",
+    "appid": 4402170,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4402170",
+    "current_players": 9,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Create an endless variety of unique builds and decimate huge waves of enemies. Unlock unique classes, weapons, passives and stats to unlock even more overpowered builds as you weave your way through enemies, arena hazards and projectile assaults.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Plus/Minus Zero",
+    "appid": 4753270,
+    "price": 159,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4753270",
+    "current_players": 1,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "As a research android, learn what it is to be human by living a student life in this bittersweet slice of life visual novel. Record new experiences, revel in mundanity, and be a strange machine and a strange person.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Age of Resistance",
+    "appid": 4198590,
+    "price": 359,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4198590",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Age of Resistance is a modern grand strategy set in South America. Manage your economy, internal stability, political ideologies, and regional conflicts in real-time with pause. Will you be able to dominate the continent?",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Kitty Krush ",
+    "appid": 4618980,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4618980",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Kitty Krush is a cozy, cat-themed roguelike deck-builder about a hive mind cat civilization that enslaves humanity. Upgrade your deck after each run with powerful cards and discover what happened to the last of the humans. Based on a true story. ",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Jungle Defenders",
+    "appid": 3758070,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3758070",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Get ready for a wild third-person action journey where nature strikes back! In this explosive roguelike bullet hell, you play as fearless animals sworn to protect their forest from a relentless technological threat: invading robots set on exploiting natural resources and destroying the environment.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "HAELE 3D - Portrait Studio Lite - Drawing References",
+    "appid": 2949950,
+    "price": 1259,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/2949950",
+    "current_players": 0,
+    "total_reviews": 9,
+    "positive_rate": 88.89,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "HAELE 3D - Portrait Studio Lite is a facial anatomy drawing reference tool designed for beginners to advanced artists. It includes a variety of realistic and simplified characters, expressions, and editable lighting. It is easy to use and made to complement tutorials. It helps artists practice and improve their face drawing skills.",
+    "scout_score": 29,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Rise Of Eurevia",
+    "appid": 4786910,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4786910",
+    "current_players": 3,
+    "total_reviews": 3,
+    "positive_rate": 0.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Defeat powerful enemies in dungeons to earn legendary equipment! Rise as a mighty warrior of your faction and dominate your rivals on the battlefield !",
+    "scout_score": 25,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "CyberpunkXXX",
+    "appid": 2357230,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2357230",
+    "current_players": 0,
+    "total_reviews": 19,
+    "positive_rate": 36.84,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "CyberpunkXXX is a third person adult action adventure set in a dystopian cyberpunk style world. You play as a Bounty Droid hired by an underground rebel force to help overthrow the ruling dictatorship. Use weapons, vehicles and melee combat to achieve your objectives.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Neofold",
+    "appid": 4412590,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4412590",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The infinite creature-collector where each pet is uniquely yours, generated live by your GPU. Hatch endless weirdos, adopt the ones you love, and grow a living sanctuary of species that exist only on your desktop.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Café Manager",
+    "appid": 2488790,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2488790",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Design it, manage it, own it! Create a cozy cafe, hire the best team, and turn your small business into the talk of the town. Customize every detail, keep your customers happy, and watch your profits grow. The best cafe is the one you build!",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Veil of Mist",
+    "appid": 4171670,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4171670",
+    "current_players": 5,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Life ends… but the story doesn’t. After death, you find yourself in a strange, distorted place where normal logic no longer applies. Explore, hide, solve puzzles, and try to figure out exactly where you’ve ended up.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hero of Sunset",
+    "appid": 3952390,
+    "price": 1349,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3952390",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Venture into this retro pixel art action-adventure with an open world. Explore, fight, solve puzzles, challenge bosses — and, most importantly, you can romance the cute girls!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "WEGO World War II: Desert War",
+    "appid": 4729720,
+    "price": 2399,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4729720",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Brian Kelly's WEGO World War II: Desert War captures the drama of the campaign for North Africa during World War II.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Pull Factor",
+    "appid": 4698060,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4698060",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Turn a tiny magnet into a metal-devouring machine as you upgrade, retry, and conquer chaotic arcade stages.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Veil: Project Conductor",
+    "appid": 4250040,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4250040",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The train derails in an abandoned tunnel.No signal, no exits — only darkness and the broken remains of the carriage.You are an undercover journalist, and you had a reason to be on this train.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Neon Planet",
+    "appid": 4611400,
+    "price": 1259,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4611400",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a life on a neon-lit alien planet. Farm, fish, cook, craft, decorate your home. Mine 100 floors deep, climb a combat spire, win at the casino. Solo or with up to 24 friends in a player-driven economy.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Reflection Arena",
+    "appid": 4186620,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4186620",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A shooting action game set in a closed arena where reflecting projectiles fly. Test your limits in evasion and interception.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cleanup Crew",
+    "appid": 4801800,
+    "price": 500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4801800",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight through dangerous space stations in this 2d Bird's eye rougelike dungeon crawler! Clean up as many stations as you can!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
