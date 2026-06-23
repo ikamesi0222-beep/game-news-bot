@@ -1,0 +1,585 @@
+[
+  {
+    "name": "Patchkins Party",
+    "appid": 3405130,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3405130",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Patchkins is a multiplayer racing game for 2 to 6 players where you build the course as you play. Each round, players draw and place objects like Platforms, Obstacles, and Specials, then race to the finish without dying.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: Party +25",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Recess",
+    "appid": 4288290,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4288290",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A chaotic multiplayer party game where childhood playground games turn into all-out competition. Tag, hide, chase, and outplay your friends across imaginative maps all before the bell rings.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: Party +25",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Frutz",
+    "appid": 4673470,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4673470",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Blast through five worlds, claim the Cosmic Gems, defeat Lord Zorkannan, and master every run in this fast arcade shooter.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "HOP-CO-OP",
+    "appid": 4464550,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4464550",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Master the HOP, then wreck your friends' runs in CO-OP. HOP-CO-OP is a first-person movement parkour game — race online, sabotage rivals with wild powerups, build your own maps, and deck out your character. Pure speed, pure chaos, better together.",
+    "scout_score": 50,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Orb of Creation",
+    "appid": 1910680,
+    "price": 1199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1910680",
+    "current_players": 3600,
+    "total_reviews": 1533,
+    "positive_rate": 90.54,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Orb of Creation is an active incremental-puzzle game in which you recreate the world with nothing but magic and ingenuity. Conjure resources, buy upgrades, and become an all-powerful wizard!",
+    "scout_score": 46,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Beggar's Road",
+    "appid": 4587010,
+    "price": 599,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4587010",
+    "current_players": 40,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A darkly comic medieval roguelike where you travel between towns, recruit desperate companions, and survive strange encounters through difficult choices, scarce resources, and shifting alliances with bishops, merchants, and bandits.",
+    "scout_score": 46,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Doodle Dice Monsters",
+    "appid": 2454170,
+    "price": 419,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/2454170",
+    "current_players": 29,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Doodle Dice Monsters is a strategic turn-based battling game where you draw your own characters! Form your six character dream team, then duel your friends in strategic multiplayer combat. Winner gets to steal one of the defeated Doodlemon for themself!",
+    "scout_score": 46,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "How To Grow a Black Hole",
+    "appid": 4562150,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4562150",
+    "current_players": 1109,
+    "total_reviews": 19,
+    "positive_rate": 94.74,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "How To Grow a Black Hole is about... well... how to grow a black hole. Manage your black hole, feed it to gain mass, and prevent catastrophic collapses. Compete globally or against your friends to achieve the biggest black hole. Maybe you'll be #1.",
+    "scout_score": 43,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "There Is Nothing There",
+    "appid": 4387910,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4387910",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Narrative-driven psychological horror set in a confined apartment. Explore, interact with everyday objects, and notice increasingly unsettling changes around you. Your small, everyday choices will shape your future and define your ending. A debut title created by a solo developer.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Mythic Love: Iberian Legends",
+    "appid": 2654990,
+    "price": 1091,
+    "discount_percent": 16,
+    "url": "https://store.steampowered.com/app/2654990",
+    "current_players": 129,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Think you can handle a little romance with creatures from Spanish folklore? ❤️‍🔥 Careful: your love life isn’t the only thing at stake at Mythic Love: Iberian Legends.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Hell Runner",
+    "appid": 2213450,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2213450",
+    "current_players": 0,
+    "total_reviews": 14,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A precision speedrun platformer built for mastery. Learn brutal routes, unlock movement abilities, and replay handcrafted levels until every second is yours.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Gene Crawl: Dungeon Descent",
+    "appid": 4360060,
+    "price": 489,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4360060",
+    "current_players": 20,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&gt; Die. Inherit. Evolve. Fight through dungeons, craft gear, brew potions, and collect relics — then die, pass your DNA to the next generation, and push deeper. Something is watching. Every death makes your bloodline stronger — but who benefits? An idle incremental RPG with a dark secret.",
+    "scout_score": 33,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Raccoon Packer: A Cozy Puzzle Game",
+    "appid": 4590400,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4590400",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mischievous raccoons bring you the weirdest items to pack. Fit everything perfectly, add the right stickers, then ship it off. A cozy, satisfying packing experience with a touch of chaos.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Deck Lite",
+    "appid": 3935250,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3935250",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "With a retro and minimalist theme, face turn-based battles with deck-building mechanics, where you need to strategize to deal significant damage while still defending yourself. Combining identical cards creates stronger spells.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Knight Legion: Rpg Strategy",
+    "appid": 4686310,
+    "price": 599,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4686310",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lead 4 unique heroes and an army of 12 soldiers to reclaim 100 levels across 10 islands. Defend your monument, level up, upgrade gear, and craft powerful items in this action-packed RPG strategy. Will your legion cleanse the islands of the creature infestation?",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Bug Drop",
+    "appid": 4439870,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4439870",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight, upgrade, and survive in a fast-paced top-down action roguelite where 20 unique heroes with special traits, weapons and abilities take on the swarm of alien bugs.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Dark Age Gladiator",
+    "appid": 2652460,
+    "price": 1359,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/2652460",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An age of chaos where empires and monsters coexist. As a mere gladiator, step into the arena and carve your name in glory through blood and battle. A dark fantasy action RPG where sword and sorcery collide.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Code Tycoon",
+    "appid": 4347780,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4347780",
+    "current_players": 12,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Start in 1980 in your garage and build your software empire. Unlock languages from BASIC to Python, develop projects, hire programmers and upgrade your office. Survive deadlines, bugs and demanding clients in this tycoon simulation.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Public Fears - George's Farm",
+    "appid": 4564770,
+    "price": 374,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4564770",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Felix Turner is forced out of the police force by mysterious forces. His friend George urges him to seek refuge at his remote farmhouse. In search of peace, Felix has no idea what awaits him…",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "A Game About AI",
+    "appid": 4639230,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4639230",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build the machine that consumes the world. Expand your AI infrastructure, drain resources, and destabilize humanity as systems spiral into collapse, water runs dry, wars ignite, and nothing can stop what you've set in motion.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Kill the Slimes",
+    "appid": 4464010,
+    "price": 239,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4464010",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Just move. The rest happens—slay slimes, earn gold, and upgrade your way through.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Postin Paradise",
+    "appid": 4623620,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4623620",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Chill, relax... and stamp! Postin Paradise is a satisfactory incremental game where you work as post office manager. Grab the mail, stamp it, throw it into the hole, collect your coins, and repeat. At night, when your shift ends, you can buy upgrades to improve your performance. Stamp 'em all!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Glowbot Tower Defense",
+    "appid": 4666840,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4666840",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Competitive endless sci-fi tower defense game with global leaderboards where you strategically place and upgrade Glowbots to stop waves of enemies across vibrant space maps.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Condemned to Clean",
+    "appid": 3860890,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3860890",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are a cleaner, not by calling, but by sentence. Condemned to Clean is a single-player simulator where you restore a provincial beach. Explore, collect trash, pay your debt, and do small deeds for a greater purpose!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Boing!",
+    "appid": 4367280,
+    "price": 987,
+    "discount_percent": 24,
+    "url": "https://store.steampowered.com/app/4367280",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Like Pong? Like Pinball? Like Boing! Be the ball in this deceptively challenging 3D platformer.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Volcano Logistics",
+    "appid": 4219150,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4219150",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Volcano Logistics is a physics-driven first person action incremental game about feeding a huge volcano, junk from the human world keeps falling in, and your job is to grab it and throw it into the lava for souls. Use what you earn to buy upgrades and weapons to keep earning more and more!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "7,200 Premier Pack - Rainbow Six Siege",
+    "appid": 4770140,
+    "price": 9999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4770140",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Get 7,200 R6 Credits, an exclusive Masterpiece weapon skin, and a seven-day Renown Booster. Only available for a limited time, so get it before it’s gone!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Tiny Cats vs Toys",
+    "appid": 4550590,
+    "price": 169,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4550590",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Timy Cats vs. Toys is a hidden object game – the player's task is to find the kittens, free the trapped cats, and eliminate the warlike toys.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Couchpit",
+    "appid": 4705280,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4705280",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Couchpit takes the hassle out of couch PC gaming. Open Big Picture or any fullscreen game and Couchpit handles the chores: audio, power plan, notifications, background apps. Your gamepad drives Windows; the bridge makes non-Xbox pads work in Xbox-only games. Exit and your PC is yours again.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Grid.",
+    "appid": 2481060,
+    "price": 599,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/2481060",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Four original puzzle games — words, logic, and patterns — wrapped in a single elegant arcade package.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
