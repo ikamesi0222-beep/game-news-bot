@@ -1,0 +1,590 @@
+[
+  {
+    "name": "EagleRoad:WorldRise",
+    "appid": 4328290,
+    "price": 615,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4328290",
+    "current_players": 63,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is an open world 3D gunfight game based on the law of the jungle, which emphasizes the survival of the fittest. It is also a mission centered combat game based on experience leveling. It combines elements of role-playing, tactical strategy, and experience leveling.",
+    "scout_score": 81,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Blood Welkin",
+    "appid": 3920990,
+    "price": 284,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3920990",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Shoot, smash, and eviscerate abominations in BLOOD WELKIN - an FPS roguelite with dozens of unique kit-building items and a gripping story for you to discover. YOU. ARE. NOT. CRAZY.",
+    "scout_score": 78,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "FULL METAL COFFIN",
+    "appid": 3529670,
+    "price": 415,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3529670",
+    "current_players": 8,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "FULL METAL COFFIN is a 3D co-op submarine simulator. Crew your vessel with up to 4 players. Load the torpedoes, dodge incoming fire, and eliminate the enemy.",
+    "scout_score": 50,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Glorpotron",
+    "appid": 3989690,
+    "price": 959,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3989690",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A tower defense roguelike about robots and ooze. Play solo or local multiplayer, protect the Glorp, and defeat the creeps. ",
+    "scout_score": 50,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Mini Raid Leader",
+    "appid": 4484690,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4484690",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mini Raid Leader is a single-player Action RTS, in which you command an ever-growing party of heroes to take down powerful bosses.",
+    "scout_score": 47,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hard Truck 2: King of the Road",
+    "appid": 4487840,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4487840",
+    "current_players": 344,
+    "total_reviews": 89,
+    "positive_rate": 92.13,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hard Truck 2: King of the Road is a 2000 open-world trucking game, part of one of the early series that helped shape the genre. Deliver cargo, compete with rival drivers, and build your own transport empire.",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "b-Run",
+    "appid": 4798010,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4798010",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "b-Run is the first game released with native, full support for DualSense controller audio features via Bluetooth; Immerse yourself in a claustrophobic first-person horror experience. Navigate through dark ruins and narrow corridors where tension is constant.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "The First Million",
+    "appid": 4446010,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4446010",
+    "current_players": 211,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An incremental deckbuilder where you constantly unlock new cards and upgrades and discover one game-breaking strategy after another to make THE FIRST MILLION — and then many more!",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Aura Farming",
+    "appid": 4754800,
+    "price": 367,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4754800",
+    "current_players": 26,
+    "total_reviews": 26,
+    "positive_rate": 92.31,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Aura Farming is an incremental tower-climbing game where you play as an immortal warrior, rescue allies, and grow your Aura to reach the top and save the princess.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Nights at the Convenience Store",
+    "appid": 4829340,
+    "price": 315,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4829340",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Nights at the Convenience Store is a first-person horror simulation game where you work the night shift at a 24/7 store. Scan groceries, restock shelves, take out the trash — and try not to think too hard about what's lurking in the back.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "S.A.N.D.Y. - Beach Cleaner",
+    "appid": 3954990,
+    "price": 530,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3954990",
+    "current_players": 96,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Clean up trash from the beach in this short, relaxing, and grim game! Recycle waste, upgrade your robot. Explore new territories. Clean up oil spills and save the animals!",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Fortune Fragments",
+    "appid": 3601160,
+    "price": 1359,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3601160",
+    "current_players": 13,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In Fortune Fragments, you run your own shop as a ‘Foreteller' and guide your customers' fates by reading their souls! Sink in the unique blend of Visual Novel roleplaying and hex-tile based rune building set in the bustling modern-fantasy city of Clearcastle.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Trashy Cashy",
+    "appid": 4631110,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4631110",
+    "current_players": 707,
+    "total_reviews": 10,
+    "positive_rate": 60.0,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "A small incremental game about building a business by selling trash. You become a partner in the mysterious &quot;Trashy Cashy&quot; franchise. Extract trash from packages and ship it off for sale. Ask fewer questions. Enjoy outrageous profits. Sounds simple, right?",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Scriver: A Word Game",
+    "appid": 4023970,
+    "price": 545,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4023970",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Score points by playing words that complement your finely-curated art gallery. Come up with the right words to win over even the most challenging critics. Can you make it to the final exhibition?",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "YGGDRA: SURVIVOR",
+    "appid": 4513640,
+    "price": 415,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4513640",
+    "current_players": 5,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A roguelite area-defense bullet-heaven where a timid nobody fights to survive the Black Tower alongside 32 battle girls. Dodge, endure, and shape every run through summons, card choices, and powerful synergies ⚔️",
+    "scout_score": 33,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Virtual Perspective",
+    "appid": 3653230,
+    "price": 373,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3653230",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Virtual Perspective is a first-person puzzle-action platformer where you manipulate Power Cells using your perspective to solve spatial challenges.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Rogue 21",
+    "appid": 4276110,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4276110",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The House always wins... unless you rewrite the code. In this blackjack-based roguelike card game, you don't just play the hand you break the system. Stack illegal exploits, distort probability, and bankrupt the Gamble-State. Hit. Stand. Exploit. Survive.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Slice To Meet You",
+    "appid": 4768660,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4768660",
+    "current_players": 34,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy idle incremental game about the satisfying rhythm of chopping ingredients. Unlock new produce, upgrade your knives, and grow your earnings — all at your own pace, with no pressure and no timers.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Mini AirHockey",
+    "appid": 4539680,
+    "price": 107,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4539680",
+    "current_players": 1,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Turn your undocked Steam Deck into a Mini AirHockey table for two. -- Mini AirHockey can only be played on an undocked Steam Deck.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Aces of Avalon",
+    "appid": 3656230,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3656230",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Soar into 2334! Pilot cutting-edge jets in intense aerial dogfights against alien invaders. Upgrade your fighter with credits to dominate the skies.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hell Forest",
+    "appid": 4420570,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4420570",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hell Forest is a digital board game. In Hellwood, you take on the role of a strategic commander, leading a magnificent, non-violent war. With limited resources, you will use your wisdom to claim victory in one region after another.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Bartender Life Simulator",
+    "appid": 4245190,
+    "price": 267,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4245190",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "What is a bar owner to you? A manager? A bartender? An interior designer? A psychologist? And what if you had to take on all these roles? Interact with customers, manage supplies, craft cocktails, and redesign the interior to earn the title of the best bar.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "AutoClick Pro",
+    "appid": 4793940,
+    "price": 189,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4793940",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "AutoClick Pro is a powerful auto clicker, macro recorder, and scripting tool for SteamOS and other Linux distros. Automate clicks, record mouse and keyboard sequences, and write custom scripts. Native X11 and Wayland support.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Last (Hotdog) Stand",
+    "appid": 4619190,
+    "price": 389,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4619190",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run your own hotdog stand in this food cart simulator game! Take orders, make dogs, and keep customers happy as you work to grow your hotdog empire, and restore hotdogs to their former glory. Upgrade your stand, unlock new ingredients, and expand to bigger, busier locations!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Battle Food Mania",
+    "appid": 3594680,
+    "price": 1394,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3594680",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Food fights hit the streets! Battle Food Mania is a fast-paced, action game packed with humor and chaos. Play as pizza, cupcakes, bottles and more as you battle to deliver the box - or stop the delivery! Run, shoot and blast your rivals in wild food wars, play solo or with friends.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Beatlow",
+    "appid": 4019820,
+    "price": 382,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4019820",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fast-paced rhythm game where every mistake costs a life. Hit the right keys in time with the music, survive escalating mutators, buy power-ups, and push your run as far as possible.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Extreme Racing Line",
+    "appid": 4550820,
+    "price": 1394,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4550820",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fast minimalist top-down racer where you push tight lines, skim the edge of the track, and chase faster lap times on fully visible single-screen circuits.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Spirimonz",
+    "appid": 4758140,
+    "price": 519,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4758140",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Spirimonz is a game in which you hunt down evil spirits and capture various ghostly companions who will help you and follow you on every new mission.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "War Thunder - F-14D Pack",
+    "appid": 4740880,
+    "price": 7999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4740880",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This Pack includes: F-14D (Rank 8 USA); Premium account for 30 days; 3000 Golden Eagles.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "War Thunder - Puma u14 Pack",
+    "appid": 4739380,
+    "price": 6999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4739380",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This Pack includes: Puma u14 (Rank 7 Germany); Premium account for 20 days; 2500 Golden Eagles.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
