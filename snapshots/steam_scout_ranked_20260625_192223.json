@@ -1,0 +1,600 @@
+[
+  {
+    "name": "Saga Onirica: Angelic Engine",
+    "appid": 4123060,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4123060",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Saga Onirica: Angelic Engine is a top-down shooter featuring experimental control schemes and mechanics, where you fight endless waves of demons by crafting the ultimate loadout from firearms, magic spells, and advanced technology.",
+    "scout_score": 90,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "成長/積み上げ要素: Crafting +15",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Once a Pawn a King",
+    "appid": 3298910,
+    "price": 779,
+    "discount_percent": 35,
+    "url": "https://store.steampowered.com/app/3298910",
+    "current_players": 11,
+    "total_reviews": 34,
+    "positive_rate": 91.18,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Chess is broken. Gather the Black Army, build a party of chess pieces, and battle through fractured boards in this asymmetric turn-based roguelike. Empower your army, adapt your strategy each run, and unravel the mystery behind a world trapped in an endless match.",
+    "scout_score": 73,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Enarian Online",
+    "appid": 4218510,
+    "price": 1124,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4218510",
+    "current_players": 45,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dive into a fast paced, text based ARPG experience that fuses classic adventure with modern action-packed gameplay. Through 5 classes, 50 levels, 9 realms and challenging bosses, fight using over 100 skills and collect almost limitless loot and upgrades whilst perfecting your characters build.",
+    "scout_score": 64,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "STARVAULT",
+    "appid": 4020320,
+    "price": 1499,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4020320",
+    "current_players": 9,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Starvault is the first true VR MOBA shooter, blending classic MOBA strategy with explosive hero-shooter action. Squad up, master unique heroes, unlock insane skins, and jump into intense 5v5 battles. Step into the arena!",
+    "scout_score": 63,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Left Fore Dead: Zombie Battle Golf",
+    "appid": 4626000,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4626000",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A chaotic multiplayer golf game where zombies keep showing up and your friends make everything worse.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Grid Wars: Last Stand",
+    "appid": 4761480,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4761480",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Command a growing army in a fantasy tactical auto-battler. Place warriors, archers, monks, and heroes on an expanding grid, defend your keep against enemy waves, and conquer a world map filled with quests, rewards, and boss battles.",
+    "scout_score": 48,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Borderlands®4 - Bounty Pack 3: A Zane to Kill For",
+    "appid": 4598000,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4598000",
+    "current_players": 0,
+    "total_reviews": 5,
+    "positive_rate": 60.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Solve the neon-noir mystery of who killed Zane's Digi-Clone, fight a new boss and 2 new mini-bosses, and hunt down a new Pearlescent weapon and 6 new pieces of Legendary loot!",
+    "scout_score": 39,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Lawn Care Simulator",
+    "appid": 3859750,
+    "price": 1499,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3859750",
+    "current_players": 32,
+    "total_reviews": 49,
+    "positive_rate": 91.84,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Take Back the Yard in Lawn Care Simulator! Grab your mower and bring unruly lawns under control. From overgrown backyards to massive estates, cut through the chaos one blade at a time. Satisfyingly slice, edge, and clean your way to perfectly manicured greens — all in a day's mow.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Never Ending Hero RPG",
+    "appid": 4789260,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4789260",
+    "current_players": 12,
+    "total_reviews": 5,
+    "positive_rate": 0.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Never Ending Hero RPG is a free-to-play idle action RPG where your hero's stats grow without limit. Explore zone maps, auto-fight monsters, upgrade gear at the Mystic Armory, and prestige for permanent bonuses. Optional gem packs. A free account enables cloud saves.",
+    "scout_score": 38,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Remagotchi",
+    "appid": 4476000,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4476000",
+    "current_players": 32,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Retro virtual pet game with total fidelity to the 90s classics. A pixel art simulator with multiple characters, including rare pets, where your choices shape the evolution of your virtual pet.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Type or Die",
+    "appid": 4252830,
+    "price": 1119,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4252830",
+    "current_players": 21,
+    "total_reviews": 3,
+    "positive_rate": 33.33,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In the heart of a medieval manuscript, a horse takes up arms to avenge its fallen master. Type to attack, collect cards, explore a living board, and survive in a roguelite where every word becomes a weapon.",
+    "scout_score": 36,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Moka Love Relive♪",
+    "appid": 4033150,
+    "price": 979,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4033150",
+    "current_players": 34,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A Live2D simulation packed with H-scenes! We've achieved next-generation cross-section expressions with an unparalleled &quot;raw&quot; feeling of the vaginal folds and &quot;orgasm faces&quot; that look like they're straight out of a manga, all in Live2D!",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Dynasty Protocol",
+    "appid": 3438130,
+    "price": 1529,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3438130",
+    "current_players": 4,
+    "total_reviews": 26,
+    "positive_rate": 80.77,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Command your space fleet, mine asteroids, and conquer colonies in this immersive real-time strategy game. Build powerful space stations, upgrade your ships through combat experience, and manage vital resources as you expand your dynasty across a star system.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Peach Hills Division",
+    "appid": 2191210,
+    "price": 1399,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/2191210",
+    "current_players": 21,
+    "total_reviews": 78,
+    "positive_rate": 56.41,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "An erotic point-and-click adventure game blending paranormal fantasy with military intrigue. Woo your squadmates, collect clues, and uncover the secrets of the Peach Hills Division!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Bittersweet Blossoms",
+    "appid": 3429340,
+    "price": 1169,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3429340",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A lesbian romance set in England shortly after WWI. The story centres around Dot, a young maid who begins to work in the crumbling stately home of Bly, and her young mistress: the devious, devilish Patience.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Train Sim World® 6: BNSF GP60M & GP60B Loco Add-On ",
+    "appid": 4035910,
+    "price": 1699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4035910",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Step up and serve Californian industry with the “Super Fleet” in Train Sim World, brought to life by High Iron Simulations! The handsome GP60M arrives in potent pumpkin schemes for authentic mainline and local duty over iconic BNSF trackage.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Abyssus - Brinerot Pack",
+    "appid": 4508360,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4508360",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Once, we were more than humble hunters. We were warriors. Don the ancestral armor of the Brinehunters of yore with the Brinerot Cosmetic Pack!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "The Lumberjack's Routine",
+    "appid": 4695000,
+    "price": 509,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4695000",
+    "current_players": 103,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Chop trees, gather wood, hire workers, and upgrade yourself in a cozy pixel-art lumberjack routine. Every tree you cut brings you one step closer to paying off your debt.",
+    "scout_score": 29,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Exofinity Clicker",
+    "appid": 3868760,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3868760",
+    "current_players": 13,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Discover new worlds and earn credits by mining the legendary Infinity Crystal in Exofinity Clicker! Tap to extract rare cosmic minerals, upgrade your buildings and expand your reach as you evolve from a small outpost into a multi-planetary powerhouse.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Impulse Response",
+    "appid": 4672520,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4672520",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Engineer Cadence Quinn wakes from cryo sleep to blaring alarms. What happened to the crew? What's wrong with the ship? Use echolocation to navigate the darkness, solve the puzzles and uncover the mystery... A first person, blind accessible audio only experience.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Outta Space",
+    "appid": 4616690,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4616690",
+    "current_players": 7,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Where is your cat flying right now? Outta Space is an idle game where a tiny cat explores the universe from your desktop corner. Every keystroke, every click fuels the spaceship. From the Moon, past the solar system, to distant stars. Come back and see how far your lovely cat has gone.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Rift of the NecroDancer: K/DA (Riot Games) Music Pack",
+    "appid": 4350150,
+    "price": 535,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4350150",
+    "current_players": 0,
+    "total_reviews": 7,
+    "positive_rate": 42.86,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Take it the the top with the new K/DA Music Pack!",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Wife Life : Secret",
+    "appid": 4624870,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4624870",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Shape the story of a happy wife in a happy marriage, your choices matter!, so choose wisely!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Tiny Terra Spaces",
+    "appid": 3788070,
+    "price": 679,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3788070",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build your own cosy medieval island with historical inspired 3D buildings. Relax in Sandbox Mode or set sail in Island Hop Mode, shaping lively communities inspired by the beauty and history of Scotland.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "OverlayBoard",
+    "appid": 4771250,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4771250",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "OverlayBoard - a minimalist overlay task board that stays on top of all windows. Keep important tasks always in sight, track deadlines and progress while working, studying, or gaming. Stay Focused. Stay Productive.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Wetline - Fire Break",
+    "appid": 4801080,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4801080",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fire spreads through everything it touches. Pilot your water bomber low to refill, and lay wetlines that cut the blaze off before it reaches town. Ignite controlled fires when water isn't enough. A fast, tense firefighting puzzle where every second feeds the fire. What will you save?",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cronus' Tomb: First Quest",
+    "appid": 4670670,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4670670",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Descend into Cronus' Tomb and revel in the spoils of being on the forefront of discovery. Explore a labyrinth of ancient chambers, fighting monsters from forgotten corners of Greek mythology, and maybe even uncover why no one has been there before.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Borderlands®4 - Bounty Pack 3: Vault Card 3",
+    "appid": 4598010,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4598010",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Vault Card 3 lets you earn new rewards through gameplay, including 24 cosmetic items and 4 pieces of rerollable Legendary gear to unlock!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Walkabout Mini Golf: Homestar Runner Distraction Pack",
+    "appid": 4610520,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4610520",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Everybody! Everybody! Welcome to the Homestar Runner Distraction Pack, aka the ultimate takeover of WMG by Strong Bad and friends! Experience the greatest turducken of unique cosmetics, never before seen mini-games, and iconic Homestar Runner bits ever seen. Grab some couch and get distracted!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Invisible Ascent",
+    "appid": 3513850,
+    "price": 279,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3513850",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A rage-inducing memory platformer where the path disappears before you jump. Study the platforms, trust your memory, and climb upward one painful mistake at a time.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
