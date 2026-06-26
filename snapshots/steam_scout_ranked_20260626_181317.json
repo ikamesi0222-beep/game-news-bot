@@ -1,0 +1,591 @@
+[
+  {
+    "name": "Starmageddon",
+    "appid": 4008040,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4008040",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Break the rules and join the fight in Starmageddon! A high-octane, team-based, online multiplayer space shooter, where survival is not enough. Dominate the battlefield through teamwork, split-second decisions and constant action!",
+    "scout_score": 108,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: Survival +15",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Pixelords",
+    "appid": 4510260,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4510260",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Solo or with friends. A co-op roguelite auto-battler where you deploy units and stack blessings against ever-stronger floors. How far can you survive?",
+    "scout_score": 60,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "成長/積み上げ要素: Roguelite +10",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Dungeon Dilemma",
+    "appid": 4535970,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4535970",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A Dungeon Builder and Crawler Roguelike where you can construct your own dungeon or raid one designed by your friends. Vie for victory, defeat minions, and evade traps as a party of up to 4 Challengers, or create the most diabolical dungeon imaginable as the Dungeon Boss!",
+    "scout_score": 55,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: Roguelike +10",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Lil' Quests",
+    "appid": 4738420,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4738420",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Where every Quest ends in Laughs and Chaos. Lil' Quests is a sandbox, adventure, co-op game with wacky physics, funny moments, and horses!",
+    "scout_score": 52,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "nophenia",
+    "appid": 3979330,
+    "price": 11700,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3979330",
+    "current_players": 205,
+    "total_reviews": 93,
+    "positive_rate": 98.92,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "a small dream explorer.",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Eyes of the Forest",
+    "appid": 4395790,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4395790",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A third-person stealth adventure set in a quiet, post-human woodland where survival depends on patience, observation, and restraint. Towering ruins, tangled roots, and dimly lit paths create an environment where every movement matters and safety is never guaranteed.",
+    "scout_score": 37,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Clover's Quadrants",
+    "appid": 3191170,
+    "price": 19500,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3191170",
+    "current_players": 10,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A challenging puzzle game where you are what you eat - and you have four stomachs. Your four directions of movement are also inventory slots, and items in those slots will affect only that direction of movement.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Wild West Supermarket Simulator",
+    "appid": 3690760,
+    "price": 17100,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3690760",
+    "current_players": 26,
+    "total_reviews": 168,
+    "positive_rate": 70.83,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run a General Store in the Wild West. Customize and expand your shop. Make sure that your customers’ constantly changing needs are satisfied. Work every job yourself or let your employees stack the shelves and work the till. Find out what it feels like to own a Wild West Supermarket.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Template!! An Angel's Gift",
+    "appid": 4567710,
+    "price": 42400,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4567710",
+    "current_players": 35,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The 4K Ultra HD Remaster of &quot;Template!! An Angel's Gift&quot;—a hilarious slice-of-life visual novel—is now on Steam! Follow Sakura Sora, whose bizarre new condition makes ridiculous &quot;classic tropes&quot; real, sparking a twist-filled daily comedy with unique companions.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Count Down",
+    "appid": 4801780,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4801780",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Count Dracula is going Down",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Code, Solve, Revolt!",
+    "appid": 2562040,
+    "price": 18500,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/2562040",
+    "current_players": 1,
+    "total_reviews": 22,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Code, Solve, Revolt!&quot; is a puzzle game where you solve factory tasks through intuitive drag-and-drop programming. Write code for your robot to clear each level, delve deeper into the factory, encounter new puzzle concepts and data-structure creatures, and uncover the truth.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "A Lucky Hunt With : Myrina",
+    "appid": 4734060,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4734060",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Embark on a sensual ladybug-hunting adventure with Myrina, an attractive young woman. In this hidden object game, explore each location to discover what lies beneath Myrina's enticing layers.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Till Midnight",
+    "appid": 4808270,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4808270",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "TILL MIDNIGHT is a narrative-driven management simulation game with world-shattering consequences, inspired by true historical events. Navigate a darkly atmospheric vessel gripped by critical communication failures, trapped hundreds of meters below the surface.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Curling",
+    "appid": 4439050,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4439050",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a deck of curling stones with abilities so broken they should be illegal. Face random opponents in the tour with or without friends. A roguelike deckbuilder unlike anything else.",
+    "scout_score": 33,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "無料 +20",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Rapta",
+    "appid": 2944670,
+    "price": 9900,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2944670",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "15 minutes and a terminal. Your sister's life in your hands. Navigate the Silicon Sneaky system, explore the digital underworld to secure $20,000, and make irreversible decisions. Your choices define her fate.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Colorace",
+    "appid": 4750850,
+    "price": 4600,
+    "discount_percent": 12,
+    "url": "https://store.steampowered.com/app/4750850",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "It will be an extraordinary ride! Drive your car through walls made of colored blocks, collect useful power-ups, avoid obstacles on the road, and compare your skills with other players.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Sky Sword Strategy",
+    "appid": 4587630,
+    "price": 12400,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4587630",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An RPG adventure with strategic gameplay. Recruit an army to repel invaders in a war-torn land. Reunite with your family and help people along the way. Survive long enough to unlock your special abilities. Awaken the power of the Sky Sword.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Unquiet Grey",
+    "appid": 4309120,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4309120",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You can't save him... but what if you could meet him again? Unquiet Grey is a heartbreaking timeloop visual novel about a troubled young woman and the kind-hearted musician she loves through countless lifetimes.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Solderia - Fall of Kings",
+    "appid": 4450300,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4450300",
+    "current_players": 7,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build your kingdom, train armies, forge alliances, and fight for the throne in Solderia: Fall of Kings, a medieval strategy game where every decision shapes your rise to power.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Battle Live! The Idol School Collection",
+    "appid": 4211370,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4211370",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to Pride Park! Experience six main stories and several bonus stories centered around the staff and students of this eclectic idol school in this episodic, slice-of-life visual novel!",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Raining Cats and Dogs",
+    "appid": 3572060,
+    "price": 15500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3572060",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "It’s literally raining cats and dogs. In this game you platform, overcome about 100 unique obstacles, fight 3 janky bosses, find comments added from YouTube Shorts and make it stop raining cats and dogs by fighting Jeff in the end. Here's a message from Jeff: &quot;YOU WILL NEVER STOP ME YEEEHAWWW&quot;",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Threshold of Awakening",
+    "appid": 2629550,
+    "price": 24700,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2629550",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In 1960s USA, Jane Ferguson, a New York restaurant owner, receives an information on her CIA agent husband Mark, who had vanished mysteriously during a Tibet mission. To uncover his hidden secrets, she follows his trail, delving into the enigma of his disappearance.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "My Sexy Photo Store: Alice",
+    "appid": 4781550,
+    "price": 6800,
+    "discount_percent": 11,
+    "url": "https://store.steampowered.com/app/4781550",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "My Sexy Photo Store: Alice is a relaxing jigsaw puzzle game with 20 progressively challenging levels. Solve each puzzle to unlock the next chapter of Alice's story, leading to a final exciting sequence.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Naked Man",
+    "appid": 4808800,
+    "price": 13000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4808800",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A pixel art platformer where you swing upward through the jungle using vines and ropes — all the way to outer space!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Radial Chess",
+    "appid": 4746640,
+    "price": 5000,
+    "discount_percent": 34,
+    "url": "https://store.steampowered.com/app/4746640",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Radial Chess is a chess game that preserves all traditional rules and mechanics while reimagining the board as a radial spatial structure, where players compete against AI or locally in a transformed geometric interpretation of classic chess.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "NBA 2K26 MyCAREER Season 8 Bonus Offer",
+    "appid": 3657940,
+    "price": 64900,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3657940",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "NBA 2K26 Season 8 MyCAREER Bonus Offer includes 75,000 VC, a 120 Minute 2XP Coin (MC), Big Orange, and a Swamp King for your MyPLAYER.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "NBA 2K26 Hall of Fame Pass: Season 8",
+    "appid": 3657930,
+    "price": 64900,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3657930",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Hall of Fame Pass: Season 8 includes everything in the Pro Pass: Season 8, a 15% XP Booster, 10 Level Skips, &amp; 15,000 VC!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "NBA 2K26 Pro Pass: Season 8",
+    "appid": 3657920,
+    "price": 32900,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3657920",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Pro Pass: Season 8 unlocks access to 40 levels of premium rewards! Get the Pro Pass: Season 8 &amp; automatically receive 4 additional Season Pass Rewards.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "A Mystic Journey With : Flora",
+    "appid": 4763530,
+    "price": 6800,
+    "discount_percent": 11,
+    "url": "https://store.steampowered.com/app/4763530",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Embark on a titillating journey through mystical realms with Flora, your alluring guide. This adults-only &quot;spot the differences&quot; game challenges your keen eye while rewarding your success with seductive reveals.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Villain Hitting",
+    "appid": 4827870,
+    "price": 1600,
+    "discount_percent": 41,
+    "url": "https://store.steampowered.com/app/4827870",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bad luck? &quot;Villains&quot; may be behind it. Experience Hong Kong's &quot;Da Siu Yan&quot; ritual online. Choose your villain, grab a slipper, beat away evil, vent emotions, and change your fortune.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
