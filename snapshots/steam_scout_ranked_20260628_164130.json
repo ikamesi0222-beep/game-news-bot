@@ -1,0 +1,596 @@
+[
+  {
+    "name": "Godius Eternal War",
+    "appid": 4559140,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4559140",
+    "current_players": 237,
+    "total_reviews": 27,
+    "positive_rate": 22.22,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "A classic 2D pixel MMORPG inspired by the golden age of online RPGs. Join nation wars, explore an open multiplayer world, trade with players, battle in PvP, and experience a community-driven adventure that has continued since 1999.",
+    "scout_score": 83,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: PvP +20",
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Luxmithar",
+    "appid": 3454890,
+    "price": 224,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3454890",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Defend a crashed forge in this 2D survival defense roguelite. Expand a modular world grid, build towers and traps, and survive relentless enemy waves across shifting days, storms, and darkness.",
+    "scout_score": 56,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Cloudsea Frontier",
+    "appid": 4396290,
+    "price": 1049,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4396290",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a classic long-form RPG inspired by the masterpieces of the 1990s JRPG era. It unfolds a story of adventure through the Cloud Sea world and saving the world.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Seven Rounds",
+    "appid": 4838390,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4838390",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Parry to reload. A neon top-down roguelite where every bullet is earned — deflect attacks to refill your revolver, chain perfect parries for slow-motion charged shots, and survive an endless swarm of geometric foes. No parry, no bullets.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Battle Medal: Super Auto Chess Swarm War",
+    "appid": 4568990,
+    "price": 559,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4568990",
+    "current_players": 2,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to Decisive Battle: Medals! A fantasy realm fusing lite-Roguelike and auto-battler, blending tower defense with army spamming. Each medal brings a unique experience. Command 80+ units, master 16 synergies, and craft 10+ exclusive medals. Explore, conquer all lands, and drive out the invaders",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Star Pact:Spirit Garden",
+    "appid": 4835790,
+    "price": 59,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4835790",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Star Pact: Spirit Garden is a gentle anime idle RPG where you form pacts with heroines, progress through automatic battles, dispatch expeditions, collect resources, deepen bonds, and rebuild a starlit fantasy garden through repeated ascension.",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "When Stars Collide",
+    "appid": 3946180,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3946180",
+    "current_players": 10,
+    "total_reviews": 6,
+    "positive_rate": 83.33,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this sci-fi romance visual novel, join the crew of The Ophelia after awakening from a 500 year slumber. Forge new bonds, find romance, and unlock a secret that could change the galaxy's future.",
+    "scout_score": 36,
+    "reasons": [
+      "無料 +20",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Fabricatio",
+    "appid": 4834620,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4834620",
+    "current_players": 4,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build efficient production lines, automate resource transport, and master complex logistics in a 2D factory-building experience focused purely on automation.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Touhou Defense Tale ~ AI Test in Touhou ~",
+    "appid": 4738660,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4738660",
+    "current_players": 5,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 2D Touhou fan game combining tower defense, tower merging, RTS-style control, and chaotic bullet-filled battles. Merge Touhou characters, build your defense, and compete for the fastest clear time on the leaderboard.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Covet the Countdown",
+    "appid": 4800630,
+    "price": 419,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4800630",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You're Emmett Doyle, Mission Director on a rebuilt private rocket racing a Mars launch window that won't wait. Over one relentless night, three women collide with your countdown: a grounded commander, a brilliant trajectory lead, and a crisis fixer. Choose who gets your time, trust, and the truth.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Ocean Planet",
+    "appid": 3586470,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3586470",
+    "current_players": 0,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Button and Drop Bear live rent-free above their friend's steam bun shop. When their friend goes missing, it's up to them to figure out what happened and bring them home.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "贝如塔按摩店模拟器 Beta Massage Parlor Simulator",
+    "appid": 4105080,
+    "price": 334,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4105080",
+    "current_players": 1,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "建造并经营你的按摩店，雇佣伊莲、阴婷、贝塔柔、肌肉男等员工为你工作，自定义装饰你的按摩店，打造出属于你的独特按摩店吧！",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Smile and Play",
+    "appid": 4269740,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4269740",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "After a fun weekend at Smile Land, you realise you’ve left your wallet behind. Returning after hours to grab it feels harmless at first, until you discover this place is far from normal.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "The Therapist Impostor",
+    "appid": 4761810,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4761810",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Dr.&quot; Trigger, a man with no experience whatsoever, starts a therapy clinic. Will he cave under the pressure, or can he fake it till he makes it? Become the worst therapist ever (on purpose)! An interactive FMV comedy experience with dozens of choices, branching paths, and over 90 total endings!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "StyxVenture",
+    "appid": 4835800,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4835800",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A hand-drawn RPG set in a little corner of Hell - a very monochrome place. Master the seven Sins, face off against a variety of demons (and other creatures) and find your way to freedom!",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Veles: Rise of the Damned",
+    "appid": 4692590,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4692590",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dark fantasy action roguelite where you battle endless hordes, forge powerful builds, and survive against overwhelming odds in a world inspired by Slavic mythology.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Gods and Kings",
+    "appid": 982380,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/982380",
+    "current_players": 0,
+    "total_reviews": 46,
+    "positive_rate": 56.52,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "A game that combines real-time strategy, card collection and role-playing. It's based on Greek mythology. You can play as heroes who can manipulate the power of Rune, summon the army and cast magic to defeat enemies, challenge or defend the authority of the Gods.",
+    "scout_score": 25,
+    "reasons": [
+      "無料 +20",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "One Death at a Time",
+    "appid": 4446860,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4446860",
+    "current_players": 0,
+    "total_reviews": 8,
+    "positive_rate": 50.0,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "One Death at a Time is a first-person exploration game. You play as John, in the middle of a midlife crisis. A suspicious milk carton offers you a wish in exchange for 14 souls… but because you're a good person, you'll have to die yourself and explore the city in search of 14 ways to do it.",
+    "scout_score": 23,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Lust Horizons",
+    "appid": 4818220,
+    "price": 1499,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4818220",
+    "current_players": 2,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lust Horizons is an open-world adult sandbox set in a massive, rusted Australian outpost. Customize ideal partners, explore a decayed industrial labyrinth, control camera or weather, and enjoy fully animated, uncensored 18+ content with absolute freedom!",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Desktop Snail Assassin",
+    "appid": 3894960,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3894960",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A idle desktop snails-like. Every now and then the murderous snail assassin is hunting your mouse cursor, turning your desktop into a chaotic bullet hell. How long can you survive?! ",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Bust a Nut! A Game About Raising Cocks",
+    "appid": 4781900,
+    "price": 159,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4781900",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An Incremental game where you bust nuts with your own two hands or an army of cocks, beavers and asses ;)",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Finding Lake Chewaucan",
+    "appid": 3512920,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3512920",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You’re a time-traveling detective with a bone to uncover. Hunt for clues, solve puzzles and complete minigames to unlock pieces of the past and identify fossil animals.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Space Invasion Infinite",
+    "appid": 4755630,
+    "price": 89,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4755630",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 2D retro action rogue-like game inspired by the original Space Invaders arcade experience. Shoot down incoming alien waves and upgrade your turret. Discover and defeat bosses, and unlock permanent upgrades, turret classes, and challenging difficulty modifiers!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Zetrya: Dungeon Dive",
+    "appid": 4630420,
+    "price": 1099,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4630420",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A group of adventurers work their way through a dungeon with the goal of clearing it. Finding new threats along the way.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "lovely bakery",
+    "appid": 4667670,
+    "price": 809,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4667670",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "《lovely bakery》 is a cozy decorating game inspired by miniature houses. Step into bakery venues of various themes, arrange all kinds of items freely, turn an empty little house into your own private world, and enjoy relaxing and pleasant leisure time.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "White Signal",
+    "appid": 4733550,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4733550",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Manage a remote mountain shelter, rescue stranded survivors, and survive the brutal cold.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Pion's Theorem",
+    "appid": 4612620,
+    "price": 699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4612620",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Solve equations. Build decks. Break the system. A math-fueled deckbuilding puzzler where you combine number and operator cards to hit the target. Master four modes — Puzzle, Daily Challenge, Competitive, and Strategy — with π at your side. Casual to pick up. Dangerously deep to master.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Slime Jamboree",
+    "appid": 4464670,
+    "price": 125,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4464670",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Slime Jamboree is a physics-based tower defense game where you stop slimes by throwing and interacting with them using your mouse. No UI, no text, and no loading screens, just seamless gameplay, with in-world controls for audio and a relaxed, playful vibe throughout.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "HexLemma",
+    "appid": 4801330,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4801330",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Constraint-satisfaction puzzle on a hexagonal grid. Six clue families, eight board shapes, four difficulties, a 25-level campaign, infinite puzzle generation and a deterministic daily challenge shared by every player worldwide. Full controller support. Steam Deck ready.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Bella Cozy Island",
+    "appid": 4762940,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4762940",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy life sim set on a sun-soaked tropical island. Run a seaside café, explore the island, and enjoy the slow rhythm of island life as Bella",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
