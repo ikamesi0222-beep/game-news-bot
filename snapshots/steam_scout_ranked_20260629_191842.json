@@ -1,0 +1,583 @@
+[
+  {
+    "name": "Nomnomia",
+    "appid": 4240270,
+    "price": 1440,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4240270",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Consume enemies to steal their abilities and survive by managing your HP. Fight for survival on the mysterious planet Nomnomia in this food-chain action shooter.",
+    "scout_score": 73,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Dracs After Dusk",
+    "appid": 3745060,
+    "price": 1620,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3745060",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dracs After Dusk is an arcade, top-down shooter. Blast through bloodsuckers as the sharp shootin’ sheriff of a wild west town. Battle the deadliest bosses, claim weapons from the Armory to fuel your leaderboard topping run. It's an old school quarter muncher but luckily you have unlimited credits!",
+    "scout_score": 73,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Phantom Veil",
+    "appid": 4431440,
+    "price": 6600,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4431440",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A story-driven psychological horror where you play as an investigative reporter drawn into a disturbing and dangerous case. Explore haunting, atmospheric environments, uncover hidden clues, solve intricate environmental puzzles, and confront the terrifying truth that was never meant to be revealed.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Dual Core Sync",
+    "appid": 4536280,
+    "price": 1050,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4536280",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your brain has two sides, and one of them has to break: a high-difficulty, brain-splitting game that forces single players to handle &quot;two-player co-op&quot; solo.",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Dungeon Bomber",
+    "appid": 4207690,
+    "price": 2520,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4207690",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dungeon Bomber is a chain-reaction roguelite where you place bombs and blow through the dungeon. Drop a bomb each turn, earn coins, and upgrade your deck. Fuse bombs to boost range and effects. Defeat advancing monsters and destroy the required blocks before your HP runs out.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Message from Deep Space",
+    "appid": 4080030,
+    "price": 3780,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4080030",
+    "current_players": 262,
+    "total_reviews": 20,
+    "positive_rate": 95.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mission: Translate an interstellar message, using the universal languages of math &amp; science.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "REWIND",
+    "appid": 4560490,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4560490",
+    "current_players": 26,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "《REWIND》 is a hardcore text-based detective puzzle game containing nearly a hundred clues. Players need to carefully examine and deduce the clues to find the answer to the case.",
+    "scout_score": 38,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Desktop Driller",
+    "appid": 4529840,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4529840",
+    "current_players": 22,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An idle game that runs while you work. Your activity powers the drill: dig, earn, upgrade and go deeper. Build your system, automate everything and reach the center of the Earth.",
+    "scout_score": 38,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Oblivion Maiden",
+    "appid": 4521430,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4521430",
+    "current_players": 5,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An exploration adventure set in St. Dorothia Academy, a magical educational institution hidden deep within a forest. A story that begins with an encounter with a girl named Lulunya, and unfolds through mysterious phenomena and dream worlds.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Professional Cats",
+    "appid": 4440360,
+    "price": 935,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4440360",
+    "current_players": 1,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Professional Cats is a cozy collection of 4 mini-games where cats dressed in different professions challenge your observation and memory skills. Find, match, and organize them while competing on global leaderboards!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Horn of the Warlord",
+    "appid": 4380120,
+    "price": 5310,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4380120",
+    "current_players": 8,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lead a Viking clan to glory in this accessible turn-based conquest strategy game. Expand your kingdom, raise armies, besiege castles and outsmart a challenging AI across handcrafted worlds built for endless replayability.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Rogue Whiskers",
+    "appid": 4790530,
+    "price": 4200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4790530",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "1–4 player cat roguelite. Scratch, pounce, and blast through 10 snack-filled floors with fish-based weapons, cat toys, and other buffing items as you fight for treats and glory.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Quacky",
+    "appid": 4554770,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4554770",
+    "current_players": 6,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Meet your digital duck: feed it, play with it and watch it age. Earn drops with time, trade them on the marketplace, and endlessly optimize your device for maximum quack efficiency.",
+    "scout_score": 25,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Agricola - The King's Farmer",
+    "appid": 4618250,
+    "price": 2970,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4618250",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Agricola - The King's Farmer: A classic, challenging economic simulation game. Manage your own farm - cultivate your fields, raise cows, train horses, and manage your forest. The goal of the game is to become king. Will you succeed?",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "C.L.A.S.H: Colonial Life Advancing Self-sustained Hemisphere - Chapter 1",
+    "appid": 4796200,
+    "price": 3500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4796200",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "C.L.A.S.H: Colonial Life Advancing Self-sustained Hemisphere - Chapter 1 is an action/adventure title with platformer elements. Parkour your way through 25 unique buildings to collect hidden individual objectives/powerups. While you're at it, avoid toxic blobs that will radiate you into nothingness.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Serpent & The Seed",
+    "appid": 3838400,
+    "price": 1440,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3838400",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A poetic narrative adventure retelling the greatest story in history - from the Garden of Eden to the end of the world - through stunning hand-drawn art, atmospheric puzzles, and a haunting original soundtrack.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "At Run Time",
+    "appid": 4660630,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4660630",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "At Run Time is a first-person parkour game focused on speed, precision, and risk-taking. After stealing an energy source from a smuggler’s hideout, escape through deadly traps using advanced movement skills before time runs out.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Reverse Survivors",
+    "appid": 4503090,
+    "price": 1620,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4503090",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A reversed survivors-like where you are sending waves of monster to stop the survivors.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Toy's Dream",
+    "appid": 4826170,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4826170",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Toy’s Dream is a cute and wholesome puzzle-platformer. You are a Hero, who sets out on a journey to save the town that has been attacked by the Demon Lord. He must overcome many obstacles along the way, using glue and thread...",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "KimuNote",
+    "appid": 4484670,
+    "price": 4640,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4484670",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Everything you need to organize your projects and your life in one place.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Haunt Out",
+    "appid": 4196160,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4196160",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A voodoo ritual has gone wrong… Trapped in a haunted Louisiana mansion, play as both a voodoo priest and a mischievous spirit. Use powerful magic to hunt or escape, set traps, and wreak havoc in a tense, strategic VR duel",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "SU8WAY",
+    "appid": 4832200,
+    "price": 2610,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4832200",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are Henry, a man who only wanted to take Train 8 to work. But you quickly realize that something is wrong. Everything seems to repeat itself  like a loop. Objects and people begin to change, and nothing is quite the way it should be.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cultivation: Mystic Realm of Spirit Mountain",
+    "appid": 4790340,
+    "price": 3600,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4790340",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You'll explore uncharted spirit mountains teeming with spirit plants, stones, treasures, and beasts. Gather resources, grow plants, refine pills to advance, with spirit roots, skills, and pets aiding your relaxed cultivation. Begin your journey!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Escape the Red Curse",
+    "appid": 4533790,
+    "price": 1870,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4533790",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A group of mediums is trapped in a cursed apartment. Explore the environment, find your comrades, and solve logic puzzles. Lift the curse, and escape before it’s too late.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Reverse Parking Simulator - Android extension pack",
+    "appid": 4878510,
+    "price": 600,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4878510",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Come try out the Android version! For now, it doesn't include custom levels and doesn't support cloud saves or achievements.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Gaslamp Cases 7: The Faith of Rasputin",
+    "appid": 4808770,
+    "price": 2160,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4808770",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Can you help Morgan solve the case of a mysterious drug, spreading throughout the city of London? Solve exciting match-3 puzzles, collect important clues, and uncover the truth in this gripping adventure!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "A Simple Square",
+    "appid": 2251740,
+    "price": 1478,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/2251740",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A Simple Square is a minimalist puzzle game where every move changes the level. Slide in straight lines, erase the tiles behind you, plan your path, and reach the exit without trapping yourself.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cell Conquest",
+    "appid": 4836170,
+    "price": 1050,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4836170",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cell Conquest is a turn-based logic strategy game where you place walls, complete cells, and outthink your opponents. Play solo against the computer or compete locally with 2–5 players across multiple maps and board sizes.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Mono",
+    "appid": 4273540,
+    "price": 1200,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4273540",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "『Mono』 is a 2D action game set in a monochrome world. Explore the land to enhance your abilities, defeat the formidable foes standing in your way, and resolve the crisis befalling this black-and-white realm.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "DIGDLE",
+    "appid": 4817390,
+    "price": 3570,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4817390",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 3D nonogram puzzler with 300+ puzzles across unlockable packs. Chisel dirt, hammer rock (3 hits), and shatter chain-linked amber to uncover buried objects. Race for stars, solve clean for Perfect badges, or use a hint — it leaves its own badge behind.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
