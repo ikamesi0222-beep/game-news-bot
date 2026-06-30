@@ -1,0 +1,597 @@
+[
+  {
+    "name": "Bugscraper",
+    "appid": 2957130,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/2957130",
+    "current_players": 9,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to the Bugscraper. In this solo or co-op roguelike shooter, battle floor after floor of enemies, aim for the top and settle the score with your tyrannical boss.",
+    "scout_score": 113,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Co-op +30",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Beso's Shawarma",
+    "appid": 4186870,
+    "price": 254,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4186870",
+    "current_players": 4,
+    "total_reviews": 26,
+    "positive_rate": 96.15,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Beso's Shawarma is a short, narrative-driven horror game. A late-night call lures you on a surreal journey through empty streets to a sketchy shawarma shop. Talk to a cast of strange characters, make a terrifying choice, and try to escape a disjointed, looping nightmare.",
+    "scout_score": 55,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Guildamation",
+    "appid": 4149910,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4149910",
+    "current_players": 42,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Guildamation is a pixel-art idle RPG where you build a guild of heroes, craft powerful gear, and guide their actions through customizable battle orders. Combine strategy and automation to conquer dungeons, gather loot, and shape your guild’s destiny.",
+    "scout_score": 51,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Grapple Gunners",
+    "appid": 2161230,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2161230",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Swing, shoot and explode your friends in this chaotic multiplayer experience! Use the grappling hook to outmaneuver and outlast everyone. Grab a weapon and fight to be the last one standing across 70 unique maps!",
+    "scout_score": 41,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "FloraFarm",
+    "appid": 4842460,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4842460",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build, grow, and expand your own isometric farm. Plant rare flowers, harvest valuable crops, dig up hidden diamonds, and unlock unique vendors as your land grows. A cozy, relaxing farming sim where every tile counts.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Revolution: Young Mao",
+    "appid": 4683470,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4683470",
+    "current_players": 4,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Set around 1929, this interactive visual novel lets you relive the early Red Army's epic journey from a first-person perspective. Experience immersive historical narratives and make pivotal branching choices. Beware: wrong decisions will end your game!",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Starry Flowers",
+    "appid": 4710390,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4710390",
+    "current_players": 7,
+    "total_reviews": 8,
+    "positive_rate": 100.0,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "it's a beloved NomnomNami classic! the witch boy romance of all time! you could be playing starry flowers and crying over the love these two feel for each other... i've certainly cried... there's really nothing else to be said, you just have to play it.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Looking Up I See Only A Ceiling: The Recall",
+    "appid": 4174510,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4174510",
+    "current_players": 0,
+    "total_reviews": 12,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "LUISOAC x 7DTTAI: a short spin-off psychological adventure about a girl who finds herself in a different dimension while watching old VHS tapes.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Rob o Bot",
+    "appid": 4503080,
+    "price": 315,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4503080",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rob o Bot is a survivors-like action game where you fight hordes of robots that began acting on their own after a mysterious virus infected a new generation of machines. Survive waves of enemies, upgrade your gear, and take back control before the machines take over.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Fish Companions",
+    "appid": 4693650,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4693650",
+    "current_players": 3,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fish Companions is a relaxing idle game that brings colorful life to your desktop. Adopt your own digital fish to keep you company. Raise your companions, unlock aquariums, explore new oceans filled with more fish, and collect them all! Hang out with your friends to enjoy even more companionship!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Blue Oath",
+    "appid": 4660640,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4660640",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Blue Oath is a solo combat action-adventure game in which you play as a warrior swordfish who sets out on a journey to free a giant, cursed moray eel. Using powerful dash attacks, you can impale enemies and objects onto your beak, stack them, and throw them back as weapons or tools.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Doctor Pigeon Simulator",
+    "appid": 4590980,
+    "price": 385,
+    "discount_percent": 23,
+    "url": "https://store.steampowered.com/app/4590980",
+    "current_players": 3,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This isn't a normal ER. What's going on here, why are you pooping in the hallway?! I'll attend to the patient having a heart attack. Oh no, the exploding uncle! Stay away from my bed. I don't think I can manage this ER...",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Boby and the Witch",
+    "appid": 3798920,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3798920",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Boby’s girlfriend has been abducted by a witch—race through 3 worlds and 18 levels to save her. Can you beat it in under 5 minutes?",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "The Song Of WILL: ACT I",
+    "appid": 4303590,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4303590",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Arise! This isn't the world you knew, but at least it's a cute one! Explore a turn-based, story driven JRPG that feels alive! Befriend strange, anthropomorphic creatures, wield bizarre, unique weapons, uncover secrets in an interactive world and...pet dancing bats? Just, don't look closer...",
+    "scout_score": 32,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "SCUM Specialist Scout Pack",
+    "appid": 4635250,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4635250",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Built for prisoners who read the land and stay one step ahead, the Specialist Scout Pack unlocks specialist gear, charms, emotes, camouflage patterns and more.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Paper Brawl",
+    "appid": 4842420,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4842420",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The casual doodles on the grid paper actually came to life. Grab your weapons and have an exhilarating battle with the evil dust stains!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Night On",
+    "appid": 4627710,
+    "price": 254,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4627710",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "RPG game of explore a video game arcade called Game On, a place filled with arcades and video game rooms where a boss who rules the place wants to destroy everything, except you... Can you save Game On?",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cloudsea",
+    "appid": 1893390,
+    "price": 1039,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/1893390",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cloudsea is indie open world RPG game set in the clouds of the world of Cloudsea. Explore the floating islands in airships, solve quests, gather resources, craft items, trade, and fight in airship-to-airship and melee combat!",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "BIBI DICE",
+    "appid": 4792230,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4792230",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Roll eight dice, build scoring hands, stack multipliers, collect relics, and defeat enemies in a compact desktop portrait dice-building roguelite.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Bravest!",
+    "appid": 4592120,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4592120",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The “Braveast” series—a retro RPG from the feature phone era—and its landmark first installment!",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Farming Simulator 25: SKY Agriculture Pack",
+    "appid": 4348800,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4348800",
+    "current_players": 0,
+    "total_reviews": 8,
+    "positive_rate": 75.0,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Machines that feel more real! SKY Agriculture specialises in seeding, fertilisation &amp; soil cultivation for efficient and sustainable farming. 12 implements assist you on your farm, and feature enhanced physics, animation and dirt accumulation, making these machines appear more realistic than ever.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Eyes Like the Tide",
+    "appid": 4788780,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4788780",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A visual novel based on Brazil's most iconic 19th-century novel. Follow Capitu from adolescence to adulthood and choose where your heart leads. Bentinho or Escobar? Loyalty or freedom? The ending is yours to decide.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hammerhead",
+    "appid": 4565090,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4565090",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A short narrative-driven game that explores themes of isolation and nostalgia as player unravels suppressed memories through solving cryptograms.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "EPIC IDLE TALE",
+    "appid": 4816680,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4816680",
+    "current_players": 6,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A daring text adventurer sets out on an epic quest to find the princcess locked away in her tower far far away. Fight through Goth Vampires, Two Eyed Cyclopses, Repulsive Succubi and many more monsterous monsters on your journey through the deadly swamp.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Whiskers, Wizards and Wands",
+    "appid": 3588160,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3588160",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy puzzle adventure game where players use their creativity to explore a whimsical world, solve puzzles, overcome obstacles, and of course…fight baddies!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Drawtris",
+    "appid": 4724760,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4724760",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Drawtris is a legendary puzzle game distributed in 1984 China. Place tetrominoes with precision and complete each figure to achieve the highest score.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "ERROR143 - Night 7",
+    "appid": 3815690,
+    "price": 1349,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3815690",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Spend the night with Micah Yujin! Sleep, cuddle, or even...GET BOBA! (Does include the explicit sideways shimmy if you wanted confirmation.)",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Gridwalker",
+    "appid": 4692720,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4692720",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Gridwalker is a 3D isometric open-world puzzle game. Explore a mysterious island of ancient ruins. Communicate with the world. Solve puzzles, rescue trapped spirits, and awaken the pillar stones to uncover secrets and find your way out.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "SCUM Specialist Archer Pack",
+    "appid": 4635240,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4635240",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Built for prisoners who trust the quiet pull of a bowstring and the certainty of a clean shot, the Specialist Archer Pack unlocks snakeskin-themed specialist gear, charms, emotes, and camouflage patterns.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Omnitrend's Universe",
+    "appid": 4831500,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4831500",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Re-released after almost 50 years, turn back the clock to 1983 and play the most complex starship simulator of its time.  Featuring intelligent enemy ships and control of on-board facilities: computers, high-resolution scanners, weapons, ore processors, shuttles, rescue pods, and more.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
