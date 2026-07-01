@@ -1,0 +1,581 @@
+[
+  {
+    "name": "CrueArcade Alive",
+    "appid": 4831590,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4831590",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Face the apocalypse in this adrenaline-fueled, retro-inspired arcade brawler! Battle through hordes of the undead across tactical stages, face unique bosses, and scavenge vital supplies. Grab a friend for local co-op, manage your resources, and fight to survive the urban nightmare",
+    "scout_score": 78,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "LINOVICTUS",
+    "appid": 4528600,
+    "price": 679,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4528600",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight through waves of enemies across shifting arenas, buy upgrades between stages, invest in new ships, research permanent upgrades between runs, and compete on the global leaderboards in this blood-pumping twin stick shooter.",
+    "scout_score": 60,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Village Coop Clicker",
+    "appid": 4783190,
+    "price": 374,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4783190",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy cooperative village-building active clicker for solo players, families and friends. Gather resources, build your settlement, defend against raiders and prepare expeditions together — without stress, automation or idle mechanics.",
+    "scout_score": 50,
+    "reasons": [
+      "次点ジャンル: Cooperative +30",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "STRAFEST",
+    "appid": 4418430,
+    "price": 209,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4418430",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "STRAFEST is a third-person co-op platformer full of physics-based minigames! Join friends in dodge boulders in volcanic pits or outrun bridge-blasting cannons. Unlock colorful Skins, Trails, and Titles to customize your character. It’s all about teamwork, goofy moments, and having a blast together!",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "immerGallery",
+    "appid": 3073280,
+    "price": 2549,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3073280",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to immerGallery, the ultimate VR media viewer! Immerse in your VR180, VR360 (2D &amp; 3D), panoramas, and regular 2D &amp; 3D photos and videos! Enjoy VR slideshows with your family and friends in Multiplayer.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Flawed Tactics",
+    "appid": 2600970,
+    "price": 599,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/2600970",
+    "current_players": 14,
+    "total_reviews": 14,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "The autobattler where the market IS the balance patch. Build your team, cast your spells, create powerful relics, optimize synergies - but watch the ticker. Every minion you buy raises its price for every player. No permanent metas. No overpowered favorites. Just tactics, and flawed ones at that",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Inclination",
+    "appid": 4489330,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4489330",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A matchmaking puzzle game where all the pieces move together in the same direction by tilting the entire board. Chill game-play with no timers and relaxed, non-linear progression.",
+    "scout_score": 38,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Idle Aqua Driller",
+    "appid": 4656460,
+    "price": 210,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4656460",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 0.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dive into the depths of the ocean in this incremental game about underwater mining! Control drilling rigs, hire divers and submarines, and unlock new layers and resources. Upgrade your decks, speed up mining, and develop your skill tree to turn your station into a powerful underwater complex.",
+    "scout_score": 38,
+    "reasons": [
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Abyss Below",
+    "appid": 4679180,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4679180",
+    "current_players": 12,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The year is 1997. Pilot a small submersible into the depths of the Pacific to investigate a massive sonar anomaly. Navigate by instruments, scan targets, and uncover something far older than it should be.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Mosaic Garden: The Flower Game",
+    "appid": 4409970,
+    "price": 299,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4409970",
+    "current_players": 15,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A relaxing yet strategic puzzle game where flowers spread and mutate in real time. Shape their growth, clear space, and transform one pattern into the next on a colorful 10×9 grid.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Lullabies Made of Static",
+    "appid": 4216940,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4216940",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The world is gone. In the silent aftermath of humanity’s fall, you explore the ruins of a post-apocalyptic megalopolis surrounded by industrial brutalist factories, collecting forgotten cassettes that will reveal what human emotions once felt like long ago.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Star Witch",
+    "appid": 1713550,
+    "price": 374,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/1713550",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dark fantasy action RPG where a fallen witch reshapes the world. Explore dangerous dungeons, fight twisted enemies, and grow stronger through immersive combat and powerful gear. Power demands a price.",
+    "scout_score": 31,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Drop Jump",
+    "appid": 4370410,
+    "price": 489,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4370410",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fast-paced 3D rhythm platformer focused on precision and mastery. Play handcrafted levels, build your own, and challenge others through community-created content.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Nybble",
+    "appid": 4766500,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4766500",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your deck is your code. Build branching, looping programs from cards to hit byte targets and outwit rival hackers. A programming-themed roguelike deckbuilder with a heat-driven mastery climb, runaway combos, and a final boss who's been watching you the whole time.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Ash of Gods: Tactics",
+    "appid": 4162150,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4162150",
+    "current_players": 20,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build and upgrade your deck to fight other players, face challenges in the story mode, experiment with your tactics as tactics decide everything!",
+    "scout_score": 28,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Ratatouille Builder",
+    "appid": 4474960,
+    "price": 463,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4474960",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this cooking roguelike, inspired by many deckbuilder games, set up your garden to grow fresh vegetables and serve delicious dishes every day in your restaurant! Discover new recipes, exploit synergies, and learn your customers' favorite dishes!",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Miracle Brave: Beast Defense Line",
+    "appid": 4720010,
+    "price": 179,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4720010",
+    "current_players": 61,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Endless tides of beasts crash against your fortress, yet never breach your line. Fight alongside your brave companions, reap the invaders, and grow stronger with every battle. Rise to meet the next wave with greater might—reap, strengthen, reap again. The cycle never ends.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Duck Defender",
+    "appid": 4797570,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4797570",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Duck Defender is a fast paced 2D wave defender. Collect coins and level up by defeating enemies! Select and buy infinitely stackable upgrades to progress through endless waves! Can you create the ultimate combo?",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Prison CAT",
+    "appid": 4844080,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4844080",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Prison CAT is a turn-based social deduction game! Players must use their wits, considering each ability and the feeding order, to achieve their team's goals and win the game!",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "StellarUniversity:FurryHearts",
+    "appid": 4508100,
+    "price": 792,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4508100",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Stellar University: Furry Hearts -Play as Leo, a first-year student, and meet four furry classmates on campus—unfolding a love story that’s yours to shape. Featuring multiple endings, intimate daily moments, and romantic vibes.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Save the Red Box: Prologue",
+    "appid": 4708090,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4708090",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Save the Red Box: Prologue is a minimalist precision platformer focused on pure mechanics. Navigate through lethal traps to reach the Red Portal, trigger chaos Mode, and fight your way to the Green Portal to finish the level. No distractions, just skill.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Moonrise",
+    "appid": 4836490,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4836490",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Moonrise is a third-person 3D puzzle-adventrure, where open-path level design and visuals take centre stage, demanding a different reading of the space at every turn.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "void future prologue",
+    "appid": 3844000,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3844000",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Void Future: Prologue is a standalone free experience set in the universe of Void Future. Play as a hacker in a cyberpunk world ruled by corporations and complete a single, fully designed mission. Hack systems, solve puzzles,and uncover secrets — while staying hidden from a system that never sleeps.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Breeding Estate",
+    "appid": 4273060,
+    "price": 1699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4273060",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Breeding Estate is a simulation game for those of you who are not popular and can't have children, where you can choose a woman who is suitable for child-bearing and have children. Beat the males around you, raise the level of your penis, and leave behind better properties (women) and offspring.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Sound of Piano",
+    "appid": 4532000,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4532000",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A hardcore keyboard rhythm game featuring pure piano tracks. Every note you hit generates a real key sound for a true piano response. Designed for intermediate players and beyond, use our unique skill test algorithm to discover your rating. No AI-generated music, just raw human-crafted tracks.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Tower Vibes",
+    "appid": 4835520,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4835520",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Classic tower defense depth with an extra sound waves sync tech garnish",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "MergePiece: Merge pixels into masterpieces",
+    "appid": 4505500,
+    "price": 169,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4505500",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "MergePiece is a pixel-merging puzzle game themed around world-famous paintings. On the board, every color fragment originates from a real masterpiece — your mission is to merge them back into the complete artwork.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "マイ・プラネット─MOON CHILD─",
+    "appid": 4656060,
+    "price": 279,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4656060",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "[Gameplay Mechanics]• Controls: Simple mouse-click navigation to advance the story.• Branching Narrative: Player choices directly influence the plot, leading to multiple unique endings.• Standard Features: Includes essential functions such as Skip, Auto-mode, Save/Load, and Message Backlog.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Magic Puzzles: Twins",
+    "appid": 4599720,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4599720",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Control two magical Spheres in perfect unison. Use walls and traps to outsmart their synchronous movement and solve intricate puzzles in this cozy, mystical adventure.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Engine of Chaos",
+    "appid": 4442280,
+    "price": 79,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4442280",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bolt guns and upgrades to a runaway train and blast through endless hordes of zombies, monsters, and abominations across six brutal environments. Build your loadout, unlock new carriages, and see how far you can survive.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
