@@ -1,0 +1,585 @@
+[
+  {
+    "name": "HYPERWIRED",
+    "appid": 3234850,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3234850",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hyperwired is a classic top-down action shooter, where your spaceship has a plug hanging from it. Wire yourself into sockets, gather upgrades, and unlock ships as you explore a procedurally generated galaxy with roguelike elements.",
+    "scout_score": 83,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "All Tomorrows: Invasion",
+    "appid": 4179870,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4179870",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Resist extinction in this endless survival wave-based sci-fi shooter. Upgrade your weapons and harness far-future technology to survive as long as possible from a God-like alien race that threatens all of humanity.",
+    "scout_score": 77,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Survival +15",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "HAUNTMATES",
+    "appid": 4400300,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4400300",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Co-op horror investigation game across multiple maps. Enter procedurally generated environments, use your equipment to gather clues, and identify the entity. Watch your back, because monsters are hunting you down.",
+    "scout_score": 63,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Shards",
+    "appid": 4660650,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4660650",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Shards is a single-player twin-stick shooter adventure game where you play as a clay robot. Fight your own kind, advance deeper into the Citadel and uncover its secrets.",
+    "scout_score": 60,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "MIHASHIRA",
+    "appid": 4193580,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4193580",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 2D top-down arena shooter. A freely scrolling shooter. Pixel graphics reminiscent of the SNES. Easy to control with the directional pad, two shot buttons, and a bomb button. Make full use of your two shots to smash through enemies.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hollow Ground",
+    "appid": 3997920,
+    "price": 1019,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3997920",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Top-down shooter inspired by 90s arcade games. You and up to three friends play as four mercenaries as they descend into the Epsilon 9 bunker. Navigate 70+ handcrafted labyrinthine levels, purchase upgrades, and destroy chaos manifest: The Machine.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "When will I get Home?",
+    "appid": 4087740,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4087740",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Indie anomaly-detection game set in a bleak Eastern-European stairwell. 11 floors, 40+ anomalies, minimal horror, maximal tension.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Assault On Sector 12",
+    "appid": 4293630,
+    "price": 509,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4293630",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A turn-based, squad-focused tactical defense game where your squad holds the line against advancing enemy waves.",
+    "scout_score": 50,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Archmage Idle",
+    "appid": 4557350,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4557350",
+    "current_players": 55,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An idle/incremental RPG where you're an Archmage of a wizard guild. Your skills bolster the frontlines and the supply lines. Every skill multiplies the others, and it all keeps running while you're away.",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "The Trials - Chapter Two",
+    "appid": 4345750,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4345750",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A classic 90s choose your own adventure style horror visual novel. Escape the horrors hunting you, make decisions, forge your own path. An original complete story with multiple endings. Choose your own play style with a Text Adventure Mode, sound effects, and an ambient soundtrack.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "APEX Swoop: Card Game",
+    "appid": 4823890,
+    "price": 159,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4823890",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Swoop is a fast-paced shedding card game. Play cards equal to or lower than the center, or pick up the pile! Take risks with mystery cards, use Jokers or 10's to swoop the board, and host multiplayer lobbies with Steam friends or challenge advanced AI. Can you empty your hand first?",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Anomaly Hunter",
+    "appid": 4774740,
+    "price": 154,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4774740",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In the VHS horror game The Anomaly Hunter, you play as Sam and must sneak into an abandoned shelter to find out what’s happening inside and eliminate the threat. The employees were supposed to leave you instructions on how to carry out the job. The main thing is to be careful.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Sentry",
+    "appid": 4728590,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4728590",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Raid dungeons by day, defend your town by night. Slay hordes of monsters, loot gear, and master skills in a fast-paced pixel-art dungeon crawler — then return home to build traps, place towers, and hold the line against the swarms, Clear every dungeon before the town falls",
+    "scout_score": 36,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "GGST Additional Character 19 - Robo-Ky",
+    "appid": 4413140,
+    "price": 699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4413140",
+    "current_players": 0,
+    "total_reviews": 50,
+    "positive_rate": 96.0,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Adds Robo-Ky to the roster of playable characters and 9 colors (No.1~6, 13~15) for the character.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "ユレイシア英雄戦記　- Chronicle of Arstenia500 -",
+    "appid": 4617670,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4617670",
+    "current_players": 24,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "戦局を読み、一手ずつ難所を切り開く王道本格SRPG。盤面を読み、仲間の特性を見極めて難所を突破せよ。戦乱のユレイシア島を巡る王道戦記。",
+    "scout_score": 35,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Timber!",
+    "appid": 2731400,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2731400",
+    "current_players": 0,
+    "total_reviews": 10,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dementia, tragedy and fun – all in the same taste of a potato! Timber! is a 2D point-and-click storydriven game that takes you on an emotional journey. Explore a mix of feelings, from the heart-wrenching struggles of dementia to the unraveling of a tragic story.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Giant Horse Feeding",
+    "appid": 4823290,
+    "price": 119,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4823290",
+    "current_players": 5,
+    "total_reviews": 8,
+    "positive_rate": 100.0,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Giant Horse Feeding is a silly alien colony simulator where you feed a horse &amp; collect its droppings to build an alien empire. Automate production, unlock bizarre technologies, and create an endless recycling loop where horse droppings become the foundation of your civilization.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The One Who Runs Away Is Chased",
+    "appid": 4717020,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4717020",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cute and funny chasing game. Play as a little yellow guy who runs away from everything that chases him. Simple, addictive, and full of silly moments.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Kitty Witchy",
+    "appid": 4116330,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4116330",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A little lost witch, a magical cat, and a world full of secrets. Kitty Witchy is a 3D narrative puzzle adventure game. Join the witch and solve puzzles with the help of her cat, uncover the secrets of this universe, and find the way back home.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Hunt: Showdown 1896 - Twice a Renegade",
+    "appid": 4719180,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4719180",
+    "current_players": 0,
+    "total_reviews": 42,
+    "positive_rate": 50.0,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "This DLC contains one Hunter, three Weapons, one Tool, and one Avatar: The Mercenary (Hunter), Unseen Reason: Marksman (Lebel 1886 Marksman), Mimicry’s Mark (Sparks Pistol), Mimicry’s Mark: Silencer (Sparks Pistol Silencer), You Can Run (Knuckle Knife), The Mercenary (Avatar)",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "TBH : Task Bar Hero - Trade Ship Pack",
+    "appid": 4876910,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4876910",
+    "current_players": 0,
+    "total_reviews": 48,
+    "positive_rate": 29.17,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "This DLC adds 5 slots to the Trade Ship. You can list more items on the Steam Market.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Happy Day - Customize",
+    "appid": 4826010,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4826010",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a game with simple rules, but the levels can be very interesting. For the integrity of the game, an editing tool has been developed, which allows players to freely combine and create new levels. The new levels will be uploaded to the creative workshop and shared with other players.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Mech Spa",
+    "appid": 4466150,
+    "price": 1359,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4466150",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Give the best massages and treatments to the robotic residents of Renewal City while you survive weekly quotas imposed by the mob and improve your hangar in style and effectiveness.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Authorisation Engine",
+    "appid": 4738940,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4738940",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Turn a payment desk into a global authorisation network in this offline incremental strategy game about capacity, compute, mandates, quantum audits, and synthetic jurisdictions.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Office Ladies Jigsaw Puzzle",
+    "appid": 4823030,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4823030",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An adult jigsaw puzzle starring 44 elegant, alluring office ladies. Solve across several difficulty levels, lean on the hint &amp; reference tools whenever you get stuck, and unlock a full gallery — featuring a unique Animated Mode where every scene gently comes alive as you solve.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "BDSM Sex - Futanari 2",
+    "appid": 4782560,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4782560",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An adult visual novel about a young woman who returns to her Mistress’s dungeon seeking more pleasure and pain, only to realize her craving for submission is far deeper and more dangerous than she expected.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Minesweeper H",
+    "appid": 4833560,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4833560",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A twist on classic Minesweeper gameplay × unlockable bishoujo H rewards. Challenge 4 stages × 3 difficulty levels — complete each map to view an animated H scene. Clear Expert mode to permanently unlock it to your Gallery and revisit anytime.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Undying Elf",
+    "appid": 4578750,
+    "price": 719,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4578750",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A Metroidvania 2D platformer focused on exploration, puzzles and collection, with creative puzzles and well-designed maps.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "BRAFES",
+    "appid": 4750740,
+    "price": 250,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4750740",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An 18+ casual action game where you unhook bras from a parade of cute girls — fast! Front hooks, back hooks, and more: each bra type demands a different click. Run out of time or make a mistake and you'll lose a life. Simple controls, addictive tempo. How far can you go?",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Know Lychees / 来高州识荔枝",
+    "appid": 4843190,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4843190",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A solo-developed, lightweight puzzle game themed around Gaozhou lychees. Learn lychee varieties and Gaozhou culture through three modes: Eat Lychees, Know Lychees, and Find Lychees.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
