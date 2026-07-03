@@ -1,0 +1,579 @@
+[
+  {
+    "name": "Lythium",
+    "appid": 4016570,
+    "price": 1199,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4016570",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Take on a task force from the gravestones! Your memories may be lost but the horde still remains. Slash, shoot, punch, and unleash your inner beast on your enemies in this action packed rogue-like FPS.",
+    "scout_score": 68,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Recognition",
+    "appid": 4860510,
+    "price": 400,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4860510",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Recognition is a fast-paced cyberpunk boomer shooter. After waking in a chop shop with your memory wiped, you become the target of the ruthless Kurasawa Corporation. Blast your way through hordes of cyborg assassins and deadly mechs as you search for the truth behind your missing past.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Myth's and monster's",
+    "appid": 4570060,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4570060",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A classic style JRPG featuring party based turn-based combat open world exploration and a mature dark fantasy story.",
+    "scout_score": 55,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Ice Cream Man",
+    "appid": 4634080,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4634080",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "ICE CREAM MAN is a first person PSX-style horror game. After a late-night gaming session, your walk home turns into a nightmare. Navigate unfamiliar backyards, jump fences and hide in the shadows to escape a murderous Ice Cream Man. Can you make it home alive? Or do you have a rocky road ahead?",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hentai Clicker: Nazumi is streaming",
+    "appid": 4854240,
+    "price": 200,
+    "discount_percent": 33,
+    "url": "https://store.steampowered.com/app/4854240",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Click, collect hearts, and unlock scenes, outfits, upgrades, voice reactions, and progression with Nazumi — a very naughty football player — in Hentai clicker: Nazumi is streaming.",
+    "scout_score": 53,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Infinity Grass Cutting",
+    "appid": 4744610,
+    "price": 179,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4744610",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Infinity Grass Cutting&quot; is a top-down action game with roguelite elements. Take on the role of a lawn-mowing robot tasked with clearing a wild, overgrown garden.",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Hold My Hand (Or Let Go)",
+    "appid": 4845540,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4845540",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A free Visual Novel about unrequited love, envy, friendship and forgiveness. Experience the story of Charlie, a completely normal Swedish college student that’s graduating next week. But before he does that, he has to say goodbye to all the friends that he made during his three years in town.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Fascist",
+    "appid": 4291890,
+    "price": 250,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4291890",
+    "current_players": 3,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "As National Guard, stand defiant against relentless hordes. Unleash righteous fury. Old Glory waves eternal and America endures because YOU fight!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Fleck & Grus",
+    "appid": 4842490,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4842490",
+    "current_players": 1,
+    "total_reviews": 9,
+    "positive_rate": 88.89,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Help Grus escort his friend Fleck safely back to his hometown in this fast-paced precision platformer. Navigate tight levels packed with tricky jumps, bouncing mechanics, and deadly hazards. Stay sharp, react quickly, and master each challenge to survive the journey.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Keepy UP",
+    "appid": 4446120,
+    "price": 809,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4446120",
+    "current_players": 2,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Push yourself ever higher in this challenging reimagining of a classic childhood game. Guide your balloon through a vertical gauntlet of seagulls, ghosts, UFOs and more! Your balloon is your only friend, and gravity is your greatest foe. Are you skilful enough to Keepy UP?",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Laballatory",
+    "appid": 4453320,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4453320",
+    "current_players": 5,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A casual, incremental physics sandbox game where you operate a Newton's Cradle to earn high (possibly game breaking) scores to fund your escape from an experimental lab. Hit balls, earn money, upgrade your strategy, and unlock machines to help you escape.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Ninety Nine Dungeons",
+    "appid": 4469500,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4469500",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Japanese-style action RPG dungeon crawler adventure. Explore a top-down map enhanced with full verticality and multi-level dimensions. Discover rare equipment, customize your own unique build and playstyle, and conquer the ever-changing depths!",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "IDLE: Intergalactic Defense League Exterminators",
+    "appid": 4486140,
+    "price": 419,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4486140",
+    "current_players": 11,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An incremental game about blasting bugs, collecting guts, upgrading a base, and blasting more bugs!",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Selena's Charm 2: Enchanted Garden",
+    "appid": 4760660,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4760660",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A free-to-start match-3 puzzle game with garden and exterior restoration. Play the first 20 levels, help Selena begin bringing the estate back to life, and unlock the full experience through DLC.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Marshmallow Story: in Marshmallow Village",
+    "appid": 4828230,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4828230",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This story follows Marshmallow, the protagonist, as he sets off on his adventure to become a beautiful and wonderful marshmallow, but first to search for the missing shopkeeper of Marshmallow Village. Progress through the story with an engaging plot and science puzzles to find the shopkeeper!",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "LIVORA",
+    "appid": 4841780,
+    "price": 1169,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4841780",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "LIVORA is a choice-driven life simulation where money, work, relationships, health, family, weather, world events and pressure all connect. Build a life, face the consequences, recover from mistakes, chase ambition, fall in love, start again, and see how different every life can become.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Mine Room",
+    "appid": 3802740,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3802740",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A first person twist on the classic game of Minesweeper. It's dark, all you have is a torch and a burning desire to clear the room of safe cubes without falling in the goo or getting blown up.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Mandate of Heaven : Dynasty Breakout Idle",
+    "appid": 4775240,
+    "price": 374,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4775240",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Idle incremental brick-breaker that takes you through 4,000 years of Chinese history. Bounce peasants, crossbows, gunpowder and more. Topple dynasty bosses. Unlock new units. Watch the numbers climb forever.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Strip Memory: Unlocked Desires",
+    "appid": 4627210,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4627210",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Test your memory and claim your ultimate rewards! Challenge four gorgeous women to a classic game of memory match. Keep your focus, beat the timer, and unlock exclusive, fully-animated adult scenes. When the game ends, the real fun begins—how will you take your final prize?&quot;",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Brazzante",
+    "appid": 4305620,
+    "price": 179,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4305620",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Featuring a unique doodle aesthetic, this world is entirely hand-drawn. Your goal? Use classic 'Rock, Paper, Scissors' mechanics to survive never-ending rounds.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Operation Moon Walker",
+    "appid": 4480550,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4480550",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a single-player 3D shooting action game set in a world of prosperity and chaos, starring Isaac, the commander of the United Nations special agency &quot;Theseus.&quot;",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "100 Summer Cats",
+    "appid": 4310730,
+    "price": 119,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4310730",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "🐾 Join the cutest adventure in themed locations full of cats! 😻 Explore the charming hand-drawn artwork of special places and try to find 100 adorable cats hidden throughout the game. 🐈🕵️‍♂️ Can you find them all? 🕵️‍♂️🐈",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "ABC Music Maker",
+    "appid": 4801960,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4801960",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "ABC Music Maker is a music creation studio built around ABC notation — a compact, human-readable text format for composing music. Write melodies as plain text, hear them instantly through your MIDI setup, and route live MIDI output to any software or hardware on your system.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Sending my Pet Rock to Heaven",
+    "appid": 1778510,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/1778510",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your Pet Rock has decided to see if god is real. Bounce your way up to get to Heaven.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Final Legal Move",
+    "appid": 4709940,
+    "price": 254,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4709940",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Survive a hostile chessboard where you are the only white piece. Escape enemy waves, get power ups, clear story campaign and chase high scores in endless mode. Make your final legal move.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "SYSCALL: RING ZERO",
+    "appid": 4849330,
+    "price": 1274,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4849330",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Reverse-engineer a private 1990s BBS. Read disassembly, patch broken checks, optimize a nine-core rack, and write assembly firmware that locks onto live scope traces. With 200+ puzzles, full controller support and offline play, you can refine your assembly skills on all your devices!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Close The Straits!",
+    "appid": 4634510,
+    "price": 1000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4634510",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You're an underpaid naval officer juggling a paranoid Supreme Leader's daily ship blacklists, President Orange's unhinged tweets, and ridiculous family's &quot;non-negotiable&quot; demands. Blow up the wrong tanker? Congratulations, you've started an international incident. Again.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "WinGrid",
+    "appid": 4847000,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4847000",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "WinGrid is a Windows utility for precise window layout and display scaling. Select any window and move, resize, stretch, add cinematic black bars, or enlarge it — bound to hotkeys, with saved profiles. For custom borderless and stretched-style setups. No drivers, no injection.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Rise Of The Undead",
+    "appid": 4855580,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4855580",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dark fantasy epic necromancy game",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hentai Tales: The Lewd Streamer Living Beside Me",
+    "appid": 4786340,
+    "price": 59,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4786340",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You’ve just moved into a new apartment, hoping for a quiet life. But your neighbor next door is Ruri—a famous innocent game streamer by day. Soon, you discover her hidden, secret side that craves pleasure and submission.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
