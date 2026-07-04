@@ -1,0 +1,588 @@
+[
+  {
+    "name": "Cicadia",
+    "appid": 4306650,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4306650",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cicadia is a free rogue-like first person shooter indie game. Kill bugs and collect Bile as you uncover the hidden truth of a self-forsaken empire. Challenge bosses, cull swarms, and build an unstoppable loadout in Cicadia!",
+    "scout_score": 73,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Hyper_Sea_5000",
+    "appid": 3164460,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3164460",
+    "current_players": 0,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Neo-Retro Arcade Shooter. Trapped in a warp cube, for your crimes against the Cube Federation, you must fly and shoot around, use charge shots, mid-air dodges, and power crystals in the most advance ship in the galaxy and fight a relentless onslaught of various &quot;cubes.&quot;",
+    "scout_score": 71,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Crosshair King",
+    "appid": 4765540,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4765540",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The ultimate crosshair overlay for competitive FPS players. 20 customizable crosshairs, 4 presets, works in any borderless windowed game. Rule Your Aim.",
+    "scout_score": 68,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "American Revolutionary War",
+    "appid": 4671050,
+    "price": 3995,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4671050",
+    "current_players": 2,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight through the American War of Independence in a tactical wargame of field battles, frontier warfare, fortified positions, and campaigns for control of the colonies. Command American, British, Loyalist, German, Native allied, and French forces across 148 scenarios and four campaigns.",
+    "scout_score": 63,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "ARK Tides of Fortune",
+    "appid": 4558480,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4558480",
+    "current_players": 0,
+    "total_reviews": 103,
+    "positive_rate": 34.95,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build &amp; customize your ships, and set sail for adventure across the high-seas this massive ARK gameplay expansion! Explore an uncharted ocean frontier to hunt for buried treasure, tame deep-sea monstrosities, and battle ruthless pirate armadas in PvE &amp; PvP!",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: PvP +20",
+      "次点ジャンル: PvE +15",
+      "1000円以下 +18",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "The Hollow Road: Prologue",
+    "appid": 4668560,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4668560",
+    "current_players": 0,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A psychological horror prologue where a strange house, a silent church, and something lurking in the dark pull you into a waking nightmare. Explore, uncover hidden truths, and survive what waits beyond the last door.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Hot Dogs, Horseshoes & Hand Grenades",
+    "appid": 450540,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/450540",
+    "current_players": 410,
+    "total_reviews": 23557,
+    "positive_rate": 97.03,
+    "steam_score": "Overwhelmingly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Do you like hot dogs? How about horseshoes? Hand grenades? (everyone likes hand grenades) Anyway, we've got all that, and guns. SO MANY GUNS. So if you like ordnance, meat, and far too many groan-worthy puns, this is the VR sandbox game for you.",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "OFS",
+    "appid": 548800,
+    "price": 374,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/548800",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Survive five one-minute shifts in a fast arcade horror game. Sort cargo, purge suspicious packages, block three little intruders, earn bounty, buy hacks and renew medical insurance between shifts. Short runs, sharp pressure, corporate nonsense.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "ARK: Dragontopia",
+    "appid": 4558490,
+    "price": 2999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4558490",
+    "current_players": 0,
+    "total_reviews": 39,
+    "positive_rate": 41.03,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Take flight into ARK: Dragontopia, a new cloudbound world of floating islands, mythical dragons, powerful skill trees, invading legions, filled with new vehicles, items, and challenges. Tame the legends, and rule the skies!",
+    "scout_score": 38,
+    "reasons": [
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "The Laws of Probability",
+    "appid": 4849960,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4849960",
+    "current_players": 1,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You have exactly 5. Bread is 4, the bus fare to school is 3. What do you give up? In this short narrative experience, you play as 13-year-old Adam. Confront an interface that reacts to a painful reality, and discover that freedom of choice is sometimes nothing but a privilege.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sign Off Affair",
+    "appid": 4787490,
+    "price": 419,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4787490",
+    "current_players": 1,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You're Miles Hale, showrunner of a canceled late-night show with six tapings left. Three women pull you in three directions: your head writer, your returning star, and the network exec dismantling the show. An adult romance visual novel with three distinct routes and explicit scenes.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "For the Crown",
+    "appid": 2191410,
+    "price": 499,
+    "discount_percent": 50,
+    "url": "https://store.steampowered.com/app/2191410",
+    "current_players": 0,
+    "total_reviews": 11,
+    "positive_rate": 81.82,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A puzzle logistics builder where lemming-like workers transport resources across a limited island. Create production chains, optimize routes, upgrade your castle and solve increasingly complex space and logistics challenges. The island never gets bigger. Your logistics problems do.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "SoundRelay",
+    "appid": 4800130,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4800130",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A simple desktop soundboard that lets you play audio clips directly through your microphone in any game or voice chat. Instantly expand your collection of audio clips with full Steam Workshop and Linux support. Perfect for streamers or trolling your friends!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Beat Pet",
+    "appid": 4819850,
+    "price": 90,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4819850",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A desktop pet who listens to music with you and plays the drums along to the beat. Most of the time, he quietly keeps you company. But when the music starts, the stage is his.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Rescue Dogs vs Aliens Tower Defense",
+    "appid": 4797790,
+    "price": 699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4797790",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Command heroic rescue dogs in a colorful tower defense battle against alien invaders. Build, upgrade, unlock heroes, defend strange battlefields, and survive wave after wave in RDVA-TD: Rescue Dogs vs Aliens.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "DRUMP SIMULATOR",
+    "appid": 4557030,
+    "price": 239,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4557030",
+    "current_players": 0,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A satirical game where you make choices and play mini-games as the American President Tonald Drump.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "ARK: Genesis Ascended Part 1",
+    "appid": 4558470,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4558470",
+    "current_players": 0,
+    "total_reviews": 249,
+    "positive_rate": 32.53,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "Awaken in a fractured virtual simulation. Alongside your companion HLN-A, overcome rigorous tests across lethal biomes. Dive into a massive new ocean with dynamic water physics, master missions, and tame beasts like the Palaeoctopus!",
+    "scout_score": 28,
+    "reasons": [
+      "無料 +20",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "Syndeo-Complex",
+    "appid": 1988930,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1988930",
+    "current_players": 0,
+    "total_reviews": 23,
+    "positive_rate": 65.22,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "In Syndeo-Complex you will explore five different environments connected by a hub. Each level has its own mechanics, weapons, enemies and bosses. The Keli, small droids, will (probably) guide you in your quest.",
+    "scout_score": 25,
+    "reasons": [
+      "無料 +20",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Sex Passion and Lust",
+    "appid": 4840320,
+    "price": 1499,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4840320",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sex Passion and Lust is the ultimate adult open-world sandbox game where your deepest fantasies come to life. Indulge in fully animated, uncensored sex scenes (solo, partner, and group), deep character customization, and complete cinematic control. No filters. No limits. Just pure, raw freedom.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Visionaire Studio",
+    "appid": 4367370,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4367370",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Visionaire Studio is a professional game engine designed specifically for the creation of 2D and point-and-click adventure games.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "TravelRoute Studio",
+    "appid": 4409090,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4409090",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Don't leave your journey as just a GPS track. TravelRoute Studio turns GPX files into dynamic map videos for travelers. Features multiple camera modes, custom tags, and 1080p MP4 export. Create stunning route animations for YouTube, Instagram, and TikTok in minutes to share your story!",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Grandpa's Euchre",
+    "appid": 4864200,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4864200",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Grandpa's Euchre - Rule #1: NO TABLE TALK!!!!!! This is the card game version of Euchre that my Grandpa taught me. I grew up in Illinois and we played this at every family gathering. ",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Ploy Co.",
+    "appid": 4005740,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4005740",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to Ploy Co.! A Puzzle game where you lead unsuspecting employees into traps, steal from their desks, prank call employees, and destroy an otherwise harmonious workforce in the name of making a safer place!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Brick Game",
+    "appid": 1087090,
+    "price": 1199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1087090",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A retro-inspired classic arcade brick-breaker",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "简易日式麻将",
+    "appid": 4824410,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4824410",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a lightweight mahjong game designed for both enthusiasts and beginners of Japanese mahjong. The game features a clear 3D table display, supports various common game modes, and provides practical tips on winning hands and detailed scoring information.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Last Guest at Sunset",
+    "appid": 4822430,
+    "price": 1399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4822430",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Investigate a replayable Hollywood murder mystery where everyone has something to hide. Question guests, uncover contradictions, and identify the killer before they escape justice.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "CHIPSTACK",
+    "appid": 4755900,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4755900",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A desktop idle casino that runs while you game, queue, browse, or work — earning chips every second. Auto-play blackjack, slots, roulette with your bets and strategies. Plus 3 quick-play games like Video Poker. Toggle card counting, equip powerful mods or play pure, and chase the highest chipstack!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "AR Basketball",
+    "appid": 4794320,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4794320",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "AR Basketball is a long-term basketball franchise simulator where team chemistry, economics, fan growth, player personalities, and league history matter just as much as winning championships. Build your organization across 100 seasons and chase multiple paths to greatness.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Purrfect Slide",
+    "appid": 4834090,
+    "price": 599,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4834090",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cute, bubbly, and cozy match-3 puzzle game! Slide adorable colorful cats, trigger massive chain reactions with Bomb and Line cats, and chase high scores in Fever Mode. Kick back, relax to procedural cozy music, and unlock over 60 achievements in this purr-fectly relaxing puzzle experience.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Bepe War",
+    "appid": 4798810,
+    "price": 800,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4798810",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bepe War is a chaotic war simulator with unique missions and a sandbox mode. Drive any vehicle you can imagine, enable wild mutators, and enjoy brutal ragdolls!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
