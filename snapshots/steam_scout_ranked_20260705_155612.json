@@ -1,0 +1,571 @@
+[
+  {
+    "name": "The Pawn Broker",
+    "appid": 4840300,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4840300",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Pawn Broker is an atmospheric horror economic survival game. Run a cursed pawnshop, analyze every item that comes through for signs of theft or dark curses, and make high-stakes decisions to stay profitable before your five days are up.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Incident",
+    "appid": 4698340,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4698340",
+    "current_players": 0,
+    "total_reviews": 8,
+    "positive_rate": 75.0,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Incident is a first-person psychological horror game where you explore a closed circus, destroy evidence before investigators arrive, and avoid someone still inside watching your every move.",
+    "scout_score": 46,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Hot Dogs, Horseshoes & Hand Grenades",
+    "appid": 450540,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/450540",
+    "current_players": 392,
+    "total_reviews": 23621,
+    "positive_rate": 97.03,
+    "steam_score": "Overwhelmingly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Do you like hot dogs? How about horseshoes? Hand grenades? (everyone likes hand grenades) Anyway, we've got all that, and guns. SO MANY GUNS. So if you like ordnance, meat, and far too many groan-worthy puns, this is the VR sandbox game for you.",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "FOCUS",
+    "appid": 4849010,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4849010",
+    "current_players": 2,
+    "total_reviews": 4,
+    "positive_rate": 25.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Surveillance footage is slowly being rewritten. A point-and-click observation horror game where you find what changed and report it.",
+    "scout_score": 43,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Master Fall",
+    "appid": 4707290,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4707290",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Master Fall is a 2D psychological horror puzzle-platformer where players rotate the world to manipulate gravity, solve puzzles, and uncover hidden secrets as reality slowly collapses into a surreal nightmare.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Spirit of the Dome",
+    "appid": 3384540,
+    "price": 394,
+    "discount_percent": 21,
+    "url": "https://store.steampowered.com/app/3384540",
+    "current_players": 0,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Defend against endless waves of enemies and dark forces across a decaying world in this RTS styled tower defense game!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "For the Crown",
+    "appid": 2191410,
+    "price": 499,
+    "discount_percent": 50,
+    "url": "https://store.steampowered.com/app/2191410",
+    "current_players": 0,
+    "total_reviews": 11,
+    "positive_rate": 81.82,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A puzzle logistics builder where lemming-like workers transport resources across a limited island. Create production chains, optimize routes, upgrade your castle and solve increasingly complex space and logistics challenges. The island never gets bigger. Your logistics problems do.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "SoundRelay",
+    "appid": 4800130,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4800130",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A simple desktop soundboard that lets you play audio clips directly through your microphone in any game or voice chat. Instantly expand your collection of audio clips with full Steam Workshop and Linux support. Perfect for streamers or trolling your friends!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "An Adventure in Arabic",
+    "appid": 4394260,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4394260",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An Adventure in Arabic is a series of games that teaches Arabic Language. Chapter One, introduces Arabic Alphabet. Learn the various shapes and pronunciation of each letter while enjoying playing an Adventure RPG. The game has something to offer for all ages, feature rich and full of activities.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Random Fantasy Defense",
+    "appid": 4825610,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4825610",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A Tower Defense with Roguelike factor where divine blessings are unpredictable. Build your army, adapt to random fortunes, and defend Mystologia from an encroaching darkness.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Syndeo-Complex",
+    "appid": 1988930,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1988930",
+    "current_players": 0,
+    "total_reviews": 23,
+    "positive_rate": 65.22,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "In Syndeo-Complex you will explore five different environments connected by a hub. Each level has its own mechanics, weapons, enemies and bosses. The Keli, small droids, will (probably) guide you in your quest.",
+    "scout_score": 25,
+    "reasons": [
+      "無料 +20",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "JULPAE",
+    "appid": 4757640,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4757640",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "JULPAE is a free-to-play 4-player online card battle game with a Korean-inspired atmosphere. Learn the flow quickly in 1v1 duels, then infer hidden teams, play or pass, and read the match through timing, decisions, and mind games.",
+    "scout_score": 23,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Sex Passion and Lust",
+    "appid": 4840320,
+    "price": 1499,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4840320",
+    "current_players": 2,
+    "total_reviews": 5,
+    "positive_rate": 40.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sex Passion and Lust is the ultimate adult open-world sandbox game where your deepest fantasies come to life. Indulge in fully animated, uncensored sex scenes (solo, partner, and group), deep character customization, and complete cinematic control. No filters. No limits. Just pure, raw freedom.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Overlab",
+    "appid": 4858520,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4858520",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Combine atoms to create molecules and fulfill orders to survive as long as possible.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Visionaire Studio",
+    "appid": 4367370,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4367370",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Visionaire Studio is a professional game engine designed specifically for the creation of 2D and point-and-click adventure games.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Where Is Mommy",
+    "appid": 3997700,
+    "price": 419,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3997700",
+    "current_players": 0,
+    "total_reviews": 5,
+    "positive_rate": 60.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Trapped in a bazaar that twists with every turn, you are a lost child searching for your mother. Watch for subtle anomalies in the shifting environment to survive the loop. In this retro-inspired world, nothing is as it seems. Can you find her before the cycle swallows you whole?",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Wizard Gold",
+    "appid": 873260,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/873260",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An incremental game about an ancient stone that turns wood into gold. You collect fallen wood and feed it to the stone for gold, then hire wizards, buy upgrades, and cast spells. Prestige to start once again with permanent power to help you feed the stone even more.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The King's Game: Through the Veil",
+    "appid": 4590610,
+    "price": 699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4590610",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The King's Game is a 3D chess game where the pieces are concealed from your opponent. with two game modes; standard two-player chess and a circular board three-player chess variant. All across multiple atmospheric 3D environments.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "TravelRoute Studio",
+    "appid": 4409090,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4409090",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Don't leave your journey as just a GPS track. TravelRoute Studio turns GPX files into dynamic map videos for travelers. Features multiple camera modes, custom tags, and 1080p MP4 export. Create stunning route animations for YouTube, Instagram, and TikTok in minutes to share your story!",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Nin Ninja RESCUE MISSION",
+    "appid": 4829230,
+    "price": 179,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4829230",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Nin Ninja Rescue Mission is an action, adventure, platform, and endless runner game. Run, face dangerous enemies, dodge traps, defeat enemies, and use your skills to complete a rescue mission.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Incarnation - Lifetimes",
+    "appid": 1831380,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/1831380",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "After years of development, many failures and redesigns, Incarnation - Lifetimes final form is taking shape.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Pickel: The Mysterious Mine",
+    "appid": 4771430,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4771430",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A mysterious earthquake strikes, and the townspeople vanish without a trace. Become 'Pico' and venture deep into a dark underworld. Discover strange clues with every strike of your pickaxe. As you descend, a buried truth surfaces. What awaits at the bottom of the mine?",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Yips!",
+    "appid": 3059360,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3059360",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Throw the ball, chase it, and climb higher. Yips! is a pixel-art precision platformer where you must overcome unpredictable innings using a single baseball and carefully aimed throws.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "City Cardz",
+    "appid": 4831720,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4831720",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Collect 1200+ city cards from 600+ different cities, build your deck and compete in strategic card battles inspired by cities from around the world. Discover unique card abilities, different combinations, and interesting city facts as you outsmart the opponents.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "五行策(WuXing Card)",
+    "appid": 4365090,
+    "price": 239,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4365090",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "WuXing is a strategic card game inspired by the Five Elements of Chinese philosophy. Build powerful combos by mixing hero abilities and items, chase high scores, and adapt to ever-changing battles to forge your own winning strategy",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Rootbound Enigma",
+    "appid": 4478740,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4478740",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rootbound Enigma is a first-person puzzle adventure where curiosity leads to treasure, and mistakes lead to danger. Solve puzzles, overcome traps and parkour challenges, and explore atmospheric underground ruins.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Brick Game",
+    "appid": 1087090,
+    "price": 1199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1087090",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A retro-inspired classic arcade brick-breaker",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Relic Restorer",
+    "appid": 4840120,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4840120",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this 2D puzzle game, you play as a cultural relic restorer tasked with mending broken cultural relics.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Grandpa's Euchre",
+    "appid": 4864200,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4864200",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Grandpa's Euchre - Rule #1: NO TABLE TALK!!!!!! This is the card game version of Euchre that my Grandpa taught me. I grew up in Illinois and we played this at every family gathering. ",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Last Guest at Sunset",
+    "appid": 4822430,
+    "price": 1399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4822430",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Investigate a replayable Hollywood murder mystery where everyone has something to hide. Question guests, uncover contradictions, and identify the killer before they escape justice.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
