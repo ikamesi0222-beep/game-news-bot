@@ -1,0 +1,600 @@
+[
+  {
+    "name": "XeGrader plus",
+    "appid": 4323520,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4323520",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fantasy shooter where exploration and gimmicks are keys to victory. In a world of meticulous pixel art, uncover secrets hidden in every stage. Collect powerful upgrades, defeat fantasy monsters with precise shooting, and forge the world's fate!",
+    "scout_score": 73,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Evercrown",
+    "appid": 4306760,
+    "price": 674,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4306760",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A turn-based tactical roguelike where your heroes’ actions are decided by a slot machine. Spin, lock, and reroll abilities, read enemy intentions, build powerful synergies, and push your run into explosive late-game scaling.",
+    "scout_score": 60,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Mandala",
+    "appid": 4293770,
+    "price": 119,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4293770",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A music-driven wave shooter built on one rule: stop to shoot, move to dodge. Fractal worlds react to the music in real time. Load your own tracks and shape your own experience.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Three Kingdoms : Restoration of Han",
+    "appid": 2757260,
+    "price": 1169,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2757260",
+    "current_players": 1,
+    "total_reviews": 3,
+    "positive_rate": 33.33,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lead the revival of the falling empire by mastering strategic combat—utilizing the tactical advantages of 15 unique unit classes and powerful stratagems—across more than 50 dynamic battlefields.",
+    "scout_score": 53,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "JAMBREDREK: PURE DETECTIVE",
+    "appid": 4804440,
+    "price": 225,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4804440",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Investigate a series of brutal murders in a remote forest county. Search for clues, explore disturbing locations, encounter horrifying creatures, and uncover the truth in this first person horror experience.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Touhou - Kira's Fangame Collection",
+    "appid": 4761030,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4761030",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A collection of 6 in 1 free to play fangames based on the Touhou Project! Play as Reimu and other iconic characters in these couch co-op adventures that include genres such as platforming, metroidvania, tower defense and 3D stealth!",
+    "scout_score": 50,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Pogo Panic",
+    "appid": 3902930,
+    "price": 239,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3902930",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pogo Panic is a punishing parkour climb where you can play solo or co-op. Bounce on a pogo stick, burst a fleeting jetpack, and fight gravity through vertical sky courses with optional checkpoints. Turn them off for a full no mercy run.",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Another Slop Game",
+    "appid": 4853490,
+    "price": 336,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4853490",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Another Slop Game is a chaotic medieval co-op platformer where you and your friends jump, fall, scream, and suffer through floating ruins, giant traps, stupid obstacles, and terrible decisions. Play solo or online with friends. Reaching the top is optional, losing your mind is guaranteed.",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Thunder Infinity",
+    "appid": 4667980,
+    "price": 1140,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4667980",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Thunder Infinity takes classic shoot 'em up gameplay to the next level by adding survival, roguelite, and bullet hell elements. Choose your pilot, ship, and weapons, and destroy the Varkon Star Empire in the final offensive of the Aegis Star Bastion.",
+    "scout_score": 45,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Esports Manager 2026",
+    "appid": 2749950,
+    "price": 1599,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2749950",
+    "current_players": 5102,
+    "total_reviews": 84,
+    "positive_rate": 80.95,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build and lead your own professional esports organization. Scout players, manage contracts, develop talent, hire staff, grow your brand, and compete for championship titles in a deep and realistic management simulation.",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Kamikaze Survivors",
+    "appid": 4412950,
+    "price": 749,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4412950",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Kamikaze Survivors is a top-down Roguelike where players command, equip, and level up battleships from WW1 to the present day. Participate in the First Blitz on London, Pearl Harbor, and Operation Epic Fury in command of history's most famous warships.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Herb's Homegrown Havoc",
+    "appid": 3566760,
+    "price": 239,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3566760",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Herb's Homegrown Havoc is a simple but chaotic arcade roguelike. Pluck plants out of the ground before they rot and summon hostile creatures! Upgrade after each round to increase Herb's strength and skills in various ways.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Gorotsuki Paradise",
+    "appid": 4246340,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4246340",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Gorotsuki Paradise is an online PvP card game where you build your deck as you battle.🃏 Recruit over 150 unique &quot;gorotsuki&quot; cards and fight your way to the top of the mad city of Saitama.🦹 It’s completely free to play, with no pay-to-win mechanics!🤑",
+    "scout_score": 42,
+    "reasons": [
+      "次点ジャンル: PvP +20",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Idle DeepMiner",
+    "appid": 4529100,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4529100",
+    "current_players": 18,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You control a living pickaxe capable of tearing through the world on its way to the core. Launch it downward, upgrade and modify it, and watch as a simple descent turns into a chaotic spectacle of explosions, lightning, and combos.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Sunken Dragon",
+    "appid": 3257760,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3257760",
+    "current_players": 12,
+    "total_reviews": 9,
+    "positive_rate": 55.56,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a retro 8-bit pixel-style RPG. The game features turn-based combat, inviting players to explore the unknown in a fantastical world.",
+    "scout_score": 36,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "I'm Making a Monster",
+    "appid": 4047160,
+    "price": 718,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4047160",
+    "current_players": 3,
+    "total_reviews": 10,
+    "positive_rate": 90.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Piece by piece, you pour your soul into the monster. This is your burden and you bear it willingly. Your friends think that this is unhealthy.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cosmodrill",
+    "appid": 3722660,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3722660",
+    "current_players": 65,
+    "total_reviews": 5,
+    "positive_rate": 80.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore the vastness of space, dig deep into planets to find resources, upgrade your ship and survive against alien life in this 2D open-universe space mining adventure! How far are you willing to travel into the dark unknown?",
+    "scout_score": 34,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "The Last Tale Told: Spam",
+    "appid": 4133490,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4133490",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You live alone. Work from home. You haven't been out for days, trapped by endless rain. Every day your phone rings, it's an unknown number. “Suspected Scam” is what you read on the screen. You think it's just spam.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Marianara Deep",
+    "appid": 4660660,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4660660",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dive into the exciting aquatic-themed space world of Marianara Deep! A vigorous shoot 'em up bullet hell, filled with area-denying bullet patterns to challenge players! Join one of our crew members to shoot 'em all!",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Nightclub Empire",
+    "appid": 4813570,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4813570",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build and manage your own nightclub in this first-person business simulation. Serve drinks, hire staff, expand your venue, and turn a small bar into a luxury nightlife empire.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Obey the Rules: Forest",
+    "appid": 4571030,
+    "price": 149,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4571030",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An endless path lies ahead. Break the rules, and it will never end. Observe, deduce, and make the right choices to find your way out.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Clusterbug",
+    "appid": 3367910,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3367910",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Clusterbug is a space-themed, insect-filled, and futuristic bullet hell shoot 'em up. Travel through the insect-filled world as you cleanse it from a bio-mechanical virus that has turned any living being infected by it into frenzied mech mutations, bringing freedom and peace.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Simulation 9",
+    "appid": 4435420,
+    "price": 839,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4435420",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You wake up in an endless hallway with no memory of anything. A voice calls out to you and explains that after your death, your mind was placed into a computer simulation. Unfortunately, bugs are starting to appear, and you’ll have to report them to fix the simulation.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "INFLATION Inc.",
+    "appid": 3453040,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3453040",
+    "current_players": 6,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You're a lewd scientist from INFLATION Inc.; a research corporation tasked by the government to experiment on women in the name of science! Their goal is to unlock the secrets of FEMALE GROWTH and you must help them achieve this goal!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Skyfire Embers",
+    "appid": 4660680,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4660680",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Skyfire embers is an explosive dragon adventure seeking its final resolution. Dodge, weave and fire your way through challenging bullet patterns in this hand-animated shoot ‘em up!",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "ShapesFoundry",
+    "appid": 4851520,
+    "price": 2499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4851520",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your stats, on top of the game. A no-code studio for live hardware dashboards: build unlimited custom widgets from CPU, GPU, temps and fans, then drop them as a click-through game overlay. No coding needed; power users also get a full formula engine.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Audictrl",
+    "appid": 4822820,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4822820",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Running in your system tray, Audictrl is a desktop audio assistant that automatically changes your background soundtrack based on active windows, local weather, and the current time. From white noise lovers to podcast listeners: set your rules and let Audictrl handle the rest.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "RushWord",
+    "appid": 4033220,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4033220",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rush Word is a fast-paced competitive word game where players race to find and type words before their opponent. Play solo to improve your vocabulary or challenge friends in online 1v1 matches through Steam invites.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Obsession",
+    "appid": 4249810,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4249810",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Obsession — The Summit Awaits You! Are you ready to conquer a geometric world rising toward the sky in the middle of a vast, endless ocean? The Obsession is a skill-based 3D platformer set in a pure, distraction-free world where it’s just you and the course.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Ore Shatterer",
+    "appid": 4871640,
+    "price": 89,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4871640",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Break ores with a simple movement of your mouse! With zero clicks, just hover over them to destroy them, enjoy a relaxing time, and climb the Steam global leaderboard.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
