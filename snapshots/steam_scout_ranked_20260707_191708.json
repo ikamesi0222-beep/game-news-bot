@@ -1,0 +1,586 @@
+[
+  {
+    "name": "Throne of Trials",
+    "appid": 4844330,
+    "price": 19200,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4844330",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A hardcore turn-based boss rush RPG where preparation is key. Assemble a 4-member party from 15 classes, and customize them with dropped gear and skills to defeat rule-breaking bosses. Read enemy intents, manage hate, and execute tactical interrupts in this deep strategic experience.",
+    "scout_score": 85,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Memo R.I.P.",
+    "appid": 4697170,
+    "price": 64000,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4697170",
+    "current_players": 6,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A first-person card game where horror isn’t constant: it appears only when the match decides. For 1–4 players with real-time voice chat, over 900 dynamic events, cursed progression, and a final boss waiting for the challenge.",
+    "scout_score": 60,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "成長/積み上げ要素: Progression +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Hollow House",
+    "appid": 4851270,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4851270",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A co-op first-person horror game. Search a mysterious wooden house suspended above the clouds, complete objectives, and escape before the creatures hunting you close in. Play solo or with friends across multiple difficulty levels.",
+    "scout_score": 60,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Horror +20",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "DOI: Defense Shooter",
+    "appid": 4829530,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4829530",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Defend the base and gather energy!",
+    "scout_score": 60,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Fugaz",
+    "appid": 4389170,
+    "price": 26100,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4389170",
+    "current_players": 4,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play a flute to solve puzzles and unlock secrets, looking for an exit of a dark place before the darkness consumes everything. In this dark immersive horror puzzle game, knowledge is key to put the pieces together. No music experience required.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Piano Trauma - Stress Deluxe",
+    "appid": 4268060,
+    "price": 42700,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4268060",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A co-op game about driving a piano to play a concert.",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Legacy of the Ark: The Long Awakening",
+    "appid": 4871420,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4871420",
+    "current_players": 26,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Legacy of the Ark: The Long Awakening is a sci-fi idle progression game where you rebuild a shattered colony ship, restore lost systems, automate production, and uncover the mystery hidden within the Ark’s damaged memory.",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Drunk Dad vs Family",
+    "appid": 3706280,
+    "price": 10700,
+    "discount_percent": 35,
+    "url": "https://store.steampowered.com/app/3706280",
+    "current_players": 8,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Drunk Dad vs Family is a chaotic 4v1 party game where the family tries to put a drunk dad to sleep… before he turns the house into total chaos!",
+    "scout_score": 45,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "operation",
+    "appid": 4868590,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4868590",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Operation is a zombie horror action game where players enter a sealed operation zone, fight infected enemies, complete mission objectives, and survive with teammates in a dark and dangerous environment.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Dreaming With Sharks",
+    "appid": 4773390,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4773390",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as a Shark name Doc who is granted wonderful surgical abilities after given strange pills from a mysterious man. Doc excels at his surgeries, but suffers wild hallucinations. Progress each day with a variety of minigames and modifiers in order to become a surgery master!",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sisyphus's Worst Day (again)",
+    "appid": 4700250,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4700250",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build traps, manipulate the environment, and engineer the perfect loop to keep Sisyphus from ever reaching the summit in this comedic isometric 3D puzzle game.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Hentai Puzzle: Reika",
+    "appid": 4826450,
+    "price": 10000,
+    "discount_percent": 33,
+    "url": "https://store.steampowered.com/app/4826450",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "🔥 Hentai Puzzle: Reika Solve relaxing puzzles, unlock daring scenes, and discover Reika’s naughty side. Meet a brilliant, teasing student with plenty of private surprises!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Legends of Starkadia",
+    "appid": 2618160,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2618160",
+    "current_players": 6,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Legends of Starkadia is a quirky turn-based RPG full of quick-time events and action-packed adventure! The Starkadian Empire is under attack by one of their own and it’s up to a team of unlikely heroes to assist the resistance to restore peace by defeating Niko and his legion of interstellar armies.",
+    "scout_score": 32,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Car Mechanic Simulator 2021 - Pickup DLC",
+    "appid": 4651970,
+    "price": 26100,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4651970",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Car Mechanic Simulator 2021 - Pickup DLC includes 6 versatile pickup trucks built for heavy loads and off-road adventures:",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "OUTWORKS",
+    "appid": 4859790,
+    "price": 20400,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4859790",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a towering 3D fortress and hold the line. Stack floors, raise walls, and place turrets by altitude to survive escalating swarms of ground and flying machines closing on your core — then watch one collapsing tower take everything with it. A lean, neon, code-built base-defense roguelite.",
+    "scout_score": 31,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Down The Stairs: The Game",
+    "appid": 4810930,
+    "price": 45400,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4810930",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Down The Stairs: The Game is a physics-based ragdoll challenge where every clean stair run, brutal fall, shaft setup, and ghost race pushes you toward a better score. Stay in control, hit the beams, beat other players’ ghosts, and master the descent.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Arsica: Echoes of Ars",
+    "appid": 4874010,
+    "price": 45400,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4874010",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Arsica is a 2D Platformer RPG where you play as a demon hunter carrying a power no army ever had. Four demons claimed the lands. Mankind retreated to its last shelter. You are not here to survive. You are here to end it. Build your team, forge your gear, hunt every monster and four demon.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hentai Succubus Puzzle",
+    "appid": 4844800,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4844800",
+    "current_players": 4,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A seductive adult puzzle game where each completed level reveals more of a mysterious succubus. Solve 100 image-based puzzles, unlock the gallery, and progress toward intimate rewards.",
+    "scout_score": 25,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Aéro: speedrun labyrinthe",
+    "appid": 4856850,
+    "price": 24000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4856850",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A third-person speedrun puzzle game set in a mysterious sci-fi laboratory. Complete experimental rooms, master your route, improve your best time, follow Aves’ voiced guidance, and search for the 12 hidden bonus eggs.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "50 Years Classic",
+    "appid": 3914980,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3914980",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "50 Years Classic is a minimalist turn-based strategy game where you can choose from a variety of nations, each with its own unique feature. The game offers fast, engaging gameplay with high replayability. This is a free version of the game &quot;50 years&quot;.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Chief of the Valley",
+    "appid": 4787290,
+    "price": 59000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4787290",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a PC company from a one-person operation in the dawn of computing to an industry titan in the modern era. Manage staff, secure contracts, research technology, and ship products all while keeping yourself from financial ruin. The Valley is an unforgiving place.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Puzzles: Fish",
+    "appid": 4727270,
+    "price": 3000,
+    "discount_percent": 41,
+    "url": "https://store.steampowered.com/app/4727270",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Puzzles: Space Cats",
+    "appid": 4727280,
+    "price": 3000,
+    "discount_percent": 41,
+    "url": "https://store.steampowered.com/app/4727280",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Trying to Wake Up",
+    "appid": 4862010,
+    "price": 29700,
+    "discount_percent": 36,
+    "url": "https://store.steampowered.com/app/4862010",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Trying To Wake Up is a 3D platformer focused on storytelling and atmosphere. Journey through a dreamlike world, overcome simple obstacles, and gradually uncover the mysteries behind an emotional and immersive adventure.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "City Girl: Heartbeat Sea Breeze",
+    "appid": 3996680,
+    "price": 7900,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3996680",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An ACG love adventure game with free exploration. Featuring 3 beach girls and 5 city girls. Rich storyline, emotional bonding, and plenty of activities (exactly the kind you're hoping for~).",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Time Dilation Lab",
+    "appid": 4836100,
+    "price": 29292,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4836100",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An easy to use, fully adjustable space lab with Einstein's special relativity equations in a three-spacecraft configuration. Play around with time dilation and relativistic Doppler effects in space at your own pace. Multiple viewpoints in 3D, real-time, with data export functionality.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Task Dock",
+    "appid": 4350680,
+    "price": 20000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4350680",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A floating task manager that stays in the corner of your screen. Add, complete and track tasks while using other apps. Stay organized throughout your day.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Above the Sun",
+    "appid": 4838940,
+    "price": 11295,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4838940",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Yugemaru, a self-proclaimed gal mechanic, sets out to reach the top of the Acid Tower using the power of steam. With the eerie acid closing in, climb the randomly generated platforms — climb, climb, CLIMB! ...Wait — did I just fall? LOL.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "ホロウソロウ",
+    "appid": 3515060,
+    "price": 20400,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3515060",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hollow Sorrow is a dark yet heartwarming 2D exploration adventure game where you confront your lost past.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Enigmo",
+    "appid": 562770,
+    "price": 146500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/562770",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Award-winning physics puzzle game now in spatial format! Get your brain in gear!",
+    "scout_score": 15,
+    "reasons": [
+      "2000円以下 +15"
+    ]
+  }
+]
