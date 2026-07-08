@@ -1,0 +1,582 @@
+[
+  {
+    "name": "Tower of Void",
+    "appid": 4798820,
+    "price": 89,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4798820",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Tower of Void is a tactical roguelike RPG. It features formation strategy, auto combat, loot farming and class progression. The core fun lies in building lineups, adjusting positions, equipping skills and gear to counter diverse enemies.",
+    "scout_score": 80,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
+    "appid": 3839790,
+    "price": 2999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3839790",
+    "current_players": 0,
+    "total_reviews": 74,
+    "positive_rate": 97.3,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Known for its dynamic combat, ensemble of versatile characters, and thrilling online co-op, Relink returns with expanded solo and multiplayer content, bringing endless adventure to skyfarers both new and old.",
+    "scout_score": 76,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "Forest Lookout",
+    "appid": 4767420,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4767420",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Forest Lookout is a first-person horror game where you navigate a lost person in a forest to safety. You can choose beetween options in dialogs to them. Listen to them, keep track of them, use your map and lead them out of the woods.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Tokyo Valkyries",
+    "appid": 4093240,
+    "price": 2069,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4093240",
+    "current_players": 126,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build the Deck That Saves Tokyo! Tokyo Valkyries is a roguelite deckbuilder where players craft a deck and strategize to defeat the enemies that stand in their way and progress through the map. Construct your deck and wield it to defend Tokyo from the Underworld invasion!",
+    "scout_score": 39,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Ars Et Anima",
+    "appid": 4656420,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4656420",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A relaxing educational experience set in the Renaissance: face ancient Latin quizzes inside the convent of today's San Marco Museum in Florence. Test your knowledge and help Beato Angelico complete a precious painting commissioned by Cosimo de' Medici.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Prison of Lies",
+    "appid": 3041280,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3041280",
+    "current_players": 1,
+    "total_reviews": 9,
+    "positive_rate": 100.0,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this short visual novel, four prisoners on death row are cleared of all charges. But the prison has a quota to meet. The four are put in a room and asked to decide among themselves over the course of an hour... who will be the one to die?",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "CluDoku",
+    "appid": 4860070,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4860070",
+    "current_players": 4,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A murder mystery blended with sudoku-style logic. Explore suspicious rooms, examine weapon evidence, and piece together clues through sharp deduction to reveal the killer. Play alone or work online with up to 4 detectives to solve the case together.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Granblue Fantasy: Relink - Endless Ragnarok Character Expansion Set: Fediel",
+    "appid": 4579020,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4579020",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This set unlocks the new playable character Fediel and comes with useful items to get her started. Set Content • Crewmate Card: Fediel • Ambrosia x 5 • The Black's Mark Fediel-Unique Sigil",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Granblue Fantasy: Relink - Endless Ragnarok Character Expansion Set: Fraux",
+    "appid": 4579010,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4579010",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This set unlocks the new playable character Fraux and comes with useful items to get her started. Set Content • Crewmate Card: Fraux • Silver Centrum x 20 • Enchantress's Blessing Fraux-Unique Sigil",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "clear cherry ice.",
+    "appid": 4855490,
+    "price": 1203,
+    "discount_percent": 14,
+    "url": "https://store.steampowered.com/app/4855490",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Did I really save this pretty boy ten years ago...? A fresh summer youth BL visual novel about memory, promises, and mutual salvation. [clear cherry ice.] Get closer to Jiwon and Chaehyun, and see whether your bond becomes friendship—or something more.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "3DMurderMystery TheAshenYou",
+    "appid": 3821830,
+    "price": 1709,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3821830",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;The Ashen you&quot; is a 3D murder mystery for four players. Set in a French manor in the 18th century, a mysterious case of death by fire has occurred. Relive the suspects' memories, explore the manor to gather evidence, and work together to uncover the culprit through discussion.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Sauve le Shérif !",
+    "appid": 4760110,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4760110",
+    "current_players": 76,
+    "total_reviews": 6,
+    "positive_rate": 33.33,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sauve le Shérif 4 à 10 joueurs. Deux saloons. Une seule règle : ne fais confiance à personne. Chat vocal en proximité, duels en face-à-face, et un dilemme à chaque tir : pacifier ou abattre.",
+    "scout_score": 28,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Escape from Tarkov: TarCoin Special Offer",
+    "appid": 4898900,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4898900",
+    "current_players": 0,
+    "total_reviews": 87,
+    "positive_rate": 35.63,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "Get 2,000 TarСoins with a 100% bonus — customize your PMC, expand your stash, and unlock seasonal bundles in the Expansion Hub. Limited: one per account.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "Granblue Fantasy: Relink - Endless Ragnarok Special Pack",
+    "appid": 4528540,
+    "price": 1199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4528540",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Includes special character colors for the captain, Id, and Sandalphon. Also comes with useful items for unlocking Seofon, Tweyen, and Sandalphon.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Disney Dreamlight Valley: Honeyglow Woods",
+    "appid": 4376930,
+    "price": 1699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4376930",
+    "current_players": 0,
+    "total_reviews": 6,
+    "positive_rate": 66.67,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore the Honeyglow Woods, and reconnect with Disney's Winnie the Pooh, Eeyore and Piglet in a brand-new Adventure Pack!",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Beghost",
+    "appid": 3957810,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3957810",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "BEGHOST is a narrative-heavy 2D action-adventure game set in the bowels of a haunted dungeon. Uncover the dungeon's darkest secrets with your ghost girl companion Bee, as you navigate your way through enemies, traps, and more, in a desperate attempt to escape!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Plantify",
+    "appid": 4856990,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4856990",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Plantify is a third-person farming game which focuses on a small cat learning how to properly take care of plants.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Pocket Pond",
+    "appid": 4851300,
+    "price": 244,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4851300",
+    "current_players": 8,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A tiny angler who fishes on your desktop while you work. Pocket Pond is a cozy idle overlay where a pixel-art fisherman auto-casts, reels in 130 species, and fills your codex - no clicking required. Just let him drift in the corner of your screen and see what's biting.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Mushroom farm",
+    "appid": 4817530,
+    "price": 209,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4817530",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Grow magical mushrooms in your own cozy farm! Cultivate 20 unique species, collect spores, and discover rare fungi on forest walks. A relaxing idle game with full controller-free play and 31 languages supported.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Adventures Of Hooman",
+    "appid": 4457130,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4457130",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A sci-fi comedy graphic novel where you play Hooman, an android too conceited to be scared and too lucky to die. Your crew is going to die but they could have avoided an untimely death if they had only listened to you. You are not the problem.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Escape from Tarkov: TarCoin Ingame Currency",
+    "appid": 4490930,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4490930",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Customize your PMC, expand your stash, grab seasonal offers. Make Tarkov uniquely yours. Bigger packs, better deals.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Escape from Tarkov: TarCoin Ingame Currency",
+    "appid": 4490930,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4490930",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Customize your PMC, expand your stash, grab seasonal offers. Make Tarkov uniquely yours. Bigger packs, better deals.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Escape from Tarkov: TarCoin Ingame Currency",
+    "appid": 4490930,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4490930",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Customize your PMC, expand your stash, grab seasonal offers. Make Tarkov uniquely yours. Bigger packs, better deals.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Escape from Tarkov: TarCoin Ingame Currency",
+    "appid": 4490930,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4490930",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Customize your PMC, expand your stash, grab seasonal offers. Make Tarkov uniquely yours. Bigger packs, better deals.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Escape from Tarkov: TarCoin Ingame Currency",
+    "appid": 4490930,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4490930",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Customize your PMC, expand your stash, grab seasonal offers. Make Tarkov uniquely yours. Bigger packs, better deals.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Escape from Tarkov: TarCoin Ingame Currency",
+    "appid": 4490930,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4490930",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Customize your PMC, expand your stash, grab seasonal offers. Make Tarkov uniquely yours. Bigger packs, better deals.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Surplus Value Simulator",
+    "appid": 4773850,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4773850",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is an abstract simulation of capitalism through the trade, flow, and conversion of surplus value, commodities, debt, equity, and land rights. Each unit has unique behaviors and an asset panel updated in real time.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Unpaired Socks",
+    "appid": 4345460,
+    "price": 330,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4345460",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A relaxing pixel art game about matching socks. Figure out the matches to help 10 villagers sort through their messy piles of socks. Or just enjoy endlessly pairing for creating your own sock collection.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "plink",
+    "appid": 4851600,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4851600",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "One drop. Zero room for error. Can you master the physics of the bounce?",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Neuro Hunter",
+    "appid": 4899790,
+    "price": 674,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4899790",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dark, Corrupt, buried deep in Secrets and Lies. Your prospects were low until the Corporation gave you an offer. A job too easy, too good to be true... it was!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
