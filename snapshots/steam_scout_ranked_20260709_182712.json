@@ -1,0 +1,597 @@
+[
+  {
+    "name": "Cyber Psychosis",
+    "appid": 1349930,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/1349930",
+    "current_players": 6,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cyber Psychosis is a pseudo-3D dynamic first-person shooter in a cyberpunk setting with a lot of enemies, blood and drive",
+    "scout_score": 103,
+    "reasons": [
+      "最優先ジャンル: First-Person Shooter +50",
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Now",
+    "appid": 4530260,
+    "price": 224,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4530260",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Now is a challenging horror-strategy FPS survival game. Set in a dark world filled with radiation and mystery, you must complete various missions while trying to stay alive against terrifying threats. Do you have the skills and courage to survive in the middle of this darkness? Let's see!",
+    "scout_score": 103,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "次点ジャンル: Horror +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cursed Companions",
+    "appid": 3265230,
+    "price": 629,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3265230",
+    "current_players": 42,
+    "total_reviews": 399,
+    "positive_rate": 82.21,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "If we say the wrong words... WE DIE! This game kills you with your own voices! Online co-op where everyone gets a forbidden word, say it and you kill your friends. Explore spooky dungeons, cast spells and defeat monsters with your voices. 8-player Co-op Mode. 16-player Traitor Mode",
+    "scout_score": 79,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Chthonian TD",
+    "appid": 4048500,
+    "price": 699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4048500",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fast-paced co-op action roguelite × tower defense. Fight escalating waves, risk resources in a dangerous mine, defeat the boss - then see how long you survive in Endless.",
+    "scout_score": 60,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Our Wonderland",
+    "appid": 4329100,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4329100",
+    "current_players": 29,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A horror-fantasy visual novel following the trials of a dysfunctional friend group thrust back into the wish-granting wonderland of their youth. Either they face the issues plaguing them or risk dying in horrific ways again… and again… and again.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Vape Store Miami: Prologue",
+    "appid": 4849630,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4849630",
+    "current_players": 9,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Get your first taste of running a retro Miami vape shop in this 1–4 player co-op simulator prologue. Stock shelves, serve customers, craft custom e-liquids, handle phone and online orders, build your reputation, and lay the foundation for a growing business.",
+    "scout_score": 52,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Deadlined.",
+    "appid": 4834000,
+    "price": 200,
+    "discount_percent": 33,
+    "url": "https://store.steampowered.com/app/4834000",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "a Psychological Horror where you lose yourself while trying to finish your paperwork before the Deadline.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Wahm",
+    "appid": 3897960,
+    "price": 59,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3897960",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A psychological Arabic horror short story. You set off toward the Empty Quarter, off-roading deep into the vast desert, a place meant for peace and clarity.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Cat Mail Co.",
+    "appid": 4380490,
+    "price": 1274,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4380490",
+    "current_players": 6725,
+    "total_reviews": 79,
+    "positive_rate": 92.41,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run a cozy cat post office. Sort and deliver parcels from the daily boat, organizing everything your way. At night, the moon reveals hidden truths about packages. Clear a strange backlog, help locals, and unlock new abilities and destinations.",
+    "scout_score": 46,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Capybara Bingo",
+    "appid": 4668040,
+    "price": 299,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4668040",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy party bingo game for 1–8 players. Manage up to 6 cards, stamp your numbers, and race to call bingo — but get it wrong and you pay the price. Cozy mayhem with capybaras, abilities, and lots of cosmetics.",
+    "scout_score": 45,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "ELEVATOR: AVICI",
+    "appid": 4790520,
+    "price": 159,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4790520",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;ELEVATOR: AVICI&quot; is a 1st-person psychological horror with a retro, HK lo-fi aesthetic. Trapped in a decaying apartment elevator, your only link to the outside is a strange voice on the intercom claiming to be a repairman. Will you follow his commands, or find your own escape from the darkness?",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Mesmalie",
+    "appid": 3534790,
+    "price": 764,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3534790",
+    "current_players": 94,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "MESMALIE is an occult visual novel with point and click mechanics. A magickal incident in your personal life brings you to a small witches' coven in the middle of nowhere. Here, you'll learn to tame your ability... though, not without some bumps along the way.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Black Flag Resynced",
+    "appid": 3751950,
+    "price": 5999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3751950",
+    "current_players": 91379,
+    "total_reviews": 2463,
+    "positive_rate": 53.07,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "The iconic solo pirate adventure returns. Sail the Caribbean as Edward Kenway during the Golden Age of Piracy in this faithfully enhanced remake featuring stunning visuals, upgraded gameplay, and new content.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Black Flag Resynced",
+    "appid": 3751950,
+    "price": 5999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3751950",
+    "current_players": 90929,
+    "total_reviews": 2463,
+    "positive_rate": 53.07,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "The iconic solo pirate adventure returns. Sail the Caribbean as Edward Kenway during the Golden Age of Piracy in this faithfully enhanced remake featuring stunning visuals, upgraded gameplay, and new content.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Black Flag Resynced - Master Assassin Character Pack",
+    "appid": 4496490,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4496490",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Master Assassin Character Pack includes: Edward costume, swords, pistols, and a trinket with unique perks.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Black Flag Resynced - Master Assassin Naval Pack",
+    "appid": 4496510,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4496510",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Master Assassin Naval Pack includes: sail set, ship's pet, crew attire, wheel, figurehead, and hull trim.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Black Flag Resynced - Hellfire Character Pack",
+    "appid": 4496530,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4496530",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Become an infernal pirate with fiery vengeance with the Hellfire Character Pack, featuring: - Hellion Armor (gear set) - Blades of the Damned (swords) - Diabolist's Pistol - Demon-forged Pendant (trinket)&quot;",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Black Flag Resynced - Sea Serpent Character Pack",
+    "appid": 4496580,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4496580",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 0.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Get gear inspired by abyssal sea creatures with the Sea Serpent Character Pack, featuring: - Stormfury Shroud (gear set) - Serpent's Fang Cutlass (sword) - Fury of the Deep Pistol - Abyssal Pendant (trinket)&quot;",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Black Flag Resynced - Sea Serpent Naval Pack",
+    "appid": 4496600,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4496600",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Get the Sea Serpent Naval Pack, featuring: - Ocean's Fury Sail Set - Sea Monkey Ship's Pet - Sea Venom Crew Attire - Snakehead Ship's Wheel - Leviathan Figurehead - Kraken's Scale Hull Trim",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Black Flag Resynced - Dragon Storm Character Pack",
+    "appid": 4496620,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4496620",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Become a fearsome pirate with the Dragon Storm Character Pack, featuring: - Dragonscale Armor (gear set) - Dragon's Fang Swords - Dragon's Roar Pistols - Fortunate Circle Charm (trinket)",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": " Assassin's Creed Black Flag Resynced - Hellfire Naval Pack",
+    "appid": 4496550,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4496550",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Get the Hellfire Naval Pack, featuring: - Wind Demon Sail Set - Ashes, the Ship's Pet - Devil's Deckhands Crew Attire - Ring of Fire Ship's Wheel - Fallen Angel Figurehead - Infernal Majesty's Hull Trim&quot;",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Black Flag Resynced - Dragon Storm Naval Pack",
+    "appid": 4496640,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4496640",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Get the Sea Serpent Naval Pack featuring: - Vermillion Seal Sail Set - Warrior Monkey Ship's Pet - Pacific Pirate Crew Attire - Turn of Fate Ship's Wheel - Storm Spirit Figurehead - Jade Envoy Hull Trim",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Black Flag Resynced - Map Pack",
+    "appid": 4496660,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4496660",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 0.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Use a special spyglass to instantly unlock rare collectibles across the World Map. The list of collectibles revealed includes: - Mayan Stelae - Shanties - Treasure Maps - Letters - Special Chests - Animus Keys&quot;",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Cozy Tide",
+    "appid": 4809010,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4809010",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy fishing and island-building game where you catch strange fish, expand your tiny island, decorate postcard islands, complete daily voyages, and collect your way through a cheerful ocean world.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "SonderSoft Soccer: Monkeys VS Robots!",
+    "appid": 4806090,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4806090",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "We forced a bunch of monkeys to compete against robots for half a year in 20 virtual soccer fields, and now YOU can enjoy the resulting shenanigans. Machine learning is the future, and the future is Monkeys VS Robots, where you go head to head with Generative Adversarial Imitation Learning (GAIL!!!)",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Tattoo Dungeon",
+    "appid": 4815620,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4815620",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Tattoo Dungeon is an action-adventure style platformer, where you play as a tattoo apprentice who gets thrown into the midst of an invasion of other-dimensional tattoo monsters, all while trying to find your mentor's lost tattoo flash!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "ΠΟΛΙΣ — Athens",
+    "appid": 4864450,
+    "price": 711,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4864450",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Govern classical Athens across 272 unbroken years (594–322 BC). Steer family factions, the favour of the gods, and shifting alliances through 332 historical events — as the tide of history carries your city, inexorably, toward 322 BC.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sim: World Cup Manager",
+    "appid": 4862400,
+    "price": 749,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4862400",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Take charge of your nation from a world of 202 teams and chase international glory. Build your squad, master deep tactics and live sideline shouts, unearth wonderkids in your national youth academy, and battle through the World Cup and Continental Championships in a deep football management sim.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Evil Thing",
+    "appid": 4373160,
+    "price": 350,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4373160",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Deep in the mountains stands a dying fox shrine. As a new shaman with a spiritual bond to immortals, you're now its guardian. But this temple is no sanctuary—corruption spreads, dark forces watch. Can you survive each night in this cursed land?",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Prince of Vibe Code",
+    "appid": 4820270,
+    "price": 179,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4820270",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An incremental game where you become the most successful game developer. Create and play 44 games with just a few clicks, read the chat and follow the story, sell your games, and grow your fanbase. You win when you have $1,000,000,000,000 and 7 billion followers.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
