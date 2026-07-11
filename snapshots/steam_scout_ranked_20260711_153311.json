@@ -1,0 +1,601 @@
+[
+  {
+    "name": "HiveBreak",
+    "appid": 4858120,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4858120",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hivebreak: a top-down wave shooter where the hive adapts to how you play. Survive solo or in online co-op.",
+    "scout_score": 98,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Ouch! Cargo!",
+    "appid": 4740600,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4740600",
+    "current_players": 10,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "4-Player Online Co-op. Push Carts &amp; Loot Cargo. Troll Crewmates. Fight Beasts. Hit the Quota to Evacuate.",
+    "scout_score": 94,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Scourge of the Necromancer",
+    "appid": 4717680,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4717680",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Necromancer's blight is consuming the realm. Six heroes — each lethal to only one type of undead — must coordinate, gather four-piece relic weapons, and converge on him before too much of the kingdom turns to ash. A 1–6 player cooperative tactical hex-board game.",
+    "scout_score": 78,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: Cooperative +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Save the Kingdom - Warrior Rising",
+    "appid": 4852880,
+    "price": 419,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4852880",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 2D hand‑drawn medieval RPG where Bryn Kelwyn and his friends join the army of Aethelgard to resist Tod Ulfrikson’s rebellion and the invading Hrun Khanate, rising as heroes through tactical battles and story‑driven adventure.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "MEGABOOBS 🔞",
+    "appid": 4761320,
+    "price": 944,
+    "discount_percent": 37,
+    "url": "https://store.steampowered.com/app/4761320",
+    "current_players": 14,
+    "total_reviews": 17,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fully NSFW 3D survivor roguelite packed with massive, hyper-proportioned heroines, intense action, and uncensored adult content. Stack powerful builds, survive endless hordes, and unlock highly explicit hentai scenes as you push deeper into the run.",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Clickstead",
+    "appid": 4294400,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4294400",
+    "current_players": 4,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A short incremental game about harvesting trees using elements like Fire and Lightning to your advantage. Build your skill tree and rise from Seed to legend.",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Mutiny",
+    "appid": 4412900,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4412900",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A third-person zombie survival RPG built by one solo developer. Scavenge a post-apocalyptic tunnel system, manage gear that breaks, hunger that bites, and a world that gets darker the longer you stay alive.",
+    "scout_score": 43,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "刻命花嫁 Möbius Brides",
+    "appid": 4612020,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4612020",
+    "current_players": 7,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "After receiving a letter from his deceased lover, the man visits a mysterious mansion. His memories begin to blur, and he gradually sinks into a vortex of desire, dreaming only of being reunited with her… Animated VN featuring 5 beautiful women with a touch of horror.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "HYPERFIST",
+    "appid": 3689210,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3689210",
+    "current_players": 15,
+    "total_reviews": 38,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "HYPERFIST is a fast-paced, comic-styled, first person melee action game focused on punching, grabbing, and other hand-to-hand combat. Play as Heath, the local punk, and use your mecha-fists to punch the robotic enemies in a fast and fluid combat system!",
+    "scout_score": 40,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Summer Days in the Joyful Countryside",
+    "appid": 3606380,
+    "price": 1199,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3606380",
+    "current_players": 33,
+    "total_reviews": 15,
+    "positive_rate": 86.67,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome your nieces to your rural home to help them enjoy a summer vacation of relaxation, farming, and gaming!",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Waifu Discovered 3: Cyberpunk Fantasy",
+    "appid": 3607040,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3607040",
+    "current_players": 12,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "From the creators of Waifu Discovered 2, an arcade anime shoot’em up with a unique strip’em up twist where the better you play, the more you reveal. Battle enemies, defeat absurd bosses and unlock stunning waifus piece by piece.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Dropper Factory",
+    "appid": 4746010,
+    "price": 239,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4746010",
+    "current_players": 4,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "First-person 3D clicker about developing a cube factory: start generators, upgrade production, increase cube value, and automate your progress.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "180°",
+    "appid": 4566690,
+    "price": 288,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4566690",
+    "current_players": 1,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Trapped in a mysterious space shrouded in an unsettling atmosphere, a unknown presence creeps up from behind— &quot;it&quot; doesn't move while you're watching. But the moment you look away, it closes in without a sound. Can you escape &quot;it&quot; and find your way out of this enigmatic space?",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Isekai x Isekai",
+    "appid": 4542860,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4542860",
+    "current_players": 3,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Isekai × Isekai&quot; is a casual 2D idle desktop game. Explore forests, journey into space, earn coins, collect new companions (including hidden characters), and build your own world.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Jiaobei: Ask the Divine",
+    "appid": 4563040,
+    "price": 79,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4563040",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Jiaobei is a desktop tool based on the traditional Chinese divination practice of casting moon blocks to seek guidance from the divine. Before casting, state your name, address, birth date, age, and question. The system then interprets the result automatically.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "The Long Drift",
+    "appid": 4289180,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4289180",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build, upgrade, and watch your tiny universe evolve.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Math Frenzy",
+    "appid": 3961580,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3961580",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Solve fast arithmetic challenges across Brain Run, Arcade, and Battle modes. Build charm loadouts, chase high scores, survive branching runs, and compete locally against friends or CPU opponents.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Abyrith",
+    "appid": 4839770,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4839770",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Abyrith is a traditional turn-based roguelike. Each run lets you build a unique character by combining skills and equipment while exploring and conquering dungeons.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hentai Age Gym",
+    "appid": 4843730,
+    "price": 79,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4843730",
+    "current_players": 0,
+    "total_reviews": 9,
+    "positive_rate": 77.78,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Short : A relaxing Anime tile-matching puzzle. Match 3 identical tiles to clear the layered board, unlock stunning high-quality artwork, and enjoy a casual, brain-teasing experience with soothing soundtracks.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Touhou Russian Roulette",
+    "appid": 4877890,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4877890",
+    "current_players": 2,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Remilia's cake has vanished from a locked room in the Scarlet Devil Mansion! With the help of head maid Sakuya, play Russian roulette with a 12-gauge shotgun and punish the suspects. Good luck!",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "You.Tapes",
+    "appid": 4824530,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4824530",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Stumbling across your grandma's ole son's room you spot a vhs tape...1 to be exact! although something isn't right.. it's all scrambled so you try to play them in the correct order but you soon see why the user of the tapes took these as something tragic happens to him...",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Accept or Reject",
+    "appid": 4820200,
+    "price": 313,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4820200",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Review hundreds of funny, bizarre, and sometimes suspicious dating profiles, survive office politics, play mini-games, and build a workplace romance with your mysterious boss.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Soothe",
+    "appid": 4675330,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4675330",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You awaken at the bottom of a rusted pit, another forgotten machine amongst a pile of those who came before. On your right, an extendable grappling claw, and on your left, a melted screen. You are given only one goal - reach the light above.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "A surgery beyond the heart",
+    "appid": 2943310,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2943310",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A medical student. An interrogation room. A surgeon who almost didn't survive.A Surgery Beyond the Heart is a noir visual novel set in a small Ohio city in 2016. You piece together what happened — and why — through memory, silence, and the things a person chooses not to say.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Escape This",
+    "appid": 4705520,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4705520",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A falling block puzzle platformer game with punishing bosses. Switch between two perspectives to rise to the top and escape the evil clutches of The Entity",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "TooneQuest",
+    "appid": 2143690,
+    "price": 497,
+    "discount_percent": 17,
+    "url": "https://store.steampowered.com/app/2143690",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An exploring and capture game. Find and capture all the unique creatures hiding on the 5 islands. Discover Abilities such as Jump, Crawl, Glide and Double-jump to help you explore.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "LostEcho",
+    "appid": 4812230,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4812230",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A flashlight. An abandoned hospital. Seven rooms. Remember what's normal — then spot what's changed. Chair turned? Ruler gone? Poster watching you? Close the wrong door, start over. Eight floors, thirty-four anomalies. The truth hides in the details.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "FitBlocks～Wooden block puzzle～",
+    "appid": 4850850,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4850850",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "FitBlocks is a relaxing wooden block puzzle game. Drag, rotate, and place every piece into the tray to complete handcrafted pixel-art shaped stages. Enjoy simple controls, cozy music, and increasingly thoughtful puzzles at your own pace.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Wet Dream Succubus",
+    "appid": 4846190,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4846190",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A lewd match-3 puzzle game where you play as a rookie Succubus collecting wet dreams and corrupting humans through their deepest desires. Unlock seductive hand-drawn CGs as you progress.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "DUSK OF WAR",
+    "appid": 4333240,
+    "price": 559,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4333240",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "DUSK OF WAR is an idle clicker incremental war management game. As the WAR MINISTER, you are in charge of the army, the industry, the finances and the logistics. PROTECT YOUR COUNTRY TODAY!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
