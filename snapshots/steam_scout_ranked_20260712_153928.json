@@ -1,0 +1,594 @@
+[
+  {
+    "name": "Calculus of Rot",
+    "appid": 4799150,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4799150",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight your way through zombie-infested wastelands in a turn-based tactical survival game. Reveal the map tile by tile, manage your health, choose your battles wisely, and survive against increasingly dangerous mutants lurking in the darkness.",
+    "scout_score": 76,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Angels Fall First",
+    "appid": 367270,
+    "price": 1619,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/367270",
+    "current_players": 904,
+    "total_reviews": 3047,
+    "positive_rate": 82.87,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together all the combat you ever loved in a rich science fiction setting. Boarding, pilotable capital ships, deep weapon customization and full Bot support included!",
+    "scout_score": 74,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Zombie Queen",
+    "appid": 4811410,
+    "price": 1000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4811410",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 0.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight through 100 waves of massive zombie hordes in this fast-paced wave-based shooter. Blast up to 1,000 zombies with powerful weapons, earn upgrades, level up your character, and survive the apocalypse.",
+    "scout_score": 63,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Diagnosis: Room 101",
+    "appid": 4877160,
+    "price": 249,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4877160",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Diagnosis Room 101 is a short horror game and a first-person psychological horror experience, focused on exploration, atmosphere, and uncovering a hidden story through documents and environmental clues scattered throughout the hospital.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "MEGABOOBS 🔞",
+    "appid": 4761320,
+    "price": 944,
+    "discount_percent": 37,
+    "url": "https://store.steampowered.com/app/4761320",
+    "current_players": 61,
+    "total_reviews": 60,
+    "positive_rate": 90.0,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fully NSFW 3D survivor roguelite packed with massive, hyper-proportioned heroines, intense action, and uncensored adult content. Stack powerful builds, survive endless hordes, and unlock highly explicit hentai scenes as you push deeper into the run.",
+    "scout_score": 51,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Urban Rangers Arcade 2",
+    "appid": 4863520,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4863520",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This Is The Conclusion To The Great &quot;Urban Rangers Arcade&quot; - Grab A Friend For This Co-Op Event. The Rangers, Thought They Had BoJaNgLeS Taken Down.............. But The Nightmare Had Only Began...... Bo Is Back, And Hes Calling The Rangers By Name. You Got His Attention...... Finish The Fight.",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Dungeon Persists",
+    "appid": 4819560,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4819560",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A top-down, pixel-art roguelike dungeon crawler. Pick one of 6 heroes and descend through an endless run of procedurally generated floors. Build a run from weapons, relics and gear, fight 24 enemy types and 4 bosses, and carry meta-progression forward. It was here before you. It will be here after.",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Goblin Camp",
+    "appid": 2431980,
+    "price": 1199,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/2431980",
+    "current_players": 56,
+    "total_reviews": 82,
+    "positive_rate": 90.24,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a new home for your goblins! Grow your settlement from a little encampment to a bustling city in a beautiful procedurally generated northern forest. Fish, farm, explore the forest and harness the spirits in a unique fantasy citybuilder inspired by Finnish mythology.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Tri City Monsters",
+    "appid": 2414410,
+    "price": 2499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2414410",
+    "current_players": 12,
+    "total_reviews": 77,
+    "positive_rate": 96.1,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Tri City Monsters is a supernatural, monsterlovin' visual novel where you can romance and/or de-pants 3 demonic love interests. Navigate a dangerous urban jungle with their help and maybe you'll get a taste of what it means to be a monster.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "ELYSIUM : Blue Den Mansion",
+    "appid": 4828690,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4828690",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A first-person psychological horror game where you explore a mysterious mansion, solve puzzles, uncover dark secrets, and survive a terrifying creature lurking in the shadows.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Ocean Rush",
+    "appid": 4885620,
+    "price": 59,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4885620",
+    "current_players": 5,
+    "total_reviews": 16,
+    "positive_rate": 93.75,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Ocean Rush is a fast-paced ocean escape adventure where every second counts!",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Pore Cleaning Simulator",
+    "appid": 4876150,
+    "price": 69,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4876150",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Grab, pull, and pop blackheads out. A weirdly satisfying pore-cleaning simulator.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Qwerty's Quickies",
+    "appid": 4859360,
+    "price": 749,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4859360",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Want to type longer and harder in the bedroom? Look no further than Qwerty's Quickies! An adult comedy typing survival game. Type to survive as security chases the streaker through aisles of a busy supermarket. See how long you last in Qwerty's Quickies. Including minigames with more coming soon.",
+    "scout_score": 33,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Forever Virgin Simulator",
+    "appid": 4630060,
+    "price": 89,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4630060",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A hardcore visual novel about how hard it is to be a virgin in the modern world.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "AeroBird",
+    "appid": 4872540,
+    "price": 59,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4872540",
+    "current_players": 12,
+    "total_reviews": 22,
+    "positive_rate": 77.27,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "AeroBird is a fast-paced acrobatic platformer where every jump matters.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Warframe: Mesa Heirloom Collection",
+    "appid": 4735410,
+    "price": 2499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4735410",
+    "current_players": 0,
+    "total_reviews": 23,
+    "positive_rate": 95.65,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Draw on the legacy of the unparalleled gunslinger with the Mesa Heirloom Collection. Heirloom Customizations signify the passage of time and the dedication of the Tenno.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "魔法少女甜心3D Magical Girl Sweetheart 3D",
+    "appid": 4886100,
+    "price": 79,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4886100",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Magical Girl Sweetheart turns all scenes into dessert-themed wonderlands with match-link gameplay. There are 20 major scenes, each containing 3 renovation stages, with over 430 different desserts in total. There are no time limits, and players can unlock all achievements easily.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Hentai Flesh",
+    "appid": 4660300,
+    "price": 159,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4660300",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Embark on a relaxing and sensual puzzle journey with Hentai Glacial, where each calming level and every completed image gently soothes your mind.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Ashen Crown",
+    "appid": 4826250,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4826250",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A single-player roguelite autobattler built almost entirely with AI. Pick a fighter, climb 20 battles to a final boss, and win in the build you assemble: 12 weapons, 24 classes, 53 subspecs, 247 skills. Go deep on one path or sprawl across many and break the game open.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Abyrith",
+    "appid": 4839770,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4839770",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Abyrith is a traditional turn-based roguelike. Each run lets you build a unique character by combining skills and equipment while exploring and conquering dungeons.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "人生记事簿：Life Memoirs",
+    "appid": 4798150,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4798150",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A choice-driven text game about living an ordinary life in modern China. Shape your path through study, work, love, and family, and see how your future unfolds year by year.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Swordless",
+    "appid": 4451820,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4451820",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A broken sword... The left hand controls the hilt, the right hand guides the blade. They work together to reach the end, and unite as one!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Haggle simulator",
+    "appid": 4376780,
+    "price": 179,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4376780",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A Monopoly-style board game focused on negotiation, trading, and bidding between players. Can take out loans from the bank. be careful—late payments may result in asset repossession! Trade via group chat or private messages. Cross-play with mobile players. Come and sharpen your haggling skills!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Booox",
+    "appid": 4549870,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4549870",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Booox&quot; is a platform puzzle game where players control multiple characters simultaneously, coordinating their actions to solve challenges.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "BAFF C",
+    "appid": 4895370,
+    "price": 119,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4895370",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Minimalist, hardcore and challenging game in the genre of avoid-em up that will test your reflexes, timing and planning! This game is hard as hell!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Blobbin",
+    "appid": 4736050,
+    "price": 254,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4736050",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Blobbin is a cozy 2D idle clicker where you poke, bounce, upgrade, and evolve adorable blobs to earn mountains of Goo. Unlock new blob types, prestige for powerful bonuses, and experiment with Blob Alchemy as your squishy little blob empire grows.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Brandon's Semiconductor Simulator",
+    "appid": 4864110,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4864110",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Educational tool for the simulation and visualization of semiconductor devices. Users can draw circuits and devices with just a few brush strokes. This is a fully interactive, realistic simulation with many visualization options and a variety of hand-made demonstrations of semiconductor devices.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Health Audit Simulator",
+    "appid": 4336300,
+    "price": 1099,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4336300",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Step into the shoes of a Health Auditor. FIND, FLAG and RATE potential Risks and Hazards across 20 playable environments, between two differing difficulty variants.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Diagram Awesome",
+    "appid": 3983240,
+    "price": 1119,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3983240",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Create expressive static or animated diagrams with generated visuals directly inside your nodes and connections. Ideal for game loops, workflows, story structures, learning material, and visualizing complex ideas in a more intuitive and creative way.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hentai Tales: 7 Days Cycle",
+    "appid": 4751360,
+    "price": 59,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4751360",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "I keep dying and returning to the same day seven days earlier. To escape this endless loop, I must anchor my fading memories through intimate bonds with four unique women—each holding a piece of the truth behind the temporal fracture.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
