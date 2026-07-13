@@ -1,0 +1,601 @@
+[
+  {
+    "name": "Imperial Ambitions",
+    "appid": 2219390,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2219390",
+    "current_players": 78,
+    "total_reviews": 9,
+    "positive_rate": 88.89,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Discover and colonize the world, Allocate your labor force, Monopolize markets, Fight tactical battles, Survive the age of imperialism...",
+    "scout_score": 64,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "The Sweet Spot",
+    "appid": 3810680,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3810680",
+    "current_players": 34,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Sweet Spot is a cozy horror game where you work the last shift at an 80s ice cream shop. Make ice cream, serve customers and watch out for strange things.",
+    "scout_score": 56,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Areteion",
+    "appid": 4097640,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4097640",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore the world of Greek mythology with this deeply strategic board and card game. Discover 600+ cards and countless strategies. Build your deck for solo or multiplayer, or embark on the roguelike Hero's Journey!",
+    "scout_score": 50,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Volt Deck",
+    "appid": 4465730,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4465730",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build poker hands, rewrite the rules, and chase high scores in a tactical solitaire campaign",
+    "scout_score": 48,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "KAZ",
+    "appid": 3633760,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3633760",
+    "current_players": 58,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dopamine-fueled minimalist grid-based game that pushes the boundaries of psychedelic visuals and fast reaction time. KAZ is an action roguelike arcade game where choice of items, buffs, and maluses allows you to unlock cool visuals and themes while showing everybody your skill on the leaderboards",
+    "scout_score": 46,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Runix: Pinball Roguelike",
+    "appid": 3617290,
+    "price": 1439,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3617290",
+    "current_players": 7,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A roguelike 3D pinball game where you build your ball deck to hit and slay monsters with incredible combos and climb to the top of the leaderboard. Discover powerful artifacts that create incredible synergies and increase your mage powers to restore &quot;The Pinball Order&quot;",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Little Incrementisle",
+    "appid": 4877110,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4877110",
+    "current_players": 2068,
+    "total_reviews": 9,
+    "positive_rate": 88.89,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Little Incrementisle is an incremental colony-building game where you land on one wild island after another. On each island, you gather resources, construct buildings, recruit villagers, and develop your colony, until you’re ready to set sail for the next one.",
+    "scout_score": 41,
+    "reasons": [
+      "無料 +20",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "KADO HUNTER",
+    "appid": 2981880,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2981880",
+    "current_players": 5,
+    "total_reviews": 11,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "You strand in Vanada and meet the sisters Aya and Chiyo. After learning what is going on, you decide to help them. On your journey as a KADO HUNTER, you collect KADOS, face monsters and quests, and embark on a vast exploration.",
+    "scout_score": 37,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Roulette Dungeon",
+    "appid": 3399930,
+    "price": 791,
+    "discount_percent": 12,
+    "url": "https://store.steampowered.com/app/3399930",
+    "current_players": 12,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You're a gambling-addicted cat trying to break out of prison by spinning the roulette wheel! Master the balance between strategic planning and unpredictable luck by placing bets, using special abilities, and collecting items to outsmart your foes and conquer the dungeon.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Active Soccer 3",
+    "appid": 2187300,
+    "price": 1349,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2187300",
+    "current_players": 14,
+    "total_reviews": 82,
+    "positive_rate": 74.39,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explosive retro arcade action is back! Active Soccer 3 is an exciting retro arcade football game providing a fast-paced arcade experience, implementing amazing playability and responsive easy-to-learn/hard-to-master controls.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Forensics: Crime Scene Detective",
+    "appid": 3765010,
+    "price": 1999,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3765010",
+    "current_players": 549,
+    "total_reviews": 67,
+    "positive_rate": 35.82,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "Become a forensic specialist in a realistic crime lab simulator. Investigate crime scenes, collect microscopic evidence, and identify perpetrators in the lab using DNA and digital analysis. Based on the experience and insights of experts from the State Criminal Police Office Rhineland-Palatinate.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Werewolf Twins 👹",
+    "appid": 4199810,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4199810",
+    "current_players": 4,
+    "total_reviews": 10,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Elven princess was sent to make a deal with the dangerous lycan clans. She was sent to save her people. But who will save her once the two werewolves she meets with smell how ripe and ready she is for a good fucking?",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Forest of Deceit",
+    "appid": 2388580,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/2388580",
+    "current_players": 3,
+    "total_reviews": 9,
+    "positive_rate": 100.0,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A STORM IS COMING. If you can’t build shelter in a matter of days your entire group will perish. But the forest is cursed, and is driving some of your friends mad - now they’re trying to get you all killed. Find the Traitors in Forest of Deceit, a social deduction Jackbox-esque game for 4-8 players.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "North Hunt",
+    "appid": 3642850,
+    "price": 214,
+    "discount_percent": 67,
+    "url": "https://store.steampowered.com/app/3642850",
+    "current_players": 0,
+    "total_reviews": 26,
+    "positive_rate": 88.46,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "An online social deduction game that will ruin your friendships. Thieves hide as Viking villagers, fake NPC behavior, and use chaotic abilities while Chiefs try to expose them. Trust no one.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Childmare",
+    "appid": 4831750,
+    "price": 387,
+    "discount_percent": 32,
+    "url": "https://store.steampowered.com/app/4831750",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dive into a secret 1980s laboratory where the &quot;Super Kids&quot; program turned into a nightmare. Hunted by Lou, a blind girl transformed into a terrifying monster after a failed experiment, infiltrate the facility, use the environment to your advantage, and try to survive this first chapter.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Skeptikos",
+    "appid": 4631130,
+    "price": 809,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4631130",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Skeptikos is a solo game taking place in a strange formation center. Resolve the puzzles, find the secrets around here.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "OmniSeed",
+    "appid": 4401850,
+    "price": 212,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4401850",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as a kind-hearted god in a tiny world. Grow thriving forests, inspire mortals to stand strong, and unleash nature's fury to shield them from evil. One small miracle at a time.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Alchemickal",
+    "appid": 3107030,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3107030",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A skill-based action roguelite where you imbue your weapons with chemickals to exploit enemy weaknesses on the fly. Scour dungeons, upgrade your arsenal, and master alchemy to thwart an arcane invasion!",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Dayscream",
+    "appid": 1300790,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1300790",
+    "current_players": 1,
+    "total_reviews": 15,
+    "positive_rate": 33.33,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dig deep down in a world of darkness. Uncover the secrets of your dreams and try to find out what is really going on. Are they just daydreams or your deepest nightmares?",
+    "scout_score": 27,
+    "reasons": [
+      "無料 +20",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "City Bus Simulator 2026",
+    "appid": 2860240,
+    "price": 959,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2860240",
+    "current_players": 12,
+    "total_reviews": 6,
+    "positive_rate": 16.67,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Experience the Ultimate Bus Driving Adventure! Step into the driver's seat in City Bus Simulator 2026, the most immersive and realistic bus simulation game. Navigate a sprawling 40 square kilometer city, mastering a variety of bus models with unique features and dynamics.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Room Craft",
+    "appid": 4509090,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4509090",
+    "current_players": 23,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Room Craft is a creative simulation game where you can bring your dream rooms to life. Design unique spaces with a variety of furniture, decorative objects, and interior details, and build rooms that reflect your own style.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Flux Empyrean",
+    "appid": 3843410,
+    "price": 1274,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3843410",
+    "current_players": 14,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Flux is not keen on giving away its secrets, and you’re one of them. Sail a vast planet under a blanket of stars and use your tools and wits to remind yourself of what was lost and what could come next. An open world mystery about understanding the end of the world.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Playing Prague",
+    "appid": 4729310,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4729310",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Playing Prague is a relaxing puzzle game in which Prague comes to life at your fingertips. Discover this bohemian city with playing cards featuring the ancient symbols of Prague houses.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Pacremental",
+    "appid": 4599460,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4599460",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pacremental is a incremental game about opening packs, unlocking weapon cards, evolve them and automating your progress. Collect rare artifacts, combine them with weapons, and push through increasingly difficult waves. Build tower your own way.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "VOIDRAVE",
+    "appid": 4840190,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4840190",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A bullet hell shmup with a secret. 100 waves, 20 bosses, and the slow realization that the sector you're purging isn't a sector. You are not crossing the void. You are inside it.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "TRUE LOVE'S CURSE",
+    "appid": 4733520,
+    "price": 254,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4733520",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fantasy curse-casting adventure. Make curses that can only be undone by true love's kiss!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Last Year's Model",
+    "appid": 4726310,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4726310",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In Last Year's Model, you design the levels. But as the difficulty rises and the timer ticks down, you may find that you quickly become the architect of your own misfortune.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "GeoFlag",
+    "appid": 4628800,
+    "price": 679,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4628800",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A geography game for the curious. Spin a living 3D globe, place flags on a photoreal Earth, and race a daily challenge. Five ways to play across all 193 countries.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Mahjong Kawuxing",
+    "appid": 4566560,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4566560",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A casual chess game. In the fast-paced three-player mahjong, click the left mouse button to play the mahjong tiles in your hand, win more money, and become a gambling god.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Meat Factory",
+    "appid": 1812510,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/1812510",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The world has gone to ruin, communities slowly dwindle, and food is scarce. Folks have heard rumors of an operation on the rise to solve the food shortage... but at what cost?",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
