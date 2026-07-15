@@ -1,0 +1,604 @@
+[
+  {
+    "name": "Sketchy's Contract",
+    "appid": 2823080,
+    "price": 809,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2823080",
+    "current_players": 26,
+    "total_reviews": 1322,
+    "positive_rate": 85.4,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 1-8 player co-op sci-fi looter horror game that takes place on a mysterious asteroid belt where players must complete contracts by traveling to exotic planets to kill creatures, find loot, and/or farm planetary materials that they must return to an ominous figure named Sketchy.",
+    "scout_score": 97,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Horror +20",
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "70s-style Robot Anime Geppy-X",
+    "appid": 4120310,
+    "price": 3599,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4120310",
+    "current_players": 27,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fully remastered 70s-style super robot anime meets fast-paced arcade-style 2D side-scrolling shooter action. A Japanese cult classic finally available worldwide — now reborn in HD.",
+    "scout_score": 76,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "DozenChess",
+    "appid": 4771750,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4771750",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dozen Chess is a turn-based strategy roguelike that reinterprets the rules of chess into a modern tactical RPG. Players must utilize limited resources and action points to optimally deploy their pieces, combine unique skills, and overcome a trial consisting of 12 distinct stages.",
+    "scout_score": 72,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: RPG +10",
+      "成長/積み上げ要素: Roguelike +10",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Zero To Hero Idle",
+    "appid": 4414900,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4414900",
+    "current_players": 10,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A pixel art idle RPG built for pure progression. Defeat monsters, find Mythic gear, and automate your ascent from Squire to King. Build your village, prestige for massive multipliers, and watch numbers soar. No fluff, just deep incremental strategy.",
+    "scout_score": 53,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Cozy Grove: Camp Spirit",
+    "appid": 2021960,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2021960",
+    "current_players": 192,
+    "total_reviews": 11,
+    "positive_rate": 63.64,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "All those who are lost deserve kindness. Help cute, ghostly bears find peace in this relaxing sequel to the beloved life-sim game Cozy Grove, where kindness rules and new crafting, building, and camping island adventures await.",
+    "scout_score": 46,
+    "reasons": [
+      "成長/積み上げ要素: Crafting +15",
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Denshattack!",
+    "appid": 2524850,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2524850",
+    "current_players": 843,
+    "total_reviews": 41,
+    "positive_rate": 97.56,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Flip, trick and grind your train in a fast-paced, off-the-rails ride through a colourful Japanese dystopia. Outmatch rival gangs, wreck a shady megacorp, and take back the tracks with nothing but skill, speed, and style.",
+    "scout_score": 43,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "eBaseball™: PRO SPIRIT",
+    "appid": 4128400,
+    "price": 5999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4128400",
+    "current_players": 1776,
+    "total_reviews": 661,
+    "positive_rate": 73.52,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Experience authentic baseball with players from around the world. Feel the arc of every hit, the intensity behind each play, and the roar of the crowd surrounding the stadium. With stunning presentation, the game captures the true intensity of real baseball.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "A Game About Chopping Trees",
+    "appid": 4512570,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4512570",
+    "current_players": 1011,
+    "total_reviews": 36,
+    "positive_rate": 77.78,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Grab your axe, hop on the handcar, and lose yourself in the forest. Chop trees, upgrade your gear, and enjoy the ride - alone or with a friend",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Wabisabi SushiDerby",
+    "appid": 4113050,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4113050",
+    "current_players": 127,
+    "total_reviews": 6,
+    "positive_rate": 83.33,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Adorable sushi race at full speed in a training × racing game! Become a sushi chef, craft unique toppings, and enter your trained sushi into races. Don't forget to cheer on your sushi during the race. Win the prestigious S1 Cup championship, and become a top-tier sushi chef!",
+    "scout_score": 37,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Teeto",
+    "appid": 2783370,
+    "price": 1439,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2783370",
+    "current_players": 20,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore a world of mayhem and Michaels! Join Teeto the blob and Nory the bunny in this 3D adventure platformer to stop the shadow corruption from spreading. Absorb wild powers, help eccentric characters, and save the world - one Michael at a time!",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "The Apprentice",
+    "appid": 4551120,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4551120",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lost in an alien world, harness the power of runes to find your way home. Craft innovative spells, tackle intricate puzzles and uncover ancient magic. An immersive puzzle-adventure experience where exploration, strategy and discovery await.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Fishercat",
+    "appid": 4876770,
+    "price": 349,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4876770",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cats love fish so much, they started fishing.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Tower Command",
+    "appid": 3719660,
+    "price": 719,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3719660",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Strategic tower defense where you need to maximize your bonuses. Create your build, upgrade towers, link them, equip items to create ridiculous combos. Placement is key in this game, you decide the path enemies take to their goal. Explore all maps and unlock towers, commanders, traits and items.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Biletide",
+    "appid": 4819200,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4819200",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An atmospheric tower-defence strategy game about holding back an oozing toxic Tide. A distant mining colony has awakened a living flood that seeps from breaches in the ground. Dig for resources, raise defensive terrain, and burn your way to seal the breaches. Can you survive the Biletide?",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Minimalist Desktop",
+    "appid": 3937750,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3937750",
+    "current_players": 3,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Put a calmer desktop layer on top of Windows. Launch apps in 2D or 3D, use widgets and wallpapers, and break doom-scroll loops with a built-in blocker.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Full Stride",
+    "appid": 4181970,
+    "price": 3499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4181970",
+    "current_players": 514,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Full Stride is an authentic jockey racing game where you take on the role of a jockey and challenge the race.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Anime-Draft Survivors",
+    "appid": 4857750,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4857750",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Anime Draft Survivors is a dark-fantasy anime bullet-heaven roguelike built around one simple twist: every run begins with The Draft. Choose your weapon pool up front, shape your build as you level, and chase the perfect evolution before the Eclipse rises.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Minsgon Simulator: Prologue",
+    "appid": 4131610,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4131610",
+    "current_players": 17,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hatch mysterious Minsgons, manage your shop, grow your collection, train your creatures, and exhibit them to visitors in a garden showcase.",
+    "scout_score": 28,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Solnox - Grimoire of Seasons",
+    "appid": 1993570,
+    "price": 499,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/1993570",
+    "current_players": 10,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Wield the power of the seasons to push back corruption and take back nature from tainted enemy hordes. Manipulate the ever-changing battlefield with your deck of rune stones. Plan your turns and use powerful synergies to your advantage. Choose your path wisely and unlock new classes as you prevail.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Lewd Cup",
+    "appid": 4265260,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4265260",
+    "current_players": 59,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lewd Cup is an 18+ football-themed visual novel where you run a private recovery studio near the world’s biggest tournament, building trust and tension with international stars through quests, call-ins, and replayable adult scenes in a cozy, character-driven sandbox.",
+    "scout_score": 25,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Farmers Market",
+    "appid": 3930640,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3930640",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Grow crops, outsmart a changing market, and help a village full of characters rebuild their lives. What you grow matters. When you sell matters. And every meal makes a difference.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Track Star",
+    "appid": 4538830,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4538830",
+    "current_players": 14,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Four years of high school track &amp; field. One shot at a college scholarship. Choose your specialty, build your athlete, and beat the rival who's been faster than you since day one.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "DVD Screensaver Simulator Rebirth Reimagined Definitive Reloaded Special Intergrade Ultimate HD Legacy Collection Remastered (2027 Edition)",
+    "appid": 4840740,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4840740",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Experience the ultimate re-imagining of the classic DVD screensaver game. With updated next gen visuals, modernized gameplay, and a reimagined storyline. The wait is finally over. For a new generation.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sunlit remedy",
+    "appid": 4547770,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4547770",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sunlit remedy is a visual novelYou will meet a girl who belongs only to you, and through your long days together, you will find courage, companionship, and love—slowly stepping out of your room to embrace the bright sunlight outside. Come and date the girl who is most dear to you!",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "CAUTION WET PAINT",
+    "appid": 4827850,
+    "price": 149,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4827850",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A game about watching paint dry. Don't touch the paint while it's wet, or you lose!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Denshattack! Soundtrack",
+    "appid": 4719220,
+    "price": 899,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4719220",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Denshattack! (Original Game Soundtrack) features high-energy, electronic, breakbeat, and fast-paced arcade tunes that perfectly accompany the colorful universe of the train-flipping platformer.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "101 Cats in Budapest",
+    "appid": 4829220,
+    "price": 119,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4829220",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Join this adventure and discover the hiding places of 101 kittens 🐾 in the hand-crafted Budapest landscape. 🏆 Earn lots of achievements. How many 😺 can you find? 🔎 Be quick! ⏱️",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hue Factory",
+    "appid": 4390180,
+    "price": 809,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4390180",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A colorful, minimalist automation game. Place machines, mix colors, and manage the flow of an evolving factory. Listen to the hum of the machines and watch the colors blend while keeping your lines efficient.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Miney Golf",
+    "appid": 4125280,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4125280",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Miney Golf is a casual miniature golf strategy game where players can pick up and place land mines all over a destructible course to either help them traverse obstacles or mess with their opponents. Play through several courses with your friends online through Steam!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Just A Regular Night Patrol",
+    "appid": 4901870,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4901870",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "'Just A Regular Night Patrol' is a first-person simulation game. Over the course of 8 days, review and execute your daily tasks based on the instructions. No jumpscares or anomalies. The goal is to simply be an ordinary night security guard and complete your shifts without making mistakes.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
