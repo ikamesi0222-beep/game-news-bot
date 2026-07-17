@@ -1,0 +1,600 @@
+[
+  {
+    "name": "DigWorld",
+    "appid": 4567230,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4567230",
+    "current_players": 99,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "DigWorld is a cozy 2D digging extraction sandbox with roguelite elements, where each run is a race against the clock to get the best rewards. Collect as many items as you can before time runs out. Sell. Upgrade. Repeat.",
+    "scout_score": 86,
+    "reasons": [
+      "最優先ジャンル: Extraction +40",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Pet the Cat",
+    "appid": 4605210,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4605210",
+    "current_players": 161,
+    "total_reviews": 12,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pet the Cat is a bullet-hell shooter where you unleash powerful attacks by petting an adorable cat! Fight through endless waves of enemies and upgrade your kitty into a formidable force with food, items, and weapons.",
+    "scout_score": 81,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Citadel Zero",
+    "appid": 4889540,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4889540",
+    "current_players": 9,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Defend the last citadel on a dying alien world. Summon a gacha collection of bio-engineered defense towers, forge a custom loadout, and conquer three modes, story-driven Chronicle, roguelite Contracts, and 1v1 PvP Ascension. Tower defense meets deck-building meta-progression.",
+    "scout_score": 72,
+    "reasons": [
+      "次点ジャンル: PvP +20",
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: Roguelite +10",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Bolsheviktion 2: Yurovsky's Revenge",
+    "appid": 4828450,
+    "price": 889,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4828450",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Whites in chaos. A kidnapped royal son. One man to save the Empire. In this explosive sequel to Bolsheviktion 3D, journey across war-torn Russia in hot pursuit of your son's kidnappers, killing as many Bolsheviks as you can along the way. A software rendered boomer shooter - the old fashioned way.",
+    "scout_score": 60,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sheep Move Together",
+    "appid": 4805840,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4805840",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Gather animals, craft equipment from collected resources, and face the strange creatures lurking beyond the fog together in this 1-4 player co-op exploration and adventure game.",
+    "scout_score": 50,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The GIF Game",
+    "appid": 2905140,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/2905140",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your group chat. On a TV. With a scoreboard. A couch party game for 3 to 8 players where every phone is the controller. Three prompts, two GIFs, one winner per round. No app for your guests. Plays in person or remotely over any video call.",
+    "scout_score": 45,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Tavern Legends",
+    "appid": 3160880,
+    "price": 2124,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3160880",
+    "current_players": 18,
+    "total_reviews": 134,
+    "positive_rate": 91.04,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build and run your own medieval tavern. Cook meals, brew drinks, design every room, hire and manage staff, serve unique guests, handle fights and chaos, and grow from a humble innkeeper into a tavern legend.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Between These Two",
+    "appid": 4057320,
+    "price": 679,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4057320",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Between These Two is a first-person horror game where you take the role of a man lost in an unknown plane of existence. To find your way home, you will have to explore the environment, hide, jump or run from danger, solve puzzles and confront hostile creatures.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Aetherial",
+    "appid": 1966390,
+    "price": 179,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/1966390",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A believer. A missing hiker. An ancient forest that swallows people whole. Find what they left behind before dark - before the compass fails, before the silence takes hold, before she finds you. Psychological horror. No combat. No escape.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "A Foreign World",
+    "appid": 2174320,
+    "price": 999,
+    "discount_percent": 50,
+    "url": "https://store.steampowered.com/app/2174320",
+    "current_players": 51,
+    "total_reviews": 134,
+    "positive_rate": 83.58,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A group of superpowered women from another world appears in modern America. In this NSFW visual novel, you earn their trust, copy their abilities, and prepare for a duel that will decide the fate of your world.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Desktop Explorer",
+    "appid": 2527160,
+    "price": 1619,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2527160",
+    "current_players": 225,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rummage through the abandoned profiles of an old PC to unravel an inherited mystery. What secrets hide in this eerie adventure of cryptic games and outdated software? Who was using this computer? And what happened to them?",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Database Detective: Minor Crimes Division",
+    "appid": 3950130,
+    "price": 1274,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3950130",
+    "current_players": 344,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Solve criminal cases through the power of SQL queries! Help out the city of Los Zorangeles by becoming a Database Detective in this new (unpaid) work from home opportunity.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Leap Of Faith",
+    "appid": 3628800,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3628800",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Unlimited local multiplayer chaos! Connect infinite controllers &amp; phones, control wobbly giraffes, dodge physics-based obstacles, and fight to reach the rocket ship first. The more players, the more chaos!",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "slimes!",
+    "appid": 4623260,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4623260",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Slimes! brings you dangerous levels of anticipation. With unpredictable bounces, endless cosmetic loot, and many different squishy slimes, you grow your very own slime sanctuary. Collect items, customize your buddy, and watch as the slimes unlock new areas and challenges. It's absolutely sub-slime.",
+    "scout_score": 36,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "CD Market - Music Label Sim",
+    "appid": 4622330,
+    "price": 1499,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4622330",
+    "current_players": 57,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "CD Market is a music industry management sim where you build a record label on your own terms, from vinyl to digital. Stay small, or grow into something bigger. Discover artists, shape careers, and survive decades of changing formats, trends, rivals, and crises.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "SIGILLVM: RESONANCE",
+    "appid": 3221720,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3221720",
+    "current_players": 11,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Long Night is close at hand. The city comes to a standstill in the lead up to the festivities. But a series of strange events forces Asra to seek out the truth she doesn't truly wish to know, and to come face-to-face to those she has long since left behind.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Bango Bingo",
+    "appid": 4893020,
+    "price": 349,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4893020",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You’ve never played Bingo like this before. Build a powerful deck of cards, charms, and daubers, chase wild scoring combos across patterns and lines, and push your run deeper every night. One more ball. One more boss. One more run.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Banker Simulator",
+    "appid": 3393240,
+    "price": 839,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3393240",
+    "current_players": 69,
+    "total_reviews": 721,
+    "positive_rate": 63.11,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Banker Simulator is a single-player game where you revive a bankrupt bank. With active and passive (idle) gameplay, make strategic decisions to grow your bank, satisfy customers, and tackle financial crises.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "The Hydrangea Line",
+    "appid": 4899660,
+    "price": 169,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4899660",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy pixel art visual novel set aboard a train winding through Japan. Choose your responses, uncover each passenger's story, and discover what quietly connects them all in this short story.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Escape From Ground",
+    "appid": 4506110,
+    "price": 150,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4506110",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Endless jumping adventure with procedural levels, power-ups, enemies, and unique biomes.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "NTR Tales - Lustful Orders",
+    "appid": 4632680,
+    "price": 899,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4632680",
+    "current_players": 18,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run a restaurant, build a relationship… and watch it slowly change. In NTR Tales: Lustful Orders, manage your daily life through mini-games, go on dates with Sasha, and trigger events that blur the line between love and temptation.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Keypress Express",
+    "appid": 4816900,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4816900",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy desktop train that runs on your keystrokes. The more you type, the farther your hand-drawn locomotive rolls along the bottom of your screen — sell the haul, buy bigger engines and longer trains, and grow a railroad empire while you work. Counts keystrokes only, never what you type.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Dragon Dragon Fire Fire Deluxe",
+    "appid": 4177670,
+    "price": 420,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4177670",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as a fire-breathing dragon in this classic arcade platformer! Blast through destructible stages, incinerate your enemies, and chase the high score, solo or alongside a friend.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "福报镖局",
+    "appid": 4227420,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4227420",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "《福报镖局》是一款黑色幽默武侠跑酷游戏。你将扮演新入职的实习镖师，施展轻功、管理真气，穿越险恶地形，将快递准时送到各位官人手中。每一单都关系绩效，每一次失误都可能被“优化”——在亡命狂奔、升职加薪与保住老腰之间，努力享受镖局赐予你的福报。",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Pixel Darts: From Pub to Glory",
+    "appid": 4712560,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4712560",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A casual pixel-art darts game with 90s arcade flair. Play 501, Cricket, Shanghai &amp; Bermuda, chase a worldwide high score in Arcade mode, or take over your father's struggling pub in Career mode and fight past 72 rivals. You can also create your own darts league and define venues, rules and rivals!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Ministry for Anomaly Observation",
+    "appid": 4696610,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4696610",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A retro anomaly observation game where a government ministry tasks you with monitoring CCTV feeds and identifying anomalies to construct case files. Missed anomalies corrupt the shift and its case file evidence.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Grapple Bear",
+    "appid": 4151550,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4151550",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Master a grapple-only movement system in this challenging platformer. Swing through dangerous worlds, conquer 40+ handcrafted levels, and prove your skill on global leaderboards and weekly procedurally generated challenges.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Knock It Over, Again?",
+    "appid": 4438470,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4438470",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Master your skills as a cat to knock things over! Pushing things to fall off the edge is easy, but what if you have some targets that are harder to hit just right? Test your physics intuition and see how long your perseverance lasts before you rage-quit.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Saving Bumblebrook",
+    "appid": 4796780,
+    "price": 899,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4796780",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Recruit townsfolk and complete outlandish schemes in this solo strategy card game where every success reshapes the Wanted Board. Plan arrests, orchestrate jailbreaks, unlock recruit abilities, and drive a corrupt Mayor out of town before the rebellion collapses.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Last Alive",
+    "appid": 4559220,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4559220",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You receive a message from an unknown sender. Following their instructions, you must navigate a world overrun by zombies and survive the night. Explore, fight, and solve puzzles to carve your path forward. But remember not every message is meant to keep you alive.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
