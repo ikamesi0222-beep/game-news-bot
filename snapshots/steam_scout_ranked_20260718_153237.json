@@ -1,0 +1,607 @@
+[
+  {
+    "name": "Vanya Online - Idle MMORPG",
+    "appid": 4866960,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4866960",
+    "current_players": 168,
+    "total_reviews": 39,
+    "positive_rate": 25.64,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "Vanya Online is a dark free-to-play idle MMORPG with endless progression, PvP and Non-PvP worlds, player economy, events, and no level cap, no skill cap, and no account resets.",
+    "scout_score": 83,
+    "reasons": [
+      "次点ジャンル: PvP +20",
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "仙门守护者",
+    "appid": 4868150,
+    "price": 290,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4868150",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An oriental xianxia tower defense strategy game where you build magical immortal towers and cultivate powerful cultivators to defend your sect against hordes of invading demons, featuring character cultivation, formation construction and real-time tactical defense",
+    "scout_score": 63,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "WARPED",
+    "appid": 4841370,
+    "price": 519,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4841370",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "WARPED is a fast, retro-inspired twin-stick space shooter where you blast UFOs, destroy asteroids, upgrade your ship, and fight across the solar system with your robot companion Zippy to uncover the source of a mysterious signal.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Fogpiercer",
+    "appid": 3219010,
+    "price": 1499,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3219010",
+    "current_players": 971,
+    "total_reviews": 85,
+    "positive_rate": 91.76,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight through the fog in this sci-fi roguelike deckbuilder where clever positioning, explosive chain-reactions, and the environment itself can make the difference between life and death.",
+    "scout_score": 56,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Awakeness: YALDA Night",
+    "appid": 4277200,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4277200",
+    "current_players": 2,
+    "total_reviews": 6,
+    "positive_rate": 83.33,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Awakeness is a first-person psychological horror set in Barzakh, a higher layer of reality where space and emotion distort. Explore looping corridors, solve subtle environmental puzzles, and evade an unseen presence using stealth and light.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "無料 +20",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Dice Carnival",
+    "appid": 4414210,
+    "price": 439,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4414210",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dice Carnival is a roguelike score-chaser where you roll, bank, and chain dice into explosive combos. Collect powerful Tokens, pick your Tour, crush chapter Bosses, and push your score beyond the limit.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Orbital Dispatch",
+    "appid": 4599580,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4599580",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A deep-space traffic control roguelite. Route ships, scan contraband, and fight escalating threats—from smugglers to warlords to phase-jumping aliens—while keeping one remote station alive. One bad call and your hull pays the price.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Lured In",
+    "appid": 4178020,
+    "price": 652,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4178020",
+    "current_players": 341,
+    "total_reviews": 21,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run your own cozy aquarium! Travel far and wide to catch exotic fish. Put them on display for idle profits, or sell them for instant cash. Unlock research for new upgrades, and ascend for powerful bonuses. Customize your shop, character, and tanks to make your aquarium your own!",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Terraforming Titans",
+    "appid": 4864000,
+    "price": 285,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4864000",
+    "current_players": 109,
+    "total_reviews": 11,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Terraforming Titans is an incremental colony builder with a moderate focus on realism and scale. Terraform increasingly challenging and large worlds and guide humanity to complete control over the Milky Way.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "walk",
+    "appid": 4563880,
+    "price": 167,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4563880",
+    "current_players": 15,
+    "total_reviews": 20,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "it's about walking",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Animal Chameleon",
+    "appid": 4879850,
+    "price": 492,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4879850",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Animal Chameleon is a multiplayer hide and seek game where you paint your animal to match the surroundings, stay hidden, and outsmart the seekers.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Lost Stories",
+    "appid": 4269570,
+    "price": 815,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4269570",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lost Stories is an episodic psychological horror game set in the Siberian forests during the Cold War. Explore isolated locations, uncover censored experiments, and survive what was never meant to be found. Some stories were not forgotten. They were hidden.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "STALZONE — Memories of STALCRAFT: X",
+    "appid": 4908670,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4908670",
+    "current_players": 0,
+    "total_reviews": 76,
+    "positive_rate": 81.58,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Add this nostalgic STALCRAFT: X pack to your collection.",
+    "scout_score": 36,
+    "reasons": [
+      "無料 +20",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "Lepidarium",
+    "appid": 4335540,
+    "price": 623,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4335540",
+    "current_players": 24,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Relax and collect hundreds of unique butterflies and moths in this cozy idle game. Watch caterpillars transform from larva to chrysalis to winged beauty, customize lush greenhouses, and discover rare species from monarchs to atlas moths.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Breadwalk",
+    "appid": 4860480,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4860480",
+    "current_players": 2,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "There is war going on. But you need to buy bread. ",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Knights vs Aliens",
+    "appid": 4805390,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4805390",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Command knights, aliens, and other historically dubious nations in a free real-time tower conquest game rebuilt from a 2009 iPad original. Grow armies, capture towers, and outmaneuver adaptive AI through 30 campaign levels.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Lobsterpunk",
+    "appid": 3414920,
+    "price": 820,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3414920",
+    "current_players": 1,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Make your way through an abandon city powered solely by the combustion of lobsters. Bring the dead machinery one last breath of life before their steel forms lay cold forever. As you do, see the memories of the last man in the city, &amp; how familiar that might feel, however foreign the setting.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "ERODE",
+    "appid": 1959020,
+    "price": 117,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/1959020",
+    "current_players": 0,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "ERODE is a rogue like game with integrated elements. Four kinds of elemental stones are combined in different ways to form a variety of weapons and equipment. Gameplay and art style are constantly improving.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Pomodoro: Focus Timer",
+    "appid": 4902050,
+    "price": 178,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4902050",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A beautiful Pomodoro focus timer for study and deep work. Run timed focus sessions, take real breaks, and play nature sounds like rain and ocean. Built to cut procrastination and help studying, ADHD, and autism. Six aesthetic themes, ten ambient sounds, six languages, fully offline.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Dead Night Highway",
+    "appid": 4614320,
+    "price": 749,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4614320",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dead Night Highway is a compact colony simulator where a group of survivors on their journey west sets up camps to replenish resources, but zombie horde only grows larger...",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "三国：谋定天下",
+    "appid": 4542640,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4542640",
+    "current_players": 10,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "多职业战争策略手游，你可以在每个赛季中体验镇军、青囊、奇佐、天工等六大职业，在沙盘中施展多样的职业天赋与职业技能去影响补给、战术、地形、局势，与盟友打出多种精彩配合与战役，或火烧连营八百里，或奇袭粮道以弱胜强等等，你可以通过谋略感受千变万化的三国沙盘战场，让策略游戏从此不再是枯燥的调兵遣将。 此外，《三国：谋定天下》在长线运营和公平的游戏生态基础上，做到不卖资源、不卖加速、不锁卡、没有VIP。这，将带给你前所未有的SLG沙盘乐趣和激动人心的游戏体验！",
+    "scout_score": 28,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "HOOK",
+    "appid": 4731310,
+    "price": 519,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4731310",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hook is a 2D fishing roguelike where every run is about Diving deeper, catching Special and odd fish, and making enough cash before each day ends. Upgrade your rod, buy weird items, chase bounties, collect new fish for your Aquarium, and survive the dangerous Creatures waiting below....",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "World Tree Ranch: Elven Legacy",
+    "appid": 3586450,
+    "price": 1484,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3586450",
+    "current_players": 88,
+    "total_reviews": 6,
+    "positive_rate": 66.67,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You awaken with no memories in a tranquil elven village devoted to worshipping the World Tree. All the elves living here are girls, and they have a unique request—they ask for your help in having children...",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Cult of Shadows",
+    "appid": 3936450,
+    "price": 1479,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3936450",
+    "current_players": 2,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Uncover the secrets of Bel Noa. Fight hordes of cultists and the Mythos they summon. Defeat fearsome beasts, upgrade your character, acquire and enchant weapons. Die and return stronger to face the Cult of Shadows.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cozy Radiation Cleaner",
+    "appid": 4782520,
+    "price": 254,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4782520",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cozy Radiation Cleaner is a dark post-apocalyptic exploration and cleanup game where you scan dangerous zones, locate radioactive objects, and restore contaminated environments using specialized equipment and radiation detection tools.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Mow My World",
+    "appid": 4889740,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4889740",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mow My World is a free-to-play modular robotic platform sandbox where you mow lawns, clear snow, tow cargo, fly in AirMode, build with blocks, and explore landmarks across Earth, the Moon, and Mars. Load real-world maps, save neighborhoods, and turn public places into playable communities.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Close Call Extreme",
+    "appid": 752530,
+    "price": 373,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/752530",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Close Call Extreme is a fast, stylish arcade dodger about weaving through traffic, skimming past cars by a pixel, and chasing addictive high-score runs. So let's start... those... ENGINES!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "27 Survivors",
+    "appid": 4773130,
+    "price": 614,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4773130",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Over a century ago, you and 99 other passengers left Earth aboard a colony ship in stasis. Now, the ship has awakened you early and you find only you and 26 other passengers remain. Make repairs and keep yourself alive while you investigate what happened to the rest of the passengers.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cat Climbing",
+    "appid": 2965020,
+    "price": 369,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/2965020",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A brutally hard 2D climbing action game where your cat jumps exactly where you click. Rely on tiny footholds and overcome the long falls your mistakes bring. Reach the top and carve your name into the LEGENDS.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Behind the Screen",
+    "appid": 4876320,
+    "price": 167,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4876320",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Behind the Screen is a narrative indie game about depression, facades, and escape. Make impactful daily choices, balance Jonas' willpower, and escape reality through fast-paced retro minigames on a virtual PC monitor. Can you find a way through the noise?",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
