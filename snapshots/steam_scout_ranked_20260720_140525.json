@@ -1,0 +1,592 @@
+[
+  {
+    "name": "Dominion Of The Forgotten",
+    "appid": 3825860,
+    "price": 1867,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3825860",
+    "current_players": 148,
+    "total_reviews": 24,
+    "positive_rate": 37.5,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dominion Of The Forgotten is a build-crafting Roguelike. As an explorer of the United Expedition, venture into a mist-shrouded ancient continent in search of lost Dominions. Explore, battle, collect Relics, and extract safely during time-limited expeditions.",
+    "scout_score": 56,
+    "reasons": [
+      "成長/積み上げ要素: Crafting +15",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Camp Hollow",
+    "appid": 4301120,
+    "price": 675,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4301120",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A first-person survival horror game where you play as Riley, a night guard trapped in an abandoned summer camp. Explore, solve puzzles, and uncover the mystery while escaping a relentless creature that hunts you in the dark.",
+    "scout_score": 55,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Risen Blade",
+    "appid": 4347620,
+    "price": 471,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4347620",
+    "current_players": 12,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Smash the Dudes. Risen Blade is a fast-paced hack and slash roguelike where you chain brutal combos, carve through endless enemies, and forge powerful builds across unique classes.",
+    "scout_score": 46,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "ARALSK 7",
+    "appid": 4404970,
+    "price": 390,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4404970",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Atmospheric psychological horror from Uzbekistan. Explore the abandoned territories of the Aral Sea, face your fears, and uncover the dark secrets of the Aralsk-7 station. Survive in a world where the line between reality and nightmare is blurred.",
+    "scout_score": 41,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Stratego® Online",
+    "appid": 2660420,
+    "price": 1146,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/2660420",
+    "current_players": 13,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Stratego Online brings the timeless strategy and excitement of the original board game into the 21st century, providing players with an immersive online experience that blends classic gameplay with innovative features.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Textvas",
+    "appid": 4671340,
+    "price": 2075,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4671340",
+    "current_players": 4,
+    "total_reviews": 16,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Textvas is an intuitive note app for everyone, from creators to everyday users. Freely arrange text and images to gather and organize your ideas and materials. Theme switching, touch operation, UI scaling support, and local operation.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Dopamine Racing",
+    "appid": 4532310,
+    "price": 530,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4532310",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A pixel-art horse racing betting game!! 32 girls summoned from countless worlds race across varied tracks. Study race types, track quirks, condition, and win rates... Analyze it all and call the best odds!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Minerrr",
+    "appid": 4600350,
+    "price": 346,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4600350",
+    "current_players": 5,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mine ores, earn money, hire workers, buy upgrades, and sacrifice your progress to become stronger every run.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Rise of Mutant Swarms",
+    "appid": 4230080,
+    "price": 850,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4230080",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rise of Mutant Swarms is a strategy survival tower-defense game where you defend the base against waves of evolving mutant enemies. Place and upgrade turrets, adapt to enemy abilities, and make critical decisions as the pressure rises with every wave.",
+    "scout_score": 33,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "MASUKU",
+    "appid": 4401050,
+    "price": 530,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4401050",
+    "current_players": 1,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An abstract strategy game for 1–4 players. Place, rotate, and flip cards to reveal colours and symbols that match shifting scoring goals. Smart positioning and a bit of luck decide who reaches 50 points first",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Aerolicious",
+    "appid": 4774170,
+    "price": 500,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4774170",
+    "current_players": 7,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Aerolicious is a short and relaxing brick-breaking game about clearing a big chunk of 3,757 blocks.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "A Game of D.I.C.E.",
+    "appid": 3853970,
+    "price": 195,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3853970",
+    "current_players": 0,
+    "total_reviews": 23,
+    "positive_rate": 86.96,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A tense dice duel in an elegant Art Deco world where luck and strategy decide who survives. Roll five dice and build winning hands inspired by poker. Use Gambits to flip the table in your favor. Outlast your rival: only one remains seated at the dinner table.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "YGGDRA: SPIN",
+    "appid": 4513650,
+    "price": 530,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4513650",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Spin your destiny! A slot-battler roguelite where 33 supernatural heroines and item symbols fill the reels. Funds are your HP, and a single spin of luck and synergy can decide the entire battle.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cat 3",
+    "appid": 4884830,
+    "price": 328,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4884830",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Swap and match alien cats to blast through waves of cosmic foes. Cat 3 is a roguelite match-3 where each run you pick a hero, draft stacking upgrades, and collect relics. Match 3, break the rules, run it back.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Spicy Content Creator",
+    "appid": 4572290,
+    "price": 471,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4572290",
+    "current_players": 44,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rise to the top of content creation in this noir-infused incremental game! Create posts, automate your workflow, and dominate the PPV market. But beware: the mafia can seize your brand at any time, forcing you to start over smarter and faster!",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Delvegg",
+    "appid": 4869070,
+    "price": 671,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4869070",
+    "current_players": 40,
+    "total_reviews": 5,
+    "positive_rate": 60.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "《Delvegg》 is a desktop idle mining game. The core gameplay revolves around digging eggs, collecting pets, and building your underground mining empire.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Grind 'Em All",
+    "appid": 4676380,
+    "price": 471,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4676380",
+    "current_players": 12,
+    "total_reviews": 6,
+    "positive_rate": 66.67,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Grind 'em all! Experience the ultimate satisfaction of shredding monsters and growing stronger in this intense incremental game.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Cup and Counter: Coffee Shop Simulator",
+    "appid": 4453300,
+    "price": 1019,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4453300",
+    "current_players": 39,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build up your very own Cafe. Make a variety of Coffees to keep your customers happy. Keep your Coffee shop well-stocked, money flowing, and you will quickly expand and build the Cafe of your dreams.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "NinFit",
+    "appid": 4704350,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4704350",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "NinFit: The ultimate body-controlled fruit-slashing action game via Webcam. Leverage AI technology to turn your real-life movements into powerful Ninja slashes. Have fun while burning calories with smart Workout modes and a sleek Cyberpunk aesthetic. No controllers required – just move!",
+    "scout_score": 23,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Against Wokou Frontline",
+    "appid": 4256560,
+    "price": 656,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4256560",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Amidst the Wokou raids along the southeast coast of China during the Ming Dynasty (1552–1565), lead your troops, fortify your line, and repel the brutal invaders in this heroic tower defense game. Defend the common people and secure the shore!",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "SUSHI Claw Machine",
+    "appid": 3964140,
+    "price": 380,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3964140",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Aim, grab, and blast off! Command a chaotic physics-based crane arm to send sushi flying. Capture wacky dishes like grooving salmon and runaway ginger to complete your guide. Face giant cranes and sushi swarms in this hilarious physics comedy. How will you react to the madness?",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sexy Match Tale : Hansel and Gretel",
+    "appid": 4818250,
+    "price": 229,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4818250",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "After their father’s death, Hansel’s family falls apart. But when his stepmother brings home mysterious cakes from Candy House, the lost warmth begins to return. Clear dessert match-3 stages, unlock heroine events, and uncover the sweet secret.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Living Atlas: A Fantasy Chronicler",
+    "appid": 4872250,
+    "price": 239,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4872250",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A procedural fantasy world generator and civilization simulator. Every world is unique — explore its biomes, species, and emerging realms as civilizations rise, expand, and vanish across an infinite variety of planets. No objectives. No failure states. Just worlds worth watching.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Yoink! - Texture ripper",
+    "appid": 4902910,
+    "price": 1012,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4902910",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Make textures for your next project quickly with Yoink!, the best tool for ripping textures from images.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "A Serene Trip",
+    "appid": 4100200,
+    "price": 839,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4100200",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fantasy sci-fi strategy visual novel, A Serene Trip takes you on a treacherous journey across space. You will need all of your wits and careful management of Adelaide's skills to survive to see your home again.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hydro Chicks",
+    "appid": 4743640,
+    "price": 859,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4743640",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A difficult parkour game about riding a sea scooter upstream to reach the top of the Hydro Mountain.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "俺が球審だ！Sharp-Eyed Umpire Simulator",
+    "appid": 4813340,
+    "price": 475,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4813340",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Voice input enabled, umpire experience action. Make accurate judgments even on sharp breaking balls. Each of the multiple pitchers has their own pitching form and pitch type. Try being a home plate umpire.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Ant King: 2015–2025",
+    "appid": 4910700,
+    "price": 589,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4910700",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Go back 10 years — could you get rich? 2015→2025, ten real years of stocks. Each year, read the news, invest once, and see your gains a year later. COVID, the AI boom, meme-stock mania — real events swing your returns. 5-minute runs, multiple endings. Korea &amp; US markets, in KO/EN.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Private Matters",
+    "appid": 4633020,
+    "price": 219,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4633020",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Private Matters is a casual erotic arcade game where office routine turns into a sensual block-breaking experience. Clear levels and unlock alluring images of a seductive office worker.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "コッコさんTIMESTOP",
+    "appid": 4682980,
+    "price": 292,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4682980",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Stop time and save the eggs. Your only weapon is the power to STOP TIME. Charging enemies, vanishing platforms — nothing can touch you in frozen time. Simple controls, brutally tough: a retro action game you won't be able to put down!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
