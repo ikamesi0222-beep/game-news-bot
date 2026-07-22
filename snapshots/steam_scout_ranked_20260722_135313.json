@@ -1,0 +1,595 @@
+[
+  {
+    "name": "DeadZone Outpost",
+    "appid": 4633390,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4633390",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Turn-based pixel survival shooter against waves of zombies. Limited resources, tactical shooting, diverse weapons, and deep incremental progression with a large skill tree.",
+    "scout_score": 136,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: Survival +15",
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "GLIMPO",
+    "appid": 4555630,
+    "price": 169,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4555630",
+    "current_players": 0,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight endless waves of enemies in this arcade roguelite shooter. Build and level up your skillset, unlock synergies and become ridiculously overpowered!",
+    "scout_score": 81,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Reap and Rush",
+    "appid": 3116700,
+    "price": 1199,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3116700",
+    "current_players": 2957,
+    "total_reviews": 101,
+    "positive_rate": 89.11,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Reap and Rush is an absurdly addictive action roguelike. Step into the role of an underworld envoy thrust into a chaotic underworld. Fight through hordes of Yaoguai, leveling-up skills to become a soul-harvesting reaper and unravel a shocking conspiracy across endless cycles...",
+    "scout_score": 54,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Incrempire",
+    "appid": 4301300,
+    "price": 599,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4301300",
+    "current_players": 386,
+    "total_reviews": 43,
+    "positive_rate": 79.07,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Defend. Upgrade. Dominate. A relaxing incremental base-defense game, packed with powerful skills and a deep skill tree.",
+    "scout_score": 51,
+    "reasons": [
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Thugz VS Zombies",
+    "appid": 4921730,
+    "price": 119,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4921730",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Thugz VS Zombies is a row-defense action strategy game where a neighborhood crew protects the block from zombie waves, wild bosses, and chaos. Place THUGZ, earn cash, upgrade your squad, trigger power-ups, and survive solo or with a local co-op partner.",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Dream Of A Cockspur",
+    "appid": 1699710,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/1699710",
+    "current_players": 185,
+    "total_reviews": 26,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Stranded on a desolate island with Earth's remaining researchers, you investigate a strange celestial body. The day before departure, your only means of transportation gets mysteriously damaged, leaving you stranded. Is someone sabotaging the team, or is there something more sinister going on…",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Pickochet",
+    "appid": 4275920,
+    "price": 419,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4275920",
+    "current_players": 115,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pickochet is a short, incremental mining game where you mine ore using bouncy ricocheting pickaxes, purchase upgrades, unlock abilities and discover new mining sites.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Periapsis: Gravity Slingshot",
+    "appid": 4520400,
+    "price": 489,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4520400",
+    "current_players": 2,
+    "total_reviews": 11,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lead humanity’s final journey beyond Earth. Launch ships, harness gravity slingshots, and explore distant star systems to make humanity multi-planetary.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "A Game About Penguins: First Catch",
+    "appid": 3617840,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3617840",
+    "current_players": 23,
+    "total_reviews": 4,
+    "positive_rate": 75.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A free prologue to the cozy penguin sandbox. Fish, slide, and explore a snowy island with friends. Catch 30 sea creatures, play arcade games, customize your penguin, and cause a little harmless chaos along the way.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Love is a Demon",
+    "appid": 3530240,
+    "price": 679,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3530240",
+    "current_players": 1,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Love is a Demon is an adventure game packed with romance, chaos, and supernatural surprises. Confess your crush, dodge demons, and embrace the mess; love has never been this complicated. Your choices shape Ash’s love life in this heartfelt, hilarious story-driven experience.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "QuietCorner",
+    "appid": 4882320,
+    "price": 719,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4882320",
+    "current_players": 3,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An adult emotional romance visual novel set in a quiet café. Read the story, make choices, and follow two lonely adults as they slowly grow closer. Features: choices, save/load, backlog, auto, skip, Korean voice acting, and consensual adult romantic content.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Manifest Maiden",
+    "appid": 4276670,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4276670",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Manifest Maiden is a hide-and-seek game where you can paint busty girls to make them blend in with the environment! Either play as a hider, or be the hunter that finds the hidden girls. Have fun with your friends, random people online, or a mix of both!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "International Memes",
+    "appid": 4873050,
+    "price": 69,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4873050",
+    "current_players": 0,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "International Memes is a quiz featuring internet memes from around the world. Look at iconic images, guess their names, and find out whether you're just a random internet visitor or a true Internet Legend. 50 memes, 15 achievements, 6 languages, and tons of humor.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "From Devil's Womb",
+    "appid": 4282810,
+    "price": 559,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4282810",
+    "current_players": 2,
+    "total_reviews": 7,
+    "positive_rate": 85.71,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are a broken ex–police officer haunted by your partner’s disappearance. A mysterious clue drags you into decaying places infected by a devilish presence, breathing, waiting, watching from the dark. Solve cryptic puzzles, face buried guilt, and uncover a truth that was never meant to surface.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Iron Graves",
+    "appid": 4335040,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4335040",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Command a squad of salvage drones in deep space. Remotely breach derelict hulls to scavenge for fuel and parts while managing scarce resources. Watch your signal, monitor environmental hazards, and pray your sensors aren't lying. You are alone, and something is moving in the dark.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "SCRIBBLE HUNT",
+    "appid": 4864560,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4864560",
+    "current_players": 50,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Paint the bunny man and blend into the scene like a chameleon! 2–10 player online hide-and-seek. Sample colors, match the lighting, tune your materials — disguise yourself to perfection and slip away right under the Hunters' gaze.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Baramon: Gotta Fu*k 'em All",
+    "appid": 3106470,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3106470",
+    "current_players": 17,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Baramon is a monster-catcher game mix with dating sim elements and a lewd flavor. Catch your Baramon, extract milk from them, and inject it into another one for a unique combination of skills.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Floor404",
+    "appid": 4882720,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4882720",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "There is something wrong with this hospital. Find every anomaly and escape alive.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Blast'N Bounty",
+    "appid": 4570770,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4570770",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Blast’N Bounty is a vertical scrolling shoot’em up featuring 8 stages players can tackle in the order of their choosing. Cruise through a crazy solar system in a mix of pixel art and low poly 3D with action that’s easy to learn but tough to master!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "FutaPunk 🌚",
+    "appid": 4774990,
+    "price": 497,
+    "discount_percent": 17,
+    "url": "https://store.steampowered.com/app/4774990",
+    "current_players": 6,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bad Punk Bonny is a cyber data runner, hunting down dark &amp; dangerous secrets other people need from the shadows. But when it comes to down-time, she takes her hunting much more seriously &amp; knows exactly where to find the tightest and dirtiest little holes around. When Bonny plays, she plays to win!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "MonsterGuest",
+    "appid": 4356090,
+    "price": 179,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4356090",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Survive against endless waves of monsters while selling food to reach your target amount. Identify monsters using the camera and dolls, and survive by serving them blood-stained food. Monsters are impatient, so you must serve the blood-stained food quickly.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Random Isles",
+    "appid": 4341590,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4341590",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this world full of random events, each card draw grants you new equipment and skill combos. Using maps, you enter unknown stages—you may face fierce battles or find reward zones without fight. Keep gathering stronger items, challenge tougher enemies, and forge your legend in endless trials.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Race Town: Kids and Toddlers Car Racing Game",
+    "appid": 4860730,
+    "price": 1079,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4860730",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A family-friendly racing game for kids featuring fun missions, colorful worlds, and exciting adventures in a lively world full of discovery.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Force Escape",
+    "appid": 4783490,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4783490",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The original “protect with ring” game finally comes to Steam. Use your force ring to clear a path for your fleeing shuttle, survive 55 handcrafted levels, and escape the planet. It takes less than fifteen minutes to beat—but only if you’re perfect. Live, die, repeat.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hand of Fate: Hordes - Supporter Pack",
+    "appid": 4953230,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4953230",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "If you're loving Hand of Fate: Hordes, and want to support the team behind the game, then this Supporter Pack is for you.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Mocha Camo",
+    "appid": 4897530,
+    "price": 59,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4897530",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mocha Camo blends graffiti with prop hunt! Paint your blank character to blend into the scenery. Deceptive poses and your art skills are keys to surviving under seekers' noses. Supports 2-10 players for quick matches or interactive streams. Fool everyone with your imagination!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Brainrot Fight",
+    "appid": 4867700,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4867700",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An auto-chess strategy battle game. Buy and merge Brainrot creature cards, build your quirky team, and watch them fight automatically. Collect 120+ wild creatures, mix skills and items, and defeat every opponent!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Gray-Crowned Reincarnate",
+    "appid": 4914640,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4914640",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An isekai fantasy visual novel about Kai, a boy reborn as a summoned hero, and Lilia, the saint who travels beside him. Across 15 illustrated scenes, your choices lead to four endings: become the Demon King, defeat him, flee together, or let the world fall.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "End of Blackjack",
+    "appid": 3884650,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3884650",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Find solace in humanity's last hands of Blackjack. Pierce the room with the clacking of keys as you sit, stand, split, or vary your risk.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Stackbound",
+    "appid": 3821280,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3821280",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Stack geometric blocks into towering structures using physics and strategy. Combine deckbuilding mechanics with precision placement as towers grow taller and challenges intensify across persistent rounds.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
