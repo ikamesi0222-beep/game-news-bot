@@ -1,0 +1,606 @@
+[
+  {
+    "name": "Rising Moonshade",
+    "appid": 4580720,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4580720",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rising Moonshade is a turn-based strategy game set in a medieval fantasy world. Lead your squad through ever-changing missions—gather resources, forge equipment, and build tactical playstyles. Under the dual pressure of survival and combat, you must ultimately withstand the Demon King's invasion.",
+    "scout_score": 78,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sniper Game",
+    "appid": 4831000,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4831000",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sniper Game is a first-person precision shooter built on a single idea: prove you are the best shot in the world. One handcrafted battleground, relentless escalating waves, and a global leaderboard scoring every shot. Two buildings, three rankings — climb the World Championship.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "玄中记",
+    "appid": 4571290,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4571290",
+    "current_players": 18,
+    "total_reviews": 30,
+    "positive_rate": 93.33,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "An Eastern fantasy cel-shaded MMORPG inspired by ancient mythology, set in the open Xuanzhong world. Explore a massive hand-painted map, capture &amp; breed beasts, build your home, trade freely, join guild battles—embark on an immersive Xianxia adventure!",
+    "scout_score": 50,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "A Love Letter in Snowfall",
+    "appid": 4740420,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4740420",
+    "current_players": 167,
+    "total_reviews": 316,
+    "positive_rate": 99.05,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "&lt;A Love Letter in Snowfall&gt; is a live-action, multi-ending interactive romance movie game. As a young B&amp;B keeper in a small southern town, you meet, and fall for a visiting actress—every choice rewrites your love story. Meet someone, and fall in love that trembles in bones.",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "TheVillage: Possession",
+    "appid": 3927590,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3927590",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "TheVillage: Possession is a first-person horror game where you return to a cursed village to uncover the truth behind a failed ritual. Explore abandoned locations, solve puzzles, collect doll parts, and survive terrifying supernatural encounters while an unseen force manipulates your mind.",
+    "scout_score": 43,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "XiuXian Idle Cultivation",
+    "appid": 4866160,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4866160",
+    "current_players": 394,
+    "total_reviews": 19,
+    "positive_rate": 5.26,
+    "steam_score": "Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sneaky Cultivation is a transparent desktop idle RPG about quietly growing stronger while you work or study. Keep a tiny battle window on screen, auto-slay monsters, collect gear and treasures, combine cultivation skills, and break through from Qi Refining to True Immortal.",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Sail Girl",
+    "appid": 3957240,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3957240",
+    "current_players": 183,
+    "total_reviews": 4,
+    "positive_rate": 0.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build your waifu fleet in Sail Girl, an idle RPG where kawaii anime girls await your command. Recruit, romance, and collect your dream team through gacha summons and daring voyages. Sail seas, enjoy hot spring dates, and bond with your crew on the way to the fabled Blue Pearl.",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Linkshift",
+    "appid": 3822710,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3822710",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A roguelite puzzle game for tinkerers and pixel junkies. Link Nodes, use Relics, get upgrades, find synergies, create massive combos, feel good.",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Atomcraft",
+    "appid": 2803490,
+    "price": 1199,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2803490",
+    "current_players": 262,
+    "total_reviews": 19,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A sandbox adventure where every pixel is physically and chemically simulated! Build intricate, fully functional machines from the pixels around you. Harvest, react, and manipulate all 118 elements to craft everything from simple tools to complex systems.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Soccer Fan - Online Multiplayer Football",
+    "appid": 3996790,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3996790",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fast-paced, action-packed soccer fun with Soccer Fan - Online Multiplayer! Enjoy dynamic gameplay and intense competition. Perfect for both football fans and casual gamers!",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Stained Roses & Lilies",
+    "appid": 4370020,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4370020",
+    "current_players": 30,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In a peaceful household, two pure flowers—roses and lilies—bloom quietly, until an unseen “black hand” reaches in. With a coach’s arrival, subtle changes reveal a slow, irreversible transformation.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Joe Adventure",
+    "appid": 3749960,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3749960",
+    "current_players": 2,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Save Joe Mama and don’t explode any of your Joes by keeping them on the move. You can only control one at a time but they are all exploding at the same time. Throw them around to traverse deadly terrain in this rage-inducing speedrun-friendly platformer!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Market Empire Simulator",
+    "appid": 3163840,
+    "price": 124,
+    "discount_percent": 75,
+    "url": "https://store.steampowered.com/app/3163840",
+    "current_players": 1,
+    "total_reviews": 14,
+    "positive_rate": 85.71,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Market Empire Simulator is a business management game where you build, run, and optimize your own supermarket. Manage inventory, hire employees, stock shelves, and expand your store to create the ultimate shopping experience.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Club Soko",
+    "appid": 3346410,
+    "price": 1119,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3346410",
+    "current_players": 6,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Navigate your way deep into an underground nightclub and discover secrets hidden in its depths.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Soccer Cup Boys - Hentai Jigsaw",
+    "appid": 4918290,
+    "price": 159,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4918290",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Get ready for a championship packed with male temptation: fit boys, sweaty bodies, and plenty of desire turned into puzzles. Soccer Cup Boys – Hentai Jigsaw is an adult puzzle game that will keep you entertained as you assemble increasingly naughty and explicit images.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Battle Echoes",
+    "appid": 2778530,
+    "price": 559,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2778530",
+    "current_players": 0,
+    "total_reviews": 11,
+    "positive_rate": 90.91,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Take command of the mech and become the ultimate strategist. Construct impregnable defense facilities, handpick potent skills, lead your troops, and defy relentless enemy assaults. Will you emerge victorious in this thrilling battle for supremacy?",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "NTR by my Younger Childhood Friend!? His size Ruined Me for My Boyfriend!!",
+    "appid": 4583830,
+    "price": 179,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4583830",
+    "current_players": 0,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A Live2D × ASMR romance interaction game about a dangerously intimate relationship with your childhood friend next door, who already has a boyfriend. Experience immersive interactions, detailed animations, and binaural voice acting as your teasing and intimate moments gradually escalate.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Koko's Cafe",
+    "appid": 3394800,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3394800",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Serve coffee and befriend customers as you learn their story in this coming-of-age visual novel.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "DragonSword : Awakening - Familiar : Orchid Wing Cat",
+    "appid": 4786000,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4786000",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Purchasing this content lets you obtain the familiar &quot;Orchid Wing Cat,&quot; a companion for your journey across Orbis.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Car Sales Simulator",
+    "appid": 4414590,
+    "price": 1079,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4414590",
+    "current_players": 35,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Car Sales Simulator is the ultimate dealership game where you become a true car dealer and build your own automotive empire. This is more than just a selling game - it's a full-on trade and business simulator experience!",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "FATAL FURY: CotW - Season Pass 3",
+    "appid": 4071070,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4071070",
+    "current_players": 0,
+    "total_reviews": 4,
+    "positive_rate": 75.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Season Pass 3 - DLC Character 1 &quot;Rick Strowd&quot; (July 2026) - DLC Character 2 &quot;Duck King&quot; (August 2026) - DLC Character 3 &quot;Kim Kaphwan&quot; (September 2026) - DLC Character 4 &quot;???&quot; (October 2026) - DLC Character 5 &quot;Laocorn&quot; (November 2026) - DLC Character 6 &quot;???",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Cultist",
+    "appid": 4696600,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4696600",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 0.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cultist is card game about begining of the religions and the way they grow, interact and even become immortal. Can you outgrow the world that contains yourself and become much bigger?",
+    "scout_score": 23,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "消えた灯と夏の影",
+    "appid": 3891670,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3891670",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Uncover the hidden truth behind a summer festival in this Japanese-style story adventure.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "DragonSword : Awakening - Familiar : Timid Hummingbird",
+    "appid": 4786010,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4786010",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Purchasing this content lets you obtain the familiar &quot;Timid Hummingbird,&quot; a companion for your journey across Orbis.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "DragonSword : Awakening - Familiar : Cotton Flying Squirrel",
+    "appid": 4785990,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4785990",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Purchasing this content lets you obtain the familiar &quot;Cotton Flying Squirrel,&quot; a companion for your journey across Orbis.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "DragonSword : Awakening - Familiar : Viola Flying Squirrel",
+    "appid": 4785980,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4785980",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Purchasing this content lets you obtain the familiar &quot;Viola Flying Squirrel,&quot; a companion for your journey across Orbis.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "DragonSword Awakening - Deluxe Pack",
+    "appid": 4742640,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4742640",
+    "current_players": 0,
+    "total_reviews": 6,
+    "positive_rate": 16.67,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The &quot;Deluxe Pack&quot; is content that includes the in-game usable &quot;Familiar : Brave Baby Dragon,&quot; a Digital Artbook, and the Original Soundtrack.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Void Future: Hacking Protocol",
+    "appid": 3478560,
+    "price": 1274,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3478560",
+    "current_players": 8,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In Void Future: Hacking Protocol, you play as a hacker in a cyberpunk world ruled by corporations. Hack, solve puzzles, and uncover a global conspiracy. Hunted by a system that never sleeps, you’ll need to stay hidden, outsmart surveillance, and fight to survive.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "No chicken wants to die",
+    "appid": 4804650,
+    "price": 239,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4804650",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "No Chicken Wants to Die is a short, incremental game. Play as a helpless little chick and fend off waves of zombies to protect your chicken coop!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Reefling: A Cozy Desktop Aquarium",
+    "appid": 4889950,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4889950",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Reefling is a calm desktop aquarium that sits in the corner of your screen. Feed your fish with a click, earn shells over time, and collect over 150 pixel-art species. Decorate the tank and watch day turn to night. Your fish never starve and you can't lose, so just relax while you work.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
