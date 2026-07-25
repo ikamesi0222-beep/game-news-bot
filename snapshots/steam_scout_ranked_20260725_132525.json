@@ -1,0 +1,606 @@
+[
+  {
+    "name": "Scrap Mechanic",
+    "appid": 387990,
+    "price": 2899,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/387990",
+    "current_players": 27505,
+    "total_reviews": 119236,
+    "positive_rate": 92.04,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Enter the creative paradise of Scrap Mechanic! Build fantastic machines, go on adventures with your friends and defend against waves of evil Farmbots in this imaginative multiplayer survival sandbox. With Scrap Mechanic’s powerful creation tools you can engineer your own adventures!",
+    "scout_score": 81,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Nebulis Entity",
+    "appid": 4068440,
+    "price": 922,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4068440",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Nebulis Entity is a first person spaceship crew simulator, with support for online co-op. Maintain your vessel, track down and decode alien signals, and venture as far as you can - while doing your best to prevent your ship from falling apart around you.",
+    "scout_score": 71,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "天平游戏1:抉择",
+    "appid": 4699920,
+    "price": 647,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4699920",
+    "current_players": 924,
+    "total_reviews": 160,
+    "positive_rate": 98.75,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "《Inner Scales 1:Choice》is a first-person FMV. Set in a sealed cage. It pushes survival, humanity, emotion and moral dilemmas to the extreme. You will face surveillance, cages, and the fates of eight trapped women—every choice you make decides life and death for others and yourself.",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Be Human...Or Die Trying",
+    "appid": 2814400,
+    "price": 492,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2814400",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Use the bathroom or defend your home from zombies? The choice is yours! Be Human... Or Die trying is a 1-8 player co-op defense game where killing zombies is just as important as taking a shower. Also did I mention that you play an alien in a mech suit? Yeah it's a weird game like that.",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Gigils: Chomp Together",
+    "appid": 3643790,
+    "price": 647,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3643790",
+    "current_players": 3,
+    "total_reviews": 8,
+    "positive_rate": 75.0,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Gigils is a fast-paced multiplayer brawler where cute alien creatures bite, evolve, and fight for control of the battlefield. Choose your Gigil, devour enemies, unlock powerful abilities, and grow into a bigger threat. Work with your team, capture key locations, and turn the chaos in your favor",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "B-Prison Unchain",
+    "appid": 4395030,
+    "price": 735,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4395030",
+    "current_players": 24,
+    "total_reviews": 9,
+    "positive_rate": 100.0,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this turn-based RPG, play as Misa, the supposedly strongest soldier in the Demon Realm, as she hunts down the legendary incubus Asmodeus. Battle through the succubi prison, recruit allies, and survive nasty traps, but beware! The enemies sent after you have plenty of tricks to slow you down!",
+    "scout_score": 46,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Nothing To Declare",
+    "appid": 3894850,
+    "price": 682,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3894850",
+    "current_players": 369,
+    "total_reviews": 22,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Live the thrill of working as airport security! 🛃 Weigh and scan bags, ask passengers questions, and if you are not convinced, search their luggage for dangerous items. It could be a bomb or an oddly shaped electronic device! Earn money and upgrade your workstation.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Curse of The Lineage",
+    "appid": 4039190,
+    "price": 514,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4039190",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Curse of the Lineage is an isometric puzzle roguelike where you navigate shifting grounds filled with lost souls, powerful charms and endless secrets. Unravel your bloodline’s dark past as you traverse and fight to break the family curse.",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Steel Crawlers",
+    "appid": 4653890,
+    "price": 519,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4653890",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Steel Crawlers is a 2D arcade tank combat game where you blast through destructible battlefields, defend your treasure chest, level up your tank, and fight escalating enemy waves solo or in local multiplayer.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Infinitevania",
+    "appid": 1983620,
+    "price": 1274,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/1983620",
+    "current_players": 56,
+    "total_reviews": 26,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A metroidvania that combines the visual style of classic retro games with the fluid gameplay of modern titles. Explore different worlds, face challenging enemies and bosses, and absorb their powers to destroy the Core of Infinitevania.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Organize my Shop",
+    "appid": 4751340,
+    "price": 415,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4751340",
+    "current_players": 115,
+    "total_reviews": 9,
+    "positive_rate": 88.89,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bring flawless order to the store! Switch between shelves and find the right items in the pile on the conveyor belt. Sort cheeses, meat delicacies, aromatic pastries, and sweets strictly according to the labels. Enjoy the moment of perfect order!",
+    "scout_score": 37,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "BACKROOMS ANOMALY",
+    "appid": 3451970,
+    "price": 489,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3451970",
+    "current_players": 12,
+    "total_reviews": 10,
+    "positive_rate": 80.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore a looping corridor filled with anomalies. Walk through the fluorescent-lit backrooms environment, examine your surroundings, and spot subtle changes in reality.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "no fox season",
+    "appid": 3759670,
+    "price": 299,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3759670",
+    "current_players": 36,
+    "total_reviews": 57,
+    "positive_rate": 73.68,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "One rainy day you come home from the store and find a wounded fox on the road. In spite of your strict parents who forbid you to have pets, you decide to take her in.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Box Office Mayhem: Theatre Tycoon",
+    "appid": 4572730,
+    "price": 769,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4572730",
+    "current_players": 13,
+    "total_reviews": 9,
+    "positive_rate": 88.89,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Box Office Mayhem is a business management game where you simulate running your own movie theatre. Navigate through signing movie deals, managing day to day operations, and struggle as movie goers have unpredictable behavior. Play solo against AI competitors or take it online against friends!",
+    "scout_score": 34,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Starfall Command",
+    "appid": 4890090,
+    "price": 315,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4890090",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pilot powerful starfighters, battle massive bosses, unleash devastating homing missiles, and defeat the Overmind in this fast-paced arcade sci-fi shoot 'em up.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hard Count",
+    "appid": 4431330,
+    "price": 647,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4431330",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build your deck of players. Place those players in the grid to make plays. Run plays to score points. Score points to move the ball. Score a touchdown to win the game.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Scrap Mechanic - Fan Pack",
+    "appid": 4857560,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4857560",
+    "current_players": 0,
+    "total_reviews": 28,
+    "positive_rate": 96.43,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "This Fan Pack adds 14 very special garments to your wardrobe that you can mix and match!Only available in this pack!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Sneaky Fishy",
+    "appid": 4582530,
+    "price": 363,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4582530",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sneaky Fishy is a 2D puzzle platformer where the player is a fish with legs whose goal is to disable an oil rig that polluted its home.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Hotel Infinity",
+    "appid": 4893300,
+    "price": 220,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4893300",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In Hotel Infinity, you find yourself caught in a loop. To break free, you must detect anomalies. Once you locate an anomaly, you have to decide which direction to take; making the wrong choice sends you right back to the beginning.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Skelemancer TD",
+    "appid": 4732330,
+    "price": 467,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4732330",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A tower defense game where you command an army of skeleton wizards. Unlock multiple magic skills on each skeleton wizard and switch between them mid-battle. Master fire, ice, lightning, and more to survive increasingly brutal waves of enemies.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Phantom Floor",
+    "appid": 3752110,
+    "price": 568,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3752110",
+    "current_players": 0,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are trapped on the Phantom Floor. You must find a way to escape, but keep quiet, it's always listening.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "SurfaBeam - Projection Mapping",
+    "appid": 4617300,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4617300",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Transform any physical space into a dynamic digital canvas. This powerful projection mapping software lets you warp, blend, and anchor visuals to real-world surfaces using advanced node-editing. Features a Dynamic Visual Creator for real-time, audio-reactive light shows and immersive installations.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "PorBor",
+    "appid": 3755100,
+    "price": 1024,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3755100",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "PorBor is a metroidvania set in a mutated civilization. Slash through enemies to form a collectable substance, forcing you to engage with close and quick combat. Explore this varied overgrown world as Bor to learn about the mind of a god...",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Find Us Cats",
+    "appid": 3184730,
+    "price": 193,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3184730",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Find Us Cats 😸 is a new hidden object game starring our favorite feline friends! Find dozens of cats in each level and aim for a high score in the Planetarium and San Francisco. Don't forget to try out the Painting mode! 🖌️🎨",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "A Game About Making Numbers Go Up",
+    "appid": 4554050,
+    "price": 220,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4554050",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A Game About Making Numbers Go Up? It's Exactly That! Click, hover or idle through this short incremental as you make those numbers go up!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "MPE Insight",
+    "appid": 4919520,
+    "price": 2974,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4919520",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A real-time MPE performance environment. Pressure, pitch bend and timbre drive 21 live AURA visual engines, CASCADE note-rain and the FORGE depth engine, plus keyboard, staff and expression analysis modules. Not a visualizer: a space where sound and image share one data stream.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Ski Jump Champions",
+    "appid": 4819410,
+    "price": 519,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4819410",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Take to the slopes in this retro style 2D ski jumping game. Every jump is a test of timing, technique, and nerve - nail your takeoff, control your posture through the flight, and stick the landing to earn the crowd's roar and to impress the judges for maximum style points.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Astray: Zero",
+    "appid": 4150340,
+    "price": 69,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4150340",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 2D side-scrolling action-adventure game. You constantly defeat monsters and advance to the next level. In the hand-drawn game world, you will fight alongside a girl named Zero, uncovering the truth of this game world during a fantastical journey!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Strata the Cube",
+    "appid": 4897450,
+    "price": 146,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4897450",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Every cube hides a solution. Study intricate interlocking structures, discover which pieces can move, and dismantle 3D puzzles one piece at a time. Unlock titles, earn achievements, and put your logic to the test.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "MoonScape",
+    "appid": 4927290,
+    "price": 382,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4927290",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build an army, raid rival corporations, and defend your base while it keeps running without you. Research upgrades, arm your Titan, and dig into a moon that isn't as abandoned as it looks. Something was here first. Find out why it's gone.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
