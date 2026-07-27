@@ -1,0 +1,617 @@
+[
+  {
+    "name": "Fire On Fight : Online Multiplayer Shooter",
+    "appid": 1092050,
+    "price": 1049,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/1092050",
+    "current_players": 5,
+    "total_reviews": 114,
+    "positive_rate": 74.56,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fast-paced classic military FPS inspired by old-school online shooters. Battle in online PvP or PvE against intelligent AI bots. Unlock soldiers, weapons, perks, and attachments, earn XP, customize your loadouts, and enjoy full matches with no empty servers.",
+    "scout_score": 143,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: PvP +20",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Skills & Raids",
+    "appid": 4401370,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4401370",
+    "current_players": 81,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Party-based Extraction RPG with real-time, ability driven combat. Manage cooldowns and react to enemy mechanics. Loot resources to complete quests and craft powerful gear. Combine skills &amp; create unique builds. The world has fallen into the grasp of a creature that erases everything, even thoughts.",
+    "scout_score": 129,
+    "reasons": [
+      "最優先ジャンル: Extraction +40",
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "The Left Behind",
+    "appid": 2433630,
+    "price": 989,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2433630",
+    "current_players": 74,
+    "total_reviews": 49,
+    "positive_rate": 14.29,
+    "steam_score": "Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Left Behind is a solo and co-op post-apocalyptic survival game. Explore a typical Dutch open-world landscape at daytime and beware of hordes of enemies coming in at night. Loot and hunt to survive. Each night, the game becomes increasingly challenging. How long will you survive?",
+    "scout_score": 86,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Survival +15",
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Forge and Flame",
+    "appid": 4811000,
+    "price": 99,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4811000",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Light the forge and join your fellow dwarves in a fast-paced co-op crafting challenge. Gather resources, create weapons, complete demanding orders and survive the chaos together in online multiplayer.",
+    "scout_score": 73,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Multiplayer +20",
+      "成長/積み上げ要素: Crafting +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Block Wars: Falling Duel",
+    "appid": 4430500,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4430500",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A competitive falling-block puzzle game with online PvP, tactical line clearing, boosters, stone blocks, lightning symbols, and fast 1v1 matches.",
+    "scout_score": 73,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: PvP +20",
+      "無料 +20",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Backfire Brigade",
+    "appid": 3997210,
+    "price": 1619,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3997210",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Backfire Brigade is a chaotic couch co-op firefighting game for two to four players. Coordinate with your fellow firefighters to rescue victims trapped in burning buildings while extinguishing the flames.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Kinny and the Cosmic Cauldron",
+    "appid": 3330210,
+    "price": 974,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3330210",
+    "current_players": 667,
+    "total_reviews": 40,
+    "positive_rate": 85.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cook or be cooked! In this cosmic deck-building roguelike, ingredients crash, merge, and react in chaotic ways. As the witch chef of Stewpendous Spoons, craft the perfect stew, master strategic combos, and satisfy bizarre patrons, before you end up in the cauldron yourself!",
+    "scout_score": 51,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "おかあさん",
+    "appid": 4930640,
+    "price": 79,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4930640",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a Japanese horror, puzzle-solving, walking simulator.Your mother suddenly collapses right in front of you. Save her.You only have two actions to change her fate. Search for clues hidden throughout the house, piece together the truth, and try again and again to reach the happy ending.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Last Hope: Zombie Autobattler",
+    "appid": 4882970,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4882970",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "No health bars, no game over screens! Last Hope is a chill idle autobattler focused entirely on progression. Build your automated bullet hell, sit back, and melt zombies before they reach your indestructible shield. The faster you wipe them out, the more loot you gather for your lab.",
+    "scout_score": 50,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "No Socks RPG",
+    "appid": 4929970,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4929970",
+    "current_players": 173,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight groovy enemies, and recruit a team of sexy, cute and quirky Monster Girls to get your fits back!",
+    "scout_score": 49,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Road Diner Simulator: Prologue",
+    "appid": 3199870,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3199870",
+    "current_players": 333,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Experience the past and get to know the story of the old diner and its struggling history in this prologue to Road Diner Simulator.",
+    "scout_score": 41,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Necromancer Idle: The Endless Drain",
+    "appid": 4936120,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4936120",
+    "current_players": 7,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Defeat The Necromancer and free the world from his evil! An Idle/Incremental inspired by RPGs and Roguelites: choose between Soldier, Ranger or Mage, die and rise again keeping your innate experience, automate your actions and reincarnate until you end the curse that drains your life.",
+    "scout_score": 40,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "I'm Just a Wall",
+    "appid": 4938440,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4938440",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "I'm Just a Wall is a multiplayer prop hunt game where up to 30 players become cats to hide and seek. Morph into cacti, candy or trees to hide across the island, or play as the seeker and spot the scenery that looks just slightly off.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Tiny Birdtopia",
+    "appid": 3839360,
+    "price": 539,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3839360",
+    "current_players": 11,
+    "total_reviews": 21,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is not Bird Game 3! Build and manage a relaxing bird sanctuary. Collect and raise diverse bird species, and unlock hidden species by gathering feathers. Customize your Birdtopia with themes like forests and islands, and watch your birds thrive in this casual, idle game.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Spell Knight: Abyss Cleaver",
+    "appid": 4432910,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4432910",
+    "current_players": 27,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Descend into the dark abyss and wipe out endless hordes of monsters. Wield powerful weapons as a magic knight and enjoy the thrill of rapid growth.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Infinite Ruins",
+    "appid": 4317900,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4317900",
+    "current_players": 491,
+    "total_reviews": 14,
+    "positive_rate": 78.57,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "An incremental mining game where you manage golems, destroy blocks, unlock upgrades, and descend infinitely in search of ever more valuable resources.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Tyrania Enforcers - Visual Novel",
+    "appid": 4336290,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4336290",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Faced with evil... would you pull the trigger? Tyrania Enforcers is a story-driven visual novel exploring morality, duty, and the cost of enforcing order in a world on the brink of conflict.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Path of Kung Fu: Bloodstained Desert",
+    "appid": 4967090,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4967090",
+    "current_players": 0,
+    "total_reviews": 21,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "DLC&quot;Bloodstained Desert&quot; : includes:: New Maps: 2 large-scale maps (Korean Dense Forest, Longmen Desert) and 5 smaller maps New Characters: 82 brand-new NPCs. New Scenario Content: Approximately 80,000 words.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Dystopicon",
+    "appid": 3713750,
+    "price": 679,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3713750",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An uncomfortable dystopian time-management game where your job is watching TV to earn money and buy services to survive after robots replace humans at work. Choose to be a good citizen or a rebel. But beware! Curiosity has a price in this dystopian life simulator.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Wizard's Guide",
+    "appid": 4030760,
+    "price": 239,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4030760",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Wizard's Guide&quot; is a strategic RPG that combines &quot;puzzle&quot; and &quot;rogue-lite&quot; elements. Players act as a wizard who sets off with a magicbook to find a elf he enamored at. Core gameplay is the magic matrixs: activate them in various ways to release magic, defeat enemies, progress through storyline.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Water Drop Brick Breaker",
+    "appid": 4467920,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4467920",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fresh take on the classic brick breaker! Control a water drop ball through 1000 levels of exciting challenges. Packed with power-ups, cool skins, and constellation-themed stages — every round brings something new. Free to play, easy to relax.",
+    "scout_score": 25,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Unsent",
+    "appid": 4830090,
+    "price": 99,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4830090",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Trapped in a loop within old apartment, the only way out is to confront deliberately forgotten memories. Under the chilling atmosphere, you must confront the manifestations of your trauma, and decide the fate of a fractured bond. Every clue matters; every choice leads to a different redemption.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Fall of Zorata",
+    "appid": 4915810,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4915810",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Free Lovecraftian first-person puzzle game, 20~30 min linear story. Explore an underground palace, collect ritual items, and trigger a golden relic through chain puzzles—never touch it yourself. Includes 12 achievements, 3 save slots, 7 languages, and a full ending cinematic.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cosdarica's Journey at the End of the World",
+    "appid": 3910590,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3910590",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Human civilization had finally burned out its last spark. The survivors chose to gather together, shutting themselves within safe zones to await death. But Cosdarica did not. Neither did I.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "天天斗地主",
+    "appid": 4903450,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4903450",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Tiantian Dou Dizhu is a cheerful three-player card game based on classic Dou Dizhu rules. The game uses random dealing with a public web verification tool, allowing players to check deal records after each match for greater transparency and fairness.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "ExPEDite",
+    "appid": 4857500,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4857500",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An interactive 3D design review and visualisation application for exploring project models, inspecting layouts, spaces, and technical details, and presenting design information clearly to project teams, clients, and stakeholders during reviews, discussions, and demonstrations.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Capybara Pizza Cafe",
+    "appid": 4302450,
+    "price": 559,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4302450",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Manage a cozy cafe run by Capybaras, for Capybaras. Bake pizzas, serve pizzas, clean tables and ring that cash register!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Royal Goldenbeak and the Curse of Snowy Island",
+    "appid": 3390770,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3390770",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Battle to save the Snowy Island in this cinematic arcade-adventure. Rescue quirky companions, defeat relentless evil robots, and restore warmth to a breathtaking, hand-drawn world. Wishlist now to be the first to play the upcoming demo in June!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Slippery",
+    "appid": 4890480,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4890480",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Slippery is a fast-paced 2D platformer where precision and reaction mean everything. Master unique sliding mechanics and slime transitions to overcome challenging levels. Embark on a dangerous journey to defeat the evil troll and save your cat, Wink!",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "The Political Simulator",
+    "appid": 4942350,
+    "price": 909,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4942350",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Create a candidate and run a Presidential campaign across the United States. Improve your approval rating with battleground voters and try to earn enough support to win on election night. The campaign mode allows you to take part in a turn-based strategic campaign where every decision matters.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
