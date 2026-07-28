@@ -1,0 +1,590 @@
+[
+  {
+    "name": "诡宅祭坛",
+    "appid": 4754090,
+    "price": 209,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4754090",
+    "current_players": 40,
+    "total_reviews": 120,
+    "positive_rate": 95.83,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cast wrap party brings nine people together in a mountain villa. What was meant to be a night of celebration for the production's end quietly ushers in the curtain‑rise of a sinister ritual.",
+    "scout_score": 66,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Slot & Dungeons",
+    "appid": 3160090,
+    "price": 643,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3160090",
+    "current_players": 209,
+    "total_reviews": 276,
+    "positive_rate": 86.96,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A deck-building roguelite where the reels decide your fate! Enemies and items appear based on the spin of the slot. Master luck and strategy to conquer the dungeon!",
+    "scout_score": 52,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Hamster, Eat, Run",
+    "appid": 4259520,
+    "price": 415,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4259520",
+    "current_players": 17,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Be a hamster on your first escape! Survive the wild by eating wisely, building up energy, snowballing your food resources, and hoarding them to unlock new survival tricks. Fail, you'll have no choice but to be a house pet again!",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "BattleshipCrafting",
+    "appid": 3780790,
+    "price": 492,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3780790",
+    "current_players": 1,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Plot - The Earth has been destroyed, and you are transformed into a space fighter by a mysterious force to take revenge on the aliens. Gameplay - You can get some props after each level. Different placement positions of the props will bring different benefits to your battleship and weapons.",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: Crafting +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sir, We Have an Orc Problem",
+    "appid": 4594150,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4594150",
+    "current_players": 3215,
+    "total_reviews": 10,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sir, We Have an Orc Problem is an incremental-style tower defense game where you face an overwhelming number of orcs. Greet them with even more bullets, bombs and lasers!",
+    "scout_score": 43,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Echoes Of Formation",
+    "appid": 4725090,
+    "price": 719,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4725090",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Echoes of Formation is a strategy auto-battler for 1v1 to 5v5 matches and friend multiplayer. Adjust positioning, forge gear, and pick runes in the prep phase. Manage economy and focus-fire targets to deplete the enemy's team health over multiple rounds and claim ultimate victory!",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "主公請躺好",
+    "appid": 4639770,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4639770",
+    "current_players": 131,
+    "total_reviews": 32,
+    "positive_rate": 78.12,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "【主公請躺好】是掛機類卡牌遊戲，玩家可以組建自己的隊伍，遊戲無需操作自動完成挑戰。獲得更高級的裝備和寶物後提升隊伍的實力，挑戰更高難度的BOSS。",
+    "scout_score": 38,
+    "reasons": [
+      "無料 +20",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Zen World",
+    "appid": 1485650,
+    "price": 877,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/1485650",
+    "current_players": 1,
+    "total_reviews": 56,
+    "positive_rate": 80.36,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Zen World is a strategy game that can be as relaxing as you want it to be. Build a calm and colorful landscape with hexagonal tiles, matching their borders to each other, collect valuable boxes, and explore the tech tree.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Mahou Arms",
+    "appid": 1165870,
+    "price": 3689,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/1165870",
+    "current_players": 85,
+    "total_reviews": 579,
+    "positive_rate": 78.93,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mahou Arms is an anime-inspired character-action hack and slash that tells the story of a magical girl paramilitary group fighting back against an unknown force invading Earth.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Quack or Die",
+    "appid": 4899720,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4899720",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An incremental run-based game, where kicking ducks is key to your survival! Pick a robot, work your way through the upgrade tree, play the claw machine and slots, destroy evil ducks and make it to phase 10 of the experiment!",
+    "scout_score": 35,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Warhammer 40,000: Space Marine 2 - Salamanders Champion Pack 2",
+    "appid": 3871400,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3871400",
+    "current_players": 0,
+    "total_reviews": 17,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Set your enemies ablaze in a full-body Armour skin for the Heavy class and a Multi-Melta skin honouring the warriors of Nocturne. The Salamanders Champion Pack 2 is included in the Warhammer 40,000: Space Marine 2 Season Pass 2.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "E-Shop Tycoon",
+    "appid": 4249850,
+    "price": 941,
+    "discount_percent": 35,
+    "url": "https://store.steampowered.com/app/4249850",
+    "current_players": 1150,
+    "total_reviews": 33,
+    "positive_rate": 69.7,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Embark on an e-commerce startup journey in E-Shop Tycoon! Optimize warehouse logistics, hire and train staff, and design unique office spaces as your business grows. Handle industry events and marketing crises. Come grow your startup into an e-commerce giant!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Pantheon: Yaratılış Alevi",
+    "appid": 4621650,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4621650",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pantheon: Yaratılış Alevi, epik bir fantastik dünyaya açılan bir MMORPG oyunudur. Ana görevleri tamamla, lonca savaşlarında zafer kazan ve güçlü bir takım kur. İş birliğiyle efsanevi ekipmanlar ve nadir eşyalar elde et, savaş gücünü zirveye taşı.",
+    "scout_score": 32,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Secret Dice",
+    "appid": 4667910,
+    "price": 519,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4667910",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Roll dice, combine items, and unleash powerful synergies in this roguelike strategy game. With 20+ unique dice and 100+ items, build a brand-new strategy every run. The same dice can yield completely different results depending on your items. It's not luck — it's strategy!",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Warhammer 40,000: Space Marine 2 - Raptors Cosmetic Pack ",
+    "appid": 3871410,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3871410",
+    "current_players": 0,
+    "total_reviews": 17,
+    "positive_rate": 64.71,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Wield misdirection and strike enemies by surprise with the Raptors Cosmetic Pack, a collection of 5 armour pieces honouring their iconic stealth capabilities. The Raptors Cosmetic Pack is part of the Warhammer 40,000: Space Marine 2 Season Pass 2.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Paironix",
+    "appid": 4826690,
+    "price": 467,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4826690",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fast-paced, rogue-lite tile-matching adventure! Connect identical pairs to unleash powerful magic spells, adapt to shifting grids, and draft game-changing upgrades. Can you survive the ever-evolving trials in this striking minimalist vector world?",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Saved by the Coupon",
+    "appid": 4154440,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4154440",
+    "current_players": 5,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your salary is gone, and payday is still a whole month away. Open your phone, pinch every penny, and make the most of every food delivery coupon. Can you survive until the next payday?",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Le Mans Ultimate - US Track Pass",
+    "appid": 4906890,
+    "price": 3599,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4906890",
+    "current_players": 0,
+    "total_reviews": 8,
+    "positive_rate": 62.5,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The US Track Pass DLC will be your ticket to the brand new US content, and will bundle together all the packs and will consist of 6 awesome new tracks to try! ",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Le Mans Ultimate - US Track Pack 1",
+    "appid": 4694190,
+    "price": 1619,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4694190",
+    "current_players": 0,
+    "total_reviews": 5,
+    "positive_rate": 60.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Le Mans Ultimate goes stateside for a brand new challenge! The first of 3 track packs with 6 new circuits includes 2 of the most iconic road circuit racing tracks in the US - including the world-famous Daytona International Speedway and WeatherTech Raceway Laguna Seca",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "ISPELL",
+    "appid": 3840530,
+    "price": 492,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3840530",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "ISPELL is a shoot'em up &amp; bullet hell game where you take on the role of a nameless android who wanders through the dying worlds. Use various weapons and dodge enemy bullets, as well as challenge powerful creatures.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Dungeon Tactics: Idle, Incremental, Autobattler",
+    "appid": 4194860,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4194860",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An incremental idle dungeon auto-battler. Set up your team of adventurers and send them to fight. As they gain experience and learn new skills, you unlock upgrades and recruit new characters. Set it on the corner of your screen while you work, browse, game or anything you want.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "JR EAST Train Simulator:Tōkaidō Line Inbound(Atami to Tokyo)E233-3000 series",
+    "appid": 4893760,
+    "price": 3099,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4893760",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The JR East section of the Tokaido Line connects Tokyo, Kanagawa, and Shizuoka. As part of the Ueno-Tokyo Line network, it offers through-services with the Utsunomiya Line and the Takasaki Line. Enjoy diverse scenery ranging from coastal views to Tokyo's urban skyline.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Guess",
+    "appid": 4934380,
+    "price": 76,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4934380",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Guess is a calm word-puzzle game where you solve each word from its definition, then carry the letters you earned into the next — an endless chain of vocabulary. Play Endless mode to build a streak, or the shared Daily Challenge, with progressive hints that guide you whenever you get stuck.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "PARRY COUNTER",
+    "appid": 3682280,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3682280",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "PARRY COUNTER is a 2D side-scrolling Soulslike action game that puts your timing to the ultimate test. Master perfect parries to deflect enemy strikes and challenge a relentless boss rush. Every battle tests your skill, precision, and courage. Will you rise to counter every attack?",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "KADYX",
+    "appid": 4778790,
+    "price": 311,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4778790",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Control your entire desktop audio without ever alt-tabbing. Bind custom hotkeys to instantly mix music volume, stream your real-time media directly to Discord, and manage everything from a sleek, virtual deck that stays out of your way.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Puzzles Water",
+    "appid": 4749140,
+    "price": 65,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4749140",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Convent Chronicles: Revelation",
+    "appid": 4056490,
+    "price": 1549,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4056490",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "When evil surrounds the convent Sister Mary Angelica must face a frightening and changing world. With friends and Mother Superior, she learns of the mysterious history and the secrets the sisters hold to drive back the darkness. Tests of faith, willpower and love abound in this vibrant visual novel.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "snaze",
+    "appid": 4458930,
+    "price": 179,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4458930",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Snaze is a snake game. Eat the green dots and go to next level.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Tac-Tums: DreamQuest",
+    "appid": 4932470,
+    "price": 209,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4932470",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Tac-Tums: DreamQuest is a cozy but challenging pixel art action-platformer. A young boy enters his dreams to rescue his Yaya. Explore magical worlds inspired by Venezuela, overcome enemies, puzzles, and platforming challenges, discover new powers as you advance through this retro adventure.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Academy of Samsara",
+    "appid": 4429960,
+    "price": 1349,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4429960",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Answer right to deal damage, answer wrong to take it. Die and reincarnate with no items but the same level. 6,000+ trivia questions across 7 categories. Master challenging lore, interact with haunting characters, and break the loop in a world brought to life through 90s retro anime art.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
