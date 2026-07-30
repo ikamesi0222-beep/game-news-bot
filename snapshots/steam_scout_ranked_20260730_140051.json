@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Hyper Warfare",
+    "appid": 4683090,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4683090",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fast-paced multiplayer team-based FPS where skill, strategy, and reflexes decide victory.",
+    "scout_score": 93,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "次点ジャンル: Multiplayer +20",
+      "無料 +20",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "CREATION OF THE GODS: Rebellion at Five Passes",
+    "appid": 3908250,
+    "price": 1274,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3908250",
+    "current_players": 40,
+    "total_reviews": 36,
+    "positive_rate": 88.89,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Enter the epic 'Creation of the Gods' saga. Experience this classic pixel JRPG with deep worldbuilding and vibrant art. Command mythical combat mounts, wield legendary artifacts, and master tactical turn-based battles. In a world where divine fate clashes with human will, only one can prevail.",
+    "scout_score": 76,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "SENARA: The Sacrament",
+    "appid": 3915120,
+    "price": 1799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3915120",
+    "current_players": 19,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A claustrophobic ocean liner, relentless cultists, and horrific monstrosities. Inspired by classic survival horror like Resident Evil, gather clues, solve puzzles, and uncover the truth. Where fanaticism and salvation collide, you must make choices beyond mere survival.",
+    "scout_score": 71,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "House of Anomalies",
+    "appid": 4568640,
+    "price": 679,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4568640",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore a shifting haunted house alone or with friends in online co-op. Watch every room carefully, uncover disturbing anomalies, and question what is real as the house grows stranger with every new discovery.",
+    "scout_score": 71,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Forgotten Playland: Party Edition",
+    "appid": 3840260,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3840260",
+    "current_players": 10,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Unleash plushie mayhem in the ultimate attic showdown. Sprint, shove, and sabotage your way through 20+ chaotic mini-games as a cuddly custom Plushkyn. Play solo, local, or online multiplayer with up to 4 players, or hang out in massive 32-player lobbies for unplanned shenanigans!",
+    "scout_score": 63,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "EXODIUM Part 1",
+    "appid": 2272720,
+    "price": 580,
+    "discount_percent": 17,
+    "url": "https://store.steampowered.com/app/2272720",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A story-driven third-person adventure shooter featuring exploration, dialogue, and technical challenges in the world of the late 21st century. Military bases, secret laboratories, and space stations. Androids carrying human personalities, a self-aware artificial intelligence, and genetic prototypes.",
+    "scout_score": 61,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Greedy Spin: Reel Roguelike",
+    "appid": 4529660,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4529660",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Greedy Spin is a roguelite slot game built around a rotating prize wheel. Freely modify the machine’s symbols and multipliers, combine 150+ items to uncover wild chain effects, and rake in absurd amounts of chips — and cash!",
+    "scout_score": 53,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Water Margin Online",
+    "appid": 4808310,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4808310",
+    "current_players": 442,
+    "total_reviews": 43,
+    "positive_rate": 97.67,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "《水滸歷險Online：重生》是一個大型線上角色扮演遊戲，遊戲將會把你帶到宋朝時期，你可與一眾梁山好漢大塊吃肉、大口喝酒，亦可與其他玩家一同聚義，成幫立寨，感受江湖中人的俠義精神。一百零八條梁山好漢皆為上應天命之人，分屬三十六天罡星、七十二地煞星，各懷神技，有文有武，各有所長，一段段的俠義故事將由你去重新演譯。 遊戲採用了實時戰鬥系統，配以獨有的戰陣及各種職業的專用技能。另外，各式的生活技能，強調故事性的章回小說式任務等可以讓你得到戰鬥以外的樂趣。 交友，消閒，娛樂是《水滸歷險Online：重生》的重點，結拜婚姻系統、有趣生動的感情指令、造型獨特的裝備，種種有趣的玩意將在遊戲內一一呈現。",
+    "scout_score": 43,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Luck of the Draw",
+    "appid": 4802350,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4802350",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A wild west themed Roguelike Deck-builder where you claim bounties by getting into western standoffs and growing your arsenal. Order your bullets and buffs into the cylinder to create devastating combos and deal massive damage!",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Truxton Extreme",
+    "appid": 3323490,
+    "price": 2499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3323490",
+    "current_players": 76,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Take down hordes of alien invaders with your Power Shot, Truxton Beam, Thunder Laser, Homing Shot, Star‑mine Shot, and more! Don't forget to breathe as you face off against gigantic bosses in the ultimate battle for humanity’s survival!",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "CipherMind",
+    "appid": 3733860,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3733860",
+    "current_players": 54,
+    "total_reviews": 15,
+    "positive_rate": 93.33,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "8 test subjects are trapped in a sealed building, controlled by a mysterious system. Each has a hidden codename that determines both their win condition and threat level. Complete tasks to gain clues and eliminate others by deducing their codename. Uncover your own, or survive to the end to escape.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Seventh Mansion: The First Escape",
+    "appid": 4624310,
+    "price": 239,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4624310",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Escape an eerie mansion where death resets everything. Solve puzzles, evade the Wicked Nuns, or use a camera to survive in this psychological horror experience.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cyberpunk Brothel 🤖",
+    "appid": 4771970,
+    "price": 497,
+    "discount_percent": 17,
+    "url": "https://store.steampowered.com/app/4771970",
+    "current_players": 4,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Alex is a pro hacker, but he’s also known on the darker parts of the web, seeking out corporate fraud and instigating acts of shadow code that would make others cringe if they knew. However, his hobbies make him a true sexual deviant, and now his AI partners may be coming into their own reality!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Elementis TD",
+    "appid": 4916440,
+    "price": 559,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4916440",
+    "current_players": 21,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The strongest tower… or the safest one? In this solo elemental tower defense, powerful towers feed the Corruption that empowers your foes. Fuse elements, free 7 kingdoms, then survive the endless roguelite Eternal Vigil. Every tower is a choice.",
+    "scout_score": 33,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Fishful Days",
+    "appid": 4313730,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4313730",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Fishful Days&quot; is a casual idle game. you can buy fish fry and let them grow in the background; once they reach adulthood, they will continuously produce fish for you! You can also buy multiple fish tanks to achieve snowballing growth. It also offers rich fish tank customization features.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Astro Burn",
+    "appid": 3810660,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3810660",
+    "current_players": 0,
+    "total_reviews": 16,
+    "positive_rate": 93.75,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dodge everything. Destroy anything. Stack ridiculous firepower and unleash anime style Catnip powered chaos in this fast paced cute-em-up bullet hell. Play as Astro, a space cat with her robot companion on their journey home, battling through absurd enemies, deadly hazards, and unhinged bosses.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Bob Run",
+    "appid": 4383980,
+    "price": 254,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4383980",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bob Run is a charming retro-style platformer about speed and survival.  Race through levels, collect useful items, and reach the exit before time runs out. If you're too slow, meteors will start raining from the sky!  Easy to learn, fun to master, and packed with retro charm.",
+    "scout_score": 33,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Sudden Strike 5 - France: Road to Liberation",
+    "appid": 4519150,
+    "price": 1349,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4519150",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Under the cover of darkness, they came – silently across the waves… In Sudden Strike 5 – France: Road to Liberation, deploy to one of the most decisive chapters in the liberation of France! Following D-Day, you’ll be joining the fight in a new Allied landing operation in August 1944.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Ludus: A Gladiator Story",
+    "appid": 4893350,
+    "price": 809,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4893350",
+    "current_players": 7,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fully voiced branching narrative RPG of the Roman arena with a unique engraving and VO for every choice and outcome. Four origins, over 1,800 choices, and 19 endings. You will bleed on the sand. The only question is whether you bleed for them, or for yourself. Every choice leaves a scar.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hardware Simulator - Prologue",
+    "appid": 4865160,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4865160",
+    "current_players": 17,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build your hardware empire from scratch! Experience real business with product sourcing, dynamic pricing, online orders, and delivery management. Boost your popularity, expand your store, and become the country's most successful hardware merchant!",
+    "scout_score": 25,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Rita",
+    "appid": 2984850,
+    "price": 1349,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2984850",
+    "current_players": 46,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rita is a cozy adventure where a little chicklet solves word-based puzzles to transform the world around her. Follow her story across generations, meet her grandchicklet, and be a part of her legacy.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "UnDo",
+    "appid": 4542700,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4542700",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "UnDo is a box-pushing puzzle game where you place boxes on target tiles using mechanics tied to Undo. To clear a stage, you must consider not only walls and boxes, but also the order of actions and how the mechanics interact.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Senatus",
+    "appid": 4094470,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4094470",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Strategic card battles in the heart of the Roman Senate. Debate, persuade, and rise through the ranks to become Consul of Rome. Influence is power, and power decides everything.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hyperstacks",
+    "appid": 1046760,
+    "price": 1699,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/1046760",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A VR world of combat, parkour, logic-driven puzzles, memorable characters, and community-made levels. Meet its residents through quests and discover a growing library of player creations.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Town Master",
+    "appid": 4848440,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4848440",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a fun board game like Monopoly, where you build and expand your village by rolling the dice! You can also have real-time interactions with your friends!",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "My Dating Empire",
+    "appid": 4320160,
+    "price": 1104,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4320160",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "My Dating Empire is a multi-ending romance simulator. Will you be a devoted lover, or a heart-stealing playboy? Return to college and experience the thrill of youthful romance through every encounter, conversation, and date.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Diggy Diggy Mole",
+    "appid": 4861150,
+    "price": 973,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4861150",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this metroidvania platformer originally made for NES, play as mole digging your way with great agility through deep caverns, in search of a lost dwarven treasure to repay your debts.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Fishing Planet: Anniversary Event Pack",
+    "appid": 4961440,
+    "price": 2499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4961440",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Celebrate Fishing Planet Anniversary with unique festive items and 7 days of Premium! Round out with a few extra lifesavers, including Inventory Extensions, Marker &amp; Navigation Buoys, and Repair Kits, so you're ready to take on your Anniversary adventure!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "GameControllerMouse",
+    "appid": 4890420,
+    "price": 279,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4890420",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This program allows you to control mouse movements and the keyboard on your PC using a game controller (Xbox, PS4, PS5, Switch).",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Forgotten Isle",
+    "appid": 4847300,
+    "price": 209,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4847300",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Awaken upon a surreal fantasy isle far from time and explore its toxic shores for an audience with the Lord of Starlight. Brave the void of night in this first-person indie open world experience with retro 3D graphics.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
