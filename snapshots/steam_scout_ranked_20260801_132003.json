@@ -1,0 +1,590 @@
+[
+  {
+    "name": "Escape the House",
+    "appid": 4966860,
+    "price": 279,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4966860",
+    "current_players": 2,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You're locked in your crazy Granny's house. She can hear everything and runs incredibly fast. Hide in closets, be quiet, solve puzzles, and find a way to escape before your days are up. A tense PSX survival horror game where every dropped object can cost you your life.",
+    "scout_score": 68,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "CORPSE HUNTER",
+    "appid": 4191020,
+    "price": 1444,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4191020",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A stealth action game of extraction, set in a world consumed by Death. The Girl's only goal is to survive the next day.",
+    "scout_score": 61,
+    "reasons": [
+      "最優先ジャンル: Extraction +40",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Musica",
+    "appid": 4712720,
+    "price": 1754,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4712720",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Gather your friends for the ultimate musical showdown! Connect your phones as controllers and compete in three exciting modes: Guess That Song, Before or After, and Time Survival. Test your musical knowledge, buzz in fast, and see who truly rules the aux cord in this local party game!",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Dinofurie | The Dinosaur's Battle Royale",
+    "appid": 4756740,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4756740",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fast-paced dinosaur battle royale with skill-based combat, unique abilities, bleeding, venom and massive PvP battles on the island of LaBBany.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: PvP +20",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "NTR Hunter",
+    "appid": 4458730,
+    "price": 4279,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4458730",
+    "current_players": 294,
+    "total_reviews": 13,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this NTR RPG, play as Norihito, a debt collector investigating his wife Hisako’s strange behavior. Earn money through mini-games and use your newly acquired special powers to spy on your wife's secret affairs with your boss. Can you protect Hisako, or will you let another man steal her from you?",
+    "scout_score": 51,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "LAST STAND Apocalypse",
+    "appid": 4423700,
+    "price": 5669,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4423700",
+    "current_players": 199,
+    "total_reviews": 15,
+    "positive_rate": 93.33,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a Vampire Survivors-style roguelite action game. With a fixed top-down view and gameplay that only requires movement (auto-firing), the controls are extremely accessible with almost no barrier to entry.",
+    "scout_score": 51,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "HackHub - Ultimate Hacker Simulator",
+    "appid": 2980270,
+    "price": 3079,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2980270",
+    "current_players": 452,
+    "total_reviews": 662,
+    "positive_rate": 90.18,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Unravel cyber secrets and foil mass surveillance as a skilled hacker in Hackhub. Challenge authority, rewrite the rules, and emerge as the ultimate digital rebel.",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "SurroundedByBoys",
+    "appid": 4673900,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4673900",
+    "current_players": 332,
+    "total_reviews": 13,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A high school daily life Visual Novel—Players will take on the role of a &quot;nobody&quot; in high school, experiencing a hilarious campus story of suddenly being surrounded by male classmates and enjoying a time full of youth and fun.",
+    "scout_score": 43,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Drifted",
+    "appid": 3721550,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3721550",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "DRIFTED is a 3d horror mystery game, as you explore a mansion looking for your missing friend, you will find many secrets within as you uncover the mystery behind their disappearance. Between locked rooms and fighting monsters, who knows what you will uncover!",
+    "scout_score": 42,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Daiying Slingshot",
+    "appid": 4958760,
+    "price": 2999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4958760",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Daiying Slingshot is a physics-based slingshot action puzzle game. Master parabolic aiming, overcome obstacles, defeat monsters and bosses, collect valuable loot, forge powerful Feather Ammo, and conquer increasingly challenging levels",
+    "scout_score": 36,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Helen Keller Simulator",
+    "appid": 3287230,
+    "price": 786,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3287230",
+    "current_players": 7,
+    "total_reviews": 10,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore a world without your eyes and ears to guide you. Uncover the secrets this world has to offer, hoard all the items you can find or get lost trying.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "AfterWar",
+    "appid": 2497570,
+    "price": 5919,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2497570",
+    "current_players": 3,
+    "total_reviews": 142,
+    "positive_rate": 73.94,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "AfterWar is a simple yet feature-rich strategy game for everyone.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "You Must Remember",
+    "appid": 4809860,
+    "price": 1800,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4809860",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dark past stops Patient 11 from retaining memories, leaving him hostile and lost in time. Dive deep into his mind through hypnosis to help him recover the truth. Every attempt is completely different. Are you up for the challenge?",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Moshcave",
+    "appid": 1838600,
+    "price": 209,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/1838600",
+    "current_players": 0,
+    "total_reviews": 9,
+    "positive_rate": 66.67,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Buff Murphy and obliterate hundreds of enemies as you crawl deep into the cave of Dr. Mosh! Moshcave is a retro-style action roguelite game with many different possible builds and strange enemies that gets progressively stronger.",
+    "scout_score": 31,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Stellar Hustler",
+    "appid": 4557080,
+    "price": 989,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4557080",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A space trading roguelite. Buy low, sell high, dodge pirates, bribe customs, and pay off your debt to The Syndicate before time runs out.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Unfamiliars",
+    "appid": 4505680,
+    "price": 1559,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4505680",
+    "current_players": 3,
+    "total_reviews": 5,
+    "positive_rate": 60.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A rainy night, unfamiliar figures outside your mobile home and the growing feeling that something is terribly wrong.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "IKANDY",
+    "appid": 4813240,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4813240",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "IKANDY turns your music into living, high-definition visuals in real time. Reactive shaders, classic MilkDrop presets, and GPU-powered scenes that move with every beat. Free and ready to go out of the box. Go Pro to stream to OBS, run it as a live wallpaper, and create your own scenes with AI.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Law of Demons",
+    "appid": 4247690,
+    "price": 3359,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4247690",
+    "current_players": 0,
+    "total_reviews": 5,
+    "positive_rate": 60.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Law of Demons is a dark medieval action-adventure, brought to life with the twisted art and uncanny vision of Sierra Tunis. Traverse the surreal and violent world of Spire and face off against the diabolical foes which stand in your way. Do you have what it takes to fight the law?",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Pixel Three Kingdoms: Zombie Dungeon",
+    "appid": 4888520,
+    "price": 2811,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4888520",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Pixel Three Kingdoms - Zombie Dungeon&quot; combines various random elements such as dungeons, exploration, auto-chess, hero and equipment draws. Choose a hero as the lord to assemble your army lineup, and all gameplay elements are generated by the program in the dungeons.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Dog Park",
+    "appid": 4821510,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4821510",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A hand-drawn 2D sandbox game about being a dog in a dog park. Run around, play fetch, chase squirrels, sniff around, and most importantly, bark at everything. Interact with a weird and wacky cast of dogs, gossip with the local stray cat, and keep an eye out for Krebert the Chihuahua. He's vicious.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "BOT.vinnik Chess: USSR vs the World",
+    "appid": 4263370,
+    "price": 675,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4263370",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The World has united their strongest Grandmasters to challenge us! But they forget one thing: the Soviet School of Chess has no equal. Take your seat, comrade. It is time to show the globe who truly rules the 64 squares!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Angels and Demons vs. Aliens",
+    "appid": 4295700,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4295700",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Grab your friend and play together as an angel and a demon fighting to stop an alien invasion. Strategize builds, communicate plans, and execute tactics in order to come out on top. Show those aliens who's the real boss of the humans!",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Dungeon Dash - Tales of the Necromancer",
+    "appid": 2300330,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2300330",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dungeon Dash is a fast paced puzzle arcade where you &quot;Dash&quot; your way through dungeons and maps. Customize your character, unlock new armor. Small windowed mode so you can play at your pace.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "The Boston Breeder",
+    "appid": 4620770,
+    "price": 4319,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4620770",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Boston Breeder is a choice-driven Adult Visual Novel with multiple endings where you play as a serial killer obsessed with the balance of life and death. For years, you've been dormant but due to a copycat killer, you'll be thrust into a mystery filled with lots of romance and lots of sex.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Happy Digger Go-Go",
+    "appid": 4875420,
+    "price": 480,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4875420",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as a happy little digger bot, mine underground for minerals, sell your haul, buy upgrades, unlock cosmetics, collect pets, and dig deeper each run in this cute 2D mining adventure.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Tetraclash Reforged",
+    "appid": 4431180,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4431180",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "《Tetraclash Reforged》 is a lightweight turn-based strategy game. You will choose a faction, build, research, engage in diplomacy, and expand across a continent made of square tiles, gradually unifying the grid continent as the situation continues to change.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Wartorn: A Visual Novel of the Ukraine War",
+    "appid": 4932480,
+    "price": 1199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4932480",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A narrative game about ordinary people caught in war. Resist, flee, endure, or speak out — every choice reshapes your story across four endings. Set during the war in Ukraine. Half of net proceeds go to humanitarian relief. An act of empathy, not entertainment.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cotimero",
+    "appid": 4710550,
+    "price": 239,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4710550",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cotimero is a desktop idle game, A new adventure awaits—choose your hero, defeat fierce monsters, and claim treasures. Every keystroke shapes the world of Cotimero. Step in and write an eternal legend!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Schooled",
+    "appid": 4902420,
+    "price": 1575,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4902420",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "SCHOOLED is a bullet-heaven survivors-like where you collect real chemical elements to spell words and manifest elemental powers. Youre the nerd against the jocks and it's finally your time. Fight escalating waves of jocks with your superior intellect, a lot of chemistry, and pure ingenuity.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Koi Frenzy",
+    "appid": 4927100,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4927100",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fast-paced arcade game where every second counts. Catch koi fish, build combos, beat your high score, and compete against players worldwide in one-minute runs that are easy to learn but hard to master.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
