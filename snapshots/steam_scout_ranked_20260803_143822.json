@@ -1,0 +1,590 @@
+[
+  {
+    "name": "HEXSTORM: Tears of Arcadia",
+    "appid": 4402950,
+    "price": 934,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4402950",
+    "current_players": 12,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "HEXSTORM: Tears of Arcadia is a tactical tower defense with roguelike structure. Build your flying fortress, upgrade your ship, and combine powerful boosts. Every battle is unique. Uncover the mystery of the fallen captain.",
+    "scout_score": 76,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Unemployed Nightmare Together",
+    "appid": 4945580,
+    "price": 49,
+    "discount_percent": 51,
+    "url": "https://store.steampowered.com/app/4945580",
+    "current_players": 12,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Punch out or get punched! Unemployed Nightmare Together is a 1–4 player co-op horror where you're trapped inside a nightmare office by a relentless job application. Restore power, complete your paperwork, and reach the elevator before you're drained. Quitting is not an option.",
+    "scout_score": 76,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Shibuya 88 StarBurner",
+    "appid": 4541700,
+    "price": 59,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4541700",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Aliens are attacking Tokyo and kidnapping its citizens to transform them into mutants! Pilot the StarBurner to battle enemy waves, rescue helpless humans, and survive relentless alien attacks in this fast-paced arcade shooter.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Porthole - Local Port Sharing",
+    "appid": 4963920,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4963920",
+    "current_players": 931,
+    "total_reviews": 22,
+    "positive_rate": 95.45,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play LAN and self-hosted games with faraway friends. Porthole is a proxy that forwards a port you pick to your Steam friends, so they connect as if on your LAN. No port forwarding, no public IP, no router setup. A Steam-based take on Hamachi and Radmin.",
+    "scout_score": 45,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Swordmancy",
+    "appid": 3841600,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3841600",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Become a Swordmancer, warriors capable of using an arsenal of living weapons to defeat their enemies. Level up, get upgrades and evolve your weapons into stronger versions in this roguelike survivor game!",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Origin Story - Season 1",
+    "appid": 3942470,
+    "price": 1299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3942470",
+    "current_players": 113,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In a world where superpowers are the norm, what happens when yours are far from normal? When a team of celebrity superheroines pulls him suddenly into their world, they awaken powers that turn his once ordinary life upside down. Is this the origin story of a hero or a villain?",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Hacklash",
+    "appid": 4841280,
+    "price": 159,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4841280",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hacklash is a typing horror game where you type against the clock while a hostile AI has a turret aimed at your spine. Survive as long as you can, beat your best scores, and climb the global leaderboards across multiple modes and modifiers.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Kin and Conquest",
+    "appid": 4540820,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4540820",
+    "current_players": 524,
+    "total_reviews": 16,
+    "positive_rate": 75.0,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "An incremental / idle action adventure game where you must battle foes, mine rocks, defeat bosses, and grow stronger in your quest to conquer the mountain and defeat the Evil Geomancer.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "DottyBead闪闪拼豆",
+    "appid": 4599500,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4599500",
+    "current_players": 42,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A super soothing coloring game! 30 levels of rich content, glass-like luminous dots + embossed 3D visuals. Auto-playback your coloring process after completing each level. Pick up anytime, put down anytime—perfect relaxation for all ages.",
+    "scout_score": 38,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Flow Of War",
+    "appid": 2637210,
+    "price": 1039,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2637210",
+    "current_players": 25,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A classic RTS with a fresh defense-focused gameplay loop. Workers automatically gather resources and manage your economy while you focus on strategy. Expand and fortify your kingdom, command elite armies, and survive endless procedurally generated enemy waves.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Deepcore Mining",
+    "appid": 4621540,
+    "price": 299,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4621540",
+    "current_players": 5,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mine valuable ores, upgrade your equipment, drill through underground levels, and recover the uranium needed to save the world's power supply.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Checkpoint64:  Manage your saves between friends",
+    "appid": 4790820,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4790820",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your game saves, with an undo button. Checkpoint64 backs up your saves as you play and keeps every version, so a corrupted world or a bad run is never the end. Works great with mods, emulators, and games Steam Cloud ignores. Share with friends so you can hold down the fort while the host is away.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Voracity",
+    "appid": 1962080,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1962080",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Voracity is a simple industrial management game. Your objective is simple: crank the generator, produce meat cubes, and meet your quota before the voracious monster living in the hole gets angry. Watch your step!",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "The Fog Below",
+    "appid": 4705460,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4705460",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An ASCII-style endless arcade crawler. Using a unique Minesweeper-inspired reveal mechanic to navigate random generated dungeons while engaging in frantic, high-speed arcade combat.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "MoonCraft",
+    "appid": 4954590,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4954590",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your landing pod is destroyed and oxygen is draining fast! Explore, mine, craft, and build to survive relentless alien attacks on the dark side of the moon!!!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "FROGGY REVENGE",
+    "appid": 4971970,
+    "price": 2999,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4971970",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "FROGGY REVENGE is an exciting adventure featuring a little frog embarking on a thrilling journey through picturesque swamps. Your mission is to help him overcome numerous enemies and obstacles!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "POTUS Election Sim",
+    "appid": 4832480,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4832480",
+    "current_players": 60,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The complete political career: win the primary, take the White House, govern all eight years. Sign treaties, issue executive orders, fight wars, even amend the Constitution. An on-device AI judges your decisions, written in your own words. No subscription. Every choice echoes.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Fly High Runners",
+    "appid": 3809310,
+    "price": 239,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3809310",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Race against up to five frenemies as jetpack couriers trying to deliver contraband through a pulsing cyberpunk skyline. Master the questionably-engineered flight system, manage fuel &amp; inventory, collect power-ups and EMP blast rivals into cop drones.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hidden Cats: Castle",
+    "appid": 4934610,
+    "price": 99,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4934610",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Go on a short but sweet adventure into the black and white world of castle! Enjoy the search for cats and recreate a colorful picture. 150 cute cats are waiting for you! Play and relax!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Focus Froggy",
+    "appid": 4334280,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4334280",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Focus Froggy is a bug-catching, platformer adventure. Experience the calm life of a frog in the swamp. Jump and explore, catch evasive bugs, customize your appearance, complete quests, upgrade abilities, and most importantly: Focus!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Necro Echo",
+    "appid": 4727250,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4727250",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 3D shooting puzzle adventure set in a zombie apocalypse: Reconnect the shattered circuits of memory, fight through the subconscious battlefield, and uncover the tragic truth.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Peasant Samurai ～ 百姓ノ持チタル国",
+    "appid": 4880700,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4880700",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The people were oppressed—but the peasants of Kaga were different. They ousted their lords and built a nation with their own hands. Develop your villages and take up arms against the advancing Oda army. A fantasy Sengoku RTS where the common folk are the true protagonists.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Space Tail: Definitive Edition",
+    "appid": 3882980,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3882980",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Space Tail is a 2.5D adventure platformer that follows an emotional, story-driven journey through the cosmos. Play as a brave space-traveling dog exploring mysterious planets, solving puzzles, and forming unique bonds with alien civilizations along the way.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "SatelliteMemory（サテライトメモリー）",
+    "appid": 4956850,
+    "price": 187,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4956850",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "SatelliteMemory is a game that combines a unique atmosphere with item collection elements and simple, nostalgic 2D side-scrolling action. The protagonist, who looks like a cute little creature, steadily explores a part of the universe drawn in 2D pixel art.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Columbus",
+    "appid": 4967530,
+    "price": 84,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4967530",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Columbus》 is a dark fantasy visual novel with dual male leads. Play as Weaponzzie, a nameless weapon trapped in a wealthy estate. Dialogue choices drive a branching story to 10 endings—tenderness, ruin, freedom, or downfall. Your bond with the young master is defined by you.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Robin Hood: Sherwood Valley",
+    "appid": 4792610,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4792610",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Experience the legend like never before. Become Robin Hood &amp; live a new life. Explore a lush grid-based sandbox world &amp; save the day.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Soul Siblings",
+    "appid": 4706800,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4706800",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A nearly 15-year-old student falls asleep during a lesson, but nobody wakes her up. She awakens after a terrifying dreams and realizes it's already nighttime. While looking for a route to get out from the school building, she learns unusual things about paranormal activity and her family's tragedy.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "BeWHEELdering",
+    "appid": 4913630,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4913630",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "BeWHEELdering is a fun 2D arcade-style sorting game, in which you have been tasked with sorting away the trash from the wheels in a chaotic wheel factory!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "A Little Cove",
+    "appid": 4886950,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4886950",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "When life gets heavy — a place to catch your breath. A little cove that's yours alone.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Moonlight Duels",
+    "appid": 4959620,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4959620",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Face off in tense one-on-one gun duels where every step counts. Walk toward your opponent, time your shot, activate powerful abilities, and outsmart your rival in a deadly game of nerve.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
