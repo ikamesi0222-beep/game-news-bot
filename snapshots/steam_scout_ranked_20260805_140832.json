@@ -1,0 +1,601 @@
+[
+  {
+    "name": "The Division Resurgence",
+    "appid": 3749720,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3749720",
+    "current_players": 3264,
+    "total_reviews": 33,
+    "positive_rate": 27.27,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "Jump into this free‑to‑play looter‑shooter RPG featuring tactical combat, deep progression, and an exclusive canon storyline, playable solo or with friends.",
+    "scout_score": 135,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: Loot +18",
+      "無料 +20",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Speedy Gun Savage",
+    "appid": 1530370,
+    "price": 163,
+    "discount_percent": 80,
+    "url": "https://store.steampowered.com/app/1530370",
+    "current_players": 1,
+    "total_reviews": 25,
+    "positive_rate": 76.0,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Speedy Gun Savage is a first person shooter VR game where Wolf, the hero of the game is an intergalactical bounty hunter and travels to different planets to collect bounties. The game has three different planets with several enemies and three main boss.",
+    "scout_score": 70,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Launching to Stop the Enemy's Final Fleet",
+    "appid": 4751020,
+    "price": 112,
+    "discount_percent": 90,
+    "url": "https://store.steampowered.com/app/4751020",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pilot 11 unique aircraft, defend your base, and battle other players in online co-op tower defense and up to 8-player PvP in this 3D arcade flight combat game.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Vessel",
+    "appid": 3855650,
+    "price": 611,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3855650",
+    "current_players": 333,
+    "total_reviews": 5,
+    "positive_rate": 20.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "“VESSEL” is a two-player online horror puzzle game. Experience varied puzzles, monster chases, boss battles and item collection alongside a rich story. Join forces with your friend and help the siblings escape the haunted hospital!",
+    "scout_score": 49,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "樹世界：雲端庇護所",
+    "appid": 4777900,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4777900",
+    "current_players": 443,
+    "total_reviews": 58,
+    "positive_rate": 82.76,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "《樹世界》是放置類角色扮演遊戲，遊戲以可愛的畫風，玩家可以組建自己的隊伍自由探索可愛的世界",
+    "scout_score": 44,
+    "reasons": [
+      "無料 +20",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "生计与沉冤",
+    "appid": 4958320,
+    "price": 415,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4958320",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "《生计与沉冤》是一款写实都市生存模拟RPG。从青年旅社出发，在饱腹、健康、社会地位等层层压力下打拼立足——同时，在打工日常的缝隙里，探寻尘封多年的7.29工地事故真相。",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "corectl",
+    "appid": 4963500,
+    "price": 415,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4963500",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Deploy up to six building types to shape enemy routes. Combine wave rewards into devastating chain reactions and keep the core online in this 2D roguelite tower defense.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Jeremy, No!",
+    "appid": 4077720,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4077720",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Jeremy, No! Is a spot the difference horror game where you are babysitting a poltergeist named Jeremy. Jeremy isn’t allowed to move stuff around or invite any “friends”, so carefully look at the rooms and call him out if anything has changed. Don’t let Jeremy get away with too many shenanigans...",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Lost & Found: A This Bed We Made Story",
+    "appid": 4333200,
+    "price": 611,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4333200",
+    "current_players": 100,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lost &amp; Found is a standalone, short story game taking place aboard a 1960s transatlantic ship. Play as Sophie Roy in her new job as a stewardess, and help solve a curious series of thefts in this narrative-driven mystery set after the events of This Bed We Made.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Dawn Sanatorium",
+    "appid": 4979190,
+    "price": 315,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4979190",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A childhood you don't remember arrives on an old film reel. Step into the Dawn Sanatorium — a first-person psychological horror where a projector rewrites reality, a horned figure watches from the dark, and the truth about who you are waits at the very bottom.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "My Fav Chill Streamer Dies a Million Times｜ゆるゆる生配信する推しは100万回死ぬ",
+    "appid": 3507880,
+    "price": 3194,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3507880",
+    "current_players": 93,
+    "total_reviews": 11,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "From SCRAP, the masterminds behind the &quot;Real Escape Game&quot; phenomena with over 17 million attendees, comes a time-loop mystery adventure on Steam!",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "海边的忘川亭",
+    "appid": 4243220,
+    "price": 1225,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4243220",
+    "current_players": 16,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lethe Bar by the sea is a pixel-art afterlife sitcom. Play as AQi, a new Meng Po. Listen to ghost stories and brew custom soup using bizarre ingredients. Serve the perfect bowl to grant satisfaction or instant amnesia, sending souls on their way to reincarnation.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Tattoo Shop Simulator : Prologue",
+    "appid": 4604170,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4604170",
+    "current_players": 7,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run your dream tattoo shop! Provide tattoo and piercing services, customize your shop, and manage staff. Unlock new skills and roam the living city freely on your motorcycle. Buy real estate, fight off thugs, and grow from a small shop into the city's biggest brand!",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Legend of the Lawns",
+    "appid": 4970680,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4970680",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this fast paced bullet hell, mow lawns, kill weeds, and avoid shrub demons in order to earn money and buy weedkiller, ice cream, and upgrades. Become a lawn mowing legend so that you can eventually afford and buy the newest Swapdeck game console!",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Slotlocked",
+    "appid": 4952440,
+    "price": 332,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4952440",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A short first-person gambling survival game. Trapped in a room for 7 days, use slot machines, gacha prizes, vending supplies, and escape tools to earn coins, survive, and decide whether to leave.",
+    "scout_score": 33,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Dream City Fugitive",
+    "appid": 4035530,
+    "price": 611,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4035530",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dream City Fugitive is an open world combat focused urban role playing game. You're a fugitive on the run. Join a vigilante group to investigate horrible experiments and dealing with gang warfare on a small island, Dream City. Otherwise, pursue the path of a cult in their vision of dark salvation.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "World of Chaos",
+    "appid": 3718900,
+    "price": 980,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3718900",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "《World of Chaos》 is a 2D cartoon shooting game where you will control a mercenary group to explore the world, engage in trade, and fight battles.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Incremental Birds",
+    "appid": 4965770,
+    "price": 65,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4965770",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An incremental game where you become the Bird Master. Capture birds, feed them, grow them, and sell them. Watch waves change over time, turning into sine patterns, spelling messages, and forming shapes. Unlock upgrades and chase an infinite balance and score.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "World's Greatest Author",
+    "appid": 4414640,
+    "price": 679,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4414640",
+    "current_players": 11,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "They say 80% of people dream of writing a book. Only 0.1% succeed. Show them how it's done in this incremental writing game!",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Vealo - Clean Desktop",
+    "appid": 4940750,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4940750",
+    "current_players": 11,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Tuck your cluttered desktop into one beautiful panel and paint Windows your way: themes, wallpapers, a desktop clock, live effects, custom cursors, keyboard lighting in your theme colour. All in one click, offline, no accounts.",
+    "scout_score": 25,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Cat Chaos",
+    "appid": 3417940,
+    "price": 652,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3417940",
+    "current_players": 13,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cat Chaos is a physics destruction simulator where you're a mischievous house cat destroying everything in sight. Topple items off the tables, whirlwind-spin through shelves, demolish furniture, upgrade your spin, and watch the damage bill skyrocket. Then take a good nap while your human crumbles.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Block Block Block",
+    "appid": 3375490,
+    "price": 922,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3375490",
+    "current_players": 13,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Design your dream space! In this tiny cozy building game, stack and arrange uniquely shaped wooden blocks to craft charming dioramas. Design cozy bakeries, elegant living rooms or quirky studios, create beautiful spaces filled with warmth and personality.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Kindawn: The Parish Remembers",
+    "appid": 4556270,
+    "price": 1025,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4556270",
+    "current_players": 14,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You return to your hometown in the Yakutia - a place that shaped you, broke you, and quietly waited. It is the early 2000s. The echoes of the post-Soviet crisis still ring in the walls of leaning wooden houses. In Kindawn, the permafrost preserves unresolved secrets of the past.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Venusville - Prologue",
+    "appid": 3732530,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3732530",
+    "current_players": 8,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Guide a robotic mission in Venus’s polar clouds in this space colonisation city builder. Collect energy, mine resources, balance buoyancy to stay afloat, in the treacherous Venusian atmosphere, and build a self-sufficient base while navigating storms and acid clouds to hunt mysterious anomalies.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Incremental Frog",
+    "appid": 4919120,
+    "price": 430,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4919120",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Catch fly with tongue. Earn gold. Upgrade tech tree. Catch more flies. Ribbit ribbit.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Mooncall",
+    "appid": 4892670,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4892670",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A retro arcade rescue game. Fly your ship to save stranded foragers from a crater-scarred moon. Compete with your friends on global or private leaderboards! Don't ask about the red mushrooms.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "101 Dogs Hidden in Orlando",
+    "appid": 4949820,
+    "price": 125,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4949820",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Join this adventure and discover the hiding places of 101 dogs in Orlando 🐾 in the hand-crafted landscape. 🏆 Earn tons of achievements. How many 🐶 can you find? 🔎 Be quick! ⏱️",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Shadow Between Words",
+    "appid": 4383990,
+    "price": 486,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4383990",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Words have power — at Verbum Academy you'll feel it yourself. What you write about others comes true. Your texts change reality. Choose who to write about and how far to go. Visual novel: mystery, choices with consequences, romance.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "TasteJump",
+    "appid": 4962090,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4962090",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "TasteJump is a 3D climbing platformer across five distinct height zones — from dense jungle to icy peaks — wrapped in permanent, magical moonlight. Every jump counts, every misstep sends you back down.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Sweetie Candy Maze: Crimson Strawberry",
+    "appid": 4978360,
+    "price": 125,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4978360",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dive into a vibrant candy world! Collect delicious sweets and find your way through playful strawberry mazes in this sweet and colorful adventure.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
