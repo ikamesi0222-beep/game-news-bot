@@ -1,0 +1,606 @@
+[
+  {
+    "name": "Dig, Dig, Die",
+    "appid": 4074010,
+    "price": 2640,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4074010",
+    "current_players": 1276,
+    "total_reviews": 20,
+    "positive_rate": 50.0,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Online co-op horror for 1–6 players. Board a cursed flying ship, raid haunted graveyards for loot, and survive monsters that hear every sound. Beware of UFO abductions, grab boosters from vending machines, gamble in the onboard casino, and embrace pure chaos with friends in voice chat.",
+    "scout_score": 91,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Capsule Carnage: Don't Press That",
+    "appid": 4954710,
+    "price": 1296,
+    "discount_percent": 28,
+    "url": "https://store.steampowered.com/app/4954710",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 2-6 player online party shooter! Capsule dudes, rarity-tiered weapons, dual-wield affixes — and a big red button that drops from the sky. Press it for a 666-point jackpot… or a nuke. Don't press that button. (You will.)",
+    "scout_score": 83,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Party +25",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "ALPARGUN",
+    "appid": 4954660,
+    "price": 1870,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4954660",
+    "current_players": 4,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Join intense cinematic military operations. Infiltrate behind enemy lines with the ALP Squad, complete high-risk missions, and experience modern tactical combat. Developed entirely by a solo developer using Unreal Engine 5.",
+    "scout_score": 63,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "CS Manager",
+    "appid": 3418500,
+    "price": 8370,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3418500",
+    "current_players": 86,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "CS Manager is a deep and tactical eSports manager game. Make key decisions on rosters, strategies, and practice, and take on your opponents in real time matches. Rise to the top of the circuit in a simulation where every decision has impact",
+    "scout_score": 56,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Critternauts",
+    "appid": 4320550,
+    "price": 3240,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4320550",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A modern JRPG adventure across the globe. Battle rogue critters with ancient tech, explore real-world cities with your party, uncover hidden secrets and solve the mystery of the Critternauts.",
+    "scout_score": 55,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Yellowcreek Stories - The Cabin Watcher",
+    "appid": 4411840,
+    "price": 3680,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4411840",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A masked killer hunts you in the dark. Manage noise and light, hide quickly, and survive this intense first-person stealth horror experience inspired by classic 80s slasher films.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Summoner's Gambit",
+    "appid": 3570110,
+    "price": 2880,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3570110",
+    "current_players": 85,
+    "total_reviews": 15,
+    "positive_rate": 93.33,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Summoner's Gambit is an innovative duel game that blends strategy roguelike with auto-battler positioning. As a powerful summoner, you'll forge a dominant formation and clash against other players on the ever-shifting battlefield, where wit and luck collide.",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Doloc Town",
+    "appid": 2285550,
+    "price": 4640,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2285550",
+    "current_players": 3142,
+    "total_reviews": 2547,
+    "positive_rate": 95.96,
+    "steam_score": "Overwhelmingly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as a young scavenger and construct your vertical farm one platform at a time under extreme weather. Evolving from a scrap-gathering survivor into an easygoing farming tycoon. Transform the climate, and remake the wasteland into your personal Eden.",
+    "scout_score": 46,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Dopamine Eggs",
+    "appid": 4967270,
+    "price": 2900,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4967270",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dopamine Eggs is a next-generation clicker idle game where every upgrade unlocks a new way to play. Earn eggs through a huge variety of activities, from leveling up your mage in an RPG adventure to battling with a collectible card game! the ways to earn eggs are forever endless.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Nexfall",
+    "appid": 4754960,
+    "price": 2610,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4754960",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Compete in chaotic multiplayer parkour matches filled with deadly traps, precision jumps and powerful skills. Build your deck, sabotage opponents and master the impossible in Nexfall.",
+    "scout_score": 41,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Is the Vat Utopia or Dystopia?",
+    "appid": 3872710,
+    "price": 1260,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3872710",
+    "current_players": 142,
+    "total_reviews": 41,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;We regret to inform you that the Earth has been demolished.&quot; Coming next—a &quot;Human Observation Documentary&quot; starring &quot;Landmine Girl&quot;(fake) and &quot;Nerd&quot; (so-called).",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "TK Punk Gold",
+    "appid": 2505590,
+    "price": 3920,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2505590",
+    "current_players": 316,
+    "total_reviews": 28,
+    "positive_rate": 89.29,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "サイバーパンクをテーマにしたマルチエンディング、美少女の衣装が破れるターン制育成＆バー経営シミュレーションゲーム。架空歴史の三国志の英雄たちが漢港城を舞台に繰り広げる、50週間の物語。13人の少年少女が共に天下泰平を実現しましょう！",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "MEKAKUSHI-SAN",
+    "appid": 4919310,
+    "price": 1200,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4919310",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "MEKAKUSHI-SAN is a first-person 3D horror adventure set in an invisible Japanese neighborhood. Your gaze reveals hidden terrain and paths, while looking, not looking, and closing your eyes become visual mechanics for exploring the otherworldly town and escaping MEKAKUSHI-SAN’s pursuit.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Tomb of Chacal",
+    "appid": 3687100,
+    "price": 2610,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3687100",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Tomb of Chacal is a first-person horror game with stealth and puzzle mechanics. You are an archeologist who has stumbled upon the discovery of a lifetime - an undiscovered tomb hidden deep in the jungle. But the riches here are being guarded by an ancient evil.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Connie and the Essence of Chaos",
+    "appid": 2958210,
+    "price": 12690,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2958210",
+    "current_players": 25,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Connie and the Essence of Chaos is a cute and colorful old school 2D platformer. JUMP and PUNCH your way through 6 different worlds on your quest to defeat the evil overlord Lucilate and free the island of Cuisinia from his reign of terror!",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Dere Quintet",
+    "appid": 4776130,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4776130",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Thrown into Sakura High’s craziest class, survive the Ice Queen, Biting Beauty &amp; Secret Sakura Society’s wild matchmaking schemes! Find friends, love, and chaos in this fluffy romantic comedy visual novel. Includes five happy endings, each with its own closing song.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Derby Heroines: Run, Bet, Win!",
+    "appid": 4940330,
+    "price": 5310,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4940330",
+    "current_players": 7,
+    "total_reviews": 13,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Horse-racing rules, track-girl speed. Buy Win, Exacta or Trifecta tickets against realistic odds — then hit the track and win the race yourself with dash, skills and specials. Collect 100+ runners, train them, chase the PINZUDO 5 jackpot. In-game currency only. Streaming welcome!",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Doloc Town Original Soundtrack",
+    "appid": 3617060,
+    "price": 1000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3617060",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is an official soundtrack for Doloc Town.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Doloc Town - Digital Artbook",
+    "appid": 4864710,
+    "price": 1200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4864710",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This digital artbook contains more than 330 pieces of artwork, covering the town’s streets, post-apocalyptic architecture, farming equipment, character designs, and mechanical enemies from the Old City.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Fury of the Axe",
+    "appid": 4692890,
+    "price": 4200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4692890",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A brutal action RPG where rage is your only weapon. Fight through a cursed world, break your enemies, and unleash the fury within.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Black Saint: Goku",
+    "appid": 4832440,
+    "price": 1260,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4832440",
+    "current_players": 0,
+    "total_reviews": 14,
+    "positive_rate": 78.57,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "[Black Sanctification: Goku] is an excellent placement game. Players assume the role of Goku and travel to the 5 major sacred sites for training. By continuously upgrading and strengthening, they can acquire greater power and eventually achieve sanctification and become the Buddha of All Victories.",
+    "scout_score": 28,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Football Fictional World Simulator",
+    "appid": 4985140,
+    "price": 5310,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4985140",
+    "current_players": 30,
+    "total_reviews": 5,
+    "positive_rate": 60.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Simulate a fictional football world of 99 countries, 141 leagues and over 2,000 clubs. Run one club's transfer desk or remain a hands-off observer, then follow players, competitions and shifting powers through decades of evolving football history.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "CastleOn",
+    "appid": 3638920,
+    "price": 2155,
+    "discount_percent": 35,
+    "url": "https://store.steampowered.com/app/3638920",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a castle! Grow economy, recruit troops from Europe and the Holy Land, man the walls and towers! Place traps and defeat attackers with arrows, wood and stone, fire, disease and cold steel! Survive the Third Crusade and conquer enemy lands in Castleon!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "电脑进化史",
+    "appid": 2388970,
+    "price": 1980,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2388970",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Realistic and touching text games, postgraduate entrance exams, job hunting, revising papers, and graduation travel. In the game, you will play the role of a 2022 college graduate to experience the story of the last 60 days of your senior year.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Frog & Roll",
+    "appid": 4355750,
+    "price": 3780,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4355750",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Surf, Bhop, Climb, and blast your way to victory in Frog &amp; Roll. A truly hardcore 3D platformer focused on speed and fast reactions. Chase the records of your friends and the world's best players.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Axion Racer",
+    "appid": 4924800,
+    "price": 5015,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4924800",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Thrill-seekers and speed demons, wait no longer and dive into the universe of AXION RACER! Take part in ultra-fast futuristic races against a grid of fierce opponents across a dozen varied environments.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Fantasy Network",
+    "appid": 1492100,
+    "price": 5015,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/1492100",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Join Lyn in a colorful, cartoonish world of Holua where &quot;Likes&quot; are the ultimate power! Explore a non-linear world, master umbrella-based combat, and smash your way through talent-show boss battles. It’s a metroidvania with a social media soul- no subscription needed.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "TK Punk-Swimsuit Skin Bundle",
+    "appid": 4147410,
+    "price": 1800,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4147410",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Zhang Xingcai: Swimsuit Guan Yinping: Swimsuit Lü Lingqi: Swimsuit",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Gravitron",
+    "appid": 4848110,
+    "price": 3600,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4848110",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Change the direction of gravity, avoid hazards, and reach the portal before your energy runs out. Gravitron is a 2D precision platformer with physics, short levels, arcade scoring, and high difficulty.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "拆迁地球及爱情事故 设定集",
+    "appid": 4980950,
+    "price": 1200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4980950",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "这是游戏《拆迁地球及爱情事故》的设定集，包含了一些制作过程中的想法、未使用的素材以及一点有关溶图的教程，有助于您进一步理解这部游戏的创作过程。",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
