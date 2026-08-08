@@ -1,0 +1,606 @@
+[
+  {
+    "name": "Dragonhold",
+    "appid": 1510330,
+    "price": 1199,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/1510330",
+    "current_players": 6,
+    "total_reviews": 134,
+    "positive_rate": 70.9,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dragonhold is a dragon-riding extraction ARPG. Dive into missions, fight on dragonback and on foot, loot powerful gear, then extract (at any time) back to your island to grow your town and rebuild Dragonhold castle. Playable solo or in online co-op.",
+    "scout_score": 141,
+    "reasons": [
+      "最優先ジャンル: Extraction +40",
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Comet Dudes",
+    "appid": 4960190,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4960190",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A colorful, screen-wrapping arcade space shooter for solo, local, and online multiplayer. Dodge asteroids, blast enemies, collect powerful abilities, and build a one-of-a-kind ship—alone or with questionably helpful friends.",
+    "scout_score": 80,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Multiplayer +20",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Cape Warrior",
+    "appid": 4991980,
+    "price": 179,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4991980",
+    "current_players": 3,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Top down shooter where you control cape warrior. Mission to kill different enemies and main boss spider and collect star to finish level",
+    "scout_score": 73,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Tailbreak",
+    "appid": 4685470,
+    "price": 1874,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4685470",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dinosaurs return in this on-rails action shooter with a feral twist!",
+    "scout_score": 71,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Alice and the Devil's Prison",
+    "appid": 4145350,
+    "price": 1259,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4145350",
+    "current_players": 122,
+    "total_reviews": 18,
+    "positive_rate": 94.44,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Escape adventure game. During a tea party, Alice and her friends become trapped in a world created by demons. Will they be able to escape this twisted realm safely?",
+    "scout_score": 66,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Milk Can Clicker",
+    "appid": 4898140,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4898140",
+    "current_players": 3,
+    "total_reviews": 9,
+    "positive_rate": 88.89,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Milk cows, automate your farm and build a growing dairy business. Process milk into valuable products, fulfil market and city orders, unlock 14 city buildings, master prestige progression and work your way toward the Milk Festival – with no ads or in-game purchases.",
+    "scout_score": 51,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Deflect",
+    "appid": 4914740,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4914740",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A bullet hell parry roguelite where your shield is the only weapon. Catch enemy fire and send it screaming back through 100 waves, endless hybrid-boss gauntlets, and a mountain of loot. Seven Reapers, one rule: Don't Shoot, Send it back!",
+    "scout_score": 46,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Grizzy and the Lemmings - Crazy Party",
+    "appid": 4706880,
+    "price": 3999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4706880",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Turn your living room into a chaotic playground! 50 mini-games, 1-4 players on the couch, one goal: grab the Yummy before your friends, while Grizzy does everything to ruin it.",
+    "scout_score": 45,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Stellar Odyssey",
+    "appid": 4629900,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4629900",
+    "current_players": 143,
+    "total_reviews": 17,
+    "positive_rate": 52.94,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "An Idle Space MMORPG where you progress at your own pace, but the universe is built together. Explore a procedural galaxy of nearly 50 million star systems alone — or join a Squadron to pool resources, raise space stations, upgrade shared buildings, and expand across the stars as one.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "天亮之后",
+    "appid": 4838500,
+    "price": 509,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4838500",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A game featuring horror, comedy, and immersive photo mode all at once!",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Lilim Clicker",
+    "appid": 4071500,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4071500",
+    "current_players": 16,
+    "total_reviews": 13,
+    "positive_rate": 92.31,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Help Lilim, a lively demon girl, recover her magic through headpats in this relaxing idle clicker. Upgrade your abilities, automate progress, and unlock fun interactions. Enjoy your time living with a cheeky demon!",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "REANIMAL - The Prisoner",
+    "appid": 4733900,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4733900",
+    "current_players": 0,
+    "total_reviews": 92,
+    "positive_rate": 86.96,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Join The Soldier and The Prisoner on a journey through the war-ravaged streets of this once-familiar place, as they stumble blindly down a rabbit hole that will change their lives forever.",
+    "scout_score": 34,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "PS Maker",
+    "appid": 4823590,
+    "price": 3599,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4823590",
+    "current_players": 2,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Create 2D top-down story-driven exploration games without writing any code! PS Maker lets you build maps, add characters, write dialogue, set up puzzles, and trigger cutscenes to tell your story. Once it's ready, share your games instantly with friends!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Bobbitz",
+    "appid": 4792630,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4792630",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy underground colony sim where nothing can ever go wrong. You never dig, you give the orders, and the Bobbitz do the rest. Carve a home out of the dark, raise a town of little burrowers, and light the deep together. No death, no fail states. Dig at your own pace.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Gemblades",
+    "appid": 3165590,
+    "price": 479,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3165590",
+    "current_players": 5,
+    "total_reviews": 8,
+    "positive_rate": 100.0,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Gemblades is a single-player deckbuilder where you play heroes to earn resources, recruit stronger Gemblades, and combine powerful synergies into your deck to defeat your enemies.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Overstimulacrum",
+    "appid": 4761210,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4761210",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are overstimulated. Explore the annals of Your mind through the lens of an FMV point and click museum experience. Watch sensory memories, find what's real. Receive Your gift.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Cyberpunk SFX",
+    "appid": 1465260,
+    "price": 149,
+    "discount_percent": 85,
+    "url": "https://store.steampowered.com/app/1465260",
+    "current_players": 0,
+    "total_reviews": 276,
+    "positive_rate": 70.29,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cyberpunk SFX is a third-person sci-fi action game set in a world where artificial intelligence has been outlawed. Fight with futuristic weapons, shields, invisibility, and time manipulation to defend synthetic life's right to exist.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "Selection Bias",
+    "appid": 4875600,
+    "price": 419,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4875600",
+    "current_players": 0,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In a Los Angeles fertility lab, scientist Adrian Sayre built the Index — an embryo-ranking algorithm sold as certainty. When the flagship baby is diagnosed with a disease the model called near-zero risk, three women each hold a piece of what was buried — and a different kind of romance.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "FerryMan",
+    "appid": 3995840,
+    "price": 149,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3995840",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Revolt against death itself. Every outcome by the roll of your dice. Sacrifice boons given to you from your crow companion and tip the odds in your favor. Die, grow stronger, unlock more boons, and fight toward the Reaper who bound you to this endless cycle.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Marine",
+    "appid": 4855290,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4855290",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An underwater lane-defence roguelike where units, items and upgrades combine to create never before seen strategies.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Glyphrune",
+    "appid": 4957150,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4957150",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Glyphrune is a solo tabletop-style medieval fantasy RPG where battles are played through cards. Choose one of four heroes, travel branching routes, manage your health across the journey, improve your deck, and prepare for increasingly difficult regional bosses.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Prince's Keeper",
+    "appid": 4810540,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4810540",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as the newest servant to Prince Railan, who’s had all of his previous servants fired. While navigating your position, you’ll try to pry down his carefully guarded walls as you challenge him on everything he believes about himself and the world. Just try not to get fired in the process.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "AAR Labs",
+    "appid": 4681190,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4681190",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Free companion app for WARNO ranked. Finish a match, alt-tab — it's already analyzed: head-to-head build order timelines, opponent profiles with alias history and private notes, win rates by map and division, leaderboard, meta tier list, tournaments. No importing. Your stats work offline.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Trippy Plains",
+    "appid": 4866640,
+    "price": 1169,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4866640",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "FEEL WHAT IT'S LIKE TO FLY FPV Trippy Plains is an FPV drone simulator built for both total beginners and experienced pilots. Strap into the cockpit of a 5&quot; freestyle quad, a racing drone, a collective-pitch helicopter or a tiny whoop then fly anywhere you want across 15 distinct worlds.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Terra Physics & Money",
+    "appid": 4983940,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4983940",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore a fully destructible procedural world made of millions of physics-driven blocks. Simulate water, lava, and steam, extract resources, build freely, and trade your materials. Every random seed creates a unique experience.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Don't Knock Again, Sabrina!",
+    "appid": 4862450,
+    "price": 479,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4862450",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Don't Knock Again, Sabrina! — a comedic visual novel about a pushy and horny neighbor who's always finding new reasons to knock on your door.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Shard Cycle",
+    "appid": 4564230,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4564230",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Shard Cycle is an incremental prospecting game about getting richer and stronger. Sweep your cursor through fields of thousands of crystals, spend your drops on upgrades, and unlock effects that shatter hundreds at once. Dig deeper for rarer, tougher crystals. Watch your numbers climb.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Accident Investigator Simulator: Black Box",
+    "appid": 4961730,
+    "price": 1259,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4961730",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Step into the role of a federal investigator and uncover the truth behind every disaster. Recover black boxes, cross-reference evidence, expose contradictions, and name the real cause before an innocent takes the fall. Every conclusion matters in this tense investigation sim full of twists.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "日本地図 都市パズル",
+    "appid": 4966740,
+    "price": 899,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4966740",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A massive geography puzzle with every prefecture, city, ward, town and village in Japan—over 1,700 areas, nearly 1,900 pieces! Learn towns nationwide through Puzzle, Quiz, Study, Silhouette, Mountains &amp; Rivers and Town Fortune mo des. Full controller support, with furigana &amp; read-aloud for all ages.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Penguin Quest",
+    "appid": 3389490,
+    "price": 224,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3389490",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You’re a perky penguin who must find a suitable new place to live as your current surroundings are over-crowded. You’ve heard news of another flock just over the horizon, but it’s cold out there so watch out that you don’t freeze!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
