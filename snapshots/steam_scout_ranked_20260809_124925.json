@@ -1,0 +1,608 @@
+[
+  {
+    "name": "Comet Dudes",
+    "appid": 4960190,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4960190",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A colorful, screen-wrapping arcade space shooter for solo, local, and online multiplayer. Dodge asteroids, blast enemies, collect powerful abilities, and build a one-of-a-kind ship—alone or with questionably helpful friends.",
+    "scout_score": 93,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Multiplayer +20",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "The War Machine",
+    "appid": 4462950,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4462950",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A roguelike FPS blending arcade action with dark corporate satire. Deploy as a remote operator for Corperal, master seven characters and weapons, build synergies from 80+ items, conquer five hostile regions through endless escalating waves and regional bosses, and balance the Corperal stock ticker.",
+    "scout_score": 82,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "成長/積み上げ要素: Roguelike +10",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Tailbreak",
+    "appid": 4685470,
+    "price": 1911,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4685470",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dinosaurs return in this on-rails action shooter with a feral twist!",
+    "scout_score": 71,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Super Smash Asteroids",
+    "appid": 2310260,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2310260",
+    "current_players": 0,
+    "total_reviews": 5,
+    "positive_rate": 80.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Super Smash Asteroids&quot; is a high-speed, twin-stick, top-down, rogue-like space shooter. Choose from 6 unique ships, upgrade with 70+ items &amp; blast through epic bosses. Level up for intense, action-packed battles in a futuristic universe. Buckle up for a thrilling journey to glory!",
+    "scout_score": 69,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Alice and the Devil's Prison",
+    "appid": 4145350,
+    "price": 1304,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4145350",
+    "current_players": 84,
+    "total_reviews": 43,
+    "positive_rate": 93.02,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Escape adventure game. During a tea party, Alice and her friends become trapped in a world created by demons. Will they be able to escape this twisted realm safely?",
+    "scout_score": 63,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Deflect",
+    "appid": 4914740,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4914740",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A bullet hell parry roguelite where your shield is the only weapon. Catch enemy fire and send it screaming back through 100 waves, endless hybrid-boss gauntlets, and a mountain of loot. Seven Reapers, one rule: Don't Shoot, Send it back!",
+    "scout_score": 59,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Birb Game",
+    "appid": 3682550,
+    "price": 266,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3682550",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Birb Game is a multiplayer first racing game with unique perspective of being a bird. Customize your bird with the selection of hats and race against your friends in online multiplayer, or just fly alone and try to beat your best time.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "SEXOPHOBIA 🔞",
+    "appid": 4657570,
+    "price": 806,
+    "discount_percent": 38,
+    "url": "https://store.steampowered.com/app/4657570",
+    "current_players": 212,
+    "total_reviews": 50,
+    "positive_rate": 92.0,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dating sim and card-based social strategy game where everyday life collides with the unknown. Build relationships, craft your deck, and uncover a hidden reality where every connection shapes your path—and your fate.",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "天亮之后",
+    "appid": 4838500,
+    "price": 522,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4838500",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A game featuring horror, comedy, and immersive photo mode all at once!",
+    "scout_score": 43,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Pight",
+    "appid": 2682270,
+    "price": 332,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2682270",
+    "current_players": 13,
+    "total_reviews": 21,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pight is a minimalist puzzle game inspired by the Minecraft redstone system, in which we try to turn on the light by using pistons and different block types. It offers a rich puzzle experience thanks to new mechanics added approximately every 10 levels.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Animosity",
+    "appid": 798680,
+    "price": 719,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/798680",
+    "current_players": 2,
+    "total_reviews": 12,
+    "positive_rate": 91.67,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Through claws and bullets, Red must save his friends from the angry ape menace. Procedural levels create a new experience with every play. Companion AI gives you the backup you need. Coop, Deathmatch, and Speedrun for up to 4 player split screen. Xbox controllers recommended.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Grand Cru: The Wine Maker",
+    "appid": 4451370,
+    "price": 1199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4451370",
+    "current_players": 2,
+    "total_reviews": 30,
+    "positive_rate": 93.33,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Master the art of Bordeaux. Navigate volatile weather RNG and out-negotiate 25 unique buyers with your own pricing strategy. From terroir scoring to Michelin-star contracts, every vintage is a high-stakes calculation. A deep, data-driven simulation for those who take wine—and management—seriously.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "BLUE SHIP",
+    "appid": 4980680,
+    "price": 143,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4980680",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Choose from ships with distinct combat styles, unleash devastating skills, and carve a path through relentless enemy barrages. BLUE SHIP is a compact, high-intensity 2D vertical-scrolling shoot ’em up featuring Story, Boss Practice, Time Attack, and Endless modes.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Catetris",
+    "appid": 4943170,
+    "price": 615,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4943170",
+    "current_players": 1,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Catetris is a captivating puzzle game where players must place falling pieces of various shapes to fill horizontal lines on the board.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Trippy Plains",
+    "appid": 4866640,
+    "price": 733,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4866640",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "FEEL WHAT IT'S LIKE TO FLY FPV Trippy Plains is an FPV drone simulator built for both total beginners and experienced pilots. Strap into the cockpit of a 5&quot; freestyle quad, a racing drone, a collective-pitch helicopter or a tiny whoop then fly anywhere you want across 15 distinct worlds.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Lilim Clicker",
+    "appid": 4071500,
+    "price": 652,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4071500",
+    "current_players": 5,
+    "total_reviews": 22,
+    "positive_rate": 81.82,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Help Lilim, a lively demon girl, recover her magic through headpats in this relaxing idle clicker. Upgrade your abilities, automate progress, and unlock fun interactions. Enjoy your time living with a cheeky demon!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Not a bug",
+    "appid": 4876190,
+    "price": 615,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4876190",
+    "current_players": 0,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fast-paced arcade game about surviving game development. Write code, gather assets, satisfy marketing, ship the build, and try not to fall apart before release.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Cyberpunk SFX",
+    "appid": 1465260,
+    "price": 146,
+    "discount_percent": 85,
+    "url": "https://store.steampowered.com/app/1465260",
+    "current_players": 0,
+    "total_reviews": 276,
+    "positive_rate": 70.29,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cyberpunk SFX is a third-person sci-fi action game set in a world where artificial intelligence has been outlawed. Fight with futuristic weapons, shields, invisibility, and time manipulation to defend synthetic life's right to exist.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "Penguin Quest",
+    "appid": 3389490,
+    "price": 224,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3389490",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You’re a perky penguin who must find a suitable new place to live as your current surroundings are over-crowded. You’ve heard news of another flock just over the horizon, but it’s cold out there so watch out that you don’t freeze!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Samurai beat demons",
+    "appid": 3791630,
+    "price": 519,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3791630",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Arena roguelike with fast combat, perfect for short sessions! Weapons unlock 62 abilities, each with buff and debuff. Mix and match for endless playstyles!",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Marine",
+    "appid": 4855290,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4855290",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An underwater lane-defence roguelike where units, items and upgrades combine to create never before seen strategies.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Void Miner",
+    "appid": 4091470,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4091470",
+    "current_players": 2,
+    "total_reviews": 4,
+    "positive_rate": 50.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mine the void. Call the eclipse. Consume everything. Void Miner is a session-based mining incremental built around 30–60 minute runs, full of build synergies and bizarre weapons.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Flavors of Spain",
+    "appid": 4596230,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4596230",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Embark on a fast-paced arcade culinary journey! Master the brave bull to shoot iconic dishes to the 52 provinces of Spain. Test your aim and discover the rich gastronomy of Spain in this indie blend of geography, gastronomy, and strategy.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Graveyard Shift",
+    "appid": 1650820,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1650820",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Scavenge, tiptoe, and fight your way to the surface in this dangerously cute puzzle and stealth game where everyone can hear—but not see—everything you do.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "FocusBond",
+    "appid": 3905230,
+    "price": 652,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3905230",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "FocusBond is a hardcore gamified self-discipline tool. Let's trade focus for joy, and turn self-discipline into a fun game!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Crosshair Ultra",
+    "appid": 4956760,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4956760",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Crosshair Ultra is a utility for shooting games which draws a supremely customizable crosshair on your screen or game window for improved hip fire accuracy and more rapid target acquisition. Crosshair Ultra is the most customizable crosshair aim dot utility on Steam.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "RE:DREAM",
+    "appid": 4964240,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4964240",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "RE:DREAM is a walking simulator in which the player discovers photographs. A copy of our world, or a world inside a copy. 3 real life characters, who discover their self of our reality.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Accident Investigator Simulator: Black Box",
+    "appid": 4961730,
+    "price": 1169,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4961730",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Step into the role of a federal investigator and uncover the truth behind every disaster. Recover black boxes, cross-reference evidence, expose contradictions, and name the real cause before an innocent takes the fall. Every conclusion matters in this tense investigation sim full of twists.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "日本地図 都市パズル",
+    "appid": 4966740,
+    "price": 919,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4966740",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A massive geography puzzle with every prefecture, city, ward, town and village in Japan—over 1,700 areas, nearly 1,900 pieces! Learn towns nationwide through Puzzle, Quiz, Study, Silhouette, Mountains &amp; Rivers and Town Fortune mo des. Full controller support, with furigana &amp; read-aloud for all ages.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Terra Physics & Money",
+    "appid": 4983940,
+    "price": 386,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4983940",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore a fully destructible procedural world made of millions of physics-driven blocks. Simulate water, lava, and steam, extract resources, build freely, and trade your materials. Every random seed creates a unique experience.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
