@@ -1,0 +1,597 @@
+[
+  {
+    "name": "UNHUMAN",
+    "appid": 4289340,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4289340",
+    "current_players": 176,
+    "total_reviews": 8,
+    "positive_rate": 62.5,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "UNHUMAN is a 2D idle extraction shooter set in a cyberpunk dystopia. Raid hostile zones, loot valuable gear, fight enemies before extraction, and craft powerful weapons. Progress through a deep skill tree, install augments, and transcend humanity. Start as a scavenger. Become UNHUMAN.",
+    "scout_score": 129,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "最優先ジャンル: Extraction +40",
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "The Frog Prince",
+    "appid": 4587830,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4587830",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Frog Prince is a physics-based climbing party game where every jump can save your run—or ruin it. Charge your leaps, survive slippery platforms, and use your tongue to rescue friends, betray rivals, and race toward a randomly generated princess at the summit.",
+    "scout_score": 56,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "A Game About Penguins",
+    "appid": 4061800,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4061800",
+    "current_players": 39,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy online multiplayer sandbox where you live as a customizable penguin. Slide, fish, swim underwater, decorate your home, complete quests, and hang out with friends in a snowy world full of minigames and social fun.",
+    "scout_score": 56,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "The Dungeon Of Horror",
+    "appid": 4102050,
+    "price": 1349,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4102050",
+    "current_players": 5,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dark medieval-fantasy turn-based dungeon crawler where you try to escape the dungeon of your own creation! Place tiles, fight monster and cooperate with friends to find and destroy the pagan shaman Meir to escape this horror!",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Immortal Generals",
+    "appid": 4739690,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4739690",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Immortal Generals is an action-packed real-time strategy (RTS) game set in a futuristic global conflict. Build fortified bases, manage your economy, command advanced armies, and turn the tide of battle with devastating nuclear and biological superweapons in multiplayer warfare.",
+    "scout_score": 41,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Ajnabee - The Unknown",
+    "appid": 4259690,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4259690",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cinematic, story-driven psychological horror game where you play as Naina, a young woman living alone in India, stalked by an unknown stalker while her fiancé is overseas. Fear comes from atmosphere, suspense, and storytelling rather than frequent jump scares.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Blackforest",
+    "appid": 4990600,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4990600",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A realistic first-person horror game where you explore a dark underground basement, solve puzzles, uncover hidden clues, and escape from a ruthless killer who could be lurking around every corner.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Bit Breaker",
+    "appid": 4190000,
+    "price": 239,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4190000",
+    "current_players": 10,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bit Breaker is a short brick-breaking incremental bullet hell. Collect resources to upgrade your balls and fight back against the nodes taking over humanity.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Clan and Crown",
+    "appid": 4142610,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4142610",
+    "current_players": 43,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The game is a strategy simulation game where you start a family, raise children, infiltrate various industries in the city (13 industries, 70 professions), run for mayor to control the city's destiny, manufacture weapons to wage city wars, and ultimately establish your family empire.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Backpack Boy",
+    "appid": 2875150,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2875150",
+    "current_players": 4,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Backpack Boy is off on one of his treks when he discovers a peculiar flashlight that changes the world around him. Explore a seemingly abandoned structure in this puzzle platformer built around using light to shine into the past.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Goodgame Empire",
+    "appid": 3590360,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3590360",
+    "current_players": 115,
+    "total_reviews": 16,
+    "positive_rate": 37.5,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build your empire, wage wars, forge alliances, and claim glory in a vibrant medieval world. Over 200 million players have already joined the battle for power and influence — are you ready to make history?",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Enchanting Memory",
+    "appid": 4966950,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4966950",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A memory card matching puzzle where every successful match reveals more of the hidden adult artwork.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Dark Succubus",
+    "appid": 3732310,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3732310",
+    "current_players": 109,
+    "total_reviews": 14,
+    "positive_rate": 28.57,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore the labyrinth, collect crystal shards, uncover the truth and escape. The most important thing is: avoid the pursuit of the dark succubus and beware of this sweet temptation. (Female villain costume can be customized)",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Wrestling Classics: Olde Timey Pro Wrestling",
+    "appid": 2074820,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/2074820",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Before High Flying Dives, Cage Matches, Tag Teams, Irish Whips and Choke Slams, there was just Pro Wrestling. Get back to the origins of Pro Wrestling in this throwback to the 1920s.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Case of 1980",
+    "appid": 4914110,
+    "price": 349,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4914110",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A sudden call from your grandfather pulls you back to the family farm. As Nathan, you arrive expecting a routine visit, only to stumble upon a horrifying reality tied to a 1980 crime. Trapped and isolated, you must face the entities lurking in the shadows and survive the night.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "100 Mystic Cats",
+    "appid": 4326430,
+    "price": 159,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4326430",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "🐾 Join the cutest adventure in themed locations full of cats! 😻 Explore the charming hand-drawn artwork of special places and try to find 100 adorable cats hidden throughout the game. 🐈🕵️‍♂️ Can you find them all? 🕵️‍♂️🐈",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Human Parking Simulator",
+    "appid": 758430,
+    "price": 809,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/758430",
+    "current_players": 0,
+    "total_reviews": 7,
+    "positive_rate": 85.71,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Are you confident in your driving skills? Then come and take on this challenge. The goal is simple: drive the vehicle and park it in the designated space. That's all there is to it.",
+    "scout_score": 29,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Welcome to Desal",
+    "appid": 4832660,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4832660",
+    "current_players": 0,
+    "total_reviews": 5,
+    "positive_rate": 80.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You stop at a quiet roadside café-but when your payment is declined, you’re forced to work it off. Something about this place isn’t right… and leaving won’t be easy.",
+    "scout_score": 29,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Witness the Dark - Episode 1 - Bloody Burger",
+    "appid": 411090,
+    "price": 899,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/411090",
+    "current_players": 2,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Some people go through life without ever glimpsing what hides in the dark. Others aren't so lucky. They become its witnesses. Kate works the night shift at Billy’s Burger. But her hallucinations are back. A first-person psychological thriller.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Knytt Classic",
+    "appid": 2656050,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2656050",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Celebrate the 20th anniversary of the indie freeware classic, rebuilt for modern machines! Explore a maze-like planet as the Knytt, a peaceful being abducted by aliens, find your missing ship parts, and get back home in this zen-like atmospheric platformer.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Rocket Rush",
+    "appid": 4948890,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4948890",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rocket Rush is a fast-paced QTE rhythm climb where every launch is a fight for altitude. Hit precise prompts, survive hazards, build streaks, upgrade your rocket, and chase the leaderboard as you blast higher into the unknown.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Bara Coloring Book",
+    "appid": 4544570,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4544570",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 0.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A friend gave you a rather... special coloring book. Relax and unleash your creativity in Bara Coloring Book, bringing illustrations of strong, handsome men to life. Color engaging scenes and unlock the intimate stories behind each character!",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "BookStore Simulator",
+    "appid": 4247730,
+    "price": 599,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4247730",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Open your dream bookstore and begin sowing the seeds of knowledge among locals. Push the boundaries of possibility and immerse your business in a world of magic.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Crisis Capital",
+    "appid": 4457410,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4457410",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Turn global crises into profit. Trade across 11 market sectors, predict world events, leverage five unique loan types, and outsmart rival investors. Dynamic market conditions, multiple game modes, and endless replayability ensure every economic story unfolds differently.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "DISCIPLINE",
+    "appid": 4951900,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4951900",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "DISCIPLINE is a habit tracker in the form of a luxury calendar on your desktop. A calendar that holds no value on its own — its worth exists only if you build it, day by day.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Michi-Suji Puzzle: Michi Connect",
+    "appid": 4443340,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4443340",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Move blocks and search for places where the light can reach. A 3D logic puzzle where you connect a path of light from start to goal. There is no single fixed answer. If the light reaches the goal, that is your own path. Includes over 100 puzzles.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Mission: Clear Space",
+    "appid": 4625160,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4625160",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A space shooting and navigation game",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "MUGI",
+    "appid": 4675230,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4675230",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "*MUGI*, released in May 2026 as an MSX2-exclusive cartridge, is now on Steam. An action-puzzle game with mystery-solving elements. The PC version adds arranged BGM, a ranking system with name entry, a tutorial, and a stage editor for creating and sharing custom stages.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cloud Sculptor",
+    "appid": 4101700,
+    "price": 224,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4101700",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sculpt your way through puzzles and platforming using a frog, a laser beam, and other classic sculpting tools!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Odynloc",
+    "appid": 4802730,
+    "price": 374,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4802730",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Odynloc is a 2D Platformer where all players connect to the same server, with puzzles scattered around the map leading to different areas.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
