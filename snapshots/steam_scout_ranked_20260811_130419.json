@@ -1,0 +1,597 @@
+[
+  {
+    "name": "Vivid Intrusion",
+    "appid": 4512180,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4512180",
+    "current_players": 1,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fast paced FPS roguelike with an emphasis on movement. Imbue your weapon with unique effects that make each run different. Survive a variety of arenas, enemies, and boss fights. Are you able to stay ahead of the curve and complete all your trials?",
+    "scout_score": 93,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hunt Skeletons Together",
+    "appid": 4939950,
+    "price": 49,
+    "discount_percent": 51,
+    "url": "https://store.steampowered.com/app/4939950",
+    "current_players": 2,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Take on a cursed church in Hell with 1 to 4 players online — co-op or PvP! Hold the line against running, leaping, bone-throwing hordes. Swing above the dead with your grappling hook. Blast off limbs and unlock cosmetics with every kill. Stand together... or hunt each other down.",
+    "scout_score": 73,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: PvP +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "DreamEcho",
+    "appid": 3226060,
+    "price": 1079,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3226060",
+    "current_players": 1988,
+    "total_reviews": 39,
+    "positive_rate": 76.92,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Dream Echoes&quot; is an atypical top-down RogueLite ARPG centered on loot grinding and meta-progression. Explore the dream world, collect &quot;Concepts&quot;, and enjoy highly free combinative combat. Upon waking, gather &quot;Memories&quot; to carry some &quot;Concepts&quot; into your next adventure…",
+    "scout_score": 68,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Golden Hand",
+    "appid": 2847620,
+    "price": 899,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2847620",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cooperative horror game where you enter dangerous zones to recover gold and valuable artifacts and make it out alive Work together with other players—or betray them for more money The deeper and more dangerous the area, the greater the reward",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Cooperative +30",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Moros",
+    "appid": 5001460,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5001460",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Moros is a first-person sci-fi survival horror game. Explore a mysterious research spaceship, solve environmental puzzles, battle terrifying clone creatures, and uncover the truth behind a failed consciousness transfer mission orbiting Proxima b.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Astrophobia",
+    "appid": 4476070,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4476070",
+    "current_players": 3,
+    "total_reviews": 8,
+    "positive_rate": 87.5,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A PSX-style cosmic horror game where a classified mission to study alien architecture on the Moon leads two astronauts into the ruins of an ancient civilization that predates humanity.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Tower Realm",
+    "appid": 4550370,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4550370",
+    "current_players": 211,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Tower Realm is a high-strategy Magic Tower RPG collection with fixed maps and stats, auto turn-based battles, and precise resource-route planning. Clear hardcore with no supplies, or use the Green Key to lower difficulty. Earn clear points to unlock custom challenges.",
+    "scout_score": 49,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Divine Girls:Kalia Saga",
+    "appid": 4710360,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4710360",
+    "current_players": 47,
+    "total_reviews": 64,
+    "positive_rate": 87.5,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "divine girls: Karia saga! This game is an anime card role-playing game. In the game, players can freely recruit heroes and equip them with the best gear and treasures to conquer this dazzling and dreamlike anime world!",
+    "scout_score": 41,
+    "reasons": [
+      "無料 +20",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Home4Us",
+    "appid": 4533930,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4533930",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A different kind of horror experience one built on confrontation rather than running or hiding. Follow the rules strictly. Act quickly to stay alive in every encounter. Maintain your focus. Watch your surroundings. Don’t exhaust your resources. And complete the primary objective you’re there for.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Meat Grinder: Hotdog Simulator",
+    "appid": 3994680,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3994680",
+    "current_players": 110,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run your own hot dog shop in the foggy town of Grimshore. Cook and serve by day, solve your meat shortage by night, and try not to ask too many questions. How far will you go to keep the grill running?",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "They Draw Monsters",
+    "appid": 4912520,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4912520",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Relaxing anime-style match-3 puzzle game set in a medieval fantasy world. Match colorful gems, unlock beautiful artwork featuring monster girls, elves, and human heroines, and enjoy a magical adventure full of relaxing gameplay.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hentai Puzzle: Sunny",
+    "appid": 4939360,
+    "price": 200,
+    "discount_percent": 33,
+    "url": "https://store.steampowered.com/app/4939360",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hentai Puzzle: Sunny: Solve adult anime puzzles with Sunny, a mischievous lifeguard. Progress through the game, unlock teasing images and scenes, and complete her alluring gallery.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "嗜血印 Bloody Spell DLC 萌宠Cosplayer",
+    "appid": 4863620,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4863620",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a martial arts action role-playing game. The core of the game is battle-oriented, and it combines many fighting elements. If you are a player who pursues blood and is brave enough to challenge the limits, it will definitely inspire your adrenaline and bring you the best combat experience.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Rooster Booster 3D",
+    "appid": 4846230,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4846230",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rooster Booster 3D is a speedy retro platformer! Play through three unique, vaporwave-inspired zones as you optimize your completion time to unlock new characters and earn the Golden Torus!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "CutBench: AI Gameplay Clip Maker",
+    "appid": 4797490,
+    "price": 3499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4797490",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Turn your gameplay into social-media growth. Drop a 3-hour session, get back ranked vertical clips with burned-in captions and ready-to-post titles — built to perform on TikTok, Shorts, and Reels. Runs locally on your GPU. No cloud, no subscription, one-time license.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Wicked Little Witch 小小坏女巫",
+    "appid": 3809920,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3809920",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A city witch lost in the woods, face enemies both familiar and strange. In this Action Roguelite, unlock new characters, collect spells, and build your own playstyle and uncover the truth.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Spirit of Twelve",
+    "appid": 497320,
+    "price": 1274,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/497320",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A painterly adventure-RPG of dice, choices, and grief. Roll a d20 and play your cards in the open, no hidden math, as a hunted girl wakes the Twelve powers sleeping behind her ribs, on a branching road to the throne beneath a fallen kingdom.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Electrical Leak",
+    "appid": 4972200,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4972200",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to &quot;Electrical Leak&quot;—a electrician simulation and electrical puzzle game adapted from real-world cases! Armed with nothing but a test pen, you will face seemingly ordinary yet hazard-filled daily scenarios.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Comeback King",
+    "appid": 3833230,
+    "price": 989,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3833230",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "40 years in the making, The Comeback King is a light-hearted, mildly satirical retro boxing management game set in the UK in the 1980s. Take on a has-been boxer and manage his career. Decide who he'll fight, train him up and send him into the ring! Can you guide your boxer to a Championship title?",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Rule or Fall",
+    "appid": 4902790,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4902790",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Govern wisely in this narrative choice-based game set in the heart of the Middle Ages. Your choices will have a real impact on your entire adventure, the world and its characters! Skillfully manage your image and your throne to survive and prosper. Or fall.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hamedori Hacker",
+    "appid": 4956640,
+    "price": 779,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4956640",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A realistic hacking sim for adults. Hunt your target with OSINT, crack their passwords, pivot in, and seize the evidence. Across 21 contracts, every attack is real-world tradecraft the game also teaches you to defend against. Then, past the truth, a reward waits. Fiction; all characters are adults.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Masterpiece, Let Me In.",
+    "appid": 4988690,
+    "price": 599,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4988690",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A meaty two-row card battler with deck-building. Buy masterpieces with part-time pay, step into the canvas and duel what waits behind the frame. Win, and 12 heroines born of immortal paintings join your hand as ally cards. Solve their troubles — an adults-only reward awaits in a decadent gallery.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "FishFishFishFishFish",
+    "appid": 4878240,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4878240",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A casual fishing game where you catch fish swimming across the screen and upgrade your hooks and fishing line with coins. Fill your library, discover fish that change by area and weather, and enjoy fishing that grows little by little even in short sessions, all at your own pace.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Bjois",
+    "appid": 4821530,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4821530",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "'Premium' Virtual Pets. A top-down simulation game inspired by the likes of Dwarf Fortress &amp; Rimworld, with a twist: the game plays itself. Watch and catalogue over 200 Bjois as they thrive in an ecosystem of your own choosing.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "方块骑士Square Knight",
+    "appid": 4934080,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4934080",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Block Knight&quot; is a platformer puzzle game where the only movement is left and right. In a hand-drawn world, players explore and discover the secret abilities of Block Knight, using these abilities to reach unexpected places and ultimately collect 12 chocolates to complete the game.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "像素单词农场",
+    "appid": 4986120,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4986120",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 2D pixel game where you can memorize words while farming, making word memorization no longer boring.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hexhorde",
+    "appid": 4930750,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4930750",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A pixel-art horde survivor. Pick a hero, wade into the swarm, and let your weapons fire while you move, level up, and shape a build — stacking upgrades, chasing synergies, and evolving your gear across stages full of enemies.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Arcade Survivors",
+    "appid": 4782690,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4782690",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "It's 1996. Lightning strikes the strip-mall arcade and monsters pour from every screen. Grab a Super Soaker, load your VHS bombs, and survive until dawn in this neon-soaked bullet heaven where your weapons fight for you. One more quarter. One more run.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Succulent Break",
+    "appid": 4536070,
+    "price": 179,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4536070",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Grow all kinds of succulents right on your desktop! Succulent Break is a relaxing simulation game where you can tend to your succulents in the corner of your screen, pair each one with the perfect pot and soil, water them at just the right moment, and watch them grow more beautiful than ever!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Widle",
+    "appid": 3864780,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3864780",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Widle is a cozy 2D pixel-art idle simulation in which you tend a tiny desktop planter, watch your plant grow over time and use earned coins to unlock new species and decorative pot skins.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
