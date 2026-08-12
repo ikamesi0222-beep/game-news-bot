@@ -1,0 +1,610 @@
+[
+  {
+    "name": "Tough Cat",
+    "appid": 4911030,
+    "price": 2500,
+    "discount_percent": 22,
+    "url": "https://store.steampowered.com/app/4911030",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a survival shooter game where players must survive in a stationary shooting format. You can play effortlessly with only the mouse plus Q and W keys. You may enter the shop periodically to buy items to grow stronger and boost your survival odds, which serves as the core gameplay.",
+    "scout_score": 73,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "TASMON: Taskbar Monsters",
+    "appid": 4985540,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4985540",
+    "current_players": 261,
+    "total_reviews": 13,
+    "positive_rate": 76.92,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "An idle RPG that lives in your taskbar. While you work, your monsters auto-battle and bring back eggs and loot. Collect 156 species, evolve and awaken them, forge one-of-a-kind serial-stamped weapons, and shape every weekly update from the in-game suggestion box. Free to play.",
+    "scout_score": 66,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Hariti",
+    "appid": 4018740,
+    "price": 16900,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4018740",
+    "current_players": 218,
+    "total_reviews": 48,
+    "positive_rate": 87.5,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Hariti&quot; is a first-person psychological horror game. You will play as a mother searching for her missing daughter in a crisis-ridden hospital. Experience an atmosphere of extreme dread within the halls of this abandoned Chinese-style medical facility.",
+    "scout_score": 59,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Survival Log",
+    "appid": 4164790,
+    "price": 21600,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4164790",
+    "current_players": 3738,
+    "total_reviews": 25,
+    "positive_rate": 56.0,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "The apocalypse is here, and you saw it coming. Survival Log is a zombie-apocalypse hoarding survival sim. Hoard supplies, reinforce your home, and optimize every run before zombies flood the city. Every failure becomes experience. You must adapt and survive this time.",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "MINERALS: Deep Core Mining",
+    "appid": 4639040,
+    "price": 16500,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4639040",
+    "current_players": 148,
+    "total_reviews": 6,
+    "positive_rate": 83.33,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mine the vast underground and collect ores and gemstones—collect! collect! collect like crazy! “MINERALS: Deep Core Mining” is an over-the-top mining game with roguelite elements. Use the resources you gather to upgrade your abilities and take on an endless underground that changes with every run!",
+    "scout_score": 47,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "三國鼎立Online Remastered",
+    "appid": 4770830,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4770830",
+    "current_players": 214,
+    "total_reviews": 15,
+    "positive_rate": 53.33,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "《三國鼎立 Online Remastered》唯一萬人國戰戰棋MMORPG。開服登錄即送名將、裝備與豐厚資源。回合制戰棋戰鬥，講究武將搭配、兵種相剋與地形運用。武將立繪全面重製，四大陣營、百餘武將及十大兵種可組多流派隊伍，支援多人即時對戰，還原赤壁、虎牢關等經典戰役。27 種地形變化豐富戰局，搭配 AI 托管，操作輕鬆。",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Weed Supermarket Simulator",
+    "appid": 4156580,
+    "price": 24700,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4156580",
+    "current_players": 109,
+    "total_reviews": 337,
+    "positive_rate": 89.61,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Weed Supermarket Simulator is a chill store sim where you grow weed, develop new strains, set prices, and keep your shelves stocked. Expand your business and optimize it for maximum profit. Manage employees, handle inventory, and turn your shop into a high-performing business.",
+    "scout_score": 42,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Security 51",
+    "appid": 4246860,
+    "price": 20700,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4246860",
+    "current_players": 916,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You're a security officer deep within Area 51. Scan the staff, verify clearances, and decide who can enter the elevator and who absolutely mustn't leave. The deeper you go, the less certain you are that anyone standing before you is still human.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "我的傲娇妹妹 MY TSUNDERE SISTER",
+    "appid": 4622110,
+    "price": 6400,
+    "discount_percent": 11,
+    "url": "https://store.steampowered.com/app/4622110",
+    "current_players": 190,
+    "total_reviews": 27,
+    "positive_rate": 85.19,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "The sequel to &quot;My Cold Girlfriend&quot; is here! Live under the same roof with your tsundere cousin sister sporting red twin tails, experience her daily quiet care beneath her sharp tongue, and unlock exclusive sweet and heartwarming summer moments.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Cowgirl Maid Milk Cafe",
+    "appid": 3832710,
+    "price": 26000,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3832710",
+    "current_players": 106,
+    "total_reviews": 12,
+    "positive_rate": 83.33,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Move to the city, start a small business, and build a new life—with your two big-titty cowgirl maids! Run your cafe, delve dungeons for resources, train new staff, milk your cowgirls... and more!",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Transformation Tycoon",
+    "appid": 1799850,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1799850",
+    "current_players": 7,
+    "total_reviews": 74,
+    "positive_rate": 85.14,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "[18+] Run a small clinic that performs transformations for clients. Research new transformation techniques. Hire staff and fulfill their dreams by granting them their own transformation. Upgrade your clinic and gain fame (or infamy!) from your actions. Become the ultimate TRANSFORMATION TYCOON!",
+    "scout_score": 38,
+    "reasons": [
+      "無料 +20",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Palm Sugar: A Village Story",
+    "appid": 2778220,
+    "price": 14400,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/2778220",
+    "current_players": 23,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Ah, young love! Seenu, our awkward hero, courts his sweetheart in the quaint village of Bellampakam. But it's not all sunshine and rainbows! The village suffocates under a ruthless drug cartel. Step into Palm Sugar, where romance may steal the spotlight, but the shadows tell the real story.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Big Bad Pharma",
+    "appid": 4953610,
+    "price": 15300,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4953610",
+    "current_players": 47,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cosy pharmacy-stocking sim with a wicked streak. Clock in, sort the shelves, chase satisfying upgrades, and slowly climb the corporate ladder of a pharmacy that maybe shouldn't exist. Tidy. Satisfying. A little bit evil.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Rage Bait",
+    "appid": 4200520,
+    "price": 19100,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4200520",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rage Bait is a narrated meta comedy walking simulator. Gameplay combines physics, player choices, timing, and small actions which lead to wildly different outcomes. Enjoy exploration, branching decisions, light puzzles, and skill checks which are often subverted for comedic effect.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "SWEYET(etc.)",
+    "appid": 3063200,
+    "price": 16800,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3063200",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Learn to live without control while solving dynamic dreamscapes that change through real-life blinks.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Underwater DuO",
+    "appid": 3736310,
+    "price": 8500,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3736310",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In Underwater Duo, control a smashing turtle with your left hand and a blasting jellyfish with your right! Fight off waves of fierce fish, grow stronger, and see if your two hands can conquer the deep… or team up with a perfectly in-sync partner.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Roguelike Bricks",
+    "appid": 5000470,
+    "price": 4600,
+    "discount_percent": 12,
+    "url": "https://store.steampowered.com/app/5000470",
+    "current_players": 7,
+    "total_reviews": 4,
+    "positive_rate": 50.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "We turned brick-breaking into a roguelike! A simple bounce becomes a storm of fire, lightning, black holes, cloning swarms, and replayed paths. Pick a route, break the build wide open, crush multi-phase bosses, and climb through thousands of floors until every leaderboard name is behind yours.",
+    "scout_score": 33,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "A Short & Simple Pixel Love Story",
+    "appid": 4903420,
+    "price": 7500,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4903420",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This linear visual novel tells the story of protagonist Lance, a 25-year-old male, who is dating in these modern times.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Shanhai Exorcist: Yin-Yang Chronicles",
+    "appid": 4986290,
+    "price": 18900,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4986290",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Every card has a Yin and Yang face. Read enemy intents, flip cards to change their costs and effects, and build powerful synergies across four distinct schools in a Chinese-mythology roguelike deckbuilder.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "mhas dungeon sweeper",
+    "appid": 4565490,
+    "price": 6400,
+    "discount_percent": 16,
+    "url": "https://store.steampowered.com/app/4565490",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore the dungeon in this roguelike twist on Minesweeper, where monsters replace mines. Defeat increasingly powerful enemies to vanquish the Reaper. Read the situation. Watch their behavior. Use your items wisely.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "世界杯   无名小国的夺冠之路",
+    "appid": 4906860,
+    "price": 5200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4906860",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lead one of the world's weakest national teams on an unforgettable World Cup journey! In this roguelite football strategy game, unlock powerful talents, unique skills, and random events as every defeat makes you stronger. Fight your way to glory and create your own World Cup miracle.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Merchant's Eden",
+    "appid": 3829280,
+    "price": 18400,
+    "discount_percent": 12,
+    "url": "https://store.steampowered.com/app/3829280",
+    "current_players": 17,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a medieval town around a thriving market. Defend your citizens and traveling merchants against raiding bandits. A minimalist game blending cozy city-building and intense tower-defense as you grow and protect your town.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Heartbeat Impact",
+    "appid": 4809100,
+    "price": 9000,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4809100",
+    "current_players": 2,
+    "total_reviews": 11,
+    "positive_rate": 18.18,
+    "steam_score": "Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "A casual collection mini-game! Transform into a love-filled pinball, smash through obstacles, and shatter the girl’s defenses to collect her heart-fluttering moments. Keep your high-speed passion to pierce barriers unscathed. Destroy every wall and win your way into her heart!&quot;",
+    "scout_score": 25,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "RagnarokX: Следующее поколение",
+    "appid": 4483700,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4483700",
+    "current_players": 6,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "DeskForge",
+    "appid": 4973590,
+    "price": 11700,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4973590",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Turn a cluttered Windows desktop into a command deck. Sweep icons into drawers in one click, send files in with a right-click from Explorer, open real folders right on the wallpaper, and add live widgets. Sits at the very back of the desktop, under 1% CPU, and never steals your focus.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Primus",
+    "appid": 4546430,
+    "price": 11000,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4546430",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Choose your leader, build your Ludus, and lead your gladiators through brutal arena circuits filled with deadly crowd events, beasts, and rival champions on the climb toward Primus.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Wacky! Deer & Munk Adventure",
+    "appid": 4915120,
+    "price": 18900,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4915120",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Two friends set out to take back the acorns the Pig King stole. Deer dashes ahead and hauls the heavy stuff. Munk double jumps, glides, and slips through gaps Deer will never fit. A 2D puzzle platformer about swapping between them to find a way through, or build one yourself.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "AfterMove",
+    "appid": 4614710,
+    "price": 18900,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4614710",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Move one piece. Everything else moves with you. AfterMove is a minimalist puzzle game where every piece on the board follows its own rule - find the sequence that wins. 190 hand-crafted levels. Quietly merciless, deeply satisfying.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "FULL BET  - FIGHTING CASINO -",
+    "appid": 2941500,
+    "price": 36500,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/2941500",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "FULL BET – FIGHTING CASINO – is a turn-based 1v1 game blending card battles, gambling, and fighting-game strategy. Choose a card and BET your limited chips—only the player who bets more can act. Read your rival, bluff, and hide Counters as you lead unique fighters to the top of Casino Tower!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Matter MazeBall: Element Trials",
+    "appid": 4946500,
+    "price": 17000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4946500",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Roll a ball through cel-shaded physics mazes where what your ball is made of changes everything. Stone sinks and smashes, ice glides and melts, a balloon floats until a storm pops it. 30 elemental balls, 39 hand-built mazes, living weather, and local 2-player. Material is the mechanic.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
