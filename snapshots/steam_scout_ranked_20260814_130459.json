@@ -1,0 +1,605 @@
+[
+  {
+    "name": "Lootbound",
+    "appid": 3091140,
+    "price": 5135,
+    "discount_percent": 35,
+    "url": "https://store.steampowered.com/app/3091140",
+    "current_players": 1378,
+    "total_reviews": 24,
+    "positive_rate": 87.5,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lootbound is a tactical roguelite with turn-based combat, loot management and D&amp;D elements set in a dark fantasy world. Fight dangerous enemies, collect epic loot, recruit allies and lead them on a path of adventure.",
+    "scout_score": 99,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Emberfall Idle",
+    "appid": 4970490,
+    "price": 1760,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4970490",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a party of adventurers, master gathering and crafting professions, and explore a fantasy world that continues progressing while you're away. Battle monsters, earn powerful loot, conquer dungeons, and grow stronger through long-term idle RPG progression.",
+    "scout_score": 75,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "TV Archive: Tidy Up Together",
+    "appid": 4934370,
+    "price": 1980,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4934370",
+    "current_players": 384,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Shelve the videotapes, unlock new skills, and use your unique methods to tidy up the TV archive. Enjoy the online co-op and online PvP with your friends, or go solo! Fill up the shelves and experience a sense of relief and satisfaction.",
+    "scout_score": 69,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Ruins of Dawn",
+    "appid": 4364910,
+    "price": 3800,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4364910",
+    "current_players": 2048,
+    "total_reviews": 9,
+    "positive_rate": 100.0,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A loot-driven action role-playing game (ARPG) crafted by a solo loot enthusiast. Switch classes anytime, with hundreds of random affix combinations for gear stats, a unique forging system, and tough bosses, rifts, ruins, and trials awaiting your challenge.",
+    "scout_score": 69,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "I.T. Never Ends",
+    "appid": 4225400,
+    "price": 4680,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4225400",
+    "current_players": 23,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The printer is bleeding, the Wi-Fi is haunted, and Ticket #666 just came in. As the latest hire for a company run by cosmic horrors, your job is simple: Swipe to survive. Make binary decisions to survive the night shift in this dark comedy desktop simulator. I.T truly never ends.",
+    "scout_score": 56,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "One Last Hand",
+    "appid": 4209830,
+    "price": 2320,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4209830",
+    "current_players": 735,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bid for cards, build your hand, then SLAP YOUR FRIENDS with it. A chaotic 2-6 player online party card battler full of secret bids, unfair Relics, lucky comebacks, and friendships that probably won’t survive the table.",
+    "scout_score": 56,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Basil & Za'atar",
+    "appid": 4969220,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4969220",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Basil &amp; Za'atar is a warm, cooperative, puzzle-driven story of a boy and a girl who live on opposing sides of the Mediterranean. Grab a friend and explore your differences together. Your success relies on you communicating what you see... and really listening for what you don’t.",
+    "scout_score": 50,
+    "reasons": [
+      "次点ジャンル: Cooperative +30",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "The Ancient Caverns",
+    "appid": 4977130,
+    "price": 4200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4977130",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dark-fantasy roguelite dungeon crawler. Choose a class and descend through ever-shifting caverns, battling tier-scaled monsters floor by floor. Death takes your gear, but the artifacts you recover are yours forever. Loot, craft, and return to town to grow stronger.",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Pegs X Stickers",
+    "appid": 4403010,
+    "price": 2158,
+    "discount_percent": 17,
+    "url": "https://store.steampowered.com/app/4403010",
+    "current_players": 18,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A pachinko-roguelite about scoring big numbers. Build your board, pop pegs, and discover run-breaking stickers.",
+    "scout_score": 46,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "outpost4",
+    "appid": 4271680,
+    "price": 1440,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4271680",
+    "current_players": 114,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build your mobile outpost and combine over 20 weapons with 100+ items to create unique builds. Grow stronger against endless enemy hordes, conquer new planets, and experience the thrill of evolving from desperate survival to overwhelming firepower.",
+    "scout_score": 41,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Rogue Eclipse",
+    "appid": 782260,
+    "price": 6930,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/782260",
+    "current_players": 48,
+    "total_reviews": 10,
+    "positive_rate": 60.0,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Spaceflight action for the new age! Push your piloting skills to the ultimate test, blast and burn your way through swarms of starfighters, merciless armadas and colossal behemoths in an epic roguelike campaign that spans the cosmos. Easy to learn, tricky to master, and impossible to put down.",
+    "scout_score": 38,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Fee Payment & Cigarettes",
+    "appid": 4255120,
+    "price": 1620,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4255120",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fee Payment &amp; Cigarettes is a first-person psychological horror anomaly-spotting game. Enter a hospital in first-person, finish all payment checklists. Spot anomalies, then head to the payment counter or retreat to the smoking area to calm down.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "PC FISH: Taskbar Aquarium",
+    "appid": 4842670,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4842670",
+    "current_players": 81,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Raise, Collect, Trade! Discover rare fish, grow your collection, and build a living aquarium right on your desktop.",
+    "scout_score": 38,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Tidy Up Together",
+    "appid": 4950470,
+    "price": 2610,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4950470",
+    "current_players": 292,
+    "total_reviews": 6,
+    "positive_rate": 83.33,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Catastrophe! An evil wizard has cast a tornado spell on your shop, and now all your products are on the floor. Maybe you'll ask some friends for help to tidy up?",
+    "scout_score": 37,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "My (♂) Life as a Vampire's Maid (♀)",
+    "appid": 4838470,
+    "price": 4880,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4838470",
+    "current_players": 51,
+    "total_reviews": 5,
+    "positive_rate": 80.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this suspenseful fantasy visual novel, play as a young man stranded in snowy mountains. Guided by unseen forces, you enter an isolated mansion. As a peculiar daily life unfolds, you live alongside two vampire girls. Immerse yourself in this profound, dreamlike dark fairy tale.",
+    "scout_score": 34,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Valentine in Bitterness",
+    "appid": 3999750,
+    "price": 2320,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3999750",
+    "current_players": 5,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "My name is Yuki Katagiri, just an ordinary girl you can find anywhere, without anything I’m particularly good at. But somehow, I’ve found someone I like! When I was about to confess, my meddlesome older brother just had to tease me! I wonder if things will go well on Valentine’s Day…",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Zankoi's Chronicles",
+    "appid": 2458370,
+    "price": 4675,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/2458370",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 2D roguelike action game fused with deep deckbuilding. Fight in grueling real-time duels, shatter your enemy's Poise to freeze time, and unleash devastating, custom-built card combos. No meta upgrades — only skill, synergies, and mastery define each run.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Hero and His Friends",
+    "appid": 4910300,
+    "price": 1100,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4910300",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fantasy roguelike adventure with unique card battles. Recruit companions and battle enemies using Companion Cards, where each round compares a random stat. Every companion has unique abilities that change the rules of combat. Build your team, adapt your strategy, and shape your own adventure.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Blue Sign",
+    "appid": 4911340,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4911340",
+    "current_players": 25,
+    "total_reviews": 9,
+    "positive_rate": 66.67,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In the fictional port city of Rissebra, you work as a marine insurance underwriter. Review the documents brought to your desk by shipowners, and uncover the risks hidden in their vessels, routes, and cargo. The decision to approve or reject each insurance contract rests entirely on your judgment.",
+    "scout_score": 28,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Hatching of Gods and Demons",
+    "appid": 4998370,
+    "price": 880,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4998370",
+    "current_players": 3,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hatching of Gods and Demons is a single-player Eastern fantasy game of beast hatching, light-strategy expeditions, and fully automatic combat. Hatch 60 beast forms, build three-beast teams, plan positions and routes, recover source eggs from six realms, and strengthen lineages through soul fusion.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Robot In Kitchen",
+    "appid": 4733280,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4733280",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Winner of four 2026 NYX Awards. Manage a classic shop through hardcore time management and order processing. Cook global cuisines, upgrade kitchen tech like Omni pots, and unlock fully automated branches. Enjoy refined animations while building your transnational culinary empire.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "GRIDNOVA",
+    "appid": 4964270,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4964270",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A free neon survivors-like. You're the Core, auto-blasting endless swarms across a digital grid. Stack weapons, trigger explosive synergies, and evolve your build — then survive the weekly seed everyone shares and climb the global leaderboard.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Video Poker by Pokerist",
+    "appid": 4355310,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4355310",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Discover the world of classic video poker with the most popular variations: Deuces Wild, Jacks or Better and Bonus Video Poker. Master your casino skills!",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Pixel Airport Tycoon 3D",
+    "appid": 5016220,
+    "price": 6930,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5016220",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build and manage your own airport – in classic 2D or full 3D. From your first runway to an international hub: terminals, cargo, customs, weather &amp; de-icing, airline contracts, staff and research. Plan smart and become the world's best airport tycoon!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Clickendo",
+    "appid": 5014940,
+    "price": 1620,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5014940",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Click cards, build a coin-generating deck, unlock suits and permanent perks, and chase huge multipliers in this incremental card clicker.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Go West Together",
+    "appid": 4964030,
+    "price": 2610,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4964030",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An online Wild West brawler for up to 8 players. Rob banks, haul contraband, weaponize whatever you find, and compete with friends to become the outlaw who survives to the very end.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Earth’s Last Defense Idle Fleet",
+    "appid": 4726800,
+    "price": 1500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4726800",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Command Earth’s last fleet in an idle space-defense game where every wave, kill, upgrade, ship, and module pushes your defense further. Build fighters, drones, corvettes, heroes, turrets, and permanent upgrades as the alien hive grows stronger.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Safe Job",
+    "appid": 5011170,
+    "price": 1100,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5011170",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Safe Game is a short incremental game about breaking open a safe by any means necessary. ",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Eerie Night - Escape from the Funfair - Collector's Edition",
+    "appid": 4813400,
+    "price": 14100,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4813400",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A ghost train ride takes you to an eerie parallel world: an abandoned fairground that hides dark secrets! Solve tricky puzzles and find mysterious artifacts in this hidden object game!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Crownhold",
+    "appid": 5013680,
+    "price": 5200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5013680",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Crownhold is a cozy storybook tower defense. Line winding roads with archers, mages, artillery and barracks, upgrade them into 12 mighty specializations, lead a hero and rain meteors on the goblin horde across 21 hand-painted levels — then hold on in Endless mode.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
