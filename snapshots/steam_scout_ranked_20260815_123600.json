@@ -1,0 +1,589 @@
+[
+  {
+    "name": "Brass Rebellion",
+    "appid": 4979270,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4979270",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this action-arcade FPS game, destroy waves of automaton enemies through the use of traps in your environment.",
+    "scout_score": 70,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Thirty Years War",
+    "appid": 4706650,
+    "price": 3995,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4706650",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight on the battlefields of early 17th-century Europe in a tactical wargame of religious war, dynastic ambition, and emerging modern armies. Command Imperial, Catholic League, Swedish, Protestant, French, Spanish, Bavarian, and more across 80 scenarios and 2 campaigns spanning the Thirty Years War.",
+    "scout_score": 63,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sands of Skullcreek",
+    "appid": 2566840,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2566840",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Shoot it out against crazed bandits in order to save this Old Western town from destruction in this retro-style first person shooter.",
+    "scout_score": 62,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Broken Divide",
+    "appid": 4525630,
+    "price": 679,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4525630",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A party-based autobattler where every run is a question of greed. Recruit your guild, set the formation, and send them in, then decide how deep to push before you pull out. The loot gets better the longer you stay.",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Sealed",
+    "appid": 4960260,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4960260",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A black-site facility has lost containment. The abominations inside are awake and hunting, and you're the last one out. Eliminate every hostile, break the lockdown, and reach extraction. Deal with them, or get dealt with.",
+    "scout_score": 60,
+    "reasons": [
+      "最優先ジャンル: Extraction +40",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Hide & Seek",
+    "appid": 5008510,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5008510",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An online multiplayer party game with a colorful twist: hiders paint their own bodies to blend into the world. Seekers must find and tag them all before time runs out. Play with friends on PC.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: Party +25",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Flowers and Deities",
+    "appid": 3816000,
+    "price": 1169,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3816000",
+    "current_players": 290,
+    "total_reviews": 17,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Flowers and Deities is a strategy deckbuilder roguelite where you command a blood-soaked lizardkin army through escalating arena battles, spending every drop of spilled blood to cast spells, summon creatures, and survive long enough to claim the favor of the Gods",
+    "scout_score": 51,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Chronicles of Clams Island",
+    "appid": 4395020,
+    "price": 959,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4395020",
+    "current_players": 98,
+    "total_reviews": 9,
+    "positive_rate": 88.89,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this RPG, play as Amy, a shipwrecked rookie stranded on Clams Island. Battle monsters, complete quests, upgrade your gear, meet locals, and explore the nightlife, where even more adventures await. Rise to become a top-ranked adventurer, or lose your purity trying!",
+    "scout_score": 44,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Sister Other Paranoia",
+    "appid": 4240150,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4240150",
+    "current_players": 379,
+    "total_reviews": 116,
+    "positive_rate": 84.48,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dark visual novel by acclaimed creator nyalra. Overly sensitive to other people's emotions, the protagonist—a light novel writer—develops the ability to read minds, only to be driven even deeper into isolation. His sole remaining comfort is his younger sister, gifted yet lonely.",
+    "scout_score": 42,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "FairyLand",
+    "appid": 4823970,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4823970",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A casual endless dungeon crawler rogue-like RPG that tasks players with getting the highest score possible, as fast as possible.",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Trick × Trick",
+    "appid": 4322230,
+    "price": 1039,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4322230",
+    "current_players": 77,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Supernatural × Mystery × Death Game Twelve high school students awaken trapped in a mysterious building. To escape, they must identify the mastermind by vote—choose wrong, and someone is executed. Each student has a unique supernatural power. Uncover the truth and reveal the mastermind.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "The Newspapers of the day",
+    "appid": 3930370,
+    "price": 1599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3930370",
+    "current_players": 25,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run a newspaper under censorship. Report, choose your articles, strike out words, lay out the page. Sharp reporting draws the censors; a compliant paper loses its readers. 1920s Gyeongseong — a newspaper management simulation adventure where you complete a single page, every single day.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Totally Normal Meat Co.",
+    "appid": 4593660,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4593660",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Raise adorable monsters and process them into profit in this dark-humored idle management sim. Designed as a desktop companion, it runs at the bottom of your screen while you work. Optimize your production line, unlock rare species, and automate your way to a morally questionable empire.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Escape War",
+    "appid": 4579440,
+    "price": 99,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4579440",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are the last person to evacuate a city that is being bombed. Survive and escape.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Nitz's Debt",
+    "appid": 4754980,
+    "price": 869,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4754980",
+    "current_players": 3,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Nitz's Debt is a cute pixel art stealth platformer. Nitz, the small yet incredibly horny kobold, must do her best to collect treasure and repay a debt owed to her mistress, the Dragon.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cosmo in Tarot: Tarot Study Simulator",
+    "appid": 4958720,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4958720",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Record your insights in a traceable journal, and browse an 78-card reference library. Shuffling uses real-world physical entropy—millisecond keyboard input timings and characters to influence card weights, with no AI interpretation. All readings are for entertainment only, not real-life guidance.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "PhotoGuessr",
+    "appid": 2825810,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2825810",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An observation puzzle game where you use a cropped detail to find its original location in a photograph. Chase high scores in five-round solo runs or put your observation skills to the test in online matches for up to eight players.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Ruthless Returns",
+    "appid": 4958640,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4958640",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A satirical business game where everyone acts at once. Build your company, sue your neighbours, hide the money offshore, and offer world-class parental leave, or slash it for profit. Richest CEO after three fiscal years wins. By brilliance if you can. By dirty tricks if you must.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Anime Angels (feat. Luca Brasil)",
+    "appid": 3982960,
+    "price": 179,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3982960",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Solve tile-swapping puzzles to unveil pretty anime girls by the artist Luca Brasil.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "VisApex",
+    "appid": 4854520,
+    "price": 2499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4854520",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Turn your webcam into smooth, responsive AI-powered head tracking. Naturally look into corners, check mirrors, or look over your wings by simply turning your head. Includes exclusive sim racing features and a free demo.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Bratki",
+    "appid": 4359170,
+    "price": 449,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4359170",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Shaved heads, short leather jackets, and a tinted Lada Samara or a well-worn BMW. Bloodied knuckles and a piece of rebar as the tools of making a living. The legendary gangsters of the 1990s return to flex their muscles and prove their street smarts once again.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Elf-Goblin United Front",
+    "appid": 4973770,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4973770",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "During the final stage of the &quot;Great War against the Demons&quot;, the demons were facing defeat, and peace seemed within reach. However, one forest remained under the constant threat of demon invasion. In this situation, the elves and goblins made a crucial decision - &quot;Elf-Goblin United Front&quot;.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Fungi Simulator",
+    "appid": 4943700,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4943700",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Become a single spore on a journey to blanket the world in mycelium. Click to grow, unlock new mushroom species, and watch your fungal empire expand even while you're away. Whether you have 5 minutes or 5 hours, Fungi Simulator is the perfect idle escape. No stress. Just growth.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Fabricator",
+    "appid": 4987740,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4987740",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Metal Workshop Manager is a production management simulation where you run your own metalworking shop. Accept orders, buy materials, set up machines, manage tools and workers, avoid costly mistakes, and complete increasingly complex projects before their deadlines.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Keyboard Warrior: Type to Destroy",
+    "appid": 4595820,
+    "price": 159,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4595820",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Type fast to destroy falling letters under a stunning starry sky with meteors. Master active skills and marking systems to trigger explosive combos, ice slows, bonus scores and spectacular effects across dozens of unique stages!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Anime Angels (feat. Tomozero)",
+    "appid": 2529620,
+    "price": 179,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/2529620",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Solve tile-swapping puzzles to unveil pretty anime girls drawn by the artist トモゼロ (Tomozero).",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Witchpop",
+    "appid": 3248200,
+    "price": 850,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3248200",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Witchpop is a physics based matching puzzle game where you cook soup by juggling ingredients. Collect curses over time and try to survive as your dish becomes an increasingly chaotic mess.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Super Rhythm Fit",
+    "appid": 4279200,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4279200",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Punch to the beat! The ultimate home workout arcade. Use your webcam for AI scoring, or simply follow along to sweat—no camera required. No VR, no wearables needed. 200+ moves to get fit. Import your own music, customize your workout routine.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "I Was a Failed Day Trader Who Lost Everything, But After Being Reincarnated in Another World, My Textbook Technical Analysis Actually Works and Now I'm the Richest Man in the Kingdom!?",
+    "appid": 4981130,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4981130",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A failed day trader dies at 3:47 a.m. and wakes in a world where his textbook technical analysis actually works. Get rich, get famous, get hunted. A visual novel about candlesticks, courage, and one very patient whale. This is not financial advice.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hentai World Travel",
+    "appid": 4991490,
+    "price": 79,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4991490",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fun, stress-free arcade puzzle game where you find matching tiles to reveal stunning portraits of girls. Train your memory and conquer the engaging levels at your own pace!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
