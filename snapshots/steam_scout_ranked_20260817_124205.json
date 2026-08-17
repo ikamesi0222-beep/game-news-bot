@@ -1,0 +1,583 @@
+[
+  {
+    "name": "Crown&Sword",
+    "appid": 4831290,
+    "price": 1620,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4831290",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Crown &amp; Sword is an epic 2D tactical Action RPG that combines base management, army building, and wave survival elements. You must manage your time in a dynamic day/night cycle, fortify your kingdom, and fight shoulder to shoulder against the relentless swarms that awaken when the sun sets.",
+    "scout_score": 73,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: Survival +15",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Onmyoji: Soul Legend",
+    "appid": 4851970,
+    "price": 3000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4851970",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Onmyoji: Soul Legend is a strategy card game inspired by onmyoji folklore. Build your deck, command shikigami, and face yokai and oni bosses through solo story battles, roguelike trials, and tactical card combat.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Farewells clicker",
+    "appid": 4264950,
+    "price": 2433,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4264950",
+    "current_players": 242,
+    "total_reviews": 6,
+    "positive_rate": 83.33,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Farewells Clicker is an addictive blend of clicker and city builder! Expand your island, develop your city, and produce resources endlessly. Upgrade your buildings and skills through a vast skill tree to progress further and further!",
+    "scout_score": 52,
+    "reasons": [
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Worm In Rotating Land",
+    "appid": 5026560,
+    "price": 900,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5026560",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Third part of worm adventures and walking simulation and survival game as player worm and mission to find stars and avoid falling to water. So be brave worm and try to find all stars",
+    "scout_score": 46,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Crownhold",
+    "appid": 4579940,
+    "price": 2465,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4579940",
+    "current_players": 1096,
+    "total_reviews": 13,
+    "positive_rate": 76.92,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Noble Rulers — grow your realm and expand your castle in this short incremental game! Manage resources, discover foreign lands and build up an army to lay siege to your enemies.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Apple Faces Up",
+    "appid": 4511010,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4511010",
+    "current_players": 76,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Alter the inscribed laws and unravel mysteries with knowledge and wisdom. Welcome to the Infinite Library, where all past, present, and future phenomena are recorded. As the one with the power to rewrite these books, you must face 13 trials bestowed by the angel Mimir.",
+    "scout_score": 38,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "末日战姬：废土觉醒",
+    "appid": 4977680,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4977680",
+    "current_players": 43,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "全球華人專屬！末日廢墟×日系萌娘，打造你的最強戰姬軍團！這是一款獸娘，機械妹，克蘇魯，福利拉滿的美少女養成策略卡牌遊戲！",
+    "scout_score": 38,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Is That a Human Organ?",
+    "appid": 5014260,
+    "price": 880,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5014260",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a horror-themed anomaly-hunting game. As a black market cargo inspector, you must carefully check each item to ensure it’s normal. Please note that when I say “cargo,” I’m referring to… organs.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cartel",
+    "appid": 4950030,
+    "price": 6300,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4950030",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Become a cartel leader and rule the entire market! Multiplayer competition awaits you with the cartel.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Fall Queen",
+    "appid": 4686010,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4686010",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fall Queen follows the story of the princess who waited, but was never rescued. Deciding to rescue herself, she descends the crumbling castle; every leap bringing her closer to freedom. This precision 2D platformer will both delight your intellect and have you cursing out loud at the challenge!",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Dual Cat: Max",
+    "appid": 3147720,
+    "price": 1440,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3147720",
+    "current_players": 6,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lead Max, a clever cat with a brave heart, on a charming rescue adventure to bring his best friend, Erwin, home.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "SOVA NA SKAKALKE",
+    "appid": 4947950,
+    "price": 1125,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4947950",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "It's all fun and games... until the Jump Rope Owl shows up.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Tropical Hop",
+    "appid": 4950890,
+    "price": 6300,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4950890",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Get ready for a unique tropical survival adventure.",
+    "scout_score": 33,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "演义三国",
+    "appid": 4382980,
+    "price": 2520,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4382980",
+    "current_players": 17,
+    "total_reviews": 7,
+    "positive_rate": 14.29,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "《演义三国》是一款有独特三国味的国风策略卡牌游戏，采用了九宫格站位，技能吟唱施法的战斗方式。在这您将要招募良将组成梦幻队伍挑战风格迥异的三国名将。",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Percorso - The Retraced Steps",
+    "appid": 4683320,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4683320",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Percorso is a minimalist logic puzzle game. Guide the hero through dynamic mazes to collect coins and visit every tile without retracing your steps. Master portals, ice, and traps across hundreds of levels. Includes an infinite mode and a level editor.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cat Meow-tilation",
+    "appid": 4511020,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4511020",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Become a U-O alien and gather as many cats as you can to save your home planet! A unique cat-capturing game themed around &quot;Cats&quot; × &quot;Red Light, Green Light&quot;!",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Leather Maker",
+    "appid": 4805820,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4805820",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Walk the wharves, meeting houses, taverns, and markets of colonial Boston. Converse with merchants, laborers, patriots, and notable gentlemen whose names shall echo through history. Seek counsel from allies, uncover hidden truths, and lend your voice to the great discussions of the age.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Eggscape",
+    "appid": 3831170,
+    "price": 2600,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3831170",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You’re a chicken escaping the slaughter line. Find your stolen chicks and free your fellow chickens as you fight through the factory, and survive the hunt from workers and failed lab creations.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "STEAM TRIGGER",
+    "appid": 2698100,
+    "price": 5310,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2698100",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Die, adapt, and strike back in a brutal steampunk Metroidvania. Explore a collapsing machine city and take down towering bosses in precise 2.5D combat.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "东方",
+    "appid": 4576040,
+    "price": 1500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4576040",
+    "current_players": 8,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;East&quot; is a military-themed tower defense PC game. The game is based on the personal experiences of Guo Xiang from the novel as he participates in the Korean War, telling the story of the Chinese People's Volunteer Army fighting fearlessly to liberate Korea.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Dave's Questions",
+    "appid": 4484750,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4484750",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A simple, quick, quiz game for 2-3 players! Come's with a built in question set, and the ability to easily create your own question sets from a .csv file! Ideal for a quick session with friends or family.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Echoes of the Deep : Incremental Endless Miner",
+    "appid": 4781450,
+    "price": 2539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4781450",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Incremental Endless Miner . Delve into the depths of Mount Olympus. You are Constantine , a miner set to discover the mountains secrets .",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Asobutsuri",
+    "appid": 4981470,
+    "price": 803,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4981470",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Place items freely in a virtual space, harness the laws of physics, and build your own Rube Goldberg-style contraptions. Design your contraption, press the Action Button, and enjoy the thrill of watching it come to life. A built-in Stage Editor lets you create your own original stages.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Balls Up",
+    "appid": 3483330,
+    "price": 4600,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3483330",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Balls Up is a climbing game where players unlock abilities and choose different paths to ascend. Unlock permanent upgrades for your character, a ball. Face the constant risk of falling back to the start, exploring varied paths and abilities.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "GameOverd",
+    "appid": 5015990,
+    "price": 1100,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5015990",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "GameOverd is a retro-inspired precision platformer packed with deadly traps, handcrafted levels, and chaotic boss fights. Learn the patterns, master the challenges, and get faster with every run.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "MODIFY",
+    "appid": 4935320,
+    "price": 4600,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4935320",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Break into a machine by breaking its rules. Change what it is and how it thinks. Comes with a level editor, Workshop and mod support.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Moon and Away",
+    "appid": 3124200,
+    "price": 935,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3124200",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A short, atmospheric, story-driven experience about a young woman searching for meaning in a world that no longer feels familiar.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Desktop Grass",
+    "appid": 4971830,
+    "price": 830,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4971830",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Grow grass on your taskbar so you don't have to go outside and touch grass.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Lunch Break Dodgeball",
+    "appid": 4968140,
+    "price": 3071,
+    "discount_percent": 17,
+    "url": "https://store.steampowered.com/app/4968140",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Physics-driven online dodgeball for 2–24 players. Create a custom player from photos, join public or password-protected rooms, and practice offline in 12-vs-12 schoolyard or gym matches.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "PuruPuru: Pull It Along",
+    "appid": 4880670,
+    "price": 2600,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4880670",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Grab squishy little Purupuru with your mouse, stre-e-etch, and climb. It clings to walls and ceilings like a dewdrop. When the thread snaps, off it flies. The bigger the pull, the bigger the jump. Fall and your height is gone, but there's no game over. Play Solo or 4-player online Delivery Climb.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
