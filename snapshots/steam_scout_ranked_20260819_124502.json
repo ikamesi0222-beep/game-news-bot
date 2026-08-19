@@ -1,0 +1,586 @@
+[
+  {
+    "name": "Just Another Animal",
+    "appid": 4991800,
+    "price": 139,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4991800",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Just Another Animal is an online multiplayer hide-and-seek party game where players disguise themselves as farm animals and try to avoid being caught by Hunters.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: Party +25",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Alien Siege: Earth",
+    "appid": 4931700,
+    "price": 120,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4931700",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Top-down arcade space shooter with retro pixel-art style. Fight waves of alien invaders across world landmarks, buy upgrades between battles, collect power ups, participate in events &amp; missions, defeat epic bosses, and more.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Battle Ranker in Another World",
+    "appid": 4821280,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4821280",
+    "current_players": 38,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fantasy Sci-Fi AFK RPG with boss battles and deep storyline",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "南派盗墓传奇",
+    "appid": 4911220,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4911220",
+    "current_players": 5,
+    "total_reviews": 46,
+    "positive_rate": 91.3,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "经典永不褪色，热血再度沸腾！以原汁原味的传奇玩法为核心，打造高爆率、高自由度的MMORPG盛宴。在这里，装备全靠打，神装遍地爆，刀刀暴击、秒怪升级的极致爽感贯穿全程！",
+    "scout_score": 47,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Dreamcards",
+    "appid": 3726730,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3726730",
+    "current_players": 28,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A roguelike deckbuilder about dreams. Choose cards, by combining 6 different strategies during the day, and at night build your deck while facing the nightmare, to uncover a great mystery.",
+    "scout_score": 46,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "宠物街金鱼姬 Pet Street Story",
+    "appid": 2876050,
+    "price": 719,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2876050",
+    "current_players": 103,
+    "total_reviews": 24,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Jinyu, also known as Xiaoli, worked on Pet Street to repay her owner's debt as a way of expressing gratitude for the owner's life-saving kindness. During this time, she made various friends and experienced unusual events. As she matured, Jinyu decided to revive the increasingly depressed Pet Street.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Tower64",
+    "appid": 4279130,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4279130",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Forge an evolving crystal tower, combine elemental attacks, and hold the center against relentless hordes in an old-school tower-survivor roguelite where every upgrade reshapes your build.",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Incident Archives - Flight 882",
+    "appid": 4625290,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4625290",
+    "current_players": 10,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Inspired by true events. A First Officer on a night flight is paired with a new Captain for the journey. What begins as a normal flight slowly turns unsettling as the situation slowly turns intense.",
+    "scout_score": 38,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "LaBlue Horror",
+    "appid": 4881950,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4881950",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "LaBlue Horror is a first-person psychological horror game set in a dark Backrooms-inspired maze. Explore, hide, survive and find the exit before the creature finds you.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Ministry of Truth: False Memory",
+    "appid": 3492150,
+    "price": 489,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3492150",
+    "current_players": 40,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Ministry of Truth: False Memory is a story-driven simulator in a totalitarian society. Become an official, manipulate facts, rewrite history, and provide the ‘truth’ to the public. Choose: obey or fight against the regime. The Great Father is watching you!",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Strong-Willed Wife",
+    "appid": 4376090,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4376090",
+    "current_players": 14,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a story about a strong-willed newlywed wife who begins to change after meeting a Black man. Due to his own inadequacy, the protagonist arranges a partner for her—but the man she meets is a large, imposing figure, and from then on, she starts to change in unsettling ways…",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Visual Novel: Beak and Claws",
+    "appid": 5036310,
+    "price": 69,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5036310",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cade, a perpetually hungry student living on the edge of his scholarship, buys a grey parrot named Colonel Pixel from a crazy sailor in a dark alley. In exchange for a quantum physics textbook, the bird promises to lead him to a &quot;billionaire gardener with golden pineapples.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Plodding Recovery",
+    "appid": 4532490,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4532490",
+    "current_players": 5,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Why did it come to this?&quot; That's what the protagonist asks, his body and mind worn to the breaking point. From there begins a journey of rediscovering the self he had long neglected. A small action at a time, he plods forward — slowly, haltingly — toward recovery.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Return of Those Who Didn't Go",
+    "appid": 4957260,
+    "price": 690,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4957260",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A Volta Dos Que Não Foram is a third-person action-adventure game blending RPG elements with challenging Souls-like combat. Control Tonhão Marreta, a lazy blacksmith forced to face the apocalypse, crush evil hordes, and save his homeland using brute force and mystical spells.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Chasing Dream",
+    "appid": 4988410,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4988410",
+    "current_players": 10,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build your career as a rising DJ and producer in a choice-driven sandbox visual novel. Navigate fame, relationships, and ambition as you chase your dream.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Nioh 3 Hell Rising",
+    "appid": 4003950,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4003950",
+    "current_players": 0,
+    "total_reviews": 39,
+    "positive_rate": 35.9,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "A new open field, Edo in the Keian period, and new weapons take Nioh 3 to even greater heights!",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Planet Coaster 2: Silver Screen Pack",
+    "appid": 4961870,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4961870",
+    "current_players": 0,
+    "total_reviews": 6,
+    "positive_rate": 66.67,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Craft spectacular movie sets and cinematic backdrops to bring your silver screen adventures to life. Create the metropolis of your dreams with striking skyscrapers, rich gold detailing, and sleek stucco finishes.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "WARNO - Nemesis #8 - School’s Out!",
+    "appid": 4639630,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4639630",
+    "current_players": 0,
+    "total_reviews": 9,
+    "positive_rate": 44.44,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mobilize two Instructor-filled divisions in Nemesis - School’s Out!, bringing a host of new training and academy units, vehicles, and weapons. The tank-heavy West German Verfügungstruppenkommando 42 goes head-to-head against the experienced Soviet 71-ya Zapasnaya Tankovaya Diviziya.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Cultivation Tower",
+    "appid": 5026010,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5026010",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cultivation Tower is a 2D xianxia idle incremental auto-battler. Summon projections and cultivation allies, invest Spirit Stones in upgrades and Methods, collect Treasures that persist through rebirth, and climb toward higher realms and tougher floors.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "DrawTheBlock",
+    "appid": 4961600,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4961600",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "DrawTheBlock is a collaborative, infinite-canvas pixel editor. The world is divided into blocks you can draw on, claim, and share, and everything you paint lives on one shared canvas that anyone can explore.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "20 Bucks Is 20 Bucks: A Never-Ending Story",
+    "appid": 4898520,
+    "price": 850,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4898520",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sensual, fun, and humorous visual novels for adults.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Siege",
+    "appid": 4926990,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4926990",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A free-to-play medieval card game where both players place simultaneously. Command six unit types, fortify your walls, and destroy three enemy walls before yours fall. Play online or battle the AI.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Space Chickens",
+    "appid": 4836390,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4836390",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Space Chickens is a cozy little game where you will Breed Unique Chickens, Explore Colorful Miniature Planets and ultimately, populate your chicken museum.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Kubo",
+    "appid": 4999470,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4999470",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A sci-fi 3D puzzle game where you place and rotate route cards across the faces of a rotatable cube to connect stars, fill every Kube, and restore a fractured cosmic network level by level.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Museum of Lost Dinosaurs",
+    "appid": 4970120,
+    "price": 2999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4970120",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dig up forgotten fossils and restore stylized dinosaur exhibits. Clean bones, assemble skeletons piece by piece, and bring prehistoric displays back to life in a relaxed single-player archaeology game built for keyboard and mouse.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Puzzles Berrys",
+    "appid": 4964900,
+    "price": 119,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4964900",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Puzzles Bears",
+    "appid": 4961860,
+    "price": 119,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4961860",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Puzzles Birds",
+    "appid": 4961820,
+    "price": 119,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4961820",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Tanach: A Journey Through the Hebrew Bible",
+    "appid": 4984690,
+    "price": 699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4984690",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The whole Hebrew Bible, one beautifully lit card at a time. Ask a question, answer it, and the verse it came from opens right there — Hebrew beside English, yours to read. All 39 books, a full reader, gentle narration, and threads that run across the whole Tanach. Come and learn.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "LuluPaw",
+    "appid": 4976750,
+    "price": 79,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4976750",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "No complicated goals, no stressful pace. Farming, dressing up, and companionship—a simple pastoral life, all starting with one fluffy Lulu Rabbit.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
