@@ -1,0 +1,590 @@
+[
+  {
+    "name": "Mall: Tidy Up Together",
+    "appid": 4962010,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4962010",
+    "current_players": 110,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Shelve the products, unlock new skills, and use your unique methods to tidy up the mall. Enjoy the online co-op and online PvP with your friends, or go solo! Fill up the shelves and experience a sense of relief and satisfaction.",
+    "scout_score": 66,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Fish Slayer",
+    "appid": 4542590,
+    "price": 351,
+    "discount_percent": 12,
+    "url": "https://store.steampowered.com/app/4542590",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "《Fish Slayer》 is a light roguelike game featuring multiple gameplay modes and meta-progression. Players take on the role of an animal that hunts fish, strengthening themselves by choosing attributes and items to become more efficient at hunting.",
+    "scout_score": 63,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "One Dice Dungeon Delve",
+    "appid": 4495180,
+    "price": 419,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4495180",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "One Die. One Life. Infinite Delving. From a single d6 and a paper prototype at my desk, ODDD is a tight, focused roguelike where every roll matters. Master meaningful class abilities and watch your hero visibly grow with every piece of loot. How deep will you delve?",
+    "scout_score": 59,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Puzzle Loot",
+    "appid": 4960710,
+    "price": 899,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4960710",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 7×7 tap puzzle roguelite RPG. Clear blocks to defeat monsters, choose from 12 classes, collect gear, and reincarnate again and again as you climb toward the Demon Lord's Castle. Easy to pick up, deep enough to master, with a bounty system that changes how you play.",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: RPG +10",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hua Manlou",
+    "appid": 3749320,
+    "price": 934,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3749320",
+    "current_players": 3049,
+    "total_reviews": 858,
+    "positive_rate": 99.42,
+    "steam_score": "Overwhelmingly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Infiltrate the enemy capital, using the entertainment venue &quot;Hua Man Lou&quot; as a cover, and secretly train six talented and beautiful women as spies to carry out reconnaissance and assassinations. Advance the plot through skill development, and unlock three endings through love, hate, and revenge.",
+    "scout_score": 46,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "AI Pixel Battle",
+    "appid": 3994120,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3994120",
+    "current_players": 333,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "AI Pixel Battle is a drawing battle game where you draw original monsters to defeat your opponents. The AI analyzes your monster's appearance to determine its abilities, decides the winner, and narrates how the battle unfolds. Unleash your creativity and create your own monster!",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "DEFEAT THE GOBLIN KING",
+    "appid": 3806630,
+    "price": 1259,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3806630",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Gear up and leave on a Roguelike RPG expedition to the unknown, strategize your way to victory against impossible odds in turn-based combat. It's time for the tyrannical rule of the GOBLIN KING to end! ",
+    "scout_score": 38,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Depraved!! Bunny Sex Life",
+    "appid": 4282720,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4282720",
+    "current_players": 34,
+    "total_reviews": 22,
+    "positive_rate": 90.91,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are the owner of Bunny &quot;Hapiko.&quot; Watch over her journey to the moon, do part-time jobs, go on dates, and enjoy sex scenes.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Idle Castellan",
+    "appid": 5045180,
+    "price": 194,
+    "discount_percent": 35,
+    "url": "https://store.steampowered.com/app/5045180",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Climb from rookie knight to legend across four difficulties and an endless Nightmare mode. Build your own path through a massive skill tree, dispatch expeditions while you play, hunt gear up to infinite Godly rarity, and craft the exact bonuses you want. The climbing never really stops.",
+    "scout_score": 35,
+    "reasons": [
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Erotic Fantasy Camp",
+    "appid": 4758370,
+    "price": 539,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4758370",
+    "current_players": 4,
+    "total_reviews": 17,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Arrive at Fantasy Camp for fun and relaxation, only to uncover mysteries that awaken more than curiosity. Build intimate bonds with the camp counsellor and other members as desire, danger, and passion intertwine across every wild corner of nature.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Print I Love U",
+    "appid": 4796160,
+    "price": 149,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4796160",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Upon buying a used computer online, I found a short romance game called “Print I Love You”. I played it once, and it’s lingered ever since. I don’t know who made it - only that it was dedicated to someone. Maybe you…",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cat Rhapsody",
+    "appid": 4773980,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4773980",
+    "current_players": 1,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Cat Rhapsody&quot; is a fun and easy-to-learn platforming game. You'll play as an agile Lihua cat, exploring over a dozen carefully designed miniature sandbox maps within a limited time. Try to smash all the cups and finally escape the house!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Provinces",
+    "appid": 4032990,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4032990",
+    "current_players": 0,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A world-building sandbox where you create provinces, cultures, nations and characters to build your own custom worlds. Then influence the world you have just created by giving your characters ambitions make your own sandbox stories.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Chef's Dogma",
+    "appid": 4520010,
+    "price": 909,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4520010",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Chef’s Dogma is a Roguelite Turn-Based battler where you journey through the 7-layers of bean dip hell. Upgrade your team through Stats, Items, or ‘Entree’s creating even stronger foods. Experience a multitude of Play-styles, Enemies, and Locations to help the Chef ascend into purgatory…",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Legend of Fireball",
+    "appid": 4916220,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4916220",
+    "current_players": 33,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Aim, charge, and unleash powerful fireballs to smash through everything in your path. Upgrade your power, collect fireballs, costumes, relics, and pets, then destroy bigger targets to become a legendary fireball master.",
+    "scout_score": 25,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Settler's Domain",
+    "appid": 3396920,
+    "price": 999,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3396920",
+    "current_players": 76,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Settler's Domain is a strategy game about building a new settlement in unknown lands. Grow your population, explore the map, and contend with other settlements while keeping your settlers alive.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Amarta: Kingdom of Shadows",
+    "appid": 4526420,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4526420",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Amarta: Kingdom of Shadows is a Kingdom-like game based on the Indonesian Wayang story of Babad Wanamarta, where players build a new nation and kingdom from a forbidden forest. This harmonious kingdom is ruled by the wise leaders, the Pandawa Lima.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "1000 Princes: ChouChou Condo",
+    "appid": 4846800,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4846800",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is an AI-powered online otome game, You move into ChouChou Condo, where the entire building is filled with 1,000 princes who love only you! Unlock daily posts, mini-games, and light visual novel stories. Chat with the princes or post in the group to receive their sweet responses.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Glyphy - Achievement Guides and Tracker",
+    "appid": 5010480,
+    "price": 479,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5010480",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Glyphy is a desktop companion for achievement hunters. It knows which game you're playing and puts your next locked achievement on screen with a guide that tells you exactly what to do. Everything you used to alt-tab for now lives in a small window that stays out of your way.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Idle Dimension Breaker",
+    "appid": 4962240,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4962240",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Idle Dimension Breaker is an idle incremental game about building permanent power through repeated runs. Allocate echoes, rewind for lasting growth, unlock new systems, and push deeper into layered dimensions.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Four Lights",
+    "appid": 2708150,
+    "price": 3696,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2708150",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This story is of God and us and our grand revenge against Lucifer.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "DAWN ONE",
+    "appid": 2127340,
+    "price": 809,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2127340",
+    "current_players": 7,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "100% mouse-driven — Hot, fast and brutal hack and slash pure action gauntlet.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Turning Box",
+    "appid": 4938570,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4938570",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The goal of Turning Box is to control the walls, rotate the box, and achieve your highest score. Choose freely from 20 different game modes and challenge yourself to beat your best record.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Roll n' Bounce",
+    "appid": 4379400,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4379400",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Roll n' Bounce is a fun 2d, pixel art, side scrolling precision platformer game. If you are a casual player or an experienced precision platformer specialist, this game has everything for everyone. play levels and get rewards and unlocks, so get bouncing!",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Big Adventure",
+    "appid": 4996680,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4996680",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this pixel platformer, you can play through both the main storyline and an additional storyline, destroy enemies, interact with boxes (and TNT) and much more! You can even create your own levels and share them with other players!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Light of Achmore",
+    "appid": 4146460,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4146460",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Light of Achmore is an adventure game about sailing around and solving a mystery set in a small Scottish archipelago. Talk to the villagers and navigate through the stormy weather along the jagged coast with authentic sailing mechanics as you try to find your missing uncle.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "My Strict Senior Suddenly Started Acting Sweet!?",
+    "appid": 5039480,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5039480",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "My usually strict senior tempts me in provocative cosplay. What starts as a bit of fun soon turns into an unforgettable night. Strict and commanding, or sweet and seductive—enjoy both sides of her.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Enginehero",
+    "appid": 5060220,
+    "price": 899,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5060220",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight increasing waves of different robot enemies with your train full of heros! Choose a team of heros to throw weapons, dodge enemy bullets, and collect coins. Pick your path by jumping to different rails.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Blowing Off Steam",
+    "appid": 4388150,
+    "price": 500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4388150",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Harness the power of steam in this steampunk tower defense RTS. Build and expand your base with boilers, pumps, drills, and pipe networks to fuel powerful turrets. Manage resources, optimize your steam flow, and defend against relentless enemies—then carry your progress forward to conquer new areas.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hoop Empire",
+    "appid": 4866370,
+    "price": 659,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4866370",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Draft rookies, negotiate trades, manage your cap, and create your dream franchise in this deep basketball management sim. Choose your path as a coach or an owner of one of 30 teams and build a championship dynasty one decision at a time. Customize rosters or draft classes for a unique experience.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
