@@ -1,0 +1,598 @@
+[
+  {
+    "name": "Pavlov Shack",
+    "appid": 3504270,
+    "price": 200000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3504270",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pavlov Shack is the Steam Frame-exclusive standalone version of Pavlov! This VR multiplayer shooter places a heavy focus on community features and mods, with realistic reloading mechanics and fast-paced combat at the core of the experience.",
+    "scout_score": 75,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Multiplayer +20",
+      "2000円以下 +15"
+    ]
+  },
+  {
+    "name": "Galumb",
+    "appid": 4945850,
+    "price": 78700,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4945850",
+    "current_players": 426,
+    "total_reviews": 6,
+    "positive_rate": 66.67,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Punch, kick, push and race your way to the top in this chaotic multiplayer party game. Outsmart obstacles, team up when it helps, or betray your rivals. In Galumb, there are no rules.",
+    "scout_score": 69,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Brawlzerker",
+    "appid": 5018630,
+    "price": 39500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5018630",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Local 4-player couch co-op brawler. Fight through chaotic waves, drop in anytime, then gear up between rounds — gamble on gacha loot, grab new weapons, and build your stats before the next fight hits.",
+    "scout_score": 66,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Social Democracy: An Alternate History",
+    "appid": 3083910,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3083910",
+    "current_players": 23,
+    "total_reviews": 42,
+    "positive_rate": 97.62,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are the Social Democratic Party of Germany in 1928. Can you stop the Nazis from taking power?",
+    "scout_score": 65,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Skijoring",
+    "appid": 4023240,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4023240",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Crash into your friends in Skijoring, the unhinged sport of push and pull. Get wild airtime, screen-peek to survive, and embrace co-op chaos in the world's first, best, and only arcade skijorer.",
+    "scout_score": 63,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Forensh",
+    "appid": 4424650,
+    "price": 31600,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4424650",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Blast through a modern sci-fi world in this action-packed 2D platformer featuring roguelike mechanics. Jump, shoot, crush your foes, grab loot, level up your hero, chase those 100% achievements, and challenge yourself to take down the boss!",
+    "scout_score": 59,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Neko Rogue",
+    "appid": 4973340,
+    "price": 127500,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4973340",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cyberpunk roguelike deckbuilder set in a dystopian neon city. Build a deck, sabotage enemy Intent Cards, steal block and cut damage, then loot defeated foes’ cards for the next fight. Outplay unique enemy decks, climb hostile districts, and conquer the underworld—one hand at a time.",
+    "scout_score": 45,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: Roguelike +10",
+      "2000円以下 +15",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Claws Of Power",
+    "appid": 3998900,
+    "price": 72400,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3998900",
+    "current_players": 158,
+    "total_reviews": 74,
+    "positive_rate": 94.59,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Claws of Power is a cute, real-time card battle game. With a variety of unique and adorable cat cards, each one could be your key to victory. Strategize by building different decks and using items to overcome challenges and claim the throne as the ultimate cat leader.",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "ScagJPT",
+    "appid": 4721090,
+    "price": 65500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4721090",
+    "current_players": 341,
+    "total_reviews": 218,
+    "positive_rate": 98.62,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "ScagJPT is a useful and fun Desktop pet for all of your scagalicious needs. She will sit on your desktop for anytime you'd like to display a video/gif, use her pomodoro timer, or any time you'd like to launch her around your desktop!",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Realms Of Wands",
+    "appid": 4989300,
+    "price": 162000,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4989300",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore a dark fantasy world in Realms of Wands, an action RPG filled with epic boss battles, powerful magic, legendary loot, and dangerous dungeons. Level up, forge your destiny, and uncover the secrets of a fallen kingdom",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: RPG +10",
+      "2000円以下 +15"
+    ]
+  },
+  {
+    "name": "Mado Marks",
+    "appid": 4832290,
+    "price": 15900,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4832290",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Three students record themselves in a classroom room that shouldn’t exist... The next morning, one of them is gone forever... A short psychological horror VN about memory, proof, and erasure.",
+    "scout_score": 41,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Popping Bubbles in Space",
+    "appid": 4803440,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4803440",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pop bubbles to escape your fate in this psychological horror clicker incremental game experience.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "The Down Below",
+    "appid": 2947300,
+    "price": 12000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2947300",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight off mutant creatures and other horrors with your trusty lever action shotgun as you slowly unravel the story of what happened to the band of cowboy mercenaries that uncovered a sinister presence below the earth...",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "27-year-old Female Teacher – A Moment in Daily Life, Chapter 1",
+    "appid": 4243700,
+    "price": 118800,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4243700",
+    "current_players": 14,
+    "total_reviews": 16,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A female teacher who, because she didn't get to &quot;play&quot; with the principal, ends up masturbating late at night in the principal's office while watching old videos of herself.",
+    "scout_score": 35,
+    "reasons": [
+      "2000円以下 +15",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "SquareLife",
+    "appid": 4866310,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4866310",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build creatures from a handful of traits and set them loose. Watch them feed, breed, fight, mutate and evolve; simple circles becoming many-sided beasts over generations. Play a free sandbox or escalating campaign goals. Every run is a different living world.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "TOYS 18+",
+    "appid": 5017470,
+    "price": 31800,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5017470",
+    "current_players": 1,
+    "total_reviews": 13,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "TOYS 18+ - is a simple 2D game for adults in which you have to uncover hot images of beautiful ladies.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "System Grid Crusher ",
+    "appid": 4725140,
+    "price": 39500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4725140",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "System Grid Crusher is an isometric cyberpunk survival game set in a neon rift: the horde presses in, your weapon fires on its own, and you collect power-ups and build your loadout longer than anyone else. So, are we stacking single-target damage or going full AoE?",
+    "scout_score": 33,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Alice ou o Mundo?",
+    "appid": 5015660,
+    "price": 58900,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5015660",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fantasy turn-based RPG where a young mercenary embarks on a journey to save his sister, Alice. Explore diverse regions, battle corrupted creatures, recruit unique allies, complete side quests, and shape the fate of the world through your choices.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Ashfire Keep",
+    "appid": 5009540,
+    "price": 81400,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5009540",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Defend a besieged keep against ever-growing waves of enemies: fight in melee or at range, build towers and manage supplies, and grow stronger run after run in this action defense roguelite.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Touhou Desktop Pet",
+    "appid": 4653120,
+    "price": 12100,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4653120",
+    "current_players": 13,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Thiis is a desktop pet companion game. Maybe Touhou girls can let you feel less lonely.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Three Kingdoms: Shu-Han Chronicles",
+    "appid": 3669490,
+    "price": 136000,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3669490",
+    "current_players": 18,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a turn-based role-playing game that tells the story of Liu Bei from the Yellow Turban Rebellion to the unification of the world. Over 60+ unique famous generals can be collected, and dozens of classic books can be combined to build the strongest team in your heart",
+    "scout_score": 23,
+    "reasons": [
+      "2000円以下 +15",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Meet Sudoku",
+    "appid": 4932400,
+    "price": 76900,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4932400",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A professional Sudoku game featuring Classic, Killer, and 11 popular variants, including Thermo, Arrow, Kropki, XV, Jigsaw, Diagonal, Anti-Knight, and more. Learn with 63 solving techniques, enjoy daily challenges, smart notes, hints, statistics, and puzzles for every skill level.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Empire Eleven 2026",
+    "appid": 4502700,
+    "price": 120000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4502700",
+    "current_players": 9,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build your football empire. Scout talent, manage finances, develop tactics and lead your club from obscurity to glory in a deep football management simulation.",
+    "scout_score": 20,
+    "reasons": [
+      "2000円以下 +15",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Card Maker Simulator",
+    "appid": 4359910,
+    "price": 82800,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4359910",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Create unique cards, increase your cards’ power, form teams, face strategic battles, and build legendary bloodlines. In Card Maker Simulator, every card has a story, rivalries, marriages, pets, and glory. A card creation game where you create your own legends!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Chickzilla",
+    "appid": 4741750,
+    "price": 18300,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4741750",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Destroy, evolve, and grow until no skyscraper can stand in your way. How much of the city can you erase before the clock runs out?",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Covid-26",
+    "appid": 4825430,
+    "price": 39500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4825430",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Survive a new world reality where a deadly new mutation of COVID-19 has transformed humans into terrifying zombies. Driven by a desperate call for help, you must brave the infected world to find and save your best friend.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Desktop Pal",
+    "appid": 5007540,
+    "price": 43600,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5007540",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A desktop mascot you raise by chatting. Your egg hatches into one of 23 girls — level her up through conversation and fill the collection. Add to-dos and she reminds you on time; finishing them earns XP. Fully offline local AI. Japanese &amp; English.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "KurunMania: Spiral Drop",
+    "appid": 5002080,
+    "price": 33500,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5002080",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Launch balls and conquer 3, 6, 9, or 12 pachinko-inspired stages! Lost balls block holes in Normal Mode, but disappear in Reverse Mode. A challenging physics game made for streaming and commentary!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hentai Age Rustic",
+    "appid": 5016680,
+    "price": 10800,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5016680",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An enduring, stress-free jigsaw experience where you connect scattered pieces in a tranquil setting to uncover gorgeous art of lovely maidens. Ideal for decompressing and taking things easy on your own schedule.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hide and Squatch",
+    "appid": 3680940,
+    "price": 58000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3680940",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Classic Hide and Seek with a twist.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
