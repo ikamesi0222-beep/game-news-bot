@@ -1,0 +1,591 @@
+[
+  {
+    "name": "CRAWLER",
+    "appid": 3859880,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3859880",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Experience Crushing Co-op Carnage in CRAWLER: A VR Mech Horde Shooter. Blast through hordes of acid-spitting bugs as you earn cash and extract from randomly generated missions. Upgrade your mech’s arsenal back at base while scrambling to meet the needs of an ever-growing quota.",
+    "scout_score": 103,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Co-op +30",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "敵国工場への潜入",
+    "appid": 4929990,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4929990",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "このゲームは3D三人称視点シューティングゲーム（TPS）です。 操作方法はシンプルで、W・A・S・Dキーで移動、スペースキーでジャンプ、クリックで攻撃します。 シンプルな操作性とミニマップのおかげで手軽に遊べつつ、タイムアタック形式によって繰り返し楽しめるゲームを目指しました。",
+    "scout_score": 70,
+    "reasons": [
+      "最優先ジャンル: TPS +50",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Strait of Hormuz Mini Arcade",
+    "appid": 5010210,
+    "price": 79,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5010210",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Strait of Hormuz Mini Arcade is a retro-style 2D shooter where world economy is at risk! Shoot down attacking speedboats and missile launchers to protect vital shipping lanes. Forget high scores—your real objective is keeping global oil prices low to prevent total recession! Or switch sides...",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Down Below",
+    "appid": 2947300,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2947300",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight off mutant creatures and other horrors with your trusty lever action shotgun as you slowly unravel the story of what happened to the band of cowboy mercenaries that uncovered a sinister presence below the earth...",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Popping Bubbles in Space",
+    "appid": 4803440,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4803440",
+    "current_players": 2,
+    "total_reviews": 3,
+    "positive_rate": 33.33,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pop bubbles to escape your fate in this psychological horror clicker incremental game experience.",
+    "scout_score": 45,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Grim Reach Idle",
+    "appid": 4915450,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4915450",
+    "current_players": 35,
+    "total_reviews": 14,
+    "positive_rate": 71.43,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dark fantasy idle RPG where the world fights back. 28 named Elite Champions stalk the zones on their own timers, weekday Blessings reshape the Reach, and every rare drop rolls its own stats. Train 20 skills, progress offline, and become a hero the Reach will remember. No microtransactions.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Master Foot",
+    "appid": 4795830,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4795830",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Master Foot is a football management sim focused on club building and off‑pitch decisions, with all the drama and banter. Play Career Mode for planning and long‑term strategy, or Street Mode for controlled chaos and fast roguelike‑style runs.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Escape From Dungeon Keep",
+    "appid": 5050070,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5050070",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A classic text RPG: type commands to explore, fight turn-based battles, manage inventory, upgrade gear, and finish side quests. Chase multiple endings, New Game+ content, achievements, and moddable Workshop maps.",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Mado Marks",
+    "appid": 4832290,
+    "price": 239,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4832290",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Three students record themselves in a classroom room that shouldn’t exist... The next morning, one of them is gone forever... A short psychological horror VN about memory, proof, and erasure.",
+    "scout_score": 41,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Big Tiddy Goth Baddie🖤⛓️",
+    "appid": 4997080,
+    "price": 929,
+    "discount_percent": 38,
+    "url": "https://store.steampowered.com/app/4997080",
+    "current_players": 57,
+    "total_reviews": 66,
+    "positive_rate": 84.85,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "She's goth, she's hot, and she wants your attention. Click your way into her heart, buy upgrades, and unlock hotter and hotter scenes with every level. Keep clicking, keep earning, and find out what she's hiding under all that black.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Touhou Desktop Pet",
+    "appid": 4653120,
+    "price": 89,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4653120",
+    "current_players": 25,
+    "total_reviews": 13,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Thiis is a desktop pet companion game. Maybe Touhou girls can let you feel less lonely.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "27-year-old Female Teacher – A Moment in Daily Life, Chapter 1",
+    "appid": 4243700,
+    "price": 809,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4243700",
+    "current_players": 18,
+    "total_reviews": 22,
+    "positive_rate": 95.45,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A female teacher who, because she didn't get to &quot;play&quot; with the principal, ends up masturbating late at night in the principal's office while watching old videos of herself.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "GwenBlade Witcheresque",
+    "appid": 4354550,
+    "price": 300,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4354550",
+    "current_players": 0,
+    "total_reviews": 16,
+    "positive_rate": 93.75,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hack and slash your way through depression in lightning-paced Soulslike to find a way to finally move on from loss in real life",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Best Friends",
+    "appid": 3544480,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3544480",
+    "current_players": 10,
+    "total_reviews": 20,
+    "positive_rate": 75.0,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Trans positive adult only visual novel that follows two best friends as they begin life at university. Play as either friend and watch the deep story unfold.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Kritzel Krieg",
+    "appid": 4765200,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4765200",
+    "current_players": 8,
+    "total_reviews": 7,
+    "positive_rate": 85.71,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Kritzelkrieg is Age of War on squared notebook paper – except you draw your whole army yourself. Ink is power: more pixels = more HP and damage, but pricier. Build your base floor by floor, unlock new classes and send your doodle army marching. Versus a bot or online 1v1.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Long Drive Badland",
+    "appid": 4478680,
+    "price": 319,
+    "discount_percent": 80,
+    "url": "https://store.steampowered.com/app/4478680",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A very long road journey, using the resources at each rest stop to try and reach the destination.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Endless Descent",
+    "appid": 3395860,
+    "price": 1500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3395860",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Endless Descent is a high stakes roguelike where one life is all you get. Descend through endless, procedurally generated dungeons, wield medieval weapons, and seek powerful Soul Stones to enhance your abilities or weapons. Face relentless enemies and see how far you can go before it’s all lost.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Ashes of Kardoria",
+    "appid": 4315690,
+    "price": 2499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4315690",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dark choice-driven RPG where moral decisions shape your path. Face a brutal island torn by plague, hunger, and a growing orc threat. Pick a faction, hone your skills, battle unique bosses, and fight for a future worth its cost.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "K-jihacheol",
+    "appid": 5015810,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5015810",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A subway typing race powered by station knowledge. From Seoul Line 2 to Paris Métro — 94 lines, 2,361 stations across 19 countries. Type the next station to finish the run. All you need is route knowledge and typing speed.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Dirty Air",
+    "appid": 4895530,
+    "price": 419,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4895530",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dirty Air is an adult romance visual novel set in modern Formula 1. As Rory Holloway, founder and Team Principal of Kestrel Grand Prix, navigate three high-stakes romances against a backdrop of technical protests, sponsor pressure, and a crash that nearly killed your lead driver.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Casino Legends",
+    "appid": 4922330,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4922330",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Can you become the Legend of the Casino? Play across Texas Hold'em, Blackjack, Roulette, Slots, and Baccarat. Face 50 rivals who bluff, trap, and talk back. Buy once. Play offline. Verify outcomes. No chip packs or microtransactions.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Seleto's in Puzzle Land",
+    "appid": 4959140,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4959140",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 2D platformer puzzle adventure where you control Seleto and Ronister, two heroes exploring imaginary worlds, solving creative challenges, and combining their abilities to overcome obstacles. Help them defeat the evil Wizard Dimaz and save their world.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Trailkeeper",
+    "appid": 4699380,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4699380",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Trailkeeper is a hand-authored collection of four classic logic puzzles — Slitherlink, Masyu, Yajilin, and Hashi — set to the rhythm of a quiet woodland trail. Solve at your own pace, return for a new daily trail, and trace your way through every grid in the bank.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Oro Cade",
+    "appid": 4706280,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4706280",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Master ORO CADE, a relaxing 3D logic puzzler. Target color groups to clear the board, but don’t break the chain or blocks will reappear! Enjoy 70 handcrafted levels, 3 modes of difficulty, an atmospheric glow, and a dynamic soundtrack. A Premium Experience with no ads or microtransactions.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Deadline",
+    "appid": 4996950,
+    "price": 559,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4996950",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A precision puzzle-platformer where every move you make becomes permanent ink — solid walls your future self must route around. Plan each level like a single continuous pen stroke, dodge the Red Pen's corrections, and escape the page before you wall yourself in.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Puzzles Flowers",
+    "appid": 4961740,
+    "price": 59,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4961740",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Big Tiddy Goth Baddie🖤⛓️ - Wallpapers 18+",
+    "appid": 5076620,
+    "price": 224,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5076620",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This premium wallpaper pack for Big Tiddy Goth Baddie🖤⛓️ - Wallpapers 18+ features 8 high-quality images highlighting the game’s most dark, seductive, and eye-catching moments",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Desktop Pal",
+    "appid": 5007540,
+    "price": 280,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5007540",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A desktop mascot you raise by chatting. Your egg hatches into one of 23 girls — level her up through conversation and fill the collection. Add to-dos and she reminds you on time; finishing them earns XP. Fully offline local AI. Japanese &amp; English.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "KurunMania: Spiral Drop",
+    "appid": 5002080,
+    "price": 254,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5002080",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Launch balls and conquer 3, 6, 9, or 12 pachinko-inspired stages! Lost balls block holes in Normal Mode, but disappear in Reverse Mode. A challenging physics game made for streaming and commentary!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "StorySmith",
+    "appid": 4921700,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4921700",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A live collaborative story game for you and your Twitch chat. AI generates each scene on your machine — no internet required. Chat votes, you narrate, together you write the story.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
