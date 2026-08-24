@@ -1,0 +1,599 @@
+[
+  {
+    "name": "Backyard Paintball",
+    "appid": 3509670,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3509670",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Multiplayer FPS game with cross-play to mobile players.",
+    "scout_score": 90,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "次点ジャンル: Multiplayer +20",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Idle Demon Lord",
+    "appid": 4932620,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4932620",
+    "current_players": 218,
+    "total_reviews": 22,
+    "positive_rate": 72.73,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "【Idle Demon Lord】 is a dark idle loot game. Leave it running to farm endless drops — 6 rarities, gems, runes, relics, legendary affixes and sets. Craft hundreds of builds via skill trees. Online, offline and ascension loops. Codex, trials, pets, dailies. Pure number-go-up bliss",
+    "scout_score": 66,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Ironvale",
+    "appid": 4720080,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4720080",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "IRONVALE is a survival-crafting roguelike for 1–8 players. Gameplay is split into a day/night cycle, where crafting, resource gathering, and building primarily happen during the day -- but at night, swarms of enemies attack the player and they must fight to survive.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "成長/積み上げ要素: Crafting +15",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "AFTERLIGHT: The Apartment",
+    "appid": 4986740,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4986740",
+    "current_players": 5,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore an early-2000s Korean apartment complex in this short first-person psychological horror experience.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Ultrapool",
+    "appid": 4195110,
+    "price": 959,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4195110",
+    "current_players": 186,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The pool bar is always open! Ultrapool is a colorful roguelike about playing pool with a bunch of wacky balls with crazy effects. Carefully craft a perfect build and get the craziest trickshots!",
+    "scout_score": 49,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Last Fiefdom",
+    "appid": 4938410,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4938410",
+    "current_players": 47,
+    "total_reviews": 2,
+    "positive_rate": 0.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Last Fiefdom is a large-scale multiplayer online strategy game. Build your kingdom, raise dragons, train armies, develop new technologies, and forge alliances with players worldwide. Join real-time siege battles, conquer territory, and expand your influence through strategy and cooperation.",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Guardians Of Restoration",
+    "appid": 3092280,
+    "price": 719,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3092280",
+    "current_players": 2,
+    "total_reviews": 26,
+    "positive_rate": 92.31,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Create your own combat style and challenge 56 bosses in a fast-paced robot action roguelite. Upgrade your weapons and combine skills to complete powerful builds.",
+    "scout_score": 45,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "西西弗斯放置（Sisyphus Idle）",
+    "appid": 5048740,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5048740",
+    "current_players": 23,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a desktop incremental idle game about Sisyphus pushing a boulder. Sisyphus will embark on his fateful, never-ending journey of pushing the stone right on your desktop. Of course, you can also help him choose strategies to grow stronger and reach the peak of Olympus again, faster than before.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Travellin Cats in USA",
+    "appid": 3196850,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3196850",
+    "current_players": 20,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Find hundreds of cats hidden in multiple iconic cities of the United States of America in this cute hand-drawn hidden object game by Travellin Cats - the original viral hidden cat game creator!",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "スマートフォン",
+    "appid": 4937120,
+    "price": 254,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4937120",
+    "current_players": 22,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "見知らぬ密室で目を覚ました主人公。 頼れるものは、手元に残された一台のスマートフォンだけ。 通話、メッセージ、アプリなどに残された痕跡をたどりながら、脱出の手がかりを探していく。 しかし、情報を集めるほどに、 この事件の裏に隠された異様な真実が浮かび上がっていく。 スマートフォンを操作して進める、サイコロジカル・ホラーADV。",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Summer of Love ☮️",
+    "appid": 4764260,
+    "price": 497,
+    "discount_percent": 17,
+    "url": "https://store.steampowered.com/app/4764260",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hippy-chick True thinks any summer can be the ‘summer of love’ if you really try. If you’re open to new experiences, if you’re welcoming to strangers. If you let the road decide who you’re gonna meet – and fuck! When that van stops for her, she instantly trusts it, as well as the driver!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Visual Novel: Boomer on a Date",
+    "appid": 5053370,
+    "price": 69,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5053370",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A blind date with Anya, a woman with a nose for lies and an interrogation tougher than customs. Three questions at every turn, and one wrong word will send you home under the pitiful gaze of pigeons. Answer honestly—you won't fool her.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Brothers Karamazov",
+    "appid": 4955990,
+    "price": 764,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4955990",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Three brothers come back to the house of a father none of them loves: one for the money, one for the truth, one to save them all. Something terrible is about to happen here. Dostoevsky's whole novel, word for word.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Library on the Lake",
+    "appid": 4747380,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4747380",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Library on the Lake is a narrative multiverse where players take on the mantle of the Archivist. Undo a magical curse by traveling into different books to repair corrupted stories. Explore other worlds, meet a unique cast of characters, and play engaging mini games.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Digline",
+    "appid": 4607290,
+    "price": 699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4607290",
+    "current_players": 2,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Digline is a relaxing resource-gathering game where you play as a dwarf on a mission to restore a ruined settlement! Collect resources, manage your inventory, craft powerful tools, buy upgrades, and build structures to bring life back to the village!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Long Drive Badland",
+    "appid": 4478680,
+    "price": 319,
+    "discount_percent": 80,
+    "url": "https://store.steampowered.com/app/4478680",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A very long road journey, using the resources at each rest stop to try and reach the destination.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "OPEN FOR BUSINESS: Game & Movie Store Simulator",
+    "appid": 3919690,
+    "price": 389,
+    "discount_percent": 35,
+    "url": "https://store.steampowered.com/app/3919690",
+    "current_players": 1,
+    "total_reviews": 23,
+    "positive_rate": 78.26,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build your own game &amp; movie store — from retro VHS tapes to modern consoles. Fill your shelves with games, movies, and collectibles, attract customers, and grow your business into the ultimate entertainment shop — all while reliving the nostalgia of iconic eras.",
+    "scout_score": 30,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Shelve the Potions!",
+    "appid": 4928820,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4928820",
+    "current_players": 309,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Shelve the Potions! Organize 2000+ potions on shelves after the witch's cats have knocked them over, using clues around an enchanted cellar. Learn strange symbols, decipher cryptic notes, and uncover the correct shelf orders in a cozy organizational simple puzzle game.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Casino Legends",
+    "appid": 4922330,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4922330",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Can you become the Legend of the Casino? Play across Texas Hold'em, Blackjack, Roulette, Slots, and Baccarat. Face 50 rivals who bluff, trap, and talk back. Buy once. Play offline. Verify outcomes. No chip packs or microtransactions.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "莫待无花空折枝：做题家的 Git 重启日志",
+    "appid": 4972160,
+    "price": 207,
+    "discount_percent": 17,
+    "url": "https://store.steampowered.com/app/4972160",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "现实里没有 git checkout，错过的分支无法回滚。但在这里，你可以。 这是一个写给「做题家」的纯爱文字 AVG：习惯用理性防御情感的男主「陆渊」，在博士毕业那天喝下一杯名为「重构」的酒，重回 2019 年夏天。 五条互斥纯爱单线，10万+字剧情。在这个赛博时空里，去解开当年无解的谜题，跑通属于你的唯一分支。",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cow",
+    "appid": 4745980,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4745980",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The steaks have never been higher! Cow is the one and only fast-paced game about a cow riding a skateboard in a volcano above a pool of lava 🤘. Hop on your deck and milk each level, or become a well-done dinner.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Off Grid",
+    "appid": 4856170,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4856170",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Place special tiles and objects around an intricate maze to create the ultimate puzzle. Race with your friends to see who can get the fastest completion time.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Every Step Counts",
+    "appid": 4143750,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4143750",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Challenge your mind with a growing collection of math-based mini-games designed to test your logic, speed, and calculation skills. Every Step Counts combines brain training with satisfying gameplay loops. Track your progress, sharpen your mind, and master the numbers.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "OverlayGG: Game Guide Overlay",
+    "appid": 4747010,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4747010",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pull up step-by-step walkthroughs while you play. 100,000+ guides across more than 120 games, fully searchable, in a transparent overlay.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Puzzles Hamster",
+    "appid": 4961770,
+    "price": 59,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4961770",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Puzzles Colors",
+    "appid": 4961800,
+    "price": 119,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4961800",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Doggo on Strike",
+    "appid": 4989590,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4989590",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pick one of three rule-breaking dogs and turn staplers, coffee, keyboards, and resignation letters into 24 absurd auto-firing weapons. Fuse and evolve your build, shred task swarms and 12 bosses across six fast workplace stages, then clock out on time.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Truth Universally Acknowledged - Silver Heart",
+    "appid": 4951300,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4951300",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Truth Universally Acknowledged - Silver Heart is a CEO Romance dating sim with 3 routes. Every love interest is a CEO.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cybersquare Madness",
+    "appid": 4538030,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4538030",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Immerse in this cyberpunk fun strategic tower defence, with multitudes of strategic diversity, while encountering boss fight, and fighting for you glory to cubic perfection.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Breachline",
+    "appid": 4886460,
+    "price": 699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4886460",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hold the line in a neon sci-fi siege. Deploy and upgrade 14 distinct towers, expose every enemy's weakness, and survive 50 escalating waves and relentless boss assaults. Every threat has a counter — find it before your base falls.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
