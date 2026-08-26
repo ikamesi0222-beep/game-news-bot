@@ -1,0 +1,605 @@
+[
+  {
+    "name": "Pickle Pete",
+    "appid": 3963030,
+    "price": 495,
+    "discount_percent": 38,
+    "url": "https://store.steampowered.com/app/3963030",
+    "current_players": 207,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A roguelite bullet heaven where you dodge and auto-shoot through waves of enemies. Build devastating weapon, gear and mutation combinations with deep synergies. Face over 30 unique bosses across diverse biomes in this challenging arena shooter.",
+    "scout_score": 89,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Astral Archive",
+    "appid": 4636840,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4636840",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Astral Archive is a short, incremental idle + space shooter hybrid where you collect space artifacts to grow a powerful archive!",
+    "scout_score": 73,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "States of Power",
+    "appid": 3126500,
+    "price": 1019,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3126500",
+    "current_players": 257,
+    "total_reviews": 20,
+    "positive_rate": 90.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Command your nation's armies, economy, and diplomacy in this WWII Grand Strategy Wargame. Easy to start, hard to master and a full match fits in one session. Play singleplayer and multiplayer, or create, play and share your own custom scenarios with the built-in Scenario Editor.",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "BRICK - One Block at a Time",
+    "appid": 5042570,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5042570",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Start with a brick and build a life in a Newark-inspired urban survival sandbox. Scavenge the city and forest, unlock blueprints, build and raid bases, drive stolen cars, command recruits, outsmart rival clans and police, or survive with friends in co-op.",
+    "scout_score": 60,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Survival +15",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "b 2",
+    "appid": 1293650,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1293650",
+    "current_players": 0,
+    "total_reviews": 281,
+    "positive_rate": 90.75,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "b 2: online multiplayer an alien place you are the bee: fly where you like, play as you like",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "Gem Party",
+    "appid": 4459610,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4459610",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Match 3 or more gems to channel their power into your cute animal party. Defeat the endless bosses charging toward you.",
+    "scout_score": 50,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Nocto And The Ray Of Light",
+    "appid": 4440400,
+    "price": 839,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4440400",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Soar through magical realms in a colourful 3D platforming adventure inspired by classics. Play solo as Nocto or team up in local split-screen co-op as Nocto and Bea to explore, collect relics, battle enemies, and restore the lost light.",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "OUTERPLANE",
+    "appid": 4247320,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4247320",
+    "current_players": 33,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Isekai Adventure Meets Burst-Action Strategy RPG",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Fatal Claw",
+    "appid": 2827750,
+    "price": 1999,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2827750",
+    "current_players": 252,
+    "total_reviews": 173,
+    "positive_rate": 94.8,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dive into Fatal Claw, a Metroidvania game in vibrant 2D artwork. Explore the arcane underworld your way with Kisha. Your ultimate goal is to find the key to the surface world alongside other survivors, while vanquishing infected enemies and absorbing their power. Start your clawsome adventure now!",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Little Chef: Cozy Cooking",
+    "appid": 3376500,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3376500",
+    "current_players": 74,
+    "total_reviews": 214,
+    "positive_rate": 94.86,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Little Chef: Cozy Cooking is a short physics-based cooking game full of discovery and playful chaos. Experiment with everything in the kitchen and unlock over 300 recipes on your way to becoming a master chef!",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Express 404",
+    "appid": 4329710,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4329710",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Drive a storm-ridden night train, manage your speed and your passengers — one of them is a mimic. Build powerful upgrades between stations, reach dangerous quotas, expose the monster, or profit from chaos in this roguelite paranoia simulator.",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Shadow Dungeon",
+    "appid": 4423580,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4423580",
+    "current_players": 3836,
+    "total_reviews": 8,
+    "positive_rate": 87.5,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Nightmarish monsters crawl forth from the darkness, while the Demon Lord lurks beneath the abyss. Venture into the Shadow Dungeon, carve your way through blood and chaos, and forge your own legendary epic.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Goblins Can Conquer",
+    "appid": 4404110,
+    "price": 489,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4404110",
+    "current_players": 54,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A roguelike auto-battler where you conquer the map one tile at a time. Claim land, raise your village, and unleash spells while your goblins brawl it out. Win battles to earn new goblins and unlock powerups: strategic expansion, chaotic combat, one growing horde.",
+    "scout_score": 36,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Poncik's Little Tragedy",
+    "appid": 5070360,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5070360",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore an abandoned theater consumed by a mysterious fungal infestation. Use Poncik Bot to solve puzzles, restore power, and uncover the secrets hidden within. Something terrible happened here, and the truth is still waiting to be found.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "CapyCam",
+    "appid": 5066410,
+    "price": 119,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5066410",
+    "current_players": 1,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "There's no fuss here. There's only golden light, rustling grass, and dozens of friendly faces. Look for capybaras in the thicket, but remember the most important rule of photography: to capture the perfect shot, sometimes you just need to lower the camera.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "おかゆにゅ～～む！R ~Okayunyumu！R~",
+    "appid": 4580450,
+    "price": 2150,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4580450",
+    "current_players": 8,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The human-form face of an onigiri shop, Nekomata Okayu, invites you on a snowy adventure. &gt; Explore the wonders of winter Aomori together as you seek inspiration for new flavors and experience a thrilling, tender love story. A soul-warming tale of travel where joy and smiles await at every turn.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Everything Must Fall",
+    "appid": 623800,
+    "price": 374,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/623800",
+    "current_players": 0,
+    "total_reviews": 18,
+    "positive_rate": 88.89,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Everything Must Fall is an action-packed physics puzzle game in VR. You are an outcast among the tinies working your daily job as a demolitioner at Blow Big Stuff Up Ltd. Before you know it, your life is turned upside down. You must save your parents. A Journey of a lifetime begins.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "铜刀银剑",
+    "appid": 3315770,
+    "price": 759,
+    "discount_percent": 18,
+    "url": "https://store.steampowered.com/app/3315770",
+    "current_players": 142,
+    "total_reviews": 4,
+    "positive_rate": 25.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "During the Xining era of the Northern Song, a corrupt chancellor plunged the court into chaos, waged reckless wars, favored commoners over scholar-officials, and sought to redirect the Yellow River. Fearing ruin, the martial world chose four champions to slay him: Wang Anshi.",
+    "scout_score": 29,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Futa Succubus Slay!",
+    "appid": 4526440,
+    "price": 1299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4526440",
+    "current_players": 63,
+    "total_reviews": 2,
+    "positive_rate": 0.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Futanari succubi! Fuccubi? Succunari? It doesn't matter, they're here and they're horny! Engage in card battles to seduce your way up the tower of heaven itself. Leave your conquests forever altered in your wake! Enjoy the consequences of your actions in future runs!",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Truck Manager Australia",
+    "appid": 4299910,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4299910",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 0.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a car-transport company across Australia. Take freight jobs, plan tours, manage trucks, drivers and running costs, track profit and loss, and expand your fleet step by step with a clean desktop UI. Play offline.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Axis Football 2027",
+    "appid": 5026790,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5026790",
+    "current_players": 8,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Axis Football 2027 is a complete American Football Simulation featuring fluid gameplay, endless customization, and the industry's best franchise mode.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Makarov Physics Suite",
+    "appid": 4861360,
+    "price": 1999,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4861360",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Ninety interactive 3D physics experiments, from a pendulum on a bench to Maxwell's equations on a 1024x1024 grid. Nothing is animated: every frame is solved from the equations while you turn the knobs. Live charts, instruments and numbers you can check.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "TomoBuddy",
+    "appid": 4981910,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4981910",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy pixel pet that lives on your desktop. It vibes while you type, eats the words you write at mealtime, plays minigames, levels up, evolves, and collects little treasures. Feed it, clean it, love it, or neglect it and face the wrath of your pixelated digital dependent.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "SHIROKUMA KING",
+    "appid": 5073250,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5073250",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Give it a weapon. Protect it with a shield. Then just watch. This is an asynchronous online physics battle game where you freely place swords, guns, shields, shoes, etc. around your polar bear and battle polar bears created by other players.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Quickie Takeout",
+    "appid": 4928510,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4928510",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Adult-Only Visual Novel about fast-food shenanigans with your three quirky coworkers. Get into questionable scenarios in this light-hearted, slice-of-life NSFW comedy.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "KESU-JI",
+    "appid": 4607780,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4607780",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "KESU-JI is a game featuring 6 modes centered around various &quot;merge&quot; mechanics. (Puzzle Mode、Action Mode 、Shooting Mode) You can aim for high scores on the online leaderboards in each mode and earn rewards. Enjoy a satisfying merging experience set in a chill, relaxing atmosphere!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Art of Breathing",
+    "appid": 4981260,
+    "price": 559,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4981260",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A wellness utility application for everyday breathing. Practice guided breathing patterns, create your own, track your progress, and breathe anywhere with the always-on-top mini-window while you work, study, or multitask.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "A Game About Shooting Ducks",
+    "appid": 4858190,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4858190",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this incremental game, you shoot ducks with insane abilities and earn money. Use your earnings to buy dogs and traps and hire hunters to help you hunt even more ducks. Progress through levels, battle powerful bosses, and work toward making the entire duck population extinct!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The 1% Club World Challenge",
+    "appid": 4461210,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4461210",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Do you have what it takes to answer a question only 1% of people get right? Test your brainpower and compete against players worldwide in The 1% Club World Challenge, the official game based on the hit TV gameshow!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "City 33",
+    "appid": 5071070,
+    "price": 1599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5071070",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Massive zombie hordes, ruthless rivals, brutal conditions, hunger, and thirst—they all await you in the cursed city known as City 33. Join this adventure on massive 80-player servers; gather your friends and ready your weapons.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
