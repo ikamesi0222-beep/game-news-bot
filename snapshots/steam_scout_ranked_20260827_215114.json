@@ -1,0 +1,597 @@
+[
+  {
+    "name": "MetaHustle One",
+    "appid": 4556780,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4556780",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "MetaHustle One is a fast-paced, frantic FPS with horror elements. Fight through hordes of wicked horned foxes and other corrupted familiars of the «Great Meta-Druid» to escape a glitchy simulation before it turns into a surreal nightmare.",
+    "scout_score": 90,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "MegaBattle",
+    "appid": 1602030,
+    "price": 1119,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/1602030",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "MegaBattle is a sci-fi ROGUELIKE DECKBUILDER and CARD BATTLER where you build, upgrade, and battle robots! Create the best deck, refine your strategy, and push through waves of enemies in tactical arena battles.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cyber Breaker",
+    "appid": 3933080,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3933080",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to the 'Breaker System'. Fight back against the system through a game of cards and free humanity from its systematic embrace as a BREAKER. Combine the use of skill cards and powerful artefacts alongside tactical thinking to best the system and break through the advancing array of robots.",
+    "scout_score": 48,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Resonance: A Plague Tale Legacy",
+    "appid": 2713000,
+    "price": 4999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2713000",
+    "current_players": 3152,
+    "total_reviews": 190,
+    "positive_rate": 94.74,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Embark on an original story, prequel to the award-winning games: A Plague Tale. As Sophia, journey to the Minotaur’s Island, outsmart deadly foes, unravel ancient secrets, and confront a mythical creature at the heart of a devastating curse.",
+    "scout_score": 46,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Gawr Gura: Quest for Bread",
+    "appid": 2054520,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2054520",
+    "current_players": 117,
+    "total_reviews": 24,
+    "positive_rate": 95.83,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Embark on a journey to reunite with your bread in this bite-sized 3D action-platformer featuring everyone's favorite shark!",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Race Jam",
+    "appid": 3474450,
+    "price": 1599,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3474450",
+    "current_players": 7,
+    "total_reviews": 53,
+    "positive_rate": 98.11,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Experience the thrill of the 1990s with Race Jam - an action packed arcade-style racing game! Featuring retro-inspired tracks, high speed gameplay and an authentic throwback vibe. Race Jam: Exhilarating 90's Arcade Racing like you remember, But BETTER",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Just Keep Fishing",
+    "appid": 4601160,
+    "price": 489,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4601160",
+    "current_players": 55,
+    "total_reviews": 12,
+    "positive_rate": 83.33,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A short incremental game about catching a lot of fish🎣",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Package Piles: Tidy Up The Warehouse!",
+    "appid": 5050640,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5050640",
+    "current_players": 4,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Package Piles: Tidy Up The Warehouse! is a relaxing placement simulation where you organize a huge warehouse full of boxes. Stack packages on pallets, use transport vehicles to place them on shelves, and enjoy turning a messy space into a perfectly organized warehouse step by step.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Black Tower Enigma",
+    "appid": 3895720,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3895720",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Puzzle-Solving Game Boy Adventure about an Orc inside a Mysterious Tower looking for his Wife",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Chained Parkour Together",
+    "appid": 5068360,
+    "price": 49,
+    "discount_percent": 51,
+    "url": "https://store.steampowered.com/app/5068360",
+    "current_players": 2,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A mysterious thief has stolen your beloved chicken! Team up with up to 4 players, stay chained together, conquer challenging parkour obstacles, and work as one to rescue your feathered friend.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Gal Big Sister Z",
+    "appid": 4886510,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4886510",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Tune the two older women he lives with as humiliation gives way to a sweet, dangerous reversal.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cozy Home Cleanup",
+    "appid": 4483380,
+    "price": 349,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4483380",
+    "current_players": 0,
+    "total_reviews": 11,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Clean floors, fix crooked decorations, organize clutter, and transform messy rooms into warm, peaceful homes. Relax and enjoy a satisfying cozy cleanup experience.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Glow Box",
+    "appid": 4696490,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4696490",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 60-minute adventure where all you do is glow.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Sims™ 4 Mean Girls Capsule Kit",
+    "appid": 4766040,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4766040",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You’ll look like teen royalty with these styles from The Sims™ 4 Mean Girls Capsule Kit*. Mix and match Y2K styles, get out your Burn Book, and don’t forget that on Wednesdays we wear pink.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "The Sims™ 4 Clueless Capsule Kit",
+    "appid": 4766050,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4766050",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Ensemble-y challenged? Ugh, as if! The Sims™ 4 Clueless Capsule Kit has fashion fit for the most popular Sims.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Mining and Dwarves",
+    "appid": 3987230,
+    "price": 489,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3987230",
+    "current_players": 225,
+    "total_reviews": 22,
+    "positive_rate": 68.18,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "An incremental game where you mine rocks, gather ore, and recruit dwarves. Play actively for maximum gains, or idle and let the dwarves do the work.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Scott Pilgrim EX - Back in the Band",
+    "appid": 4861470,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4861470",
+    "current_players": 0,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Stephen Stills, Kim Pine, and Knives Chau warp into the fight, completing the full band lineup in Scott Pilgrim EX. It's time for a reunion... and a few more greatest hits.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "The Blood Mage 2 by Daniel da Silva",
+    "appid": 4644100,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4644100",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Use your own blood as mana to master the dungeon. The Blood Mage 2 is a turn-based Puzzle/Dungeon Crawler RPG hybrid. Fight against different creatures and explore the environments to reach your goal!",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Orb Breaker",
+    "appid": 4261030,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4261030",
+    "current_players": 62,
+    "total_reviews": 13,
+    "positive_rate": 38.46,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "A minimalist Bullet Hell. Shoot bouncing orbs at enemies, buy upgrades, and embrace the chaos!",
+    "scout_score": 28,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Massage With Benefits",
+    "appid": 4451400,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4451400",
+    "current_players": 98,
+    "total_reviews": 9,
+    "positive_rate": 66.67,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Step into the role of an exclusive private massage therapist operating right from your own home. When a stunning &quot;Young Wife&quot; arrives seeking relief from her daily aches, it’s your job to provide a touch she’ll never forget. Transition from soothing her muscles to make her yours!",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Cold War Battles",
+    "appid": 4443780,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4443780",
+    "current_players": 6,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lead Cold War formations in quick, turn based, hex‑and‑counter battles spanning 5 decades of real and hypothetical conflicts. With over 400 units, more than a dozen factions and varied theatres - from Africa to the Golan Heights, Europe and more, Cold War Battles await.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "STAR WARS Zero Company™ Deluxe Edition Upgrade",
+    "appid": 3701350,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3701350",
+    "current_players": 0,
+    "total_reviews": 16,
+    "positive_rate": 31.25,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "Unlock unique cosmetic items inspired by the Clone Wars™ era with this upgrade to the Deluxe Edition of STAR WARS Zero Company™.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Cryptogram",
+    "appid": 5001520,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5001520",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "More than one mind can crack it. Solve cipher puzzles solo or team up in real time, race the clock in ranked play, and climb the leaderboard — free, from top to bottom.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "123 Slaughter Me Street Retro",
+    "appid": 4365720,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4365720",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Out of the SMS world, and based on our original 2015 PC game, 123 Slaughter Me Street, 123 Slaughter Me Street Retro brings the original 3D experience of SMS to a 2D side scrolling battle of wits, with adorable pixel art!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "U TSU TSU TSU",
+    "appid": 4423590,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4423590",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Roam a quiet late-night city in this chill point-and-click adventure. Click anything that catches your eye, check your phone, and reply to viewer comments only if you feel like it. Take your time and enjoy a slow, unhurried night—free from anyone’s expectations.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Project II: Silent Valley",
+    "appid": 3287360,
+    "price": 510,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3287360",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Project II: Silent Valley is a linear, semi-open world dystopian visual novel with card combat and explore. Play as US Navy Officer Hierophan, joining the docile humanoid weapon Osprey to uncover a conspiracy at the underwater base &quot;Silent Valley&quot; and the hidden truths of his missing friend, Ochira.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Midnight Paradise - Elite Supporter Pack",
+    "appid": 4511450,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4511450",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A Supporter DLC Pack of Spicy Scenes for Midnight Paradise - Contains 26 bonus scenes known as Elite Scenes!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Resonance: A Plague Tale Legacy - Heritage Pack",
+    "appid": 3837640,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3837640",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Unlock the Heritage Pack and add the Minoan Sword, the Alec’s Pendant to your collection and an exclusive digital Artbook!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "CURRENTBOUND:Rescue Run",
+    "appid": 5053120,
+    "price": 299,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5053120",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pilot a rescue boat through dangerous rivers, save stranded people, dodge hazards, and manage fuel in a top-down 2D arcade challenge. Chase high scores across five courses or build your own with the Course Editor.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "ぼくたちの残響",
+    "appid": 5039820,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5039820",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "君は未来をどう思う？ 希望に満ちた可能性？ それとも憂鬱な予定？ この世界は「未来」が少しだけ壊れている。1999年、朱く染まる空の下、記憶を失った主人公は終末の真実を追う。短編サイコロジカル・ビジュアルノベル。",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
