@@ -1,0 +1,601 @@
+[
+  {
+    "name": "Carnage Mania",
+    "appid": 5071800,
+    "price": 17200,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5071800",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Carnage Mania is a fast-paced co-op shooter where comedy, horror, and the spirit of early 2000's flash games come together... with a lot of chaos.",
+    "scout_score": 100,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Mags and Body Bags",
+    "appid": 3735690,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3735690",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Squad up, gear up, and blow up the scoreboard. Mags and Body Bags delivers a free-to-play, multi-mode FPS with deep customization and zero pay-to-win, for players on mouse and keyboard or controller.",
+    "scout_score": 72,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Eat the Rich: Greed Games",
+    "appid": 2234140,
+    "price": 16800,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2234140",
+    "current_players": 1,
+    "total_reviews": 42,
+    "positive_rate": 97.62,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Social deduction online party game for 6–10 players. Compete as billionaires in a deadly game show. Forge alliances, stage betrayals, and vote out the competition across rounds of fun minigames. Only one billionaire survives.",
+    "scout_score": 60,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Wrathflame",
+    "appid": 4836470,
+    "price": 9700,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4836470",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dark fantasy themed 2D top down real-time bullet hell shooter featuring retro Pico8 pixel graphics and chiptunes",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Solipsistic",
+    "appid": 4819820,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4819820",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Solipsistic is a free psychological horror game. Manipulate the game's files. The game knows you're there. The people inside it know it too.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Big Ambitions",
+    "appid": 1331550,
+    "price": 42900,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/1331550",
+    "current_players": 4507,
+    "total_reviews": 13532,
+    "positive_rate": 92.61,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Big Ambitions is a revolutionary role-playing business sim. Go from nothing to the biggest entrepreneur in New York by opening small businesses or slowly building huge corporations any way you like.",
+    "scout_score": 46,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Kingdom Cumquest",
+    "appid": 4694960,
+    "price": 21200,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4694960",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this Visual Novel embark on a bust-a-nut tour through your “ever after life” in another world. With a party of premium playmates to fill out your roster, you’ll have plenty of up’s and down’s- a bump in the knight (or two) and a jizzin’ journey through the vast fantasy land.",
+    "scout_score": 45,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "RunOut - Hothead Paws",
+    "appid": 2438120,
+    "price": 13000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2438120",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "‘RunOut’ is an online party platformer game for 2 to 6 players! Pick a cute animal character, race through unpredictable obstacle courses, collect coins, and be the first to grab the stuffed bear. Prepare for a fun, fast-paced mix of running, fighting, and partying!",
+    "scout_score": 43,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Medieval Decklords",
+    "appid": 4274210,
+    "price": 7300,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4274210",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Medieval Decklords is a medieval-themed roguelike card game with a three card poker system. Outsmart opponents in duels, and upgrade your deck. Rise through the ranks to become the ultimate Decklord.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Happy Endings",
+    "appid": 4689440,
+    "price": 14400,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4689440",
+    "current_players": 155,
+    "total_reviews": 326,
+    "positive_rate": 87.12,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run an adult pixel-art massage parlor in a fast-paced incremental clicker. Hire hostesses, play pressure-point mini-games, unlock 40+ explicit scenes, automate your parlor, upgrade rooms, and manage heat and raids to build the city’s hottest parlor.",
+    "scout_score": 42,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Divinum",
+    "appid": 1148130,
+    "price": 26900,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/1148130",
+    "current_players": 235,
+    "total_reviews": 17,
+    "positive_rate": 94.12,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Divinum is an action-adventure that blends stylish, expressive combat with rewarding exploration. Master devastating combos and craft unique builds to repel mysterious invaders and uncover your island's hidden truth.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Slick As The Devil",
+    "appid": 4431580,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4431580",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An experimental psychological-horror tabletop game based on 3-Cup Shuffle. Keep your eye on the ball, buy special items between rounds, and see if you can beat the devil himself at the ultimate conman game.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Warscape Alpha",
+    "appid": 4771870,
+    "price": 7600,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4771870",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pilot your Hovertank through 60 levels of old school arcade style action in both single and multiplayer modes. Collect new weapons and bonuses during battle to defeat, outrun and confuse your enemy.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Meow Box City",
+    "appid": 4000850,
+    "price": 11900,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4000850",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cute cats, chaotic moves, big plans. Meow Box City is a multiplayer, strategy board game about building influence before local elections. Collect cards, place buildings, balance satisfaction, population, income, and sabotage rivals to win at the ballot box.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "House 2",
+    "appid": 2586440,
+    "price": 37300,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2586440",
+    "current_players": 59,
+    "total_reviews": 8,
+    "positive_rate": 100.0,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "As a terrible storm rages on, a young girl tries to survive in a HOUSE hell-bent on killing her and her family...",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "HOT FOOTS",
+    "appid": 5017460,
+    "price": 6000,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5017460",
+    "current_players": 3,
+    "total_reviews": 8,
+    "positive_rate": 100.0,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "HOT FOOTS - is a simple 2D game for adults in which you have to uncover hot images of beautiful ladies.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Nekopedia: Find Her Tail",
+    "appid": 3905730,
+    "price": 5900,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3905730",
+    "current_players": 8,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Join the neko girls on a journey to find cats hidden in cozy and colorful locations. Read the Nekopedia, talk to them, and learn more about the neko girls and their breeds, and maybe discover more than you expected. Each girl has her own unique charm and personal story.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Minesweeper 3D",
+    "appid": 5050720,
+    "price": 57300,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5050720",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Classic Minesweeper across four true 3D fields: a cube, cylinder, hexagonal prism, and tetrahedron.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Reborn Arena",
+    "appid": 4621340,
+    "price": 11700,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4621340",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Reborn Arena is a fast 2D pixel-art wizard duel for 1v1 and 2v2. Win the round and you rewrite the rules for everyone next round. Lose it and you get permanently stronger. Draft elemental cards, stack a build no two matches repeat, and find out who's really winning by the final point.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Ventreville: A Cure for Sorrow",
+    "appid": 2992580,
+    "price": 23000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2992580",
+    "current_players": 5,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Interrogate your own player characters in this six-chapter murder mystery! Your decisions determine how many clues are uncovered for the final player character, the detective. Explore each stage of grief: Chapter 1 stars Orven as he navigates the shocking deaths of his dream and his hero.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "My Nun Waifu: Hentai Puzzle",
+    "appid": 5041800,
+    "price": 8300,
+    "discount_percent": 17,
+    "url": "https://store.steampowered.com/app/5041800",
+    "current_players": 2,
+    "total_reviews": 9,
+    "positive_rate": 100.0,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "My Nun Waifu: Hentai Puzzle is a relaxing adult puzzle game starring a seductive red-haired nun. Complete 100 image-based levels, unlock new gallery pictures and adult rewards, use hints when needed, and earn Steam achievements as the difficulty gradually increases.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "20 Trials to Heaven",
+    "appid": 5050280,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5050280",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In Purgatory, death is not defeat, but surrender is final. A lost soul must face twenty trials with one life and no checkpoints. Will your soul endure the journey, or fade into darkness?",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Too Many Toys!",
+    "appid": 5028390,
+    "price": 13100,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5028390",
+    "current_players": 31,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Too Many Toys! is a cozy organizing simulator where you'll sort 5,517 toys in a messy toy shop. Put every toy back in its correct place, complete rows to gain points, and spend them on upgrades that make organizing faster and more satisfying!",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Nowhere Road",
+    "appid": 4279570,
+    "price": 11900,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4279570",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Nowhere Road is a winter-themed driving and taxi game set in a post-war city. Drive through quiet nights, deliver passengers, and experience a calm, atmospheric world focused on immersion and slow-paced driving rather than speed or competition.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "RUVN Contest Reboot",
+    "appid": 2718160,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2718160",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Visual Novel experience based on imageboard creepypasta",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Bits Of Love: An Otome Game",
+    "appid": 3380380,
+    "price": 20700,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3380380",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "After getting a new job, the hopeless romantic you has to work amongst 4 handsome men!? Will you be able to brew the perfect blend of a love story?",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Puzzles Magic",
+    "appid": 5007830,
+    "price": 1600,
+    "discount_percent": 41,
+    "url": "https://store.steampowered.com/app/5007830",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Daily War Online",
+    "appid": 4875450,
+    "price": 9700,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4875450",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Daily War — Build an island fortress tile by tile, design its defenses, and declare war on ELO-matched rivals. Drop a battle card to bend the rules, then watch the clash unfold. No twitch reflexes — just sharp building and smart timing. One war a day. Make it count.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Crude Hearts",
+    "appid": 4741860,
+    "price": 10200,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4741860",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Crude Hearts is an adult romance visual novel set inside a Geneva commodity trading house. Play as Sutton Locke, Co-Head of crude oil trading, navigating an OFAC deadline while three women challenge everything you thought was off the record.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Swimmer Admiration 2",
+    "appid": 4199470,
+    "price": 37300,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4199470",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as Aiden in a choice-driven visual novel of revenge and forbidden desire. Explore dark family secrets, make fate-changing decisions, manage shifting relationships, and unlock explicit scenes as the story escalates.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
