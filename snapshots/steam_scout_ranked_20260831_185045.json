@@ -1,0 +1,601 @@
+[
+  {
+    "name": "Serious Sam: Shatterverse",
+    "appid": 2067210,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2067210",
+    "current_players": 1289,
+    "total_reviews": 76,
+    "positive_rate": 38.16,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "Serious Sam: Shatterverse is a co-op roguelite FPS for 1 - 5 players. Blast through shifting universes, stack wild boons, bend the rules with run modifiers, and hunt Mental's deadliest forces. Fall fast. Come back louder.",
+    "scout_score": 126,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "次点ジャンル: Co-op +30",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "The Adventurers",
+    "appid": 3062500,
+    "price": 1299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3062500",
+    "current_players": 103,
+    "total_reviews": 107,
+    "positive_rate": 86.92,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Adventurers is a turn-based tactical RPG where every decision shapes your legacy. Lead your party of heroes in an open world filled with random events that affect your story. Survive a high fantasy landscape where your epic saga is waiting to be written.",
+    "scout_score": 107,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Grave New World",
+    "appid": 5041740,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5041740",
+    "current_players": 8,
+    "total_reviews": 9,
+    "positive_rate": 88.89,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A tactical Tetris roguelike set in a dark Lovecraftian world. Build a powerful deck of shape cards, outsmart the undead, and master fast-paced runs where every piece can change the battlefield.",
+    "scout_score": 71,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sucker for Love: Crush Landing",
+    "appid": 3848900,
+    "price": 1169,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3848900",
+    "current_players": 249,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Put the ‘love’ in 'Lovecraftian horror!' When a captivating comet named Hheily crashes into your apartment, you are drawn into an interplanetary conflict between light and dark. Feed Hheily's fire to save the world in this horror-comedy visual novel… and maybe even win a smooch!",
+    "scout_score": 59,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Just a job",
+    "appid": 4072180,
+    "price": 383,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4072180",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Retro strategic top-down shooter where you combine arcade firepower and risk-taking to upgrade your weapons and survive in challenging arenas.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "POTENTIAL MAN",
+    "appid": 4629600,
+    "price": 299,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4629600",
+    "current_players": 52,
+    "total_reviews": 13,
+    "positive_rate": 92.31,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "POTENTIAL MAN is a role-playing experience where you must navigate the whims and woes of a humble seed. This wacky story features fully hand-drawn visuals, zany characters, and a classic JRPG-styled soundtrack to boot. Are you ready to achieve your true potential?",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Isle of Flesh",
+    "appid": 3107490,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3107490",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Short retro horror game inspired by H. P. Lovecraft’s “Dagon.” Focused on atmosphere and story.",
+    "scout_score": 42,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Fantasy Miner: Idle Depths",
+    "appid": 4428430,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4428430",
+    "current_players": 172,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dig for ore, discover new resources, smelt ingots, and unlock hundreds of upgrades in this fantasy mining idle game. Mine faster, dig deeper, and watch your progress grow.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "[Bober Bros] Last Pill Bar",
+    "appid": 4603670,
+    "price": 509,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4603670",
+    "current_players": 23,
+    "total_reviews": 18,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A virus is spreading. You can't afford to pickle everyone. Keep the bar open and decide who gets pickled before the outbreak decides who dies.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Pretend Cars Racing 2",
+    "appid": 2942330,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2942330",
+    "current_players": 6,
+    "total_reviews": 34,
+    "positive_rate": 94.12,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Experience fast-paced top-down retro racing: build your own tracks, climb global leaderboards, challenge friends in split-screen, and race through dynamic day-to-night transitions in multi-category events.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Tails & Trails",
+    "appid": 3882990,
+    "price": 272,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3882990",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore cozy 3D worlds, follow the trails, solve playful puzzles, and photograph every hidden cat you can find.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Fantasy Waifu Collector",
+    "appid": 3157010,
+    "price": 1199,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3157010",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fantasy Waifu Collector is an exciting game about collecting &quot;Waifu&quot; in order to build an army to build a town and restore the world from decay! Players will recruit many different characters as they explore a fascinating world filled with monsters. Defeat the Demon King to win, right?",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Housekeeper: Anomaly",
+    "appid": 3818750,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3818750",
+    "current_players": 6,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Scavenge abandoned apartments, cut on broken glass, fight anomalies, trade with the merchants, deceive them into buying bad products and most importantly - try to stay alive and care about yourself!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Super Night Riders S1",
+    "appid": 1836660,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/1836660",
+    "current_players": 0,
+    "total_reviews": 20,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Super Night Riders S1 is a modern checkpoint arcade racer inspired by '80s classics. Race as Alice, the Red Rider, across 12 stages from day to sunrise. Dodge rivals and beat the clock - distance matters more than position.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "JunkTok: Paranormal Investigators Challenge",
+    "appid": 2276810,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2276810",
+    "current_players": 10,
+    "total_reviews": 4,
+    "positive_rate": 75.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A challenge for one to three participants. Survive five nights, craft your build, and scan Creatures with EyeAI. Reach #1 to claim €100,000 and become a JunkTok legend!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Words Of Power",
+    "appid": 4986860,
+    "price": 1275,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4986860",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Words Of Power is a fill-in-the-blank roguelike deckbuilder. Travel deep into the dungeon and fight using the power of words. Construct sentences of devastating power and rewrite your foes. Demo live. Targeting the end of August.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "XR22-SEAGUARD",
+    "appid": 2435010,
+    "price": 2499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2435010",
+    "current_players": 0,
+    "total_reviews": 6,
+    "positive_rate": 66.67,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "XR22-SEAGUARD is a PC and VR game that reimagines the classic grid-based game of Battleship. This immersive PC and VR game puts you in the heart of a dynamic 3D industrial environment, where you'll strategically place and sink ships using state-of-the-art weapons and defenses.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "AIvy",
+    "appid": 4753040,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4753040",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "AIvy is a desktop mascot — a 3D character that talks to you naturally, powered by AI. Load your favorite VRM model, and watch it watch over your work, chime in softly, and feel like it's really there. Conversation and voice run entirely on your PC, no account needed.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Cloud Runner",
+    "appid": 4748190,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4748190",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cloud Runner is a casual First Person 3D platformer that tests your skills with relaxing fun levels and arenas. Collect coins to boost your speed and multiply your combo.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "雨梦江湖",
+    "appid": 4891130,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4891130",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "一个安静的夜晚，窗外飘来阵阵雨声，你在电脑前玩着你最喜欢的游戏，不知过了多久你有点困了便趴着睡着了，梦里你来到一个既熟悉又陌生的地方，一个江湖的故事就此拉开序幕...",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "PC Electro Onna-chan Checker",
+    "appid": 5047730,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5047730",
+    "current_players": 8,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Electro Onna-chan loves high voltage! Put your PC to full use and make Electro Onna-chan happy! Recommended as a desktop mascot to keep you company while gaming or working!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hidden Memories",
+    "appid": 4883210,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4883210",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lucian wakes up trapped with no memory of how he got there. Explore fragments of the previous night, solve dark puzzles, uncover hidden clues, and discover the terrifying truth buried within his forgotten memories.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Beyond the Room",
+    "appid": 4883200,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4883200",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Enter an abandoned building haunted by rituals, witchcraft, and a dark past. Follow the signals from the fifth floor, solve eerie puzzles, rescue a trapped soul, and uncover the truth behind the spirits beyond the room",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Vibe City Islands Architect",
+    "appid": 3589770,
+    "price": 69,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3589770",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The mayor has given you a budget; people need housing, jobs, parks. The city needs a tourism boost, now! It's actually a chill game.. 10 gangs, each with their own radio station. Build for the city, or for your favourite gang.......... You are the architect.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "CircleBrawl",
+    "appid": 5008240,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5008240",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A battle game blending strategy, idle play, and management. Become the &quot;Orb Lord&quot;—earn through work, risk, and investment, unlock powerful orbs, then watch them fight automatically and reap the rewards.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Tabletop Galaxy",
+    "appid": 5047680,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5047680",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "10 turn-based board and card games. Play, share, host, or spectate! A lobby system designed for whichever! Tweak the difficulty to play at your desired level.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Road to the Grand Master",
+    "appid": 4743900,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4743900",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 3D fighting action game where character can grow both in stats and skills collection to worthy title of the Grand Master. Skills are inspired by different martial arts, and can be combined into chain of attacks while character can still be able to fall back on defense.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Unlimited Accoount",
+    "appid": 4934770,
+    "price": 400,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4934770",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Unlimited Account &quot;is a unique AFK health game where you are a lucky person who unexpectedly gains unlimited wealth due to an accident. What you need to do is to enjoy your life, eat, sleep, take a shower, and do everything that can help you relax.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Flashpaper",
+    "appid": 4973230,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4973230",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are the unseen hand — the resistance's digital arm inside a regime that has begun burning books. Crack the Concord's networks from a green-phosphor terminal, cover every log you touch before the trace fills, and get paid off-grid. 24 missions. Three you are not meant to win.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "8BIT HUNTER",
+    "appid": 4811030,
+    "price": 527,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4811030",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Protect villages as an 8-Bit Hunter in this nostalgic top-down retro game! Defeat monsters, robbers, and bandits. Earn money for weapons &amp; upgrades by completing quests.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
