@@ -1,0 +1,596 @@
+[
+  {
+    "name": "PartyScape Chronicles",
+    "appid": 5043260,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5043260",
+    "current_players": 25,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Free idle Multiplayer RPG. Train 20 skills, fight bosses, trade in a living player world.",
+    "scout_score": 88,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Masters of Mayhem",
+    "appid": 1496970,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1496970",
+    "current_players": 28,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A vibrant co-op social deduction adventure with roguelike twists, wild abilities, monsters, and nonstop mayhem.",
+    "scout_score": 78,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "成長/積み上げ要素: Roguelike +10",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "WheelMates",
+    "appid": 3905450,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3905450",
+    "current_players": 486,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dive into a 2-player co-op driving adventure with RC cars. Explore the professor’s home laboratory, solve puzzles, find hidden paths, and uncover what happened inside. With Friend’s Pass, your friend joins for free.",
+    "scout_score": 59,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Zad Archery",
+    "appid": 4412000,
+    "price": 647,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4412000",
+    "current_players": 4088,
+    "total_reviews": 21,
+    "positive_rate": 76.19,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Shoot down waves of targets, collect their loot, and grow stronger through upgrades and skills in this expanding incremental game.",
+    "scout_score": 56,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Grail",
+    "appid": 3597200,
+    "price": 780,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3597200",
+    "current_players": 341,
+    "total_reviews": 8,
+    "positive_rate": 100.0,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this deckbuilder your deck plays automatically. Upgrade, enchant and stickerize your cards to create clever cascading effects that defeat monsters and other players. Can you reach the Grail?",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Deck & Conn",
+    "appid": 3828500,
+    "price": 1239,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3828500",
+    "current_players": 160,
+    "total_reviews": 12,
+    "positive_rate": 83.33,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Take command of a nuclear-powered space corvette in a Cold War-flavored sci-fi campaign. Balance tactics, crew, and limited resources in a dynamic forever-war. Retro pixel art meets deep strategy fifteen minutes into the future of 1989.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Bounty Trail",
+    "appid": 4126530,
+    "price": 575,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4126530",
+    "current_players": 144,
+    "total_reviews": 9,
+    "positive_rate": 66.67,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A short Wild West bounty hunting RPG.",
+    "scout_score": 39,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Ten Pins To Oblivion",
+    "appid": 4331160,
+    "price": 361,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4331160",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Think bowling is dull? Think again! Ten Pins to Oblivion is a chaotic PvP bowling showdown where powerups, ruthless sabotage, and wild player customization turn every match into pure madness. Strike Hard or Get Sent To Oblivion.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: PvP +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cognition Method",
+    "appid": 1636620,
+    "price": 1639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/1636620",
+    "current_players": 29,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cognition Method is a story-driven, first-person puzzle game inspired by 2001: A Space Odyssey and Solaris. Discover the innovative mechanics of altering gravity and dive into the surreal setting. Find your way within a mysterious artifact and unveil a non-ordinary story.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Abyss Campus",
+    "appid": 1524280,
+    "price": 492,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/1524280",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "在被血雾吞没的校园里，每向前一步，都会翻开一张无法撤回的命运卡牌。选择路线、管理生命与护甲、主动迎击怪物或承受伏击，收集遗物构筑流派，并使用腐化的力量中穿过层层校园抵达深渊。这里没有回头路——只有下一行。",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Nonoko: Lofi Days",
+    "appid": 4997240,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4997240",
+    "current_players": 5,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Nonoko: Lofi Days is a cute and cozy desktop companion app. Let Nonoko and Mimiko stay by your side while you study, work, or unwind. Enjoy soothing Lofi music, calming nature sounds, and simple, lightweight focus tools that help you move through your day at your own pace.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Being a DIK: Season 3 - The complete official guide",
+    "appid": 2220920,
+    "price": 467,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2220920",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An in-game guide for Season 3 of Being a DIK, including a walkthrough, how to unlock everything, and more. The guide is integrated with the Being a DIK - Season 3 DLC, and you can bring it up while playing with the press of a single button.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Chaos Warrior",
+    "appid": 4847780,
+    "price": 519,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4847780",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Chaos Warrior is a retro JRPG inspired by the NES era. Fight deadly monsters, explore dangerous locations, and gain the strength to become the hero that saves the world!",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Eternal Eden™ Resurgence",
+    "appid": 4655940,
+    "price": 1394,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4655940",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Eternal Eden™ Resurgence is a classic-style RPG brought back with a fresh 3D look. Explore, battle, and uncover new secrets in this expanded 3D remake of a beloved 2008 adventure.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "PROJECT.98",
+    "appid": 5071020,
+    "price": 350,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5071020",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An action-roguelike, with visuals inspired by the 90s and early 2000s OS and UI, survive the hordes of enemies and earn XP and upgrade your character. Let your reflexes be tested, let your luck take the wheel, let the damage be dealt.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Arrow Rain",
+    "appid": 4998320,
+    "price": 519,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4998320",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Arrow Rain is a pixel-art action roguelite where auto-aiming arrows free you up to focus on movement and platforming. Pick cards, recruit companions, and stack relics to build a new strategy each run, then spend gold on gear to prepare for the Demon King on Day 50. Full controller support included.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Homicide Desk",
+    "appid": 4935210,
+    "price": 510,
+    "discount_percent": 17,
+    "url": "https://store.steampowered.com/app/4935210",
+    "current_players": 85,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Read the evidence. Run the forensics. Question suspects in your own words, they lie, crack, or lawyer up. Accuse the wrong person, and Internal Affairs comes after you.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Gun Shop: Tidy Up",
+    "appid": 5050370,
+    "price": 267,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5050370",
+    "current_players": 18,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Gun Shop: Tidy Up — a tidy-up simulator where you need to put more than 2,700 items back in their places. Pick up, arrange, upgrade and just relax while restoring order in a gun shop.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Bread Makes the Heart Aflutter",
+    "appid": 4482690,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4482690",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A romantic, fantasy slice-of-life visual novel about Emile Mayer — the owner of A Slice of Comfort bakery in the Kingdom of Selias — when the Fae Kingdom's royal procession, and the interesting newcomer that comes with it, changes his life forever.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Agebringer",
+    "appid": 4029510,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4029510",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Crimson Core has been stolen. The end of the world draws near. The thief hides high atop the Infinity Tower. Gather your courage, take up your weapons... The Red Crusade has begun.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Avalon Gates: 1 Million D",
+    "appid": 4951180,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4951180",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "One million dollars. Two sisters. Countless consequences. Experience everyday life in modern Vietnam while uncovering the truth behind a mysterious one-million-dollar debt.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Salvation: Echoes of War",
+    "appid": 3741170,
+    "price": 1741,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3741170",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore a haunting purgatory in this third-person stealth adventure. Injured and trapped in a nightmare after war, solve puzzles, outsmart enemies, and rely on your loyal companion to find a way back to life. Can you escape your past and survive the echoes of war?",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cozy Country",
+    "appid": 4690240,
+    "price": 611,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4690240",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Escape into Cozy Country, a peaceful fantasy landscape creator. Paint forests, place rivers, build a village, add animals, then step inside your world and explore everything you've created. ❤️",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "49DAYS",
+    "appid": 4449240,
+    "price": 919,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4449240",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Become the host of an afterlife teahouse. For 49 days, serve the final cup to the departed. Experience a deep brewing system based on authentic traditions. Listen to the secrets of unique spirits, change their fates, and face the truth of your forgotten past.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Aerial_Knight's MrFreezy",
+    "appid": 4756010,
+    "price": 352,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4756010",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as a woman who's an axe-wielding serial killer in this light-hearted puzzle game about decapitating men, uncover the disturbing story behind New Detroit’s infamous serial killer, Mr. Freezy.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "TopOverlay",
+    "appid": 5101810,
+    "price": 311,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5101810",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "View videos, images, text, web pages, and more directly while gaming, without constantly switching between windows.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Do Your Dailies",
+    "appid": 3067760,
+    "price": 292,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3067760",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Clock in. Roll a number. Do your dailies. Repeat. A deadpan office sim about the games you play out of obligation: one roll a day, play retro games, message on company feed, work on projects together, declare war on other departments. Attendance is always noticed.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Pixydra Studio",
+    "appid": 4869680,
+    "price": 1394,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4869680",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pixydra Studio is a pixel-art software fully focused on animated sprites for videogames.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Simple Image Converter — HEIC, WEBP, AVIF, PNG, JPG, PDF",
+    "appid": 5105220,
+    "price": 415,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5105220",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Batch-convert images between HEIC, AVIF, WebP, PNG, JPG, TIFF, BMP, ICO, and PDF. Drag in files or folders, pick a format, click Convert. Runs 100% offline which means no uploads, no accounts, no watermarks, no subscription. iPhone HEIC photos open out of the box. Windows and SteamOS.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "PulseCross - Crosshair Generator",
+    "appid": 5041070,
+    "price": 441,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5041070",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "2.5 million crosshair combinations across 7 engines, generated in under a second. Fine-tune every detail in a pro editor and run yours live over any windowed or borderless game with a click-through overlay. No account, no subscription — buy once, aim better.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
