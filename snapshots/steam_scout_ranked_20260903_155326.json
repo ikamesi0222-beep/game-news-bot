@@ -1,0 +1,599 @@
+[
+  {
+    "name": "Game Arena X",
+    "appid": 5059040,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5059040",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A skill-based competitive gaming platform where players battle in FPS, racing, and multiplayer challenges. Compete online, climb the rankings, improve your skills, and prove you're among the best in Game Arena X.",
+    "scout_score": 105,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "次点ジャンル: Multiplayer +20",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Island Market Simulator",
+    "appid": 3391510,
+    "price": 779,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3391510",
+    "current_players": 48,
+    "total_reviews": 177,
+    "positive_rate": 82.49,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Team up with your friends and build a thriving trade empire in this CO-OP strategy and economy simulation set on a lively island. Begin with a small market, share tasks, manage production chains, raise livestock, and dominate the economy together through changing seasons and dynamic festivals!",
+    "scout_score": 69,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Friendly Steps",
+    "appid": 4279630,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4279630",
+    "current_players": 902,
+    "total_reviews": 9,
+    "positive_rate": 44.44,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A physics-based 1-4 player co-op disaster about getting home after a wild night out. It was a fun night! Now grab your buddies and walk home. IF YOU REMEMBER HOW.",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Endless Isolation",
+    "appid": 4626580,
+    "price": 449,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4626580",
+    "current_players": 6,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Endless Isolation is a classic first-person Survival Horror in PSX style, where the line between office routine and nightmare is erased forever.",
+    "scout_score": 55,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Red Rocket Defencism",
+    "appid": 2854440,
+    "price": 703,
+    "discount_percent": 12,
+    "url": "https://store.steampowered.com/app/2854440",
+    "current_players": 27,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You, a military officer from our great autocratic motherland, must protect our precious rockets from the evil capitalist enemy in this revolutionary base building strategy game. Bribe! Surveil! Purge! Imbibe! The end justifies the means when you have to protect our invaluable rockets!",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: Base Building +12",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Dread Admiral",
+    "appid": 4492990,
+    "price": 1119,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4492990",
+    "current_players": 53,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dread Admiral is a turn-based naval roguelite where every ship you lose is gone forever. Forge a floating empire, fend off the Black Fleet, and protect your Flagship through a brutal campaign to destroy the Dread Admiral himself.",
+    "scout_score": 46,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Scarlet Skips",
+    "appid": 4513480,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4513480",
+    "current_players": 545,
+    "total_reviews": 159,
+    "positive_rate": 78.62,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Jump jump jump as much as you can in this silly 1-button Rogue-Like about skipping rope! Power up your jump ropes to help Scarlet jump higher, survive longer, and reach absurdly high scores! boing boing boing boing boing boing boing boing",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Unseasonable Flowering",
+    "appid": 4487460,
+    "price": 719,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4487460",
+    "current_players": 7,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Unseasonable Flowering&quot; is a first-person horror game set in Japan. After moving to a new home, the young protagonist, Mashiro, is met with eerie residents and inexplicable phenomena. Something &quot;sprouting&quot; everywhere quietly erodes her daily life.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Rogue Blight",
+    "appid": 1890310,
+    "price": 1169,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/1890310",
+    "current_players": 114,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rogue Blight is a rogue-lite with focus on souls-like combat, featuring a Slay The Spire-inspired map system. Fight your way through ever-changing maps. Customize your playstyle based on what you find. Death is punishing. Only skill and persistence will carry you forward.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Incremedieval",
+    "appid": 5076690,
+    "price": 374,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5076690",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An Incremental game about looting dungeons &amp; becoming stronger",
+    "scout_score": 38,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "QuickFighter",
+    "appid": 5122540,
+    "price": 99,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5122540",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "QuickFighter is a hand drawn pixel art 2d Fighting game I originally made in just 24 hours! Duke it out as Case,  Kyle Goodguy, Shiver, or the robot R in 1 on 1, or 2 on 2 matches. Play vs CPU, Local Multiplayer, or... LAN... with Rollback... LANcode... Proudly powered by the Ikemen Go Engine. ",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Chaos Front",
+    "appid": 2770330,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2770330",
+    "current_players": 524,
+    "total_reviews": 4,
+    "positive_rate": 75.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A turn-based space mecha mercenary game. You can recruit pilots and captains with varying stories and skills, buy and modify spaceships, mecha, artillery, and fighters, take missions, participate in battles between Galactic Powers, change the situations, and experience different stories.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Liminal Shroud",
+    "appid": 3336620,
+    "price": 1169,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3336620",
+    "current_players": 7,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore surreal liminal spaces, uncover hidden paths, and unravel a haunting mystery. No monsters, no combat… just atmosphere, discovery, and quiet dread.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Harem Fantasy - The Concubine War DLC",
+    "appid": 4651550,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4651550",
+    "current_players": 0,
+    "total_reviews": 12,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Concubine War is the second story expansion for Harem Fantasy. Lead the army of the Celestial Empire and conquer the most dangerous and powerful beauties of the Eight Kingdoms. Who said that war and love can’t go hand in hand?",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Tofush",
+    "appid": 5117310,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5117310",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "ToFush is a 2D arena survival game where tofu characters push back waves of enemies and survive by combining a variety of items. Hold your ground, avoid being knocked out of the arena, and grow stronger to send your enemies flying!",
+    "scout_score": 33,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Fernbus Simulator - Tourism W410",
+    "appid": 4179380,
+    "price": 1495,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4179380",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Tourism W410 expands your fleet with 8 variants for right-hand and left-hand traffic. Choose from 4 versions ranging from 12.3 to 14 metres, analogue or digital mirrors, and wheels with or without hubcaps.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Sins of a Solar Empire II: Harbinger",
+    "appid": 3195300,
+    "price": 2399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3195300",
+    "current_players": 0,
+    "total_reviews": 14,
+    "positive_rate": 71.43,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "The long wait is over as the deadly faction, the Eidolon, arrives in Trader space! Command the power of corruption, stealth and psionics to conquer all before you in this major expansion for Sins of a Solar Empire II.",
+    "scout_score": 28,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Tidying Simulator",
+    "appid": 5117250,
+    "price": 239,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5117250",
+    "current_players": 14,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Find scattered objects and return them to their proper places in this first-person tidying simulator. Follow silhouettes and a compass, unlock new abilities as you progress, and restore the entire house to perfection!",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Donutal",
+    "appid": 3971730,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3971730",
+    "current_players": 24,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An alien conversation adventure where conversation is your only weapon. Awakened from a 150 year cryosleep, you are suddenly appointed as a Chief Extraterrestrial Counselor at the spaceport. Interview the aliens visiting Earth and uncover their true intentions.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Hardcore Sniper",
+    "appid": 4732510,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4732510",
+    "current_players": 8,
+    "total_reviews": 3,
+    "positive_rate": 33.33,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A precision shooting simulation game featuring realistic ballistics, mil-ranging, wind correction, breath control, bullet drop and barrel heat drift. Complete dynamic assassinations, rescues, counter-sniper and high-speed target engagements while breaking enemy morale through psychological warfare.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Mashumaro Trigger!",
+    "appid": 5036620,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5036620",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mashiro has marshmallow-soft cheeks, and her big sister Mio absolutely adores her. Ordinary days—days that come only once—and the precious moments hidden inside them. A slice-of-life novel about the happy chaos of two sisters. A sweet, marshmallow-soft little while, just for you.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Fernbus Simulator - England",
+    "appid": 3762010,
+    "price": 2995,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3762010",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Discover England with around 15 cities and more than 60 distinctive buildings and landmarks. Travel through London, Birmingham, Manchester, Liverpool, Oxford, Leeds and other cities, and discover famous landmarks such as Big Ben, the London Eye, Westminster Bridge and Tower Bridge.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Mess in the Toy Shop",
+    "appid": 5022130,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5022130",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Just the simple joy of putting toys back on the shelves. Dive into a relaxing gameplay experience where every toy has its place. Turn a messy toy shop into a perfectly organized store. Unlock new skills, improve your efficiency, and have fun.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Summer Delusion: The Girl Only I Can See",
+    "appid": 4018060,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4018060",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A tropical-themed visual novel woven with romance and lingering mysteries. I met a friend—but only I can see her. The doctor insists she’s a delusion, yet she claims to be from another realm. Who can I truly trust? My choices will determine everything.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Shoe it All!",
+    "appid": 2978860,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2978860",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Launch shoes from a swing to solve clever physics puzzles. Master trick shots, uncover hidden secrets and discover smarter solutions with fewer throws.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Roads of Da Vinci: In Search of Origins",
+    "appid": 5123410,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5123410",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Travel across Italy, collect artifacts, and uncover the truth about the origins of Roman mythology through ancient temples and ruins.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Elder Scrolls Online: Ghostly Privateers Pack",
+    "appid": 2986220,
+    "price": 5999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2986220",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The new Wraithtide Horse mount, along with 11,000 Crowns, await any who dare take ownership of the Ghostly Privateers Pack. This pack includes: • Wraithtide Horse mount • 11,000 Crowns",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Reverb",
+    "appid": 5085070,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5085070",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Reverb is a fast-paced four-lane rhythm game where every beat becomes a challenge. Master community-created levels, improve your accuracy, customize your experience, and build your own stages with a powerful level editor.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "A Standard Deviation",
+    "appid": 4438690,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4438690",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore the exotic planet Crystal Archipelago, study its strange phenomena and wrap your head around its divergence-based puzzles, accompanied by peculiar pirate crew seeking a mythical treasure.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "CarX Street - Midnight Rush",
+    "appid": 4997550,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4997550",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Midnight Rush DLC is dedicated to car culture, street racing, and meetups at iconic parking lots near highway interchanges. It features a map expansion, a new drag racing club, and new cars created for those who live for adrenaline, style, and night racing vibes.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
