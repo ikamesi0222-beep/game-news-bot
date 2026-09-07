@@ -1,0 +1,601 @@
+[
+  {
+    "name": "Bones and Coins",
+    "appid": 4134650,
+    "price": 884,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4134650",
+    "current_players": 1765,
+    "total_reviews": 105,
+    "positive_rate": 62.86,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "An incremental auto battler dungeon crawler where you build a synergized hero party to slay enemies and loot items. Unlock weapons with unique attack styles. Gear up your hero team and explore new dungeon rooms filled with enemies and legendary drops.",
+    "scout_score": 79,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Veterum",
+    "appid": 1864690,
+    "price": 2507,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/1864690",
+    "current_players": 112,
+    "total_reviews": 163,
+    "positive_rate": 91.41,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Turn-based tactical strategy with a detailed combat system and interactive environment. Explore the open world, complete quests, search for rare artifacts. Lead the last army of the Order of the Gatekeepers and stop the coming chaos!",
+    "scout_score": 74,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Wobble Ops!",
+    "appid": 4730160,
+    "price": 460,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4730160",
+    "current_players": 0,
+    "total_reviews": 11,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Wobble Ops! is a fun physics-based platformer that can be played in Co-op or Single Player mode. Complete the course as fast as possible and lead your team and country to the top of the leaderboard.",
+    "scout_score": 63,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "The Last Color",
+    "appid": 5070180,
+    "price": 639,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5070180",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Last Color is a co-op survival game where every wave introduces a new enemy color, while the number and variety of enemies continue to grow. Collect coins, increase your team’s shared level, and choose 1 of 3 upgrade cards as you fight to reach the final color on wave 16,777,216.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "SmashCore",
+    "appid": 4945040,
+    "price": 521,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4945040",
+    "current_players": 136,
+    "total_reviews": 6,
+    "positive_rate": 83.33,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "SmashCore is a short, physics based incremental game about smashing asteroids into dust with your gravity cursor and feeding it to the Core. Discover ancient technology and new ores in deep space and use your cash to buy upgrades in the huge skill tree.",
+    "scout_score": 52,
+    "reasons": [
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Curse of Pirates",
+    "appid": 3484940,
+    "price": 1116,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3484940",
+    "current_players": 11,
+    "total_reviews": 69,
+    "positive_rate": 82.61,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Ahoy, matey! How about slicing up some sea beasts and sending a couple of rivals to feed the kraken? Curse of Pirates be a true action roguelike, inspired by Vampire Survivors and Hades! Set sail upon the high seas, gather ye brave crew, and stand firm against the relentless tides of foes!",
+    "scout_score": 49,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Port of Jumanah",
+    "appid": 2998920,
+    "price": 1440,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/2998920",
+    "current_players": 19,
+    "total_reviews": 23,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pearl diving is an ancient tradition... until you showed up. Dive into the depths, poke things you probably shouldn't, battle sea monsters, recruit questionable allies, upgrade your gear, rebuild your port, and make increasingly questionable decisions in this roguelite action adventure.",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Mythmon: Mythic Monsters",
+    "appid": 3846440,
+    "price": 1035,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3846440",
+    "current_players": 22,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build the ultimate monster party and defeat the Demon King in this hack-and-slash strategy game! Combine quirky Mythmon, equipment, and formations to craft the perfect strategy and lead your forces to victory!",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Pierline",
+    "appid": 5090260,
+    "price": 140,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5090260",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 0.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pierline is a short first-person psychological horror game about an ordinary night that takes an unexpected turn. You play as Daniel Hayes, a Florida traffic officer who decides to spend the night fishing at an old pier along the coast, after a friend recommends the place.",
+    "scout_score": 41,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Tiny Eden",
+    "appid": 3375110,
+    "price": 1885,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3375110",
+    "current_players": 1375,
+    "total_reviews": 10,
+    "positive_rate": 70.0,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy first-person farming sim, set in the heart of a futuristic city. Grow plants, cook what you harvest, and discover new varieties as you turn your apartment into a thriving urban garden, from a small balcony to a rooftop paradise.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "THE WELL IS NOT EMPTY",
+    "appid": 4505150,
+    "price": 1255,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4505150",
+    "current_players": 41,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The well has gone dry. It's up to you to find out why. Traverse through abandoned tunnels. Discover remnants of a ritual never meant to be seen. Power dying machinery to bring light into darkness. Dig into broken earth and crawl your way out. Down here you’re not exploring... you're trespassing.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Eco Volunteer",
+    "appid": 3919340,
+    "price": 1440,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3919340",
+    "current_players": 14,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A peaceful, cozy game about cleaning up trash and other eco-friendly activities in nature. Embark on a journey through stunning natural landscapes while doing good deeds!",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "MD Engine",
+    "appid": 3706620,
+    "price": 2464,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3706620",
+    "current_players": 48,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Create real Sega Mega Drive / Genesis games using drag-and-drop with no coding required. Export ROMs for original hardware, plus Web, Windows, Linux, macOS, Android, iOS, and Linux Handhelds.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Arena Immortalis",
+    "appid": 5107680,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5107680",
+    "current_players": 12,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A free browser gladiator RPG. Build one fighter, train him while you are offline, and fight real players for ELO. Ten acts of story, 29 uniques that trade power for a real cost, and ludus wars over Roman provinces. Lose twice to the same man and he becomes your Nemesis.",
+    "scout_score": 35,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Pyra",
+    "appid": 4050400,
+    "price": 625,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4050400",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pyra is a challenging pixel-art platformer where you guide a small living flame through an ancient temple filled with deadly traps. Master precise movement, chain your jumps, and burn a path to freedom.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Leap Tactics",
+    "appid": 3549150,
+    "price": 722,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3549150",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Leap Tactics&quot; is a pixel-art platform puzzle game where players alter mechanism states through jumping actions. Overcome obstacles and chart paths to the goal. Featuring 10+ jump-activated mechanisms, 100+ levels, a gentle difficulty curve, and an undo function.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "The Ash Remembers",
+    "appid": 4973460,
+    "price": 1271,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4973460",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The ash forgets nothing. A dark idle RPG that keeps running offline: 21 skills to level 100, 85 foes, 7 world bosses, 8 titans, over 730 items — and a game that tells you what you are dying of. Buy once, play everything: no microtransactions, no energy bars.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "(TwwwT) The Witches Who Weave Timelines",
+    "appid": 4466880,
+    "price": 523,
+    "discount_percent": 12,
+    "url": "https://store.steampowered.com/app/4466880",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 2D action-focused roguelite where you control “witches from history,” battling endless enemies and dense bullet-hell barrages to correct fractured timelines",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Sanguo Survivors",
+    "appid": 5101000,
+    "price": 280,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5101000",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A pixel-art action roguelite set in the Three Kingdoms. Choose a legendary general and survive relentless enemy hordes, mixing weapons with fire, water, earth, and wind skills to build devastating combos. Climb through escalating danger levels and face formidable bosses in fast, ever-changing runs.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Discremental",
+    "appid": 4681980,
+    "price": 556,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4681980",
+    "current_players": 82,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Discremental is a short idle and incremental game where you primarily upgrade your disk, along with other equipment.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Shelf Happens",
+    "appid": 4977900,
+    "price": 637,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4977900",
+    "current_players": 19,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You (alone or with friends) need to place scattered vinyl records on the right genre crates in a retro record store. Complete crates and earn XP to unlock abilities that improve your efficiency. Use your skills and strategies to sort hundreds of records by genre fast!",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "To Raise a King",
+    "appid": 4932290,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4932290",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rule a kingdom and prepare your heir in this fully voice-acted, free medieval strategy game. Choose one of six queen storylines and make decisions that lead to many different possible endings.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Corgi Corgi Cor!",
+    "appid": 5005100,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5005100",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A tiny corgi has moved onto your desktop. Watch it explore your screens, develop needs and moods, and gradually grow into a companion shaped by the way you interact with it.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Emperor of Mahjong: Match Mahjong Tiles, Build Your City!",
+    "appid": 4907420,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4907420",
+    "current_players": 7,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mahjong solitaire meets a casual city builder story game in Ancient Rome. Build the city to restore it to glory. Solve tile-matching mahjong solitaire puzzles, unlock game-enhancing boosts, and tackle historical Roman city-building tasks for relaxing exploration and adventure in Emperor of Mahjong®.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Aquarium Anomaly",
+    "appid": 4422500,
+    "price": 488,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4422500",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to the Shark Tunnel. Please remain on the walkway and do not tap the glass. Irregularities have been reported. If you observe one, exit the way you came. If you do not, continue forward.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "LaFandel",
+    "appid": 4327050,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4327050",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 1-man made visual novel about romancing short women, such a halflings, dwarves, goblins and fairies. This is the demo for the planned full release.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "The Ayna",
+    "appid": 4429670,
+    "price": 595,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4429670",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Ayna is a psychological exploration game set in Türkiye, inspired by the music video aesthetics and lyrical themes of a female vocalist. The player is tasked with noticing anomalies in the concert venue and uncovering the truth.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Iron grid",
+    "appid": 4550460,
+    "price": 1077,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4550460",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Aliens invade Earth to harvest its resources, and you are humanity’s last line of defense. Fight on the battlefield in first person while building and upgrading towers to stop the invasion. Face enemies from multiple lanes, adapt your strategy, and exploit tower damage types with a deep tech tree.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Vortha racing",
+    "appid": 3734150,
+    "price": 690,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3734150",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A high-speed arcade racer inspired by Trackmania. Race against the clock across 20 unique tracks, compete for the top spot on global leaderboards, and earn your medals. Race agains you best time, or other players best times.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Defend the Dragon Palace!",
+    "appid": 5096220,
+    "price": 1255,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5096220",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dig the seabed, grow an ecosystem, and defend the Dragon Palace from the divers who come to carry the princess away. Kelp feeds urchins, urchins feed octopuses, and the food chain you grow becomes your defense line. You cannot command your sea beasts. All you can do is dig.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
