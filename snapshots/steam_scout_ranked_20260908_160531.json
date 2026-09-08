@@ -1,0 +1,597 @@
+[
+  {
+    "name": "SPRAWL zero",
+    "appid": 3748520,
+    "price": 1999,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3748520",
+    "current_players": 426,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "SPRAWL zero is a fast-paced shooter inspired by the Golden Age of 2000s FPS. Survive a brutal cyberpunk city collapsing under military rule and cult fanaticism. Use your Gravity-Gloves, augments, and an arsenal of over 40 weapons to crush those who stand in your way.",
+    "scout_score": 109,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Spellsteel",
+    "appid": 5020290,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5020290",
+    "current_players": 9,
+    "total_reviews": 3,
+    "positive_rate": 33.33,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A free-to-play fantasy collectible card game where six civilizations battle to claim the legendary Kharadum Codex. Build your deck, command legendary Champions, and master deep tactical PvP.",
+    "scout_score": 75,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: PvP +20",
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Run to Run",
+    "appid": 4994490,
+    "price": 553,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4994490",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Find and collect every marker before the other players! Use unpredictable items and customize your character in this online multiplayer party racing game.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: Party +25",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Dragon Tiles",
+    "appid": 4115370,
+    "price": 373,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4115370",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dragon Tiles is a lightweight top-down action roguelite bullet-hell survival game. Lead a chain of multiple heroes in a snake-like formation, automatically attacking and clearing waves of enemies while upgrading your team through the shop after each round.",
+    "scout_score": 56,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Flip & Shop Simulator: Prologue",
+    "appid": 5010700,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5010700",
+    "current_players": 8,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "All simulators in one game! A cooperative city simulator where you and your friends manage businesses in a single large world. Open stores, earn money, and develop the shared city - together or separately.",
+    "scout_score": 52,
+    "reasons": [
+      "次点ジャンル: Cooperative +30",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Flood With Friends",
+    "appid": 5005150,
+    "price": 467,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5005150",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Nail a raft (or a plane) out of junk, load it with everything valuable or ridiculous and sail for the next island before the water swallows you up. Co-op physics chaos for 1-8 friends.",
+    "scout_score": 50,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Alchemy Factory",
+    "appid": 3669570,
+    "price": 1399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3669570",
+    "current_players": 3030,
+    "total_reviews": 2562,
+    "positive_rate": 89.23,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Start small, team up with friends, and automate production with conveyor belts, pipes, and magical devices. Stock your shop with potions, jewelry, and relics, complete commissions, and build an alchemy empire! Alchemy Factory 1.0 is out now with the Wagon Logistics System and revamped shopkeeping.",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Seven Blasphemies",
+    "appid": 4893400,
+    "price": 820,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4893400",
+    "current_players": 4,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Seven Blasphemies is a traditional turn-based roguelike where every dawn may curse your run forever. Explore a dying world, choose from doomed classes, survive lethal OSR-inspired encounters, and race against extinction before the seventh blasphemy ends all.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Tiny Bakery",
+    "appid": 3951340,
+    "price": 922,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3951340",
+    "current_players": 21,
+    "total_reviews": 50,
+    "positive_rate": 92.0,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run a tiny bakery for sweet-toothed slime customers! Adapt to changing weather, seasons, and festivals as cravings shift. Unlock new recipes, welcome new guests, and prepare each night for the day ahead.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Orc Incremental",
+    "appid": 4047270,
+    "price": 679,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4047270",
+    "current_players": 1577,
+    "total_reviews": 12,
+    "positive_rate": 83.33,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Start with a single orc and build an unstoppable dark army to conquer the realms in this incremental auto battler. Perfect your formation, summon mighty beasts, unlock powerful upgrades, and grow stronger with each rebirth.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "King Assassination",
+    "appid": 5071940,
+    "price": 220,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5071940",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fast-paced multiplayer deception game where Guards protect the King and Assassins hunt their target. Work together, deceive your enemies, identify threats, and strike at the perfect moment to claim victory.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Acceptable Losses",
+    "appid": 3884200,
+    "price": 559,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3884200",
+    "current_players": 98,
+    "total_reviews": 10,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Acceptable Losses is a phase based WWI command and management game. Lead squads through a brutal 20 day campaign, balancing morale, fatigue, cohesion, and the paperwork of war. Perform well enough and you may be ordered Over the Top, where success leads to a second act holding captured ground.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Novel Forger: Suicide Mr. Fury",
+    "appid": 4496240,
+    "price": 611,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4496240",
+    "current_players": 18,
+    "total_reviews": 15,
+    "positive_rate": 93.33,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Suicide Mr. Fury is a Meta-Otome adventure that deconstructs the absurdity of falling for someone who doesn’t exist. Navigate branching paths, meta-narratives, and a multiverse of madness with the overbearing CEO, Mr. Fury, between digital delusion and harsh reality.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Bus Simulator 27",
+    "appid": 2397320,
+    "price": 2999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2397320",
+    "current_players": 1100,
+    "total_reviews": 286,
+    "positive_rate": 56.64,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Drive officially licensed buses from renowned manufacturers and manage your bus company to success. Felicia Bay’s public transportation system is counting on you!",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Cat Me If You Can",
+    "appid": 3170490,
+    "price": 1619,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3170490",
+    "current_players": 76,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cat Me If You Can is a charming and cozy game where you explore beautifully handcrafted black-and-white worlds, searching for hidden cats to photograph and bring their colours back into the world.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Fill The Void",
+    "appid": 4598190,
+    "price": 492,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4598190",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Start Small. Consume. Get huge. 'Fill The Void' is a physics-driven incremental 3D platforming collectathon where you play as a black hole.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Desktop P2W Simulator",
+    "appid": 5094720,
+    "price": 267,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5094720",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A tiny idle game that keeps fighting in the corner of your screen while you do other things. Unlike mobile idle games, it won’t ask you to pay. The odds… might cheat a little. *This game includes randomized items and is ready to deceive you. *But it gives you unlimited currency to obtain them.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Token x Token x Clicker",
+    "appid": 5034150,
+    "price": 283,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5034150",
+    "current_players": 14,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run a tiny 3D office of robot employees — the Grammis — and pick up the token embers they drop. Win contracts on the lottery reel, ride out overtime rushes, renovate your one-room startup into a corporate tower, and climb to #1 in the market cap rankings. 200+ collectibles. Fully local.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Die Diver",
+    "appid": 4181300,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4181300",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Here's an indie game idea... Build your Dice Pool and dive through the canopy of the 'Forest of the Dead' - the place where all who die will go.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Wanderburg - Supporter Pack",
+    "appid": 5026240,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5026240",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Join the crew and show your support for Wanderburg with this cosmetic DLC. The Supporter Pack includes exclusive pirate-themed decorations for your castle! No gameplay advantages, just good taste and treasure well spent.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Surviving Mars: Relaunched - Feeding the Future",
+    "appid": 3889430,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3889430",
+    "current_players": 0,
+    "total_reviews": 4,
+    "positive_rate": 50.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Follow the dreams of humanity's boldest pioneers in Surviving Mars: Relaunched &quot;Feeding the Future&quot;. Master the art of feeding a colony and face the challenges of life on Mars. Contains new buildings, food resources, colonist traits, technologies, and laws.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "What RU Doing Green!",
+    "appid": 5080860,
+    "price": 283,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5080860",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Control Red, Blue, and Green as they escape from 60 different prisons! The mad scientist? Eh, he'll figure something out... probably.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Mini Court",
+    "appid": 5113110,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5113110",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Become a criminal court judge. Listen to the prosecution and defense, examine the evidence, and decide the sentence yourself in this pixel-art mini-game featuring 43 cases based on real criminal law.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Toilet 101",
+    "appid": 5051340,
+    "price": 373,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5051340",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You step into the restroom on Floor 60. Look around carefully, and make your way to Restroom No. 101.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Archie's War",
+    "appid": 4820770,
+    "price": 733,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4820770",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fast-playing wargame of the struggle for Guadalcanal in 1942. Defend Henderson Field as the U.S. Marines or storm it as the Japanese in this faithful digital adaptation of the published board game, with hidden enemy forces, diceless combat, and games that can be completed in about 20 minutes.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "語彙コイン",
+    "appid": 4961990,
+    "price": 236,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4961990",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Roll coins engraved with Japanese kana and build words from what lands face-up — a calm tabletop word game set in a quiet Japanese room. A play of luck, vocabulary, and knowing when to stop. Solo high-score, local 2-player, and online versus.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "桌面寵物工作室 - DesktopPetStudio",
+    "appid": 5069160,
+    "price": 369,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5069160",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Desktop Pet Studio is a Windows desktop pet creator. Upload PNG frames or GIFs, set animations and speech bubbles, then add alarms, calendars, tasks, and Do Not Disturb. Care for your pet, share creations on Steam Workshop, or trigger reactions with Twitch Bits.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "CrystalStack",
+    "appid": 5112090,
+    "price": 209,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5112090",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build the tallest crystal tower you can. CrystalStack is a 3D physics-based stacking game developed with Unreal Engine 5. Carefully place transparent crystal cubes, keep your balance, and beat your highest score before the tower collapses. Relaxing to play, challenging to master.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Seireihou Academy Story ",
+    "appid": 5094550,
+    "price": 109,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5094550",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Everything is determined by “SSP.” At Seireihou Academy, students live by SSP, a unique point system that determines their status. Games, rivalries, secrets, and unexpected events await as unique students meet, clash, and weave their own stories.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Don't Fall",
+    "appid": 4743520,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4743520",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Climb. Fall. Cry. A 3D platformer-adventure where gravity is your worst enemy. Explore a vertical world full of secrets, alone or with friends — help them, save them, or push them off. Reach paradise and eternal glory… if you don't fall first. Don't Fall!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
