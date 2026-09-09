@@ -1,0 +1,596 @@
+[
+  {
+    "name": "Sunset Summit",
+    "appid": 3874450,
+    "price": 1364,
+    "discount_percent": 38,
+    "url": "https://store.steampowered.com/app/3874450",
+    "current_players": 113,
+    "total_reviews": 7,
+    "positive_rate": 85.71,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A co-op group climbing game for 1-8 friends! Head out on a chill but challenging climb with regular checkpoints. Use axes, ropes, pogo sticks, item delivery drones and more to reach the summit. Just remember to watch your step!",
+    "scout_score": 67,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Valheim",
+    "appid": 892970,
+    "price": 8900,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/892970",
+    "current_players": 124097,
+    "total_reviews": 542867,
+    "positive_rate": 94.0,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A collaborative exploration and survival game for 1-10 players, set in a procedurally generated afterlife inspired by Viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s patronage!",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Bullet Debt",
+    "appid": 5122320,
+    "price": 2080,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5122320",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A minimalist arcade arena shooter where your bullets never disappear. Every shot you miss keeps ricocheting until it hits something — an enemy, or you. Dodge your own accumulating crossfire across 50 levels, or turn it on your friends in local versus for 2 to 4 players.",
+    "scout_score": 60,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Asgard's Fall — Viking Survivors",
+    "appid": 2780710,
+    "price": 1950,
+    "discount_percent": 50,
+    "url": "https://store.steampowered.com/app/2780710",
+    "current_players": 466,
+    "total_reviews": 1287,
+    "positive_rate": 81.97,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Embark on an epic saga in Asgard's Fall, a norse Survivors-like Roguelite. Fight your way through hordes of creatures and let the gods feel your relentless wrath. How will your saga unfold?",
+    "scout_score": 52,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil",
+    "appid": 4659620,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4659620",
+    "current_players": 14283,
+    "total_reviews": 320,
+    "positive_rate": 99.38,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dodge the barrage, defeat the enemies, and brave the Scarlet Mist Incident. The Embodiment of Scarlet Devil returns with fresh music and graphics. Control the shrine maiden Reimu and the magician Marisa, weaving between bullets that fill up the screen. The soundtrack has been fully remade by ZUN.",
+    "scout_score": 48,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "東方紅魔郷：Classic　～ the Embodiment of Scarlet Devil.",
+    "appid": 4924840,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4924840",
+    "current_players": 800,
+    "total_reviews": 25,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "上海アリス幻樂団による弾幕シューティング！ 東方Project第6弾。巫女の霊夢や魔法使いの魔理沙を操作して、画面を埋め尽くす弾幕をかわしながら紅い霧の異変に挑め。",
+    "scout_score": 45,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Model Kit Shop Simulator",
+    "appid": 4014100,
+    "price": 2925,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4014100",
+    "current_players": 106,
+    "total_reviews": 80,
+    "positive_rate": 92.5,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build and run your own hobby shop in this first-person store management sim. Order stock, fill shelves, set prices, match kits with paints through the Hobby Basket System, and let customers bring their projects to life at Build Tables.",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Backseat",
+    "appid": 3098050,
+    "price": 3360,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3098050",
+    "current_players": 31,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A psychological taxi horror game where every passenger may be dangerous. Drive through the night, question criminals, read their behavior, hack for clues, and survive each ride to save your kidnapped wife.",
+    "scout_score": 43,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Slay the Horde",
+    "appid": 4380280,
+    "price": 2940,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4380280",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Slay the Horde is a roguelike deckbuilder about building a screen-clearing engine of destruction. Build a deck of spells, stack upgrades, abuse elemental effects, and annihilate increasingly unreasonable numbers of goblins.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Mortumn Quest - Homecoming",
+    "appid": 4698530,
+    "price": 2900,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4698530",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mortum Quest is a horror puzzle game. It includes ghost stories, local beliefs, and Thai folk rituals. The game is 2D point and click style. Give it a try if you want to experience Southeast Asian horror.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Bookstore Incremental",
+    "appid": 4664470,
+    "price": 2805,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4664470",
+    "current_players": 134,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy incremental game where you run your own bookstore! Buy hundreds of upgrades, unlock new customers and book types, hire different staff members and build the most profitable bookstore in the world!",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "When We Arrive",
+    "appid": 4078360,
+    "price": 4200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4078360",
+    "current_players": 1,
+    "total_reviews": 27,
+    "positive_rate": 96.3,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "The god Auran has vanished. Journey alone or with friends through a fantasy world, searching for Auran's temple. No combat, no heroes. Just bad decisions, stolen rations, goblin kidnappings and the faint hope that your friends won't simply leave you behind.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Planet Killer",
+    "appid": 4454430,
+    "price": 4160,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4454430",
+    "current_players": 85,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A physics-driven sci-fi destruction roguelite. Orbit hostile worlds, unleash devastating weapons, and carve real craters into fully simulated planets while escalating planetary defenses fight back.",
+    "scout_score": 33,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Stall Quest",
+    "appid": 4869490,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4869490",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A shopkeeping simulation RPG for those who loved leaving shops open in old-school MMOs! Open a stall in Rei's dream, sell items gathered from dungeons, buy gear, and dive back in. Packed with 48 enemies, 30 items, and excitement! Try it out!",
+    "scout_score": 32,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Demon King's Incursion",
+    "appid": 4985870,
+    "price": 2000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4985870",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Choose your favorite hero to step into the battlefield, eliminate the tide of monsters, and kill them to earn gold coins. Use gold coins to purchase powerful equipment, enhance character attributes, continuously strengthen combat power, and ultimately defeat the Demon King",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Hunt: Showdown 1896 - Sage of Joseon",
+    "appid": 4730770,
+    "price": 4300,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4730770",
+    "current_players": 0,
+    "total_reviews": 25,
+    "positive_rate": 88.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "This DLC contains one Hunter, two Weapons, two Consumables, one Avatar, and one Frame: Roaming Sage (Hunter), Cold Patience (Uppercut), Yecheon’s Treasure (Hunting Bow), Tiger’s Fury (Dynamite Stick), Winged Purity (Waxed Dynamite Stick), Roaming Sage (Avatar), Roaming Sage (Frame)",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Tales of Immortal Cultivation",
+    "appid": 5045550,
+    "price": 2171,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5045550",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Tales of Immortal Cultivation: a Xianxia strategy text RPG. Rise from mortal to immortal through six realms, uncover a family mystery, gain companions, build your cave manor, and explore a vast world. Slow-paced, deep, and perfect for fans of cultivation and strategic storytelling.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "KN Tower - Build your skyscraper empire",
+    "appid": 4994530,
+    "price": 4116,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4994530",
+    "current_players": 14,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build, expand and manage your own skyscraper in this deep building and management simulation. Design every floor, optimize elevators, manage tenants, businesses and finances. Create a vibrant vertical metropolis.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "It's Spreading",
+    "appid": 4252140,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4252140",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "It's Spreading is a game where you are trying to find a hidden entity taking over the ship and when it's finally revealed, it's action time! In the game the entity is hiding as an object in the ship and each time you play the object is randomly assigned. Designed to be fast paced and replayable.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Frontier Ballad: Tang Warden",
+    "appid": 5135310,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5135310",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "FrontierBallad is a survivor-style action game inspired by Tang frontier warfare. Fight through relentless enemy waves, build a loadout of weapons, armor and formations, defend the FengSui beacon, then improve your armory and uncover military heritage cards between battles.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Detective VR",
+    "appid": 3939360,
+    "price": 5900,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3939360",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Step into a thrilling narrative investigation in Virtual Reality! In DETECTIVE VR, you control time, collect crucial clues, and interview witnesses to unravel the plot.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "CATAL CARTA",
+    "appid": 5116880,
+    "price": 1620,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5116880",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A mystery visual novel set in a fading secondhand bookshop. Five childhood friends confront small-town scandals armed only with what they've read — drawing on the themes of unrelated books to unsettle the things people won't admit. 15 cases, 5–10 minutes each.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Banana Game",
+    "appid": 5049980,
+    "price": 540,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5049980",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Drop colorful fruit into a lively physics puzzle, merge matching pairs into bigger fruit, trigger special banana recipes, and keep the pile below the danger line. Chase a higher score and create the shining Golden Banana!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Country Town Trains",
+    "appid": 4673750,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4673750",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Connect With Nature As You Railfan! Stargaze, Moongaze, Snow Gaze, whatever you want! Choose how many train cars and the terrain type! Uphill, Downhill, Flat. Realistic hill degrees and realistic load capacity calculations. Made in White Castle, Louisiana, each locomotive wears that with pride.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Swarmvore",
+    "appid": 5067670,
+    "price": 2520,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5067670",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An idle swarm devours everything in its path. Feed it, evolve a 29-node lab tree, and descend deeper into a well of living, hostile structures — until your swarm is strong enough to devour the Core of the Well itself.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "A Dreaming Ladybug",
+    "appid": 5111790,
+    "price": 1260,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5111790",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Shape your garden. Shape your luck. Use flowers and filters to guide ladybugs and change their colors and numbers, then hit the slots in the black moon. Cash out before your ecosystem collapses, or risk it all for a bigger payout. Unlock permanent upgrades and grow a greater garden.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Blood Moon Serenade: Complete Edition",
+    "appid": 4673270,
+    "price": 5670,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4673270",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An otome visual novel of vampire aristocracy. Search for your missing father, get drawn into a court of immortals, and choose how close you grow to the men around you. All three stories in one buy-to-play edition.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Moon Shop Simulator",
+    "appid": 4926780,
+    "price": 2970,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4926780",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run a cozy shop beneath the lunar surface. Order goods from Earth, manage cargo taxes, organize your stock in numbered racks, prepare customer orders, and grow your quiet moon-based business in a first-person management simulator.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "ParryWarrior",
+    "appid": 4755100,
+    "price": 600,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4755100",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Parrying is rhythm! ParryWarrior is a bullet-rhythm game based on the phrase &quot;Parrying is rhythm,&quot; where you fight by parrying every enemy attack. Parry in time amidst dazzling bullet patterns, block the barrage of enemy attacks, and achieve victory!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Font no Game ～Which I Master～",
+    "appid": 4979100,
+    "price": 2200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4979100",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "「 I 」－－ Can you tell if this character is an uppercase I or a lowercase l? Are you tired of deleting confusing characters because you can't tell them apart? Play this game to learn about fonts and sharpen your eye for tricky letters!! Put an end to mistyping your passwords once and for all!!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
