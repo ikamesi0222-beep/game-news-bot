@@ -1,0 +1,603 @@
+[
+  {
+    "name": "Roguecraft DX",
+    "appid": 3674680,
+    "price": 3840,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3674680",
+    "current_players": 15,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Roguecraft DX is a turn-based roguelike set in a Lovecraftian dungeon that rebuilds itself every run. Fight tentacled horrors and scary chickens, and free a caged badger who'll fetch loot for you. Compact runs that respect your time: die, learn, and dive right back in!",
+    "scout_score": 84,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Welcome to Elderfield",
+    "appid": 3195440,
+    "price": 5310,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3195440",
+    "current_players": 1860,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to Elderfield, a cozy horror RPG with hand-drawn art and dark lofi music. Manage your farm, befriend or romance the locals, investigate mysteries, decorate your home, fight terrifying creatures, fish, cook, seek the Old Gods, die in your sleep, and more... There's lots to do in Elderfield!",
+    "scout_score": 71,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Frontier: Path of Shadows",
+    "appid": 3570490,
+    "price": 5015,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3570490",
+    "current_players": 7,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "X-COM inspired tactical game. 25th century. The war with the mysterious Utopia is over — but new threats emerge. Come to the vast Frontier: assemble your crew, face tough choices, explore unknown worlds and win tactical battles!",
+    "scout_score": 63,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "First Draft",
+    "appid": 4985440,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4985440",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "First Draft is an arcade flight shooter where you enter intense aerial battles with enemy paper airplanes.",
+    "scout_score": 62,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Dumb Ways to Build",
+    "appid": 4412320,
+    "price": 2800,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4412320",
+    "current_players": 617,
+    "total_reviews": 8,
+    "positive_rate": 25.0,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dumb Ways to Build is a chaotic, physics-based co-op game. Team up with friends to assemble your crew and take-on dangerous construction jobs. With all the gear and no idea, work together to build your path forward, or die trying!",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Shady job",
+    "appid": 4190710,
+    "price": 2046,
+    "discount_percent": 38,
+    "url": "https://store.steampowered.com/app/4190710",
+    "current_players": 564,
+    "total_reviews": 9,
+    "positive_rate": 33.33,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A co-op adventure game. The mafia wants to get rid of a body. You’re construction workers. Your job: carry a body bag to the top of a skyscraper. Bury it in concrete. Two problems. First: You have to build the way up. Second: The body’s not dead. It fights back.",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Astralis : Dawnblades",
+    "appid": 4233920,
+    "price": 3780,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4233920",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lead the Dawnblades in a heroic fantasy tactical RPG: build squads, upgrade your stronghold, explore node-based dungeons, survive turn-based battles, and enable optional MATB for music-timed attacks.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Destiny Spire",
+    "appid": 3369150,
+    "price": 5900,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3369150",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Destiny Spire is a party-based RPG with active time battles inspired by the classics. NOT YOUR TRADITIONAL TURN BASED COMBAT: The battle continues even while you select your actions, you'll need reflexes and wits to survive. Pick your party and set off on a retro, non-hand holdy adventure!",
+    "scout_score": 55,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "GeneWorld",
+    "appid": 4717910,
+    "price": 2600,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4717910",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore mysterious procedural worlds filled with portals, corrupted dimensions, intelligent NPCs and limitless builds in a chaotic multiplayer action RPG where every journey becomes a new story.",
+    "scout_score": 50,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Orebits",
+    "appid": 3635490,
+    "price": 2160,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3635490",
+    "current_players": 121,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bounce your pickaxe and smash through asteroids in this futuristic mining incremental! Explore a roguelite tech tree, discover gravitational anomalies, and deliver resources back to Earth. Upgrade and explore space to discover what secrets it holds!",
+    "scout_score": 49,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "FRAWL",
+    "appid": 4407110,
+    "price": 1910,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4407110",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "FRAWL is an action-packed, party brawler, grab up to 3 friends and battle it out as magical frogs to see who hops out on top.",
+    "scout_score": 43,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Sunken Engine",
+    "appid": 3604780,
+    "price": 2940,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3604780",
+    "current_players": 108,
+    "total_reviews": 819,
+    "positive_rate": 83.39,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sunken Engine Lovecraftian Ship Repair Simulation. Restore your father’s old shipyard. Each arriving ship carries a dark mystery to be solved. Keep your customers satisfied while dealing with the strange and eerie happenings on the island.",
+    "scout_score": 42,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Black Gold: Oil Drilling Simulator",
+    "appid": 1473260,
+    "price": 4720,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/1473260",
+    "current_players": 469,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Step into the grit of the early 20th-century oil boom. Build your drilling empire from the dirt up chop timber, maintain rusty machinery, and manage a rugged crew. Strike black gold, overcome ruthless crises, and turn raw earth into an unimaginable fortune. The rush begins now.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Battle Bundle – Y10S3 – FOR HONOR",
+    "appid": 4912220,
+    "price": 15000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4912220",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Y10S3 Battle Bundle includes 100 tiers of rewards plus 25 tiers of progression for the Battle and Legacy Passes.",
+    "scout_score": 38,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Monster Shop Simulator",
+    "appid": 3611450,
+    "price": 1980,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3611450",
+    "current_players": 26,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sell magical eggs, hatch rare monsters, and build the ultimate monster shop. Collect valuable creatures, set your prices, grow your business, and expand your store.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Magical Blush",
+    "appid": 3488640,
+    "price": 5900,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3488640",
+    "current_players": 42,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Magical Blush is a top-down action-adventure where fast-paced elemental combat meets Metroidvania-style exploration. Chain spell combos, exploit elemental weaknesses, rescue survivors, and battle the powerful Elemental Lords as you explore the wondrous world of Wyn.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Grandpa's Bee Haven",
+    "appid": 3209160,
+    "price": 2465,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3209160",
+    "current_players": 17,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy idle beekeeping sim that sits right at the bottom of your screen! Help Grandpa build his dream bee haven: unlock new species, upgrade equipment, expand your land, hire cute helpers, and design your perfect garden.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "One Man's Trash: Pawn Shop After Dark",
+    "appid": 4489570,
+    "price": 1275,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4489570",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "One Man's Trash is a survival simulation game where you and up to 3 friends run a failing pawn shop by day... survive it by night. Buy, sell, and negotiate to meet a mysterious quota. Miss your quota, and something will come to collect.",
+    "scout_score": 33,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Legends of Aria Eternal",
+    "appid": 3944440,
+    "price": 14086,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3944440",
+    "current_players": 52,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Legends of Aria Eternal is a sandbox MMORPG where players shape the world. Now with faster skill gains, a reworked prestige and enchanting system, full in-game knowledge base, and powerful new tools to run your own custom server.",
+    "scout_score": 33,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "The Keeper of Chains – Conqueror Hero Skin – FOR HONOR",
+    "appid": 4912260,
+    "price": 5000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4912260",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Extinguish all hopes on the battlefield by becoming the terrifying Keeper of Chains, a Conqueror Hero Skin.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Burgie's cozy kitchen - Dungeon cosmetics pack",
+    "appid": 4969500,
+    "price": 1341,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4969500",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a purely aesthetic pack with a cozy medieval fantasy atmosphere. Enjoy the new decorations and quirky characters, perfect for RPG dungeon lovers.",
+    "scout_score": 31,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "NECHTO: Infection Protocol",
+    "appid": 4813130,
+    "price": 1050,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4813130",
+    "current_players": 0,
+    "total_reviews": 9,
+    "positive_rate": 66.67,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A social-deduction card game for 4–12 players. Share one screen, keep roles and cards secret on phones, and play locally or connect remote groups through Steam.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "BARKO",
+    "appid": 5037580,
+    "price": 1494,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5037580",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A story-rich 2D adventure where a loyal dog journeys through bizarre worlds to find his human before it's too late. Meet unforgettable characters, survive chaotic bullet-hell battles, and prove that sometimes a wagging tail can save a life",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Time Gamers: Guardians of the Marble Man",
+    "appid": 4777610,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4777610",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Guardians of the Marble Man is a historical adventure set in 1864 Columbia, South Carolina, recreated through years of research. As a Time Gamer, you search for the lost Roman statue of John C. Calhoun, uncovering secrets tied to secession, war, and hidden history beneath the Old State House.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Wanker",
+    "appid": 4934800,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4934800",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A sensory, timing‑driven interaction tool using embodiment illusions and precise scrubbing mechanics. Use physical motion to drive IN‑OUT‑IN inflection patterns, trigger bursts, and shape a reactive audiovisual feedback loop.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Legacy Pass – Y6S3 – FOR HONOR",
+    "appid": 4912240,
+    "price": 4000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4912240",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Y10S3 Legacy Pass gives 101 tiers of rewards from the Y6S3 Battle Pass and retrofitted items for all heroes to date.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Raider Pheasant",
+    "appid": 5040950,
+    "price": 3680,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5040950",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Raider Pheasant is a single-player arcade shoot ’em up viewed from a dramatic high-angle perspective. Blast through enemy formations, power up your fighter, defeat massive bosses, and chase high scores with keyboard or controller.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Battle Pass – Y10S3 – FOR HONOR",
+    "appid": 4912200,
+    "price": 4000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4912200",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Y10S3 Battle Pass is here! Get 100 tiers of rewards for all heroes! Available during Y10S3 only.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Refund Me TD",
+    "appid": 5159600,
+    "price": 1870,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5159600",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A build-your-own-maze tower defence with one dare: clear all 50 levels in under two hours. Fence off a meadow to make the road long, put eight towers beside it, and hold against rogues, knights and skeletons. Sappers blow towers up. Flocks fly over the maze. Beat the clock and it asks: refund?",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Simple GIF Maker — MP4, MOV, MKV, AVI to GIF & Animated WEBP",
+    "appid": 5153540,
+    "price": 1760,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5153540",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Turn any video clip into a GIF or animated WebP on your own machine. Give it a size limit and it tunes width, framerate and colors until the real file fits, then tells you exactly what it traded. The preview is the actual encoded GIF, so the export holds no surprises. Runs on Windows and SteamOS.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
