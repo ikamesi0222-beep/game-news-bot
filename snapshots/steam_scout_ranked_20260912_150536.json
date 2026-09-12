@@ -1,0 +1,586 @@
+[
+  {
+    "name": "Friendly Fire",
+    "appid": 4905650,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4905650",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A story driven visual novel with interactive shooting challenges where you learn the fundamentals of modern FPS games while helping a cast of stranded characters save their new home from being shut down.",
+    "scout_score": 72,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Survivor's Notes",
+    "appid": 4354460,
+    "price": 15300,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4354460",
+    "current_players": 616,
+    "total_reviews": 217,
+    "positive_rate": 96.31,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Survivor's Notes&quot; is an FMV . Players control two protagonists, using choices and QTEs to unlock different branches and endings. Follow a girl who foresees disaster and acolonel from the future as their stories reveal the outbreak's origins. Trust,rescue, or walk away. Survival is onlyone of them.",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Kamenkik and Friends",
+    "appid": 4943620,
+    "price": 11700,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4943620",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Escape the rising lava in this challenging online co-op platformer! Team up with up to 14 players, overcome deadly traps, solve puzzles, and race to the exit before the lava catches everyone.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "AstroDig",
+    "appid": 4587710,
+    "price": 13900,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4587710",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mine, defend, and profit across planets. Expand your operation, survive enemy waves, and discover dangerous hidden worlds in this minimalist sci-fi strategy shooter.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Dark Avos",
+    "appid": 4849670,
+    "price": 11000,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4849670",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are the guild master, gathering random adventurers! Each expedition of your party will be unique. Collect resources, develop your camp, and improve your party. Become the most powerful guild in this dark world!",
+    "scout_score": 43,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Chud Logic's: Gockbound",
+    "appid": 3802620,
+    "price": 13600,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3802620",
+    "current_players": 2,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Chud Logic is isekai’d into a cursed commentary world. To escape, he must recover his leaked DMs and reach the elusive Princess Gock. A darkly comedic, turn-based RPG parody with retro pixel art and internet drama.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Ashfall Keep",
+    "appid": 5077290,
+    "price": 15300,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5077290",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A village lives in the shadow of a burned kingdom. Explore 25 hand-built maps, fight turn-based battles with real-time boss phases, farm, fish, cook and gamble, and decide what happens to the people you meet. A cosy RPG with teeth.",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Next Girl, Please 🎬",
+    "appid": 4602300,
+    "price": 18500,
+    "discount_percent": 37,
+    "url": "https://store.steampowered.com/app/4602300",
+    "current_players": 168,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Screen fantasy girls for a bold urban adult studio in this “Papers, Please”-style experience. Make tough calls, build your reputation, and outshine your rival across 10 intense days to unlock multiple endings. Who’s in… and who’s out? 🎬",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Tentacle Locker 2",
+    "appid": 4071460,
+    "price": 13000,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4071460",
+    "current_players": 114,
+    "total_reviews": 57,
+    "positive_rate": 73.68,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as a mischievous tentacle monster in a fun side scroller. Hide in lockers, jump out at the right time, catch unsuspecting students to earn money, and unlock silly cosmetic upgrades. Cause playful chaos everywhere! (This version includes new areas and outfits.)",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Mother;Above",
+    "appid": 5074900,
+    "price": 4000,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5074900",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Matoki is about to flood to protect the inhabitants of the city above... Vik and his companions head for the flood controls, but his search for his missing mother threatens to consume him. A psychological horror VN about sacrifice, and what desperation makes people willing to do.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Pixel Cultivation Chronicles",
+    "appid": 4903680,
+    "price": 15300,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4903680",
+    "current_players": 15,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dive into this Cultivation Idle game for exponential growth! Idle to amass massive cultivation base. Refine roots, equip pets, and forge weapons for ultimate damage builds. Reincarnate to inherit global stats. Say goodbye to grinding, strategize your builds, and watch stats skyrocket!",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Space Phantom",
+    "appid": 4871760,
+    "price": 6700,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4871760",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 3D shoot 'em up meets time survival. Fight through endless enemy swarms, narrowly dodge bullets with the Just Dodge system to earn EXP, destroy enemies, upgrade your ship with turrets and beam cannons, and survive until time runs out.",
+    "scout_score": 33,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Fall Queen",
+    "appid": 5034930,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5034930",
+    "current_players": 0,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Climb to the summit in a bite sized pixel-art platformer where every jump matters. Plan your movements, recover from missed landings, and master a challenging upward course where one mistake can send you tumbling back down.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Vegeteamble",
+    "appid": 5099030,
+    "price": 7600,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5099030",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to the ultimate battle between the Fruit and hordes of monstrous invaders. Take command as a master strategist: recruit powerful fruit warriors, equip them with devastating gear, build the ultimate team, and defeat massive bosses.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Minip",
+    "appid": 5097600,
+    "price": 5200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5097600",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A physics-based puzzle game where you position obstacles to guide a bouncing ball to its goal. Solve levels, collect stars, unlock new ball appearances, and discover colorful environments along the way.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "VR # AVOID",
+    "appid": 2822270,
+    "price": 8600,
+    "discount_percent": 31,
+    "url": "https://store.steampowered.com/app/2822270",
+    "current_players": 0,
+    "total_reviews": 9,
+    "positive_rate": 88.89,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "AVOID THE GRID",
+    "scout_score": 29,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Hentai Age Mystic",
+    "appid": 5123960,
+    "price": 2100,
+    "discount_percent": 22,
+    "url": "https://store.steampowered.com/app/5123960",
+    "current_players": 0,
+    "total_reviews": 8,
+    "positive_rate": 87.5,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Match identical cards to remove them from the board and uncover stunning hidden images. Challenge your memory, complete each level, and discover captivating new pictures along the way.",
+    "scout_score": 29,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Play the Wor!d",
+    "appid": 4727440,
+    "price": 4100,
+    "discount_percent": 21,
+    "url": "https://store.steampowered.com/app/4727440",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build words, complete sentences, and chase high scores in a deckbuilding roguelite. Draw letter tiles, connect words by their parts of speech, exploit word and sentence patterns, and use rule-bending emoji tiles to clear each round.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Village Above the Well",
+    "appid": 5077580,
+    "price": 13000,
+    "discount_percent": 33,
+    "url": "https://store.steampowered.com/app/5077580",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rebuild a mining village around an ancient well. Gather wood, stone, iron and crystal, hire workers, refine materials and forge gear — then send your adventurer into the seven dungeons below. A cozy idle village builder about memory, loss and the way back home.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Dockable",
+    "appid": 4915150,
+    "price": 9000,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4915150",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bring the elegance of the macOS Dock to Windows 11. Dockable is a beautiful bottom dock with magnifying icons, a Liquid Glass bar, light/dark themes, and smooth genie-style minimize animations — mirroring your taskbar apps in a cleaner, more delightful way.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "THE LAST LOGIN",
+    "appid": 4773940,
+    "price": 49500,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4773940",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "THE LAST LOGIN is a psychological hacker thriller where you use GHOST//OS to exploit websites, intercept data, control cameras, and make dangerous choices as the voice in your head pushes you deeper into crime.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Horizon Ring",
+    "appid": 4995250,
+    "price": 17500,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4995250",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Horizon Ring is an incremental tower-defense game built around flexible loadouts and distinct playstyles. Balance immediate defense against long-term growth, specialize in active clicking, passive income, towers, or fortifications, and unlock new maps and challenges in endless waves.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Teach Kids Math",
+    "appid": 4414050,
+    "price": 43000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4414050",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "It is time to teach kids math. Help your child build confidence in math with visual problems, learning paths, and step-by-step explanations. Let them practice at their own pace, revisit saved answers together, and watch Tallygrove Farm grow with each correct answer.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "BULBIT",
+    "appid": 5064740,
+    "price": 9000,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5064740",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Navigate the darkness with only your flashlight and your ears.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "武道余晖 The Last Glimmer of the Martial Way",
+    "appid": 4842470,
+    "price": 21000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4842470",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In real-time action games controlled by mouse and keyboard, players defeat enemies to level up and learn skills, collect equipment to enhance their strength, and complete objectives within levels. After defeating all bosses, they can successfully save the world and complete the game.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "scale2fit",
+    "appid": 4057950,
+    "price": 5200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4057950",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A simple puzzle game about scaling blocks to fit them together.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Basketball Legacy Manager 27",
+    "appid": 4874590,
+    "price": 23000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4874590",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build the ultimate legacy as the general manager of a professional basketball team!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Pengzle:Arctic Arcane",
+    "appid": 4624470,
+    "price": 15500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4624470",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pengzle is a real-time puzzle action adventure where you weave mana into spell formulas in the middle of battle. Read the flow of combat, build the right combination, and cast at the perfect moment as a small penguin mage in a distinctive polar fantasy world.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "WORDLACE",
+    "appid": 5168770,
+    "price": 6000,
+    "discount_percent": 21,
+    "url": "https://store.steampowered.com/app/5168770",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Almost every letter on the board is part of an answer. Almost: a few tiles belong to nothing and nobody says which, so the last word has to be read rather than counted. 1,600 puzzles in English and Russian: everyday words, cinema, games, history, geography.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Caribbean Legend: Age of Pirates - Buccaneers",
+    "appid": 4969720,
+    "price": 34900,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4969720",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Raise the Jolly Roger over Tortuga and lead the Brethren of the Coast through the fiercest years of the 17th century! In this story expansion, you will lead the rising power of French buccaneers and challenge the most powerful empire in the New World.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
