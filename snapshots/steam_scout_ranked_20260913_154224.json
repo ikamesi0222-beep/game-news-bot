@@ -1,0 +1,592 @@
+[
+  {
+    "name": "Friendly Fire",
+    "appid": 4905650,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4905650",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A story driven visual novel with interactive shooting challenges where you learn the fundamentals of modern FPS games while helping a cast of stranded characters save their new home from being shut down.",
+    "scout_score": 83,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Kamenkik and Friends",
+    "appid": 4943620,
+    "price": 625,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4943620",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Escape the rising lava in this challenging online co-op platformer! Team up with up to 14 players, overcome deadly traps, solve puzzles, and race to the exit before the lava catches everyone.",
+    "scout_score": 71,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Pool Ball Battle Royale",
+    "appid": 2193040,
+    "price": 879,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2193040",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pool Ball Battle Royale combines pool with survival in an unparalleled multiplayer experience. Navigate pool tables, gain power-ups, and swing on grapple points to outwit and outlast up to 7 other players. Will you survive the physics-defying chaos and claim victory?",
+    "scout_score": 66,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "DEPTH STRIKE",
+    "appid": 5025870,
+    "price": 346,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5025870",
+    "current_players": 0,
+    "total_reviews": 8,
+    "positive_rate": 100.0,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Depth Strike is the classic Battleship we all know and love, with a tactical twist. Ships reposition after every turn, so you must predict enemy movement, cut off escape routes, and strike at the right moment.",
+    "scout_score": 61,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "AstroDig",
+    "appid": 4587710,
+    "price": 765,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4587710",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mine, defend, and profit across planets. Expand your operation, survive enemy waves, and discover dangerous hidden worlds in this minimalist sci-fi strategy shooter.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Girlfriend Simulator",
+    "appid": 5011730,
+    "price": 722,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5011730",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A Flatscreen and Virtual Reality Psychological Horror that'll make you laugh, scream, cry, and maybe much more!",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Dark Avos",
+    "appid": 4849670,
+    "price": 590,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4849670",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are the guild master, gathering random adventurers! Each expedition of your party will be unique. Collect resources, develop your camp, and improve your party. Become the most powerful guild in this dark world!",
+    "scout_score": 46,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Next Girl, Please 🎬",
+    "appid": 4602300,
+    "price": 1310,
+    "discount_percent": 37,
+    "url": "https://store.steampowered.com/app/4602300",
+    "current_players": 447,
+    "total_reviews": 80,
+    "positive_rate": 92.5,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Screen fantasy girls for a bold urban adult studio in this “Papers, Please”-style experience. Make tough calls, build your reputation, and outshine your rival across 10 intense days to unlock multiple endings. Who’s in… and who’s out? 🎬",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Ashfall Keep",
+    "appid": 5077290,
+    "price": 877,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5077290",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A village lives in the shadow of a burned kingdom. Explore 25 hand-built maps, fight turn-based battles with real-time boss phases, farm, fish, cook and gamble, and decide what happens to the people you meet. A cosy RPG with teeth.",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Mother;Above",
+    "appid": 5074900,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5074900",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Matoki is about to flood to protect the inhabitants of the city above... Vik and his companions head for the flood controls, but his search for his missing mother threatens to consume him. A psychological horror VN about sacrifice, and what desperation makes people willing to do.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "ESCAPEAWAY!",
+    "appid": 5143520,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5143520",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Put your quick reflexes to the test with ESCAPEAWAY! an endless runner and platformer with a retro aesthetic.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "ORBA",
+    "appid": 3520600,
+    "price": 279,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3520600",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "ORBA is a unique vertical time-attack platformer. Strike a mysterious Orb to the top of an ever-changing tower and master random abilities to maintain momentum before time runs out.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Strip Mall Simulator",
+    "appid": 5050290,
+    "price": 1035,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5050290",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Start with your corner store, and build up your strip mall! Open new stores, manage inventory and employees, and unlock new merchandise! Play alone or with friends.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Enhanced Affair",
+    "appid": 4950560,
+    "price": 585,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4950560",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A ruined champion coaches an openly enhanced sports circuit in the Mojave desert. As the inaugural Ascendant Games approach, romance three dangerous women: a hostile rival, a clean outsider, and the executive who owns his story. Adult visual novel with explicit content.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Level P",
+    "appid": 4724910,
+    "price": 625,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4724910",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are trapped underground with one way out. Find your car, follow the sound, and don’t let the car park fool you.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Vegeteamble",
+    "appid": 5099030,
+    "price": 425,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5099030",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to the ultimate battle between the Fruit and hordes of monstrous invaders. Take command as a master strategist: recruit powerful fruit warriors, equip them with devastating gear, build the ultimate team, and defeat massive bosses.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "BULBIT",
+    "appid": 5064740,
+    "price": 517,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5064740",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Navigate the darkness with only your flashlight and your ears.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Post Office: Tidy Up!",
+    "appid": 5166890,
+    "price": 556,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5166890",
+    "current_players": 33,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Post Office: Tidy Up! is a cozy sorting simulator where you shelve 3,360 parcels scattered across a postal depot by an earthquake. Read every label, find its courier, country and numbered slot, and restore order at your own pace.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "You Will Get Rich!",
+    "appid": 5169430,
+    "price": 140,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5169430",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The first cyber-begging game on Steam! Ultra-cruddy graphics! No music, no sound effects at all! Earn coins by idling and tapping your piggy bank, then spend them on blessings crafted by the developer!",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "I Have Only MP",
+    "appid": 4886630,
+    "price": 1035,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4886630",
+    "current_players": 3,
+    "total_reviews": 4,
+    "positive_rate": 50.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "When MP hits zero, you automatically return to base! Higher stages bring bigger monster swarms. Forget complex builds—just collect gold and freely upgrade any skill to wipe them out. Defeat a boss every 5 stages to earn 'Beans', spin the roulette, and collect various cosmetic items.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Water Sort:Alchemy",
+    "appid": 5122530,
+    "price": 340,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5122530",
+    "current_players": 8,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sort colorful liquids, solve relaxing puzzles, and enjoy the satisfying flow of alchemy. Water Sort: Alchemy is a polished 3D water-sorting puzzle game featuring beautiful glass bottles, smooth pouring animations, and hundreds of handcrafted challenges.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Elegy For A Violet",
+    "appid": 3991330,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3991330",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a deck-building card game inspired by Spider Solitaire. Players will build their own decks and battle against monsters with various unique mechanics.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Kilnborn",
+    "appid": 5104330,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5104330",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Test your platform fighting-game fundamentals in Kilnborn, a fast-paced platform fighting game where you die in one hit. Kilnborn's pottery protagonists may be fragile, but all play differently with depth to discover in every match.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "The Rallying Ball",
+    "appid": 4342670,
+    "price": 425,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4342670",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Roll into action in The Rallying Ball! Dodge lava, obstacles and hostile balls, use powerful abilities and race through challenging tracks. Explore the map, overcome obstacles and see how far you can roll!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "DAKENSHI",
+    "appid": 5156410,
+    "price": 425,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5156410",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Tap the cans rolling down a cannery line and pull the bad ones using sound alone. Every can looks identical - only the pitch of the tap gives it away. The belt never stops and only gets faster. Three misses and your shift is over. Headphones recommended.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Next Girl, Please 🎬 - Wallpapers 18+",
+    "appid": 5174070,
+    "price": 318,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5174070",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bring the world of Next Girl, Please 🎬 to your desktop with this exclusive collection of premium wallpapers featuring the game’s most captivating characters and unforgettable scenes.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Teach Kids Math",
+    "appid": 4414050,
+    "price": 2850,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4414050",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "It is time to teach kids math. Help your child build confidence in math with visual problems, learning paths, and step-by-step explanations. Let them practice at their own pace, revisit saved answers together, and watch Tallygrove Farm grow with each correct answer.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Nova Drop",
+    "appid": 5065040,
+    "price": 252,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5065040",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Drop glowing orbs into a crystal vessel and watch them merge. Two of a kind fuse into something bigger — plasma into planets, planets into stars, stars into galaxies. Chain combos, chase the black hole, and don't let the vessel overflow. One tap to play, one more run to beat your best.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Kıvam",
+    "appid": 4849130,
+    "price": 695,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4849130",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A calm marbling craft set in 18th-century Istanbul. Float pigment on water, comb it open, lift it onto paper — every pattern happens once and never returns. In the wake of master Hatip Mehmed Efendi.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "groky",
+    "appid": 5173960,
+    "price": 486,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5173960",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Test your IQ in a minimalist grid puzzle where every step counts!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
