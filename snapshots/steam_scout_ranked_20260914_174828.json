@@ -1,0 +1,617 @@
+[
+  {
+    "name": "Dunebound Tactics",
+    "appid": 3034660,
+    "price": 1119,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3034660",
+    "current_players": 5,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lead your band of survivors on a perilous trek across unforgiving sands in search of a new home. Battle ruthless factions, scavenge dwindling resources, reshape the terrain to your advantage and make life-or-death choices in Dunebound Tactics, a Roguelite Turn-Based Tactical RPG.",
+    "scout_score": 83,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: RPG +10",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Tenebris: Terra Incognita",
+    "appid": 2280060,
+    "price": 1499,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/2280060",
+    "current_players": 371,
+    "total_reviews": 287,
+    "positive_rate": 86.41,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A turn-based tactical RPG. Experiment with the talent trees of 23 heroes. Combine abilities with equipment. Defeat 17 terrifying bosses and uncover the secrets of the planet Tenebris!",
+    "scout_score": 82,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "RIG Riot",
+    "appid": 3180340,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3180340",
+    "current_players": 253,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.",
+    "scout_score": 79,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Dungeons & Death",
+    "appid": 5085640,
+    "price": 615,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5085640",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight through dark-fantasy expeditions alone or in online co-op with up to four heroes. Choose a quick run or a long one, uncover hidden paths, build a unique hero through randomized upgrades and item drops, and earn your way to the Black Knight in The Final Oath or become the enemy as the Director.",
+    "scout_score": 71,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Craftomation 101: Programming & Craft",
+    "appid": 1724140,
+    "price": 1049,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/1724140",
+    "current_players": 178,
+    "total_reviews": 643,
+    "positive_rate": 84.91,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Program a crew of tiny robots to turn a frozen planet into a living world. Connect visual code blocks, automate crafting, and build a workforce that fuels itself. Keep the heat flowing, refine your machines, and watch your ideas come to life.",
+    "scout_score": 57,
+    "reasons": [
+      "成長/積み上げ要素: Crafting +15",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Blood Lily: Killers Can't Sink a Yuri Ship",
+    "appid": 3863090,
+    "price": 471,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3863090",
+    "current_players": 8,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A B-horror mystery comedy adventure game. Having a crush on your bestie is hard enough without serial killers in the way! Lily's vacay plan to romance her crush Sally goes wrong when killers keep cropping up and ruining the mood. And that means war. &quot;How dare you come between Sally and me!&quot;",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Creator Chronicles",
+    "appid": 3947460,
+    "price": 857,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3947460",
+    "current_players": 1753,
+    "total_reviews": 146,
+    "positive_rate": 73.29,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A game within a game. In this entirely new kind of simulation RPG, become a guild master, develop your town, recruit guild members, and conquer dungeons. Every decision you make becomes your own chronicle.",
+    "scout_score": 51,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Sigilfarer: A Dice-Rolling Roguelite",
+    "appid": 2436870,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2436870",
+    "current_players": 109,
+    "total_reviews": 18,
+    "positive_rate": 88.89,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sigilfarer is a roguelite adventure where every decision rests on the roll of your dice. Master a dice-building system while navigating a sprawling, procedurally generated world. Strategize your route, manage resources and push your luck to the limit!",
+    "scout_score": 49,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Trumps Of Albion",
+    "appid": 5173810,
+    "price": 1024,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5173810",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A persistent multiplayer card-RPG in Arthurian Britain. Merlin bound all war into a card rite: the same hand moves you across the isles and fights your duels. Beat one of his escaped Trumps and tear its page free — but now a living world is dealt orders to hunt you.",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Infinite Music Game",
+    "appid": 5153850,
+    "price": 1484,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5153850",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dive into an immersive 3D rhythm experience. Whether playing solo or teaming up in 2-player local co-op, you can tackle different difficulties and specialized playstyles, including Guitar and Dance Mode. Bring your own tracks by loading an MP3, or listen to live PC audio to create notes on the fly.",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "TCG Card Shop Simulator",
+    "appid": 3070070,
+    "price": 1741,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3070070",
+    "current_players": 4061,
+    "total_reviews": 49541,
+    "positive_rate": 96.52,
+    "steam_score": "Overwhelmingly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Open your own local game store. Stock shelves with the latest booster packs, or crack them and collect the cards for yourself. Set your own prices, hire staff, host events, and expand your card shop.",
+    "scout_score": 46,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Pibcremental",
+    "appid": 4573090,
+    "price": 461,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4573090",
+    "current_players": 679,
+    "total_reviews": 33,
+    "positive_rate": 90.91,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy, chaotic idle-incremental clicker about growing a civilisation of tiny creatures called Pibbles in a giant tree, set in a post-human world.",
+    "scout_score": 43,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Neat!",
+    "appid": 4300090,
+    "price": 717,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4300090",
+    "current_players": 633,
+    "total_reviews": 37,
+    "positive_rate": 86.49,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Feeling overwhelmed? Hi, I’m Molly. I help people sort their space, organize their belongings, and bring calm back into their lives. Let’s take it one object at a time and make everything feel neat again. Tell me your story. I’m here to listen.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Fish Lab",
+    "appid": 4221990,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4221990",
+    "current_players": 302,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A short incremental game where you collect fish for your lab. Synced to music.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "How to Grow Your Sausage",
+    "appid": 4628250,
+    "price": 314,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4628250",
+    "current_players": 218,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Every [key]stroke makes your sausage bigger. Let it sit in the corner of your screen and watch it grow while you use your PC. Feed it different meats, upgrade your butcher, and see the magic happen. Have you ever dreamed of growing your sausage? Now it’s finally possible!",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Cloudscrapers",
+    "appid": 3562200,
+    "price": 599,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3562200",
+    "current_players": 78,
+    "total_reviews": 11,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cloudscrapers is a minimalist strategy game with a relaxing atmosphere. Build your tower, manage resources, unlock new tools, and uncover the secrets hidden in the sky.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Parry Survivor",
+    "appid": 4540130,
+    "price": 489,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4540130",
+    "current_players": 1,
+    "total_reviews": 36,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Control an anime heroine in the Kun-Domain! Master Sekiro-style parries to deflect endless waves of Kuns, unleash cinematic executions, and upgrade your damage and weapons in this fast-paced action game.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "KasMind",
+    "appid": 4921590,
+    "price": 125,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4921590",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The most lawless taunt-em-up has arrived! Smack them with a paper fan, then mock them while they're down, mock them from a distance, mock them out of pure spite — spam taunts and victory is yours. &quot;So... how does it feel?&quot;",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Peacemaker: Bloody Emperor",
+    "appid": 2548910,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2548910",
+    "current_players": 4,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A JRPG about a princess knight's psychological downfall. An honorable princess knight must fight the Bloody Emperor, a ruthless usurper. But through a forced marriage to a vassal and the looming threat of a female dark lord, her ideals gradually begin to crumble...",
+    "scout_score": 33,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Rehaunted",
+    "appid": 4538140,
+    "price": 733,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4538140",
+    "current_players": 204,
+    "total_reviews": 11,
+    "positive_rate": 36.36,
+    "steam_score": "Mostly Negative",
+    "genres": [],
+    "categories": [],
+    "short_description": "Enter a house where every clue feels wrong. Investigate a brutal crime scene, uncover hidden evidence, and use your detective tools to piece together a disturbing truth buried beneath the silence.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Rogue Circuit",
+    "appid": 5180900,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5180900",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a racing machine one decision at a time. Choose drivers, tuning, techniques, powerups, and revenge cards, then race through a roguelite battle where you can trust your driver or take control yourself.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Meeple Incremental",
+    "appid": 4353350,
+    "price": 553,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4353350",
+    "current_players": 139,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Roll dice to move Meeples around the board and collect money, skill points, and capsule tickets. Unlock unique skills and minigames, powerful collectibles, and automate dice rolls to increase your income.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Depth of Mind",
+    "appid": 3711100,
+    "price": 492,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3711100",
+    "current_players": 5,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this turn-based strategy game, you must assemble the strongest team of mental operatives to overcome mental illnesses inside a person.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hearthpiece",
+    "appid": 5016920,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5016920",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy jigsaw puzzle in comic style. Sort, drag and fit 24 to 1000 pieces into 56 pictures, from busy scenes to fantasy places and retro nostalgia. Name your own sorting trays on a table without edges. No timer, no score, no ads. Your progress saves after every single piece.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "GRID/",
+    "appid": 4244590,
+    "price": 389,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4244590",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fast-paced boss rush on a 7×6 grid! Dodge tiles in enemy attack zones, then strike back with a devastating Rush skill and Ultimate! 9 bosses, 3 weapons. Each fight lasts just a few minutes, but packs a real challenge! Jump in like an arcade game and enjoy tense, thrilling battles!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sudoku",
+    "appid": 4985880,
+    "price": 415,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4985880",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A casual Sudoku game that lets you draw out your reasoning on the board.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Moonwrought Bastion",
+    "appid": 5112240,
+    "price": 615,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5112240",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Don’t just mow down the horde—weaponize the battlefield. Lure enemies into spinning gears, ignite fuel slicks, chain lightning through metal, fuse bubbles with abandoned mechs, or hurl cars into the swarm. 9 hunters bend the arena in different ways, and every run lasts 10–15 minutes.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "SlimeMerge",
+    "appid": 5111270,
+    "price": 553,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5111270",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A chaotic physics puzzle game where you merge slimes to score points. Play solo, challenge the AI, or battle real opponents online where items let you sabotage their board. Simple to learn, hard to put down. Fully localized in 72 languages.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "嘘！超能少女代购中！",
+    "appid": 4804070,
+    "price": 519,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4804070",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Broke and fired, Qiqi gets a phone that teleports her to any photo! Her plan? Cross-border smuggling! In this 3-hour comedic simulator, manage inventory, stealth-teleport, and bluff through deadly customs checks to scalp goods. One bad lie means jail! Unlock 40+ hilarious endings in this hustle.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Second Look — Screen Magnifier for Gaming and Low Vision",
+    "appid": 5176570,
+    "price": 415,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5176570",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Second Look enlarges whatever you point at, sharp and right under your cursor, so quest text, item names and map labels stay readable in any game. Built for gaming and for eyes that struggle with small text, it stays light on your frame rate and even includes a crosshair with 200 designs.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
