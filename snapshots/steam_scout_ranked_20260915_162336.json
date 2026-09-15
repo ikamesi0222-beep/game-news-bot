@@ -1,0 +1,593 @@
+[
+  {
+    "name": "The Bow: Ultimate weapon",
+    "appid": 4563910,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4563910",
+    "current_players": 8,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A top-down shooter incremental game where you defeat enemies, sell loot, unlock powerful upgrades, defeat bosses for special items, and shape your own combat build through steady progression.",
+    "scout_score": 103,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Fright Train",
+    "appid": 4132890,
+    "price": 1439,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4132890",
+    "current_players": 57,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight through a train overtaken by monsters and survive Antarctica’s cold as paranormal special agent Doug Barker in this chilling single-player third-person survival horror roguelite.",
+    "scout_score": 68,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "次点ジャンル: Survival +15",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Batomon Showdown",
+    "appid": 4557380,
+    "price": 974,
+    "discount_percent": 35,
+    "url": "https://store.steampowered.com/app/4557380",
+    "current_players": 3076,
+    "total_reviews": 64,
+    "positive_rate": 78.12,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Creature-collecting pvp async auto battler where you choose your trainer, select your Batomon and assemble the ultimate team to take down other players! Play at your own pace while you discover new deadly team combos and synergies! Break the game by training your Batomon to overpowered levels.",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: PvP +20",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Chef Hands : Kitchen Mayhem",
+    "appid": 3179160,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3179160",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fun physics based co-op hand simulator in which you prepare food in 5 crazy kitchens. 4 Chef hands can share the kitchen at the same time locally.",
+    "scout_score": 52,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "BTR Ringfall",
+    "appid": 5102710,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5102710",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "BTR Ringfall is a tactical lane-based tower defense game. Deploy 7 unique elemental operatives across 5 battle lanes, manage Ring Energy, unleash powerful abilities, and combine your operatives to create devastating elemental reactions and defend the Ring.",
+    "scout_score": 48,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Event",
+    "appid": 2444700,
+    "price": 549,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2444700",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Event is a first-person psychological horror game that offers immersive gameplay and a rich narrative. Find yourself stuck in mystery and struggle in the dark against paranormal activities, demons from other worlds and much more. Will you be able to find out the truth and return home?",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Medieval Juice Crafter",
+    "appid": 4668870,
+    "price": 1079,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4668870",
+    "current_players": 53,
+    "total_reviews": 17,
+    "positive_rate": 94.12,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Craft your special recipe juices and sell them in medieval villages. Expand your business with new recipes, machines, properties, and workers. Play online with your friend or go solo, and enjoy the growth of your business.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Rushcremental",
+    "appid": 2695500,
+    "price": 329,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/2695500",
+    "current_players": 30,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An active incremental game about searching for scraps and drag racing to rule over all the territories in the wasteland.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Might & Poison Mushroom",
+    "appid": 4991340,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4991340",
+    "current_players": 4,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Yes, you are poisoned. This is a prologue to Might &amp; Mushroom. If you find your vision suddenly bursting with vibrant colors, or even see weird tiny people dancing... do not panic, you are not dead yet! Take control of your fate with a unique shop building system and innovative synergy mechanics!",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cloudbreaker",
+    "appid": 3620890,
+    "price": 1169,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3620890",
+    "current_players": 13,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bullet Heaven meets Inventory Management. Dive through a sky-world, shred hordes of enemies, and slot engine parts into your airship's grid to build absurd synergies. A roguelite where placement, not luck, decides the run. Every ship has a different grid to solve.",
+    "scout_score": 33,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Look to the Birds",
+    "appid": 4162670,
+    "price": 699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4162670",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy first-person birdwatching game about slowing down, noticing nature, and finding peace in small moments. Photograph 30+ bird species across five hand-crafted dioramas and fill your journal as you travel through the Canadian Maritimes.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Blade or Balls 🧝‍♀️🧌",
+    "appid": 4194170,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4194170",
+    "current_players": 3,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A demoness warrior with a secret name. An ogre with a secret spell he got from a bribe. Now the two of them are facing off in forgotten ruins, but only one can be proclaimed the winner. And will it be by blade or by balls that the winner is declared?",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "PAYDAY 2: Under the Hammer Heist",
+    "appid": 5149580,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5149580",
+    "current_players": 0,
+    "total_reviews": 47,
+    "positive_rate": 85.11,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "The past-its-prime Pallisandro Dimora auction house contains a collection of art pieces belonging to a late 60s master thief. The pieces themselves are unremarkable, but within one of them, lies a clue to a long-lost fortune.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Secrets of Temple Isle",
+    "appid": 1842680,
+    "price": 1007,
+    "discount_percent": 28,
+    "url": "https://store.steampowered.com/app/1842680",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Step into a 90s-inspired exploration RPG, raiding deadly dungeons, caves, and temples for gear and treasure on a vibrant, hand-crafted island. Defeat formidable enemies in strategic third-person combat, discover ancient legendary relics, save the island from imminent danger and customize your hero.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Rollout Inline",
+    "appid": 4464990,
+    "price": 1899,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4464990",
+    "current_players": 245,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rollout Inline is a brand new Aggressive Inline game created by a solo dev who is passionate about the sport. This game aims to scratch the itch for those who have been craving a new, modern, and intuitive inline skating game!",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "A Game About Flipping Cards",
+    "appid": 4659250,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4659250",
+    "current_players": 13,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Did you read the title? That's the game, I promise. Flip cards to make money to buy upgrades to make more money to buy more upgrades to make more money. There is no other goal than that.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "theHunter: Call of the Wild™ - Old West Weapon Pack",
+    "appid": 4868870,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4868870",
+    "current_players": 0,
+    "total_reviews": 8,
+    "positive_rate": 75.0,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Own a slice of true American history with three iconic 19th-century firearms. Feel the power of rugged, black-powder weapons. Make every single shot count!",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Solvizz",
+    "appid": 4210440,
+    "price": 419,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4210440",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 0.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A quiet logic puzzle for the hour after the world stops shouting: no timer, no fail state, and every wrong click un-clicks in a stroke. Divide paper-warm grids into regions until each one obeys the law of the room it sits in.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sid Meier's Civilization® VII: Hall of History Collection",
+    "appid": 5032530,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5032530",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore new possibilities for your personalized empire in Sid Meier's Civilization® VII with the paid add-on content of the Hall of History Collection!",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Neon Dodge",
+    "appid": 3666410,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3666410",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Neon Dodge is a frantic, vaporwave-themed bullet hell where you cannot shoot. Master the dodge to survive the impossible challenges that a mysterious Voice throws at you... Or watch your death counter ascend to infinity.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Heroes Suck",
+    "appid": 2497980,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2497980",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A physics-driven tower defense where you play the dungeon. Lay out traps and launch waves of invading &quot;heroes&quot; who are, charitably, bad at their job. They walk into every snare, complain about their knees, ask where the restroom is, and leave with the cheese wheels.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The 3D Gamemaker",
+    "appid": 5118970,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5118970",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Create your game instantly with the intuitive 3D editor.  Then, with one click of the mouse, play your game!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "G.O.T.",
+    "appid": 5107720,
+    "price": 400,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5107720",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A reimagining of a 1990s classic. Battle enemy tanks, destroy bases, and earn points to spend on upgrades, bonuses, and new vehicles. You can also train your tank crew using earned experience points",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "BLIND SPOT",
+    "appid": 5071740,
+    "price": 1079,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5071740",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You're the new Night Auditor at Facility 09. Drive each floor, spot what's changed since the last cycle, and file your report before you move on. Dispatch insists the building is fine. Dispatch has been wrong before.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Stock Market Crash 2",
+    "appid": 5104080,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5104080",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Buy and sell stocks to make a ton of money! Make sure to sell your stocks before they go BooM! Who has time for long term investing? Trade like a maniac!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Game Store Cleanup",
+    "appid": 5146840,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5146840",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy-chaotic first-person sim about restocking a wrecked game store. Sort every scattered item back onto its correct shelf and watch a total mess become a tidy, ready-to-open shop again.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "A Living Corner",
+    "appid": 5145200,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5145200",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A little life for your desktop. Watch mountains shift from day to night, ripple a pond and play with birds and fish. Enjoy 15 themes in a window, as live wallpaper or a screensaver: pressure-free company at your own pace, with six handy tools and media controls.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cognite",
+    "appid": 5147050,
+    "price": 299,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5147050",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are a lab technician at the secret bunker &quot;Cognite.&quot; Your task is to conduct experiments on anomalous objects. But every day could be your last. Trust no one — not even the protocol.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Batomon Showdown - Supporter Pack",
+    "appid": 5255370,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5255370",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cosmetic pack for players that want to show additional support!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hentai Puzzle: Valentine",
+    "appid": 5113480,
+    "price": 200,
+    "discount_percent": 33,
+    "url": "https://store.steampowered.com/app/5113480",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hentai Puzzle: Valentine: Solve seductive anime puzzles with Valentine, unlock images and scenes, and progress through a playful adult puzzle experience full of teasing rewards.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
