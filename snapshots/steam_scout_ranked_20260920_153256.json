@@ -1,0 +1,595 @@
+[
+  {
+    "name": "Canyon Carnage",
+    "appid": 5010120,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5010120",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fast-paced FPS inspired by the classics of the genre. Take on hordes of monsters, master an arsenal tailored to each threat, uncover secrets and climb the global leaderboards for high scores and speedruns.",
+    "scout_score": 70,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Meridian Strike",
+    "appid": 5139650,
+    "price": 449,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5139650",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Command a mercenary mech company in a turn-based tactical RPG. Plan every move on a hex battlefield, manage heat and localized damage, develop veteran pilots, repair battered machines, and carry the consequences of each mission into the next.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "PotionPanic",
+    "appid": 4533650,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4533650",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 0.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Potion Panic is a fast-paced cooperative potion brewing game where 1-4 players gather magical ingredients, manage chaotic workshop hazards, and craft increasingly complex potions to fulfill customer orders before time runs out.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Cooperative +30",
+      "無料 +20",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "カブトムシの森",
+    "appid": 5121040,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5121040",
+    "current_players": 7,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A young boy visits a forest with his father to catch rhinoceros beetles. As he wanders through the night forest, an eerie presence gradually begins to reveal itself in this short horror game.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Submechanic",
+    "appid": 4741630,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4741630",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Submechanic is a short horror game where you take an after-hours maintenance job at Captain Frill's Bar and Grill. You're required to climb down into the tanks in order to perform various repairs.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "AstroTennis",
+    "appid": 5109050,
+    "price": 89,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5109050",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Choose your suit and play against the most famous astronauts. Beat all of them to win the tournament or play with a friend in local multiplayer.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "DISCIPLINE SIMULATOR",
+    "appid": 4739040,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4739040",
+    "current_players": 390,
+    "total_reviews": 20,
+    "positive_rate": 90.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "🔥 UP TO 8-PLAYER HARDCORE DISCIPLINE SIMULATOR!!! 💪 Build power at max speed and WIN! Upload your target pics, use gadgets, and wreck faces in insane massive brawls! Dominate, sweat, and become the ABSOLUTE GOD OF DISCIPLINE!!! 😈",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Rusted Awakening",
+    "appid": 2874490,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2874490",
+    "current_players": 2,
+    "total_reviews": 10,
+    "positive_rate": 90.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rusted Awakening is a one hour nightmare with brutal first person combat, set inside an underground facility where humanity is kept asleep and harvested by those who remain awake. Find a way out.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sakura: The Eternal Night",
+    "appid": 5013390,
+    "price": 59,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5013390",
+    "current_players": 2,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In a virtual Kyoto, a boy meets a shrine maiden with no memory of her past. Together, they uncover the truth hidden within the game — and his own heart. Choices shape fate. In this eternal night, who will you protect?",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "忍牌忍战大师Ninja Cards and Ninja Battle Master",
+    "appid": 5132180,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5132180",
+    "current_players": 1,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You can clear all floors through the Ninja Card Mode and the Ninja Battle Mode. The Ninja Card Mode features a unique laid-back attribute-restraint scoring gameplay. After clearing all floors, you can become a Ninja Card Master or a Ninja Battle Master!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Meat Girl",
+    "appid": 4917360,
+    "price": 500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4917360",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "𓍊𓋼𓍊𓋼𓍊 Meat Girl is a lesbian visual novel about a girl searching for her mentally ill roommate in cold mountains filled with meat 𓍊𓋼𓍊𓋼𓍊",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Furry Protocol",
+    "appid": 4141640,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4141640",
+    "current_players": 1,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Survive and escape from the scientific research complex in the Siberian forests and uncover the secrets of the corporation that built this complex.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Slap the Gamer",
+    "appid": 5195850,
+    "price": 350,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5195850",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Slap an obnoxious gamer, rack up an absurd slap count, unlock achievements, and endure increasingly annoying taunts in this deliberately stupid arcade clicker inspired by the chaotic spirit of classic Flash games.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "The Options Menu",
+    "appid": 4735970,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4735970",
+    "current_players": 0,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Options Menu is a game where you play as a 'Player' and experience a life filled with Options. Explore countless endings to uncover a game that may surprise you as the real friend all along was your Options Menu in this Comedic Story.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Panic Files: Buried Sanity",
+    "appid": 4012730,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4012730",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your first day at the local mine got a hell of a twist when the tunnels caved in. Can you escape when the only way out is going deeper? Avoid the deadly creatures, push through hallucinations and remember: Don't panic.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Fluttering",
+    "appid": 3759520,
+    "price": 432,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3759520",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pushed from his nest for being born prematurely, Pip must prove Mother Nature wrong. Fluttering is a punishing precision platformer where determination is key. Master a unique momentum-based flutter mechanic, survive brutal falls, and climb back to the nest. Flutter. Fall. Rage. Repeat.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Pirouette & Smile",
+    "appid": 5171060,
+    "price": 300,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5171060",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A jigsurfing puzzle game combining platformer and jigsaw gameplay with video challenges.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Night Record: Thin Walls",
+    "appid": 4652040,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4652040",
+    "current_players": 6,
+    "total_reviews": 12,
+    "positive_rate": 75.0,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Vadim, a maintenance worker in a decaying post-Soviet apartment, leaves town to care for his sick mother, asking his wife to take over his duties. As she settles into the routine, the building begins to feel off quiet in all the wrong ways.",
+    "scout_score": 30,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "ROGUELIKE CARD GAME:BUSINESS EMPIRE",
+    "appid": 4506090,
+    "price": 239,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4506090",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Roguelike Card Game: Business Empire&quot; combines roguelike with card strategy. Choose your character, build your industrial park from scratch using cards, experience multiple victory paths, and compete on the global leaderboard.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Screw IT",
+    "appid": 4972300,
+    "price": 499,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4972300",
+    "current_players": 21,
+    "total_reviews": 11,
+    "positive_rate": 63.64,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Screw It is a cozy, realistic organizing simulator where you sort 777 nails + 1 screw and tidy up your workbench. Use different tools to fix and organize various types of nails. No abilities No pressure, just fix, sort, stock and enjoy the satisfaction of stocking nails in a relaxing environment.",
+    "scout_score": 28,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Cultivation",
+    "appid": 5110470,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5110470",
+    "current_players": 4,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cultivation blends sect management, character growth and top-down room combat. Recruit disciples, hatch spirit beasts, craft pills and artifacts, explore randomized trials, and plan every breakthrough within a finite lifespan as your sect rises from Qi Refining to Spirit Transformation.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Day Off Simulator",
+    "appid": 2524740,
+    "price": 84,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/2524740",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Unwind and have a blast in the &quot;Day Off Simulator&quot;! Give your boss a slap, relax with interactive musical instruments, and enjoy various leisure activities. A unique blend of excitement, relaxation, and creativity awaits you!",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Kairos: In Step with Time",
+    "appid": 4944490,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4944490",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Kairos: In Step with Time is an experimental interactive experience about time, cosmic order, and human response. Align the time ring, answer six moments of change, and let your final hexagram emerge from the rhythm of the universe.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "DIY Dadish",
+    "appid": 5157680,
+    "price": 1500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5157680",
+    "current_players": 9,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Create your own adventure and share it with the world! Everyone's favorite radish dad is back, but this time the story is up to you! in DIY Dadish gives players the ability to design any Dadish level they can imagine.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "ChessTan",
+    "appid": 5099860,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5099860",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Settle a kingdom, roll for resources, and build an army with real chess movesets on a hex battlefield. ChessTan fuses Catan-style economy with chess-style combat for 2-4 players — outbuild your rivals, then checkmate the last Nexus standing. Play locally, online with friends, or through Steam.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Brain-eating Bride",
+    "appid": 4377080,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4377080",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In a New York art auction hall, wedding planner Alan meets the mysterious woman Sophia and is invited to get married 19 days later. During the honeymoon, Alan's identity suddenly changes, and he starts to interrogate Sophia about secrets like the Black Thorn Project. Danger is quietly approaching.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Doctor Mother-in-law Wants My Baby",
+    "appid": 4900200,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4900200",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Noah, a deliveryman, nearly died in a car accident on a rainy night but unexpectedly gained superpowers. His mother-in-law, Audrey, noticed his abnormality, and they joined hands to investigate the conspiracy of consciousness smuggling while developing a subtle affection for each other.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "UMAN",
+    "appid": 5005050,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5005050",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to UMAN - Become a cog in the machine - Work, sleep and don't ask questions - Collect your trash, hit your quota, consume, upgrade and meet your coworkers. But whatever you do... don't look into the eyes.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "BIG BANG TO US",
+    "appid": 5097440,
+    "price": 899,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5097440",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A wondrous journey across 13.8 billion years of cosmic history, ending with the discovery of ourselves. 'BIG BANG TO US' is an interactive science application that lets you experience the vast history of the universe through intuitive interactions.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Gwiazdozbiór",
+    "appid": 4849030,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4849030",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Gwiazdozbiór is a logic game where you steer beams of light to bring stars back to life. Use mirrors to redirect the laser and solve puzzles inspired by real constellations. Plan your moves, avoid black holes, earn the gold trophy. Single-player. Polish, English, German, French, Spanish.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
