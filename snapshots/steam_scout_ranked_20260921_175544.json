@@ -1,0 +1,617 @@
+[
+  {
+    "name": "Mad Metal",
+    "appid": 3068230,
+    "price": 1119,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3068230",
+    "current_players": 6,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dark vehicle combat shooter where you manipulate time, customize your vehicle, and dismember the opposition as you survive in an AI-driven apocalypse. Fight solo or with a friend in open-world co-op, extraction, and deathmatches.",
+    "scout_score": 123,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "最優先ジャンル: Extraction +40",
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Crystant",
+    "appid": 3006090,
+    "price": 1102,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3006090",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "《Crystant》 is a strategy survival game that combines story-driven exploration, board game-style tile connection, tactical turn-based combat, and Roguelite progression. Explore each floor, manage resources, strengthen your team, and fight against mutated creatures.",
+    "scout_score": 106,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: Survival +15",
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Deified",
+    "appid": 3623530,
+    "price": 1349,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3623530",
+    "current_players": 161,
+    "total_reviews": 284,
+    "positive_rate": 95.77,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Forge your strategy around powerful relics in this turn-based tactical roguelite. Choose your slots, manage their constraints, and face formidable bosses.",
+    "scout_score": 84,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Lootborne",
+    "appid": 4335620,
+    "price": 169,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4335620",
+    "current_players": 2145,
+    "total_reviews": 121,
+    "positive_rate": 66.94,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "A challenging dark fantasy idle RPG that lives in the corner of your screen. Fight and loot while you work, refine your build, trigger item synergies, and grow stronger. An autobattler with asynchronous PvP, for glory and loot!",
+    "scout_score": 84,
+    "reasons": [
+      "次点ジャンル: PvP +20",
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Scirocco Thugs",
+    "appid": 3042790,
+    "price": 495,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3042790",
+    "current_players": 19,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Roundhouse Kicks, Six shooters and rusty Lead Pipes become your vehicles for revenge against the Don.... Grab some scrap and engage in brutal, breakneck melee combat in this First Person Brawler meets Beat'Em Up!",
+    "scout_score": 76,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Tung Tung Together: Online Deathrun Party",
+    "appid": 4122870,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4122870",
+    "current_players": 1,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A multiplayer deathrun party game where you activate traps as Tung Tung, and if someone clears the course, the role switches. Cute characters, online competition, chaos, and fun-filled maps—collect the highest score and dominate the mayhem!",
+    "scout_score": 75,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: Party +25",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cuckoo Mask",
+    "appid": 2301480,
+    "price": 877,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2301480",
+    "current_players": 13,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Non-combat narrative focused RPG by smut artist Hasselnut — in Cuckoo Mask you're the biggest bulliable bottom in a masked party! With 5 character routes and one true ending, you will explore different kinds of domination &amp; humiliation.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Zombie X",
+    "appid": 5106570,
+    "price": 98,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5106570",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Endless arcade shooter. Survive shifting zombie arenas, chain kills, swap weapons, and beat your high score",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Immortal Dao Idle",
+    "appid": 4493090,
+    "price": 530,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4493090",
+    "current_players": 56,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Work together in this new online multiplayer game to defeat the Herald of the End Times and prevent the destruction of our world! Cultivate, train and craft to become the Main Character of this new world! ZERO P2W or P2Progress. Cosmetics/Support packages only provide flair or GLOBAL bonuses.",
+    "scout_score": 56,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Dicebinder",
+    "appid": 4535170,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4535170",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dark fantasy roguelite card battler where you roll your action points and bind the monsters you fight. Piece together each turn from your dice, adapt to rule-bending encounters, and reshape your party as you climb.",
+    "scout_score": 55,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Micro Solar Punk",
+    "appid": 3874130,
+    "price": 1169,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3874130",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Micro Solar Punk is a hybrid tactical strategy game combining RTS and TBS. Reposition, attack, and survive while building the foundations of a new, miniature human civilization. But its ambitions will face the retaliation of the true owners of the land: the insects.",
+    "scout_score": 48,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Rabbit Haul",
+    "appid": 2514330,
+    "price": 913,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/2514330",
+    "current_players": 33,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Nurture your farm by day and defend your haul of crops from the thieving Trash Panda Posse at night. This farming and tower defense roguelite challenges you to grow powerful and symbiotic defenses to battle tough critters and rebuild your hometown one haul at a time!",
+    "scout_score": 46,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Fruitbearer",
+    "appid": 4300180,
+    "price": 551,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4300180",
+    "current_players": 10,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A visceral reimagining of the Suika-style physics puzzler, rebuilt as a punishing dark fantasy roguelike deckbuilder. Awaken as forgotten deity of bounty, stripped of grandeur, now facing sunless barrens and monsters. To restore balance, you must grow. To grow, you must sacrifice.",
+    "scout_score": 46,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Happy Wheels",
+    "appid": 4705510,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4705510",
+    "current_players": 3007,
+    "total_reviews": 708,
+    "positive_rate": 95.76,
+    "steam_score": "Overwhelmingly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Choose your inadequately prepared racer, and disregard severe consequences in your desperate pursuit of short-lived victory.",
+    "scout_score": 46,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Slap Leather",
+    "appid": 5145800,
+    "price": 252,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5145800",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A lightning-fast western party game of card-watching and quick-draw duels. Spot the moment one color's cards hit the target sum — then slap your key before anyone else. The fastest gun picks who eats lead. 2–8 cowboys online, on one keyboard, or via Remote Play Together.",
+    "scout_score": 43,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Normal Golf Game",
+    "appid": 3510740,
+    "price": 820,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3510740",
+    "current_players": 709,
+    "total_reviews": 33,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A very normal golf simulator. Hit anything. Shoot from anywhere. But remember: you’re not leaving until Luke Muscat himself (Fruit Ninja, Jetpack Joyride) is satisfied.",
+    "scout_score": 43,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Roadhouse Simulator",
+    "appid": 3565480,
+    "price": 1754,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3565480",
+    "current_players": 537,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pour beer, break up brawls, distill your own liquor, run pig races, deal with gangs and keep the cops off your back as you turn a rundown Route 66 bar into one hell of a Road House.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Sylv and the Ancient Tree",
+    "appid": 4589200,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4589200",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The balance of Sunroot Island is fading. Join Sylv, guardian of the Ancestral Tree, in a vibrant platforming RPG adventure. Reclaim the elemental energy stolen by the egocentric Umbra before the biomes collapse and the corrupted wildlife takes full control.",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Nettle",
+    "appid": 3192880,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3192880",
+    "current_players": 0,
+    "total_reviews": 36,
+    "positive_rate": 66.67,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "A single-player survival RTS game about exploring the vast cosmos, the many planets inhabiting it and their countless secrets. You'll need to explore, gather resources and research new technologies in order to survive, thrive, and eventually build a colony on a bizarre, foreign world.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Custom Corner",
+    "appid": 4639490,
+    "price": 467,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4639490",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Custom Corner is a cozy simulation and focus tool that runs quietly in a corner of your screen. Create your own isometric room with over 325 items and enjoy lo-fi music. Boost your productivity while working or relaxing with devices like a to-do list and focus timer.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Echoes of Mora",
+    "appid": 3129050,
+    "price": 1349,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3129050",
+    "current_players": 4,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A boy went missing. A village drowned. And somehow, you can reach into the past. Dive into the sunken ruins of Mora's village, unlock portals to the days before the flood, and share what you find with Mora across time. What you uncover could change her fate, and that of everyone she loves.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Slayer Queen",
+    "appid": 4980100,
+    "price": 147,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4980100",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A bullet heaven roguelite where rock music, alternative fashion, and the chaos of purgatory collide in intense 3-minute runs. Create powerful weapon builds and fight to the sound of a licensed soundtrack featuring emerging independent artists.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Node Factory",
+    "appid": 4513380,
+    "price": 467,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4513380",
+    "current_players": 14,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dive into the world of machine learning! Node Factory is a node-based automation incremental game where you harvest resources and train neural networks. Manage your economy, optimize your grid, and automate your way to a multi-Centillion dollar tech empire.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Hardware Store: Tidy Up",
+    "appid": 5109060,
+    "price": 467,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5109060",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy sorting simulator about calmly putting a chaotic hardware store back in order. Pick up tools, find their shelves, and enjoy the relaxing rhythm of organizing.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Formula 2.5",
+    "appid": 4159550,
+    "price": 733,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4159550",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A retro-style 2.5D arcade racing game inspired by the golden era of Open wheel racing. Drive through four decades of racing history, master cockpit-view controls, and battle changing weather conditions across iconic circuits like Monaco.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Apparently an Apprentice Alchemist",
+    "appid": 4946370,
+    "price": 311,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4946370",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A short incremental alchemy game about transforming simple materials into extraordinary ones. Earn Knowledge, write research papers, conduct questionable experiments, unlock new skills, climb the academic ladder, and pursue the ultimate goal of alchemy.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The old house",
+    "appid": 4666430,
+    "price": 647,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4666430",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Repetitive work in the metropolis pushed you to the limit. Vacation and grandfather's inheritance — a house in Gravewood. But the closer you get, the clearer: something is wrong. The road will be your first test. Meet strangers, explore locations, and be ready: silence is only a cover.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Veil of the Damned",
+    "appid": 4173820,
+    "price": 643,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4173820",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Enter the Veil as a Bound Soul. Master your skills and survive the labyrinth’s corruption.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Soul's Remnant Soundtrack",
+    "appid": 5147600,
+    "price": 1025,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5147600",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Enjoy the full soundtrack from &quot;Soul's Remnant, composed and produced by Chaomoon!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "TINY CAT FISHING",
+    "appid": 4224560,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4224560",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Set off on a bright adventure across a magical island 🎣 Catch fish, unlock adorable animal heroes, collect unique rods, and explore rivers, lakes, and the open ocean. Search for rare species and become the ultimate angler!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
