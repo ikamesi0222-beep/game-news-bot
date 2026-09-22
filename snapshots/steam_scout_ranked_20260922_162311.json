@@ -1,0 +1,606 @@
+[
+  {
+    "name": "Farm Harbeest",
+    "appid": 4617090,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4617090",
+    "current_players": 6,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Farm Harbeest is a top-down farm shooter with light incremental progression. Become an armed little bee, fight, harvest, collect resources, and keep upgrading as your firepower, efficiency, and harvesting range grow out of control.",
+    "scout_score": 93,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "成長/積み上げ要素: Progression +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "WilderDash",
+    "appid": 3926990,
+    "price": 401,
+    "discount_percent": 33,
+    "url": "https://store.steampowered.com/app/3926990",
+    "current_players": 5,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A tower defense roguelite where every run deals you a different hand. Build towers, upgrade your hero with random card draws, and hold the line against waves of monsters. Play solo or in online co-op with friends.",
+    "scout_score": 73,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Demeo x Dungeons & Dragons: Battlemarked - Twilight's End",
+    "appid": 4810130,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4810130",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The epic adventure continues. Gather your party for this co-op Demeo x Dungeons &amp; Dragons: Battlemarked expansion campaign in the Forgotten Realms.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Party +25",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Curve Fever Pro",
+    "appid": 1133700,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1133700",
+    "current_players": 97,
+    "total_reviews": 14,
+    "positive_rate": 78.57,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Curve Fever is a high-energy multiplayer snake-like game with powers, easy to learn and hard to master. Steer your ship, avoid deadly trails, steal points, and outplay up to 9 opponents in fast-paced online arenas. Climb the ranked ladder, level up, and unlock new powers.",
+    "scout_score": 55,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "無料 +20",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Anomaly Protocol",
+    "appid": 3640740,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3640740",
+    "current_players": 5,
+    "total_reviews": 45,
+    "positive_rate": 73.33,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "You step through the doors of a bunker from which no one has ever returned, together with your team. The goal is to explore labyrinth-like rooms and corridors to collect valuable loot, and after grinding this loot,send it to our base in space via rocket.The greater the danger, the greater the reward",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Horta Maluca",
+    "appid": 5181040,
+    "price": 509,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5181040",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Defend a mad garden in this top-down action roguelite. Face waves of mutant pests, collect seeds, fuse weapons, choose powerful upgrades and grow each vegetable hero through permanent progression. Build your arsenal and survive the final wave.",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Mistik 8",
+    "appid": 4414070,
+    "price": 99,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4414070",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "MISTIK 8 is a fantasy billiards game where classic 8-ball meets unique character powers, tactical loadouts and challenging AI. Defeat 39 rivals, unlock new abilities and become the champion.",
+    "scout_score": 48,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Isernsmith",
+    "appid": 4248520,
+    "price": 769,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4248520",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Isernsmith is a gothic, crafting-heavy, RPG where you have to explore dungeons, gather resources, and forge new weapons and tools to overcome a tyrannical order that rules through dark forces.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Crafting +15",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Well Dweller",
+    "appid": 3699590,
+    "price": 1699,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3699590",
+    "current_players": 894,
+    "total_reviews": 13,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Well Dweller is a dark fairy-tale metroidvania, full of charming characters living in a wretched kingdom. Play as Glimmer - a tiny bird armed with a matchstick - who must burn the wicked queen to save his family.",
+    "scout_score": 43,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "eXoSpace Combat Engineer",
+    "appid": 2876200,
+    "price": 1274,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/2876200",
+    "current_players": 147,
+    "total_reviews": 54,
+    "positive_rate": 85.19,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Snap, rotate and launch your own warship in minutes, then pilot it into bullet-hell boss fights to hunt the galaxy's supervillains. Master intuitive engineering, evolve from drone to dreadnought, and use the fully gridless designer to build anything you can imagine!",
+    "scout_score": 42,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "False Hero",
+    "appid": 2538870,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2538870",
+    "current_players": 114,
+    "total_reviews": 15,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "False Hero is a fast-paced soulslike adventure where you steal your enemies’ attacks and chain them into deadly combos. Explore the corrupted Land of the Gods and put your combat skills to the true test in challenging boss fights. Will you fight for the Gods or become an apostle of Death?",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Nighthawks",
+    "appid": 1221950,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/1221950",
+    "current_players": 227,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The secret is out. Vampires have been exposed to the world… and you’re one of them. Seize the night as a modern monster, stepping out of the shadows to build a thriving nightclub empire through fear, seduction, and forbidden supernatural gifts. Your second life begins tonight...",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Astromental Incremental",
+    "appid": 4660370,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4660370",
+    "current_players": 21,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mesmerizing incremental idle clicker game about space. When objects collide, you receive matter. Use this matter to unlock and upgrade objects in your star system. Use powerful Abilities. Dive into the Prestige system (Warp) with a wide Skill Tree, and discover new star systems with new bonuses.",
+    "scout_score": 38,
+    "reasons": [
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Realindustry",
+    "appid": 4384850,
+    "price": 1199,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4384850",
+    "current_players": 113,
+    "total_reviews": 4,
+    "positive_rate": 75.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hyper-realistic industrial simulation: 236 materials, 354 science-based processes. From stone to a Hyperdrive Engine — with real chemistry and deep automation. Your factory grows. Someone notices. Every decision is logged. Welcome, Director.",
+    "scout_score": 34,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Yami Kids",
+    "appid": 3807690,
+    "price": 1119,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3807690",
+    "current_players": 15,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as &quot;The Yami Twins&quot; and uncover the mystery behind your family's killers. Yami Kids is a monster-taming RPG featuring 80+ Oni to Contract and Train, or risk it all in nighttime Shadow Duels!",
+    "scout_score": 33,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Sea Sweeper",
+    "appid": 4291520,
+    "price": 254,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4291520",
+    "current_players": 7,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sea Sweeper is a relaxing incremental game where you clean the ocean with your ship. Collect garbage, manage fuel, earn money, and upgrade your ship to clean faster and sweep larger sea areas each run.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "POOL LOOP",
+    "appid": 4287460,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4287460",
+    "current_players": 7,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are trapped in a looping indoor swimming pool. Inspect the pool carefully and decide whether it is safe or not. If anything feels strange, get out. Now!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Rivage",
+    "appid": 4094660,
+    "price": 2249,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4094660",
+    "current_players": 930,
+    "total_reviews": 5,
+    "positive_rate": 60.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rivage is an immersive sci-fi puzzle adventure set aboard the A.R.E.S. space station trapped in a space phenomenon. Wake up as Miranda, forced to explore, solve intricate puzzles to unravel the fate of your missing crew.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Medieval Dynasty - Hunting Set",
+    "appid": 4997500,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4997500",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hunting Pack DLC'siyle avcılık hünerlerini sergile! Özel kıyafetler arasından seçim yap, bir benzersiz silahı kap ve herkese bölgenin en iyi avcısı olduğunu kanıtla. Yeni efsanevi eşya setiyle birlikte av başlasın.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Beyond the Broken Veil",
+    "appid": 5196150,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5196150",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Beyond the Broken Veil is a heavily inspired RPG of the 90's. As a retired war veteran, uncover the mysteries that plague a war torn continent. Decide rather to embrace the darkness, or become the benevolent protector.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Terminator: Dark Fate - Defiance: Evolution",
+    "appid": 4157110,
+    "price": 1199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4157110",
+    "current_players": 0,
+    "total_reviews": 5,
+    "positive_rate": 80.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Evolution is the next major story expansion for Terminator: Dark Fate – Defiance, the gritty real-time strategy experience set in the dark future of Dark Fate.",
+    "scout_score": 29,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Goddess Must Survive!",
+    "appid": 5052760,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5052760",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Survive the Weird West in a 2D isometric action roguelite where three equipment slots and fully random card draws challenge you to adapt, combine, and evolve",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Dune: Awakening - Filmic Archive DLC",
+    "appid": 4857580,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4857580",
+    "current_players": 0,
+    "total_reviews": 28,
+    "positive_rate": 75.0,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bring the Imperium to Dune: Awakening with gear inspired by Dune: Part One and Part Two. Wear iconic armor and stillsuits, build a Sardaukar base with 73 construction pieces, and finish it with exclusive décor, weapons, and emotes.",
+    "scout_score": 28,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Sunburn",
+    "appid": 5156820,
+    "price": 1289,
+    "discount_percent": 14,
+    "url": "https://store.steampowered.com/app/5156820",
+    "current_players": 26,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Stranded on a remote, unforgiving island, you are in complete control of a miserable group of castaways. Their fate rests entirely with you. Will you help them survive long enough to escape, or drag them deeper into the island to face its darkest mysteries?",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Evymind Clips: Automatic Highlights & Shorts",
+    "appid": 5111660,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5111660",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Save time turning long videos built around speech into clips worth sharing. Evymind Clips automatically finds moments that stand on their own, ready for you to refine and export.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Little Ghost",
+    "appid": 1587380,
+    "price": 1300,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1587380",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Chill metroidvania maximizes non-linear exploration &amp; puzzle-platforming. Frequent checkpoints, no currency, no combat. Gain friends &amp; abilities. Collectables-as-media; tarot cards, weird podcasts, and songs from over 20 bands; all found within a surreal papercraft world.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "TocoToco",
+    "appid": 4592150,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4592150",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Designed to challenge your reflexes. A precision platformer where every pixel counts and death is just part of the learning process",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "False Hero - Supporter Offering",
+    "appid": 4739180,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4739180",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Supporter Offering includes the Spectral Set, which has no gameplay benefits, but it looks mesmerizing and brings a little more beauty to this dying world. If you like False Hero and want to support the game, this is the way.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "False Hero Soundtrack",
+    "appid": 4709240,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4709240",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This Original Soundtrack includes 43 original compositions I wrote for False Hero. I put a lot of heart and soul into this music, and I hope you enjoy listening to it as much as I enjoyed creating it.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Across the Obelisk: Deadly Sins Season Pack",
+    "appid": 4868680,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4868680",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Deadly Sins Season Pack introduces a collection of skins to Across the Obelisk inspired by the seven deadly sins. Adorned in gilded excess, smoldering rage, decadent finery, and marks of corruption, these designs transform your heroes into embodiments of temptation and vice.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
