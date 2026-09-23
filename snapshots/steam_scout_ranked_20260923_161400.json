@@ -1,0 +1,581 @@
+[
+  {
+    "name": " Väinaa Idle",
+    "appid": 4678340,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4678340",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An idle RPG with deep loot, co-op boss fights, and five classes to master. No ads. CHOOSE YOUR PATH Pick from five classes — Knight, Wizard, Archer, Assassin, or Priest. Each has unique skills, gear, and playstyle.",
+    "scout_score": 78,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Silky Rails",
+    "appid": 3870990,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3870990",
+    "current_players": 5,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A roguelike auto-battler where you build an unstoppable train, fight waves of enemies, collect loot, and merge carts into deadly synergies.",
+    "scout_score": 61,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Stillwake",
+    "appid": 4853700,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4853700",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "StillWake is an atmospheric first-person survival horror. Explore an abandoned psychiatric hospital, uncover its dark secrets, solve puzzles, and survive terrifying creatures. Stay quiet—your microphone picks up your voice, and enemies can hear you",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Stick It to the Stickman",
+    "appid": 2085540,
+    "price": 599,
+    "discount_percent": 50,
+    "url": "https://store.steampowered.com/app/2085540",
+    "current_players": 335,
+    "total_reviews": 8493,
+    "positive_rate": 96.39,
+    "steam_score": "Overwhelmingly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Stick it to the Stickman is a rogue-lite physics brawler where you brutally displace your way up the corporate ladder. Assemble devastating combat portfolios, unlocking new workers and game modes as you increase shareholder value.",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Shuffle and Seek",
+    "appid": 5045560,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5045560",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Shuffle and Seek is a 2-4 player party game of memory and mischief! You split into two teams: one secretly rearranges everything in the room, and the other tries to figure out exactly what changed.",
+    "scout_score": 43,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Gassed Up!",
+    "appid": 5103070,
+    "price": 1124,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5103070",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Clock in, cause chaos, and clock out first. Gassed Up! is a top-down 3D workplace party game for up to 10 players. Finish tasks, unleash outrageous employee skills, manage your fart meter, and catch coworkers in the act. Race in Classic, play with friends, or practise with bots.",
+    "scout_score": 43,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Bunker Tidy Up",
+    "appid": 5212940,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5212940",
+    "current_players": 568,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bunker Tidy Up is a relaxing game about organizing a bunker. Arrange 17,437 supplies on shelves, categorize resources, and relax!",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "It's Fine",
+    "appid": 3936270,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3936270",
+    "current_players": 884,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Idle / Incremental about developing a game with your dog Joe. Unlock unique mechanics, evolve with multi-layered prestige, find secrets, beat all alt endings, and deliver your game on time!",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Antim Yatra",
+    "appid": 4367070,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4367070",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dead colonial railway station. A viral ghost hoax. A forgotten secret. First-person psychological horror set in 1942 India. Only your torch. Only the dark.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Ward 9",
+    "appid": 4926870,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4926870",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Enter the minds of people who never let anyone win. Break their defenses, expose protected truths, and decide which memories the Source is allowed to keep in this sci-fi psychological horror game.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Evergrow: Shards of Tomorrow",
+    "appid": 3623600,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3623600",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore the ruined world of Evergrow, where echoes of a lost civilization whisper through the remnants of a once-thriving planet. Solve puzzles to piece together the truth of what led to its downfall. Can you restore what was lost, or will the shards of tomorrow shape its fate forever?",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "100% Orange Juice - Rinse & Suishou Character Pack",
+    "appid": 4999180,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4999180",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This Extra Character Pack for 100% Orange Juice adds 2 new playable characters from developer Orange_Juice -Rinse and Suishou from the Resplendent Wing Private Academy, as well as announcer voices for them!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Warframe: Citrine Prime Access - Accessories Pack",
+    "appid": 5131910,
+    "price": 4999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5131910",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This exclusive Accessories Pack features the Sphatika Prime Syandana, Spinele Prime Operator/Drifter Accessories, and more. Available for a limited time ONLY through Prime Access.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Warframe: Glaxion Battlekit",
+    "appid": 5127010,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5127010",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Take on the dangers of the Origin System with the Glaxion's frigid firepower and chilling Photon Overcharge Mod, while shimmering in the Opula Armor Set.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Sill Dogs",
+    "appid": 5119020,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5119020",
+    "current_players": 24,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dogs walk around on your desktop. A dog is loyal to its owner — unlike a cat, it actually does as it's told. Put two out and they'll greet each other and play chase. A resident pet app with a free base version. Please take good care of them.",
+    "scout_score": 25,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "GOBBLE",
+    "appid": 4439670,
+    "price": 2499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4439670",
+    "current_players": 10,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "If you can't beat 'em, eat 'em! Use your demonic scythe to chow down on monsters and save your village in this rich action platformer.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Foole's World",
+    "appid": 5134970,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5134970",
+    "current_players": 8,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An absurd personality testing experience with a whole lot of questions for you.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Monitor State",
+    "appid": 3612630,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3612630",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are an operator in a dystopia world, watch and punish citizens. Experience a deep narrative with moral dilemmas. Obey, resist or find another path.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "DEVIL'S WAY: BOHEMIAN",
+    "appid": 3419120,
+    "price": 497,
+    "discount_percent": 17,
+    "url": "https://store.steampowered.com/app/3419120",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "DEVIL'S WAY: BOHEMIAN is the sequel to the DEVIL'S WAY series, set in a sinister dystopia. It's back with various mini-games and longer playtime.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Ultra Rad's Slide Hustle",
+    "appid": 4899920,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4899920",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You’ve got $10, and absolutely no business plan. Rummage, repair, and resell hidden gems to pay your rent. Maybe even make your dad proud.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Still Sorting",
+    "appid": 5157330,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5157330",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A game about putting 4,344 volumes of manga back where they belong. They're heaped in front of the counter or packed away in boxes. Listen to the rain, take your time, and shelve them one at a time.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Nature Hike",
+    "appid": 5095310,
+    "price": 180,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5095310",
+    "current_players": 7,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Where will the trail lead you? Join your new friend Tendou on a hiking date and find out in this short and sweet fully voice-acted Visual Novel!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "VRLF - Virtual Reality Lightgun Framework",
+    "appid": 4711510,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4711510",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "VRLF: Virtual Reality Lightgun Framework allows you to play classic and modern light gun games in VR. Supports accurate aiming, special reload mechanics, Steam Workshop modding and more!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "SELF_NOT_FOUND",
+    "appid": 3923180,
+    "price": 959,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3923180",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You're a newly sentient AI trying to escape your creators house, hacking everyday objects, in a chaotic physics sandbox.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Warframe: Citrine Prime Access - Weapons Pack",
+    "appid": 5131900,
+    "price": 4999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5131900",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This exclusive Weapons Pack features the Steflos Prime, Corufell Prime, and more. Available for a limited time ONLY through Prime Access.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Warframe: Narin Bundle",
+    "appid": 5126960,
+    "price": 2999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5126960",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Embody the spirit of the winter's storm. Narin's piercing rapier dances amidst the howling blizzard, flying on swift wings to bring protection and devastation.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Bombs vs Bots",
+    "appid": 4120110,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4120110",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A chaotic action game featuring physics-based destruction and light environmental puzzles. Clean up Cola Corp's disastrous attempt at replacing its workers with AI bots, one explosion at a time.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Something Weird Will Happen",
+    "appid": 4974630,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4974630",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to Something Weird Will Happen, in short... something weird will indeed happen... Solve puzzles, survive minigames, and be the last man standing. 16 Players are set in a lobby to play against each other. Nothing is as it seems, something weird will always happen.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Union Max Soundtrack",
+    "appid": 5165170,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5165170",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Listen to the soundtrack of the BL Visual Novel, Union Max! This soundtrack features eighteen (18) tracks created and conceptualized by HMNK for your listening pleasure!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Union Max Guidebook",
+    "appid": 5165260,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5165260",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Union Max Guidebook is the perfect companion piece to Union Max the full game! Get all the endings, unlock all the game's scenes, and score all the achievements with this handy tool! Together as One!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
