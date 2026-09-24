@@ -1,0 +1,587 @@
+[
+  {
+    "name": "Capoeirogue",
+    "appid": 2132190,
+    "price": 599,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/2132190",
+    "current_players": 0,
+    "total_reviews": 8,
+    "positive_rate": 100.0,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Step into the circle of history and ancestral power in this fast-paced Action Roguelite! Embody Dandara dos Palmares, channel Orisha blessings, master lethal Capoeira acrobatics, and liberate your people in 1600s Brazil. Play solo or in Local Split-Screen Co-op!",
+    "scout_score": 71,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Nomads Plague",
+    "appid": 5149270,
+    "price": 974,
+    "discount_percent": 35,
+    "url": "https://store.steampowered.com/app/5149270",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lead a band of Nomads through the plague-stricken Manecia in a real-time tactical survival game. Manage scarce resources, choose your routes, and command specialized survivors in brutal battles where wounds persist, death is permanent, and every decision carries forward.",
+    "scout_score": 63,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "CONTROL Resonant",
+    "appid": 3669870,
+    "price": 5999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3669870",
+    "current_players": 29717,
+    "total_reviews": 161,
+    "positive_rate": 83.85,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "The Magus Circle",
+    "appid": 2796640,
+    "price": 1169,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2796640",
+    "current_players": 694,
+    "total_reviews": 18,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 43,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "LOOK / DON'T",
+    "appid": 5164810,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5164810",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "There are things you should look at. Things you should never look at. And things watching you. LOOK / DON'T is a first-person psychological horror exploration game about looking. Explore a changing house and bring back the requested items.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Doggy Don't Care",
+    "appid": 2438180,
+    "price": 1349,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2438180",
+    "current_players": 21,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "What does your dog get up to when you're not home? In this bone-afide adventure, unleash adorable chaos, solve puzzles, and leave your mark (literally!) as a mischievous pup on the loose.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Koruxa- IDLE RPG",
+    "appid": 4516510,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4516510",
+    "current_players": 36,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Koruxa is a free-to-play idle RPG MMO with true offline progress. Train 15+ skills, fight monsters, trade on the marketplace, and join clans. Your character keeps working even when you're away. No energy systems, no paywalls — just pure idle RPG fun.",
+    "scout_score": 35,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Seafarer: The Ship Sim",
+    "appid": 2582140,
+    "price": 1249,
+    "discount_percent": 50,
+    "url": "https://store.steampowered.com/app/2582140",
+    "current_players": 190,
+    "total_reviews": 2154,
+    "positive_rate": 65.27,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 34,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Total War: WARHAMMER III - Nagash – Lords of the End Times",
+    "appid": 3589650,
+    "price": 899,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3589650",
+    "current_players": 0,
+    "total_reviews": 79,
+    "positive_rate": 83.54,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Arise and seize the lands of the living as the Supreme Lord of Necromancy, Nagash, in Total War: WARHAMMER III, unleashing his forces of the undead upon the world in his ascension to godhood.",
+    "scout_score": 34,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "Survivor Challenge TD",
+    "appid": 2443170,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2443170",
+    "current_players": 4,
+    "total_reviews": 59,
+    "positive_rate": 79.66,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Survivor Challenge TD - is a Tower Defense game where you manage a single tower and add upgrades to it. Buy abilities, enhance upgrades, and defeat the boss!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Total War: WARHAMMER III - Thanquol – Lords of the End Times",
+    "appid": 3589660,
+    "price": 899,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3589660",
+    "current_players": 0,
+    "total_reviews": 37,
+    "positive_rate": 81.08,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mastermind plans of diabolical proportions as Grey Seer Thanquol for Total War: Warhammer III. Leading Clan Scruten of the Skaven, the guileful Thanquol rides to battle atop his faithful Rat-Ogre bodyguard, Boneripper.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "REMATCH: BLUE LOCK TRAINING PACK",
+    "appid": 4868930,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4868930",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Suit up and prove you belong on the pitch.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Re: Haruka",
+    "appid": 4667330,
+    "price": 239,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4667330",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "ANT HELL",
+    "appid": 5218460,
+    "price": 509,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5218460",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You chased one big win and lost everything. Now you sit at an underground trading table on the loan shark's money. Read the rumor rags, spot the fakes, and make ten payments — then walk out, or become one of them. A stock-gambling roguelike with two exits.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Billion Egg Farm",
+    "appid": 4610360,
+    "price": 489,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4610360",
+    "current_players": 55,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Billion Egg Farm is a first-person automation game where you put chickens to work laying eggs and build production lines for eggs, meat, and processed goods.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Alien Breed 35th Anniversary Collection",
+    "appid": 4870460,
+    "price": 1999,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4870460",
+    "current_players": 40,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Total War: WARHAMMER III - Boris Todbringer – Lords of the End Times",
+    "appid": 3589670,
+    "price": 899,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3589670",
+    "current_players": 0,
+    "total_reviews": 22,
+    "positive_rate": 63.64,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Command Boris Todbringer, Elector Count of Middenland in Total War: WARHAMMER III. Beloved by the wolf-god Ulric, Boris seeks to defend the Empire from destruction, and slay his nemesis, the Beastlord Khazrak One-Eye.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Total War: WARHAMMER III - The Glottkin – Lords of the End Times",
+    "appid": 3589680,
+    "price": 899,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3589680",
+    "current_players": 0,
+    "total_reviews": 15,
+    "positive_rate": 66.67,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sow destruction and decay as the Glottkin in Total War: WARHAMMER III. Mighty champions of Chaos and marked by Nurgle, they command warriors and daemons alike, spreading gifts of the plague god to the Empire and beyond.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "CoLane",
+    "appid": 4773520,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4773520",
+    "current_players": 6,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "CoLane is a rhythm game where the lanes switch according to the color of the background spotlight. It features a variety of fingerings, making it a game where you improve through trial and error.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "CONTROL Resonant Digital Deluxe Upgrade",
+    "appid": 4403940,
+    "price": 1000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4403940",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Go behind the scenes of CONTROL Resonant with the Digital Artbook, immerse yourself in new music from the Original Soundtrack, and enhance your experience with a unique AWE Mission Outfit, Untapped Artifact (Wallet), and Starter Resource Bundle.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Drown World",
+    "appid": 4605040,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4605040",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Drown World combines grid-based mining with a pixel-perfect elemental simulation. Dig for resources, upgrade equipment at your airship, and carve your way through a volatile underground world in search of long-lost dwarven relics as waves of rain flood the tunnels you leave behind.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "3-Bit Explorer",
+    "appid": 3951360,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3951360",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The world doesn't need saving. You do. Explore a strange 3-bit world, wield mysterious powers, uncover forbidden secrets, and find your way home across realities.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hentai Mina",
+    "appid": 5080660,
+    "price": 64,
+    "discount_percent": 35,
+    "url": "https://store.steampowered.com/app/5080660",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hentai Mina — an adult game about Mina and her erotic fantasies. Solve puzzles, unlock new illustrations, and gradually discover bolder sides of her character. Collect the entire gallery and find out just how far her fantasies can go.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Last Call",
+    "appid": 4614040,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4614040",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cyberpunk Cats & Dogs",
+    "appid": 5151800,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5151800",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Prince of Suburbia - Knock Me Up Again!",
+    "appid": 3593230,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3593230",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In the &quot;Knock Me Up Again!&quot; DLC, escape to a desert oasis with a harem of BOOBalicious beauties in skimpy outfits, ready to turn your vacation into a lust-filled breeding frenzy. No longer pregnant and hornier than ever before, they have one shameless demand: &quot;Knock Me Up Again!&quot;",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "MaskloZoophic Sessions",
+    "appid": 5165000,
+    "price": 240,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5165000",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Misha",
+    "appid": 4559470,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4559470",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "It’s almost Christmas. Spend a quiet evening with Misha, where small choices can lead to unexpected consequences.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Train Sim",
+    "appid": 4973610,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4973610",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Train Sim is a Train Simulator featuring 80+ realistic 3D Train Types, 50+ Train Rolling Stock Types, Missions &amp; Ability to Create Custom Levels &amp; Regular Content updates.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Fuse Beads!",
+    "appid": 5177970,
+    "price": 349,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5177970",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
