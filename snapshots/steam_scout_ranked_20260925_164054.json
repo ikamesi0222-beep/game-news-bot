@@ -1,0 +1,607 @@
+[
+  {
+    "name": "Lunar Drifter",
+    "appid": 3115490,
+    "price": 1349,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3115490",
+    "current_players": 51,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lunar Drifter is an Arcade First Person Shooter, your mission is to tear, blast, and crush an entire legion as fast as possible within the time limit. Featuring 4 playable characters with their own gimmicks and arsenal, more than 15 unique hand-crafted levels, and includes online Co-Op!",
+    "scout_score": 116,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Space Defender: Frontier Squadron",
+    "appid": 1731170,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1731170",
+    "current_players": 1,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lead a squadron against the Drone invasion in a top-down space shooter with RPG depth. Take contracts across three galaxies, outfit and upgrade your ship, recruit wingmen, and push the story through to the Nexus.",
+    "scout_score": 83,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "BIG LOOT",
+    "appid": 3116730,
+    "price": 1359,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3116730",
+    "current_players": 17,
+    "total_reviews": 88,
+    "positive_rate": 67.05,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Roguelike caravan survival game about risk, loot, and smart trading. Every run is a journey of hard choices, clever upgrades, and the eternal question: Do I play it safe... or go for the BIG LOOT?",
+    "scout_score": 74,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Tears of Vanfell",
+    "appid": 3184640,
+    "price": 1199,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3184640",
+    "current_players": 6,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your life begins anew in front of an imposing mountain... Climb and explore it with a wide cast of characters in this dungeon crawler RPG with up to four player Co-op.",
+    "scout_score": 73,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Oh Ship!",
+    "appid": 4410890,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4410890",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Oh Ship! is a 1–4 player co-op space survival game where you and your crew coordinate to keep your ship running while space actively tries to destroy it. Salvage wrecks, fix systems, upgrade your ship, and survive the chaos.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Soul Reaper: Endless Harvest",
+    "appid": 4451740,
+    "price": 239,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4451740",
+    "current_players": 24,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Reap souls. Open the portal. Extract or risk it all. A skill-based bullet heaven where every battle is a short harvest. Souls reaped before the portal are safe, souls after are at risk. Spend them in a permanent skill tree, beat the level, push to the next.",
+    "scout_score": 51,
+    "reasons": [
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Deep Trouble: A Fishing RPG",
+    "appid": 5133820,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5133820",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "DinoBones: Tidy Up the Museum",
+    "appid": 5064340,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5064340",
+    "current_players": 897,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Museologist: Tidy Up the Museum!",
+    "appid": 4964580,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4964580",
+    "current_players": 259,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Museologist: Tidy Up the Museum! A single-player simulation. The whole collection has fallen apart. Find where each fragment belongs, piece it back together like a puzzle, and restore 543 objects from 3,516 scattered pieces.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Sneaky Squad",
+    "appid": 5157620,
+    "price": 419,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5157620",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sneaky Squad is a multiplayer deception game where players hide among identical soldiers, blend into the crowd, and try to fool the Seeker. Watch closely, act natural, and don’t get caught hiding in plain sight.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Las 5 Celdas",
+    "appid": 4345390,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4345390",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Las 5 Celdas is a short first-person psychological horror experience. Explore five impossible cells, each based on a different human fear, and face disturbing situations where there may be no perfect answer.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Observation Protocol",
+    "appid": 4728140,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4728140",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A first-person psychological horror game where you monitor a liminal office space for anomalies from an external observation post. When the power cuts, protocol requires you to enter and continue your work from the inside. You're not alone in there.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Woman Simulator",
+    "appid": 4072240,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4072240",
+    "current_players": 579,
+    "total_reviews": 37,
+    "positive_rate": 75.68,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Experience life as a woman - cleaning, cooking, laundry, and no time to rest. Full immersion into the world of everyday chaos!",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Cozy Farm: Tidy Up!",
+    "appid": 5220090,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5220090",
+    "current_players": 54,
+    "total_reviews": 10,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy organizing simulator about tidying up your farm's biggest harvest ever. Tidy up the chaos by sorting 2500+ adorable fruits and vegetables into greenhouses, then explore the farm at day or night to uncover the secrets hidden beneath the valley!",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Fallosophy",
+    "appid": 3989550,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3989550",
+    "current_players": 44,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "EmyLiveShow: Blissful Days of Snow and Marshmallow",
+    "appid": 5146190,
+    "price": 1099,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5146190",
+    "current_players": 6,
+    "total_reviews": 12,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "SweatyPanzer",
+    "appid": 5146110,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5146110",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Round-based 4v4 tank combat where armour is a decision. Angle your plates, bounce shells, hunt weak zones, and spend salvage between rounds. One life a round, first to four takes the match. Free to play.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Isekai: Waifu Overlord",
+    "appid": 3850550,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3850550",
+    "current_players": 1222,
+    "total_reviews": 6,
+    "positive_rate": 16.67,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Forget the daily grind - getting hit by a truck landed you right before the Goddess Divitai! Lead a village and assemble a squad of hot babes. Develop your settlement, go on dates, enjoy full voice acting, and unlock 18+ scenes. In this world, you make the rules!",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Center Ice Hockey",
+    "appid": 5100030,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5100030",
+    "current_players": 2,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fast, physical ice hockey game. Launch blistering slapshots, saucer passes, hit opponents down on to the ice, then drop your gloves to answer the call. Play exhibition, a full season, or a multi-season career with your friends sharing one team.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "A Needle In A Haystack: Sorting Game",
+    "appid": 5223690,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5223690",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 0.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Find the needle in a haystack! Dig, sort and sell your way through mountains of hay in this satisfying sorting simulation game. Earn money, upgrade your barn, unlock new tools and make finding that needle a little easier!",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Tethered To You",
+    "appid": 4476630,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4476630",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "After you are unable to find a patron to provide you with a magic bond, you stumble into the abandoned temple of the Passion goddess - with four patrons waiting for you. Yet, as you grow closer to gaining magic, something else is drawn to this power...",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Fairy Tale Academy",
+    "appid": 2235400,
+    "price": 829,
+    "discount_percent": 17,
+    "url": "https://store.steampowered.com/app/2235400",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Spend 120 days as a first-year at Lawnstar Academy. Attend classes, climb the dueling ladder, take monster contracts for gold, and pursue seven women: professors, classmates and the Headmistress.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Stella Astrum",
+    "appid": 5045010,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5045010",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Raw Egg Peeling",
+    "appid": 5228300,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5228300",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A relaxing game about peeling an egg.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Môrgan",
+    "appid": 4977550,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4977550",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Follow Môrgan as they take the first steps on their journey in search of a self they fear they've lost. A 10 minute, fully voiced, hand drawn, linear narrative about reconnecting with your inner child and the feeling of being alive. Set to an evocative original score.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "INVASION",
+    "appid": 5168720,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5168720",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Ball Just Won't Stay Up",
+    "appid": 5002420,
+    "price": 699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5002420",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Alaska Gold Fever - Bandits",
+    "appid": 4578230,
+    "price": 719,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4578230",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A new threat arrives in Alaska… Bandits! This expansion introduces dangerous outlaw camps, armed encounters, new story lines and completely new regions to explore. Fight bandits, discover new mines, and expand your operations with an entirely new business - moonshine production!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Side Quest",
+    "appid": 4367910,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4367910",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "無名から伝説のアイドルへ",
+    "appid": 4951720,
+    "price": 349,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4951720",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "As the manager of a wildly popular idol group, support a young girl auditioning to become its newest member. The audition’s challenge is an unexpected series of puzzles! Solve clever riddles and hidden mechanisms to guide her on the path to becoming a legendary idol.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
