@@ -1,0 +1,606 @@
+[
+  {
+    "name": "Hockey Fire",
+    "appid": 5089520,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5089520",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "🏒🔥 Enter the arena! Compete in frantic, chaotic hockey matches featuring power-ups, boost, and physics-based gameplay. Take on solo and co-op levels, or challenge up to 3 friends in local multiplayer!",
+    "scout_score": 71,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Sector 13: Haunted Woods",
+    "appid": 4244040,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4244040",
+    "current_players": 67,
+    "total_reviews": 7,
+    "positive_rate": 14.29,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sector 13: Haunted Woods is a 1–4 player co-op horror game set in a cursed open world. Hunt for Anomalies, recover mysterious Artifacts, and survive the dark forest. Your real voice can attract deadly threats or help you and your friends fight back.",
+    "scout_score": 66,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Versus One",
+    "appid": 3653680,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3653680",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as giant monsters or as heroes attempting to defeat them in this asymmetric two-player local co-op VR fighting game. Send forth minions and swing massive weapons or rocket jump around the stage and strike at them as they attempt to take you down!",
+    "scout_score": 63,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Gridhammer",
+    "appid": 4633320,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4633320",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Gridhammer is a tactical plate battler where two players draft from one shared pool of 45 plates. Place plates on a grid, capture by matching higher corner values, and chain cascading flips. Every plate you draft is one your opponent loses.",
+    "scout_score": 61,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Stranded with You",
+    "appid": 4260270,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4260270",
+    "current_players": 1388,
+    "total_reviews": 70,
+    "positive_rate": 94.29,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this survival game, you are stranded on an tropical island with your lovely friend Mitsuki. Explore your surroundings together, build a small shelter, and hunt for supplies. Have fun keeping up with all the heat!",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "AFK - Army For Keyboard",
+    "appid": 5194330,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5194330",
+    "current_players": 22,
+    "total_reviews": 6,
+    "positive_rate": 66.67,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your army keeps fighting inside the taskbar while you get on with your day. AFK is an idle RPG built as a fake desktop OS: drag windows, forge gear across ten rarity tiers, climb an endless tower, and settle scores in asynchronous PvP the server replays back to you.",
+    "scout_score": 56,
+    "reasons": [
+      "次点ジャンル: PvP +20",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Loki's Revenge",
+    "appid": 2936750,
+    "price": 179,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/2936750",
+    "current_players": 1,
+    "total_reviews": 14,
+    "positive_rate": 85.71,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Loki’s Revenge is a short survivors-like roguelite where you play as Norse gods fighting Loki’s army of monsters! Level up to gain powerful upgrades and explore a hand-crafted map to find secrets. Build the ultimate overpowered god with permanent upgrades and master each god’s signature ability.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Killdozer",
+    "appid": 4909940,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4909940",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Destroy the town! Killdozer is an action roguelike where you fight off a police onslaught while bulldozing towns. Unlock items and upgrades along the way to build your Killdozer into the ultimate destruction machine. ",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "DARK HUNTER KURO",
+    "appid": 4150170,
+    "price": 1439,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4150170",
+    "current_players": 208,
+    "total_reviews": 21,
+    "positive_rate": 95.24,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Wear the ever-changing battle suit “Gear” and scatter the grotesque enemies! Simple controls deliver exhilarating stylish action. Freely combine a rich arsenal of special moves and unleash relentless combos. In a devastated near-future setting—gorgeous, powerful, and sexy!",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Trap Yuri Tempest",
+    "appid": 4466710,
+    "price": 1199,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4466710",
+    "current_players": 24,
+    "total_reviews": 24,
+    "positive_rate": 95.83,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Dying Land",
+    "appid": 3292310,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3292310",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to Dying Land. An equipment-driven loot-and-slash game blended with cozy life-sim activities like farming and fishing. Earn money, explore, and fight! Grow stronger with every cycle as you search for a way to change your fate.",
+    "scout_score": 36,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Handler of Dragons",
+    "appid": 1172730,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1172730",
+    "current_players": 1,
+    "total_reviews": 29,
+    "positive_rate": 68.97,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "In the RPG game The Handler of Dragons you play as a warrior who can speak to the dragons. How did it happen? What will be the consequences? Are you going to protect dragons at all costs? How far will you go to obtain their power? The adventure begins...",
+    "scout_score": 35,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Voltus' Neon Nightmare - Colossal Cure",
+    "appid": 4882170,
+    "price": 509,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4882170",
+    "current_players": 3,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "After the previous events, you realized that this &quot;mall&quot; place was a trap to send you to another dimension, full of liminal and unknown places. Voltus is now controlled by the Core's energy, forced to keep you away from it.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Traffic Stop Anomaly",
+    "appid": 4408710,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4408710",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You're a traffic cop on endless patrol. Pull over drivers, shine your flashlight, and spot the anomalies. Let the normal ones go... or turn back before it's too late.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "GunfireFantasy",
+    "appid": 5184740,
+    "price": 179,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5184740",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Every night, a boy's mind drifts into an endless monster forest. Facing overwhelming swarms of beasts,Will he ultimately break the nightmare once and for all, or will he be swallowed by the endless tide of monsters?",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Hook Line Ball",
+    "appid": 4494410,
+    "price": 139,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4494410",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Hentai Age Cat",
+    "appid": 5234460,
+    "price": 79,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5234460",
+    "current_players": 0,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Enjoy a relaxing puzzle adventure at your own pace, completing challenges to reveal stunning girl illustrations. With calming gameplay, no time limits, and vibrant artwork, every puzzle offers peaceful entertainment.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Scratch Tickets With Your Friends 🎰",
+    "appid": 5148990,
+    "price": 482,
+    "discount_percent": 31,
+    "url": "https://store.steampowered.com/app/5148990",
+    "current_players": 9,
+    "total_reviews": 4,
+    "positive_rate": 75.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A chaotic simulation where rent keeps rising and your money keeps disappearing. Scratch lottery tickets, sort junk, upgrade your setup, and make questionable decisions to survive another day. 🎰💸",
+    "scout_score": 28,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "VR Realms",
+    "appid": 2964550,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2964550",
+    "current_players": 5,
+    "total_reviews": 9,
+    "positive_rate": 66.67,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 25,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "MMO: Massive Mommy Orgy",
+    "appid": 4949180,
+    "price": 959,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4949180",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The minds at Miel hit us an all new twist on the familiar fantasy fucking formula. MAGIC MAYHEM AND MILFS!?!? Embark on an epic visual novel fantasy title where you battle through bushels of MILF bush and impregnate all who cum in your wake.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Fiducia: Rent The World",
+    "appid": 4953150,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4953150",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lead a family dynasty in a living island economy. Farm, trade, found a bank, and out-compete rival houses — solo or online with friends.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "『スクジサマ』を巡る考察",
+    "appid": 4803270,
+    "price": 1119,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4803270",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This work is structured around a full-length novel and consists of exploration of a 3D space, various materials such as images, audio, video, and documents, and questions that require careful consideration.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Kartboard Dash",
+    "appid": 4510790,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4510790",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your friends are the obstacle. The cardboard is the track. The chaos is the point. Kartboard Dash is an arcade racer where every lap escalates, every race feels different, and no two finishes match. Easy to start, hard to quit, built on cardboard, tape, and wild decisions.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Gemorium",
+    "appid": 4798740,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4798740",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Gemorium is a relaxing mining clicker where you break rocks, collect minerals, and unlock new features. No rush, no pressure - just you, a pickaxe, and an unlimited amount of rocks. You can even keep it running as a desktop widget while you do other things.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Surrounded by Scrunchies",
+    "appid": 5228310,
+    "price": 749,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5228310",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Surrounded by Scrunchies is an adult visual novel about accidental cohabitation and pure seduction. Follow the main character as he navigates an all-female apartment after his unisex name tricks the landlord into letting him stay.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Infinite Minesweeper",
+    "appid": 5178500,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5178500",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Classic minesweeper on a board with no edges. Every 8x8 zone hides exactly ten mines - clear zones to push the night sky back, finish 64 of them to complete an area and collect the artwork beneath it. No ads, no purchases, no end to the map.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Section 80",
+    "appid": 5191570,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5191570",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The unpredictable ten-billion watt Electro-Blob is back in a whole new action game, and this time your mission is to try and contain it in less than a 20% section of the arena! Hunters will keep you on your toes, because if they touch you, it will spark yet another golden Electro-Blob to conquer!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Jackpot Dungeon",
+    "appid": 4948400,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4948400",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "How far will your luck go? Jackpot Dungeon tests your luck. A game where you challenge with luck rather than skill, and it ends with luck! No more headaches strategizing.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Nebula Blink",
+    "appid": 5116270,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5116270",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Lexilotl: Crossword Puzzle Run",
+    "appid": 4735750,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4735750",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lexilotl is a crossword puzzle run with letter and word guessing. A cozy intellectual word game. Finish the puzzle with at least one chance left and you move on to the next puzzle. Being a great speller is not required and you're not racing the clock, it's you vs. your previous best run.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
