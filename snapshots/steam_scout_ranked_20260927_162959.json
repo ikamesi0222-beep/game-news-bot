@@ -1,0 +1,584 @@
+[
+  {
+    "name": "Horde Slayer",
+    "appid": 3778250,
+    "price": 1200,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3778250",
+    "current_players": 0,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fast-paced co-op action game where you customize your build, survive relentless hordes, and conquer brutal challenges for higher scores and bragging rights.",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "WPG Ravelin",
+    "appid": 5135630,
+    "price": 1350,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5135630",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "WPG Ravelin is a single‑player first‑person tower‑defense shooter. Build fortifications, deploy turrets, fight against hordes of enemies and defend your camp.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Horror Golf",
+    "appid": 5242170,
+    "price": 360,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5242170",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Minigolf game with darker horror themed maps. 2 different levels with totally 28 holes. Play alone and try to make good score",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Hall of Mirrors",
+    "appid": 3223460,
+    "price": 1500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3223460",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Five people on one computer, really? Yes, this fast-action arcade-style multiplayer game is for the whole family! Shoot balloons with your lasers to score points – but the beams will often bounce off mirrors, creating interesting and complex shots. The more complex, the greater the score!",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Dust Rapture",
+    "appid": 4950700,
+    "price": 2900,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4950700",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Stranded on Route 66 after your truck is stripped for parts, explore the abandoned town of Iron Creek, survive its horrors, evade a murderous cult, and escape before it consumes everything.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Hyperboard Extreme",
+    "appid": 4892910,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4892910",
+    "current_players": 3,
+    "total_reviews": 10,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hyperboard Extreme combines PS2-era arcade style racing with cool girls, crazy powerups, and intense, speedy action! This is a free vertical slice as a complete proof-of-concept for the next generation of indie racers!",
+    "scout_score": 37,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "SMS Returns",
+    "appid": 4670920,
+    "price": 3510,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4670920",
+    "current_players": 7,
+    "total_reviews": 11,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "四番旅館 The 4th Ryokan",
+    "appid": 5223400,
+    "price": 1205,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5223400",
+    "current_players": 2,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are spending 3 nights at a ryokan overlooking a courtyard. If there are no anomalies, you should go to bed; whereas if there is an anomaly, you should call the reception in order to progress to the next day.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Desktop Gremlins",
+    "appid": 4981140,
+    "price": 1100,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4981140",
+    "current_players": 1,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Proximity",
+    "appid": 5120160,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5120160",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Souls Runner",
+    "appid": 4888600,
+    "price": 2171,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4888600",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run, jump, throw your friends, and escape the Pursuer! Work together, dodge traps, and survive the chaos to escape Hell in Souls Runner.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Bearly Awesome: Chapter 1",
+    "appid": 4610630,
+    "price": 2600,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4610630",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Shopping Cart Pusher",
+    "appid": 4038570,
+    "price": 2600,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4038570",
+    "current_players": 0,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Experience the supermarket version of Grand Theft &quot;Shopping Cart&quot;! Find missing shopping carts, earn money to buy powerful weapons, defeat the customers who come to cause trouble. This is not a simple game. I deliberately made the control of the cart difficult just to make your blood pressure rise!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Glamour Riot",
+    "appid": 3557370,
+    "price": 4200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3557370",
+    "current_players": 2,
+    "total_reviews": 35,
+    "positive_rate": 77.14,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is an absurd and humorous action game where you play as a beauty pageant star. With an innocent, delicate face, a sexy and alluring figure, and all sorts of shady, underhanded tricks, you’ll fight for victory, wealth, and fame.",
+    "scout_score": 30,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Happy Pet Island",
+    "appid": 4273090,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4273090",
+    "current_players": 11,
+    "total_reviews": 7,
+    "positive_rate": 42.86,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 28,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Zen Beauty",
+    "appid": 3409390,
+    "price": 2900,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3409390",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Beautiful women in swimsuits, a picturesque courtyard, and flashes of inspiration captured from the mind—this is an idle game that requires minimal operation. A wide variety of decorations and outfits can be purchased using points earned through idling.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Autonom land Multiverse",
+    "appid": 5110280,
+    "price": 5900,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5110280",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A lone fighter awakens in a dangerous world where human and alien forces collide. Explore rugged landscapes, master deadly weapons, survive relentless encounters, and uncover a path through the multiverse. Fight, explore, and discover what lies beyond your world.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Solitaire Together",
+    "appid": 5213680,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5213680",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy Klondike Solitaire game with a little cat companion by your side. Relax, play at your own pace, enjoy adjustable difficulty from gentle to challenging, and take on deals that are always solvable.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "TerraNova Engine",
+    "appid": 5098440,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5098440",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Golden Goblin Player",
+    "appid": 5214410,
+    "price": 5310,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5214410",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "推しマスコット",
+    "appid": 5122970,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5122970",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Nova Origin",
+    "appid": 4132030,
+    "price": 7440,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4132030",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore, scan, and conquer an unknown world. Deploy rovers, uncover hidden resources, and build a fully automated colony that must survive, adapt, and scale.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "After School Sparkles: Complete Edition",
+    "appid": 5099160,
+    "price": 6930,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5099160",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cats in Wonderland",
+    "appid": 3023020,
+    "price": 1760,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3023020",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Queen of Hearts had a fit of rage after the Cheshire Cat refused to be her pet and ordered the capture of all the cats in Wonderland. Find them before her and prevent anything bad from happening.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Mega Merge",
+    "appid": 2750230,
+    "price": 2320,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2750230",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Aika Was Supposed to Die",
+    "appid": 5097340,
+    "price": 2200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5097340",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "After a recorded fight shakes Hoshinawa School, follow conflicting perspectives in a psychological drama visual novel about violence, reputation, and guilt. Read, explore, and choose how different characters respond: trying to save someone can be as dangerous as abandoning them.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Platform Chess",
+    "appid": 5170400,
+    "price": 1320,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5170400",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Platform Chess combines classic board strategy with platform-fighting combat. Plan your moves, battle for captures, and master the unique abilities of every chess piece in local matches or against the computer.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Tiny Desktop Birds",
+    "appid": 4923700,
+    "price": 1500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4923700",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "MOCHIKA AND THE SEVEN PASTRY SINS",
+    "appid": 4986250,
+    "price": 2700,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4986250",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "NucleoSynthetica",
+    "appid": 5124550,
+    "price": 1620,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5124550",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Start with a solitary atom in the cosmic void. Fuse mysterious elements, birth unknown worlds, build orbital megastructures, and uncover the deepest secrets of creation! Will you foster a thriving paradise of life, or awaken ancient perils lurking in the dark?",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
