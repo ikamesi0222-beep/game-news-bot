@@ -1,0 +1,589 @@
+[
+  {
+    "name": "Unshine Arcade",
+    "appid": 3694100,
+    "price": 959,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3694100",
+    "current_players": 20,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An arcade full of secrets, a sentient virtual pet in the prize cabinet, a stealth shooter roguelite arcade machine and one way to escape: win tickets.",
+    "scout_score": 86,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Hell Healers",
+    "appid": 5248190,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5248190",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Heal your way through Hell in a free action roguelite where purified enemies fight by your side. Discover 20 distinct healers, combine powerful spells &amp; blessings, and survive swarming enemies and towering bosses solo or in 2-player online co-op. Free to play!",
+    "scout_score": 72,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "成長/積み上げ要素: Roguelite +10",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "TWIN Hotel, Spa and More",
+    "appid": 4867650,
+    "price": 467,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4867650",
+    "current_players": 18,
+    "total_reviews": 4,
+    "positive_rate": 75.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A minimalist psychological horror game where you operate a hotel elevator and follow strict regulations while strange and disturbing events unfold around you.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Smiglee's Statues: The Cursed Curation",
+    "appid": 4452790,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4452790",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A short first-person narrative horror simulator about cataloging and restoring museum statues while uncovering unsettling inconsistencies.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Space Mine Raider",
+    "appid": 4532250,
+    "price": 492,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4532250",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Space Mine Raider is a mining and bullet hell incremental game with a focus on strong power progression and combat. Warp in, mine resources, fight enemies and bosses, and extract with your spoils to upgrade your ship.",
+    "scout_score": 40,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Ammossum",
+    "appid": 2659600,
+    "price": 868,
+    "discount_percent": 21,
+    "url": "https://store.steampowered.com/app/2659600",
+    "current_players": 335,
+    "total_reviews": 6,
+    "positive_rate": 33.33,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build an endlessly upgradable weapon! Evolve projectiles into unstoppable firepower in this action roguelike. Fight through hordes of infected beasts, hunt down the source of the plague, and feel the thrill of bloody shootouts filled with bullets, explosions, and acid. Can you survive the madness?",
+    "scout_score": 39,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Drop Command",
+    "appid": 1944880,
+    "price": 1993,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/1944880",
+    "current_players": 158,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "'90s Mech combat at a grand scale! Build an empire across the stars. Pilot Mechs, Tanks, Infantry and Aircraft in combined arms combat on many worlds across the star cluster. Rise to command entire battalions throughout a sandbox campaign.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Paddle Legends",
+    "appid": 4076450,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4076450",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Paddle Legends is a challenging, arcade-inspired roguelite with RPG elements. Use your paddle to block projectiles and send them back at your enemy to score and deal damage. Grab upgrades, unlock new paddles, and acquire permanent boosts to create fun new builds as you fight tougher enemies!",
+    "scout_score": 38,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Radiotext",
+    "appid": 3418160,
+    "price": 839,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3418160",
+    "current_players": 62,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rise against the corporate overlords and become a cyber activist hacker. Join the uprising in a cyberpunk world using radio waves.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "HR: Human Remains",
+    "appid": 3541630,
+    "price": 1012,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3541630",
+    "current_players": 55,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In a broken world ruled by demons, the gears of productivity still turn. Complete tasks, solve puzzles, and explore a society under demonic regime from the perspective of an ordinary office clerk.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Greenhouse: Tidy Up!",
+    "appid": 5146200,
+    "price": 441,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5146200",
+    "current_players": 84,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Greenhouse: Tidy Up! is a cozy single-player simulation where you bring order to a messy greenhouse. Sort and place hundreds of flowers and plants, find the best way to organize everything, and compete with other players for the fastest time.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Space Cat Solitaire",
+    "appid": 3175050,
+    "price": 922,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3175050",
+    "current_players": 2,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Turn chaos into order in this satisfyingly clever solitaire adventure where every move matters! Plan ahead, untangle tricky puzzles, and gaze upon your beautifully organized piles before unleashing an epic combo. Earn fabulous fortunes... then spend it all on a ridiculous hat for your cat.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Debt of Life",
+    "appid": 5058740,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5058740",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You have money. You have a home. You have a family. And you're dying. You have very little time left. Make impossible choices and decide what you're willing to sacrifice for one more week of life.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "P.I.G.E.O.N.",
+    "appid": 4508540,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4508540",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "P.I.G.E.O.N. is a short surrealist visual novel RPG in which you become a pigeon, armed with a camera, sent to spy. You will have to make choices, but you won't always be able to make a choice.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Bustle Beacon",
+    "appid": 4665400,
+    "price": 1277,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4665400",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A mini turn-based citybuilder roguelite about logistics and resources. Chain randomised multipurpose buildings. Manage action points, workers, light level, and wear. Experiment with builds. Transform a forgotten beacon into a stronghold of light. Raise the wall of light!",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Chains of Eternity",
+    "appid": 5156620,
+    "price": 1803,
+    "discount_percent": 12,
+    "url": "https://store.steampowered.com/app/5156620",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Chains of Eternity is a dark, story-driven action RPG set in Tokyo. Fight in real-time combat, explore a supernatural world, and make choices that shape Nolan's fate across multiple branching routes.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Vinyl Store: Tidy Up!",
+    "appid": 5088290,
+    "price": 441,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5088290",
+    "current_players": 33,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Vinyl Store: Tidy Up! is a cozy single-player simulation where you clean up a messy record store. Sort and place 4,281 vinyl records and CDs, find the best way to organize the store, and compete with other players for the fastest time.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "H.O.A Simulator",
+    "appid": 4661020,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4661020",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "HOA Sim is a comedic suburban patrol game where you enforce neighborhood rules as an overzealous homeowners association officer. Cruise the streets, inspect properties, issue citations, and chase your daily fine quota while balancing speed, accuracy, and pure petty power.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Guildream",
+    "appid": 3908240,
+    "price": 332,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3908240",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Kicked out by his father for not becoming fully human, the protagonist is left in charge of a neglected guild. Guildream is a casual and comedic simulation game where anyone can enjoy managing a quirky guild.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Clawless Coin",
+    "appid": 4669750,
+    "price": 615,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4669750",
+    "current_players": 6,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Ever won something from a claw machine? Neither has this one. Clawless Coin is a cozy incremental arcade idler where you run a neon-lit claw machine arcade, chase six tiers of trophy plushes, and prestige into trillions of tokens. Grab big. Grip harder. Grow your empire.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "A Maze In Labyrinth",
+    "appid": 4524010,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4524010",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Get lost... in the labyrinth. Explore the interconnected maze to find the &quot;exit.&quot; Race, climb, and slide through the multiple areas, and try solving the mystery of the “Amazing Labyrinth” in the process.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Compression Quota",
+    "appid": 5187330,
+    "price": 611,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5187330",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Clock in. Pick items off the belt, drop them in the hydraulic press, and slam them into tier-colored scrap. Hit quota or go in the press yourself. A short active incremental game about crushing things for reasons Management won't explain.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Tech Chaos",
+    "appid": 5140650,
+    "price": 467,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5140650",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to Tech Shop Chaos a cozy, satisfying organizing game where every gadget has its perfect place! Sort thousands of unique electronics, from games and laptops to quirky gadgets. Fill the shelves, and transform a chaotic tech chaos into an organizer’s dream one satisfying item at a time.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "AE: Archeological Expedition",
+    "appid": 3910670,
+    "price": 871,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3910670",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore dig sites inspired by real locations, from Petra to Pompeii, and unearth artifacts spanning 10 historical eras. Brush away the centuries, discover the stories behind each find, and fill your journal one careful dig at a time",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Bomb Star Bounce",
+    "appid": 5239510,
+    "price": 519,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5239510",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Soar through the sky using only left and right movement, and destroy star-shaped bombs in rapid succession! Choose from four characters with different abilities, build your HIT count, set a high score, and aim for 100% achievement completion.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Animation.exe",
+    "appid": 5050850,
+    "price": 285,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5050850",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Six little friends move onto your desktop. They stroll along your windows, take naps and put on 14 tiny scenes with surprise endings. Pet them with your cursor, join in, fill the album and watch your friendship grow. Calm by default, and Basic mode never reads your screen.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "PixBit",
+    "appid": 5174230,
+    "price": 315,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5174230",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A pixel painting experience where you create colorful patterns on a 3D canvas while every pixel reacts to the music.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "StreamSpook",
+    "appid": 5093260,
+    "price": 1037,
+    "discount_percent": 33,
+    "url": "https://store.steampowered.com/app/5093260",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Everything you need for your stream, in one app. Set up chat overlays, text-to-speech, captions, stream effects, and more, add them to OBS in one click, catch problems while you're live, and review your stream afterwards.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "It's cooked",
+    "appid": 4557870,
+    "price": 353,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4557870",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cook burgers, avoid obstacles, check the time - Simple as that.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Approved! A Quiet Day of Paperwork",
+    "appid": 5237960,
+    "price": 467,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5237960",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Settle into a quiet afternoon of delightfully unnecessary paperwork. Stamp every form APPROVED, gather satisfying piles, and upgrade your trusty stamp. Meet peculiar colleagues through their letters and make a cozy little desk your own. Take your time.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
