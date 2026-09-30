@@ -1,0 +1,588 @@
+[
+  {
+    "name": "2D Factory",
+    "appid": 4953940,
+    "price": 959,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4953940",
+    "current_players": 6,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Turn a wild pixel-art world into a living factory. Gather by hand, automate five industrial tiers, explore for powerful optional upgrades, and master belts, pipes, power grids, rovers, trains and nuclear energy—solo or in online co-op for up to 8 players.",
+    "scout_score": 63,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Toymare",
+    "appid": 4457450,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4457450",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Toymare is a 2D Puzzle shooter game that delivers a delightful and unique experience, blending mysterious pictorial puzzles with fast-paced action. Help Nox complete all his deliveries!",
+    "scout_score": 60,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "go Up",
+    "appid": 4953130,
+    "price": 229,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4953130",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is a 2D shooter adventure where players can jump around and shoot at enemies by aiming with the mouse. You can also use rolling and weapon assembling to defeat all kinds of enemies, while experiencing a fantastical mental adventure about self-judgement and introspection.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Songs of Glimmerwick",
+    "appid": 1706510,
+    "price": 2249,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/1706510",
+    "current_players": 560,
+    "total_reviews": 15,
+    "positive_rate": 86.67,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Become immersed in a musical woodland fantasy world where casting a spell is as easy as playing a song. Attend classes, grow the university garden, make friends with classmates and townsfolk, and explore the island’s many oddities and mysteries in this story-driven witch academy RPG.",
+    "scout_score": 51,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Super Brik Brik",
+    "appid": 5142580,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5142580",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A clean, colorful brick-breaker where every bounce matters. Clear campaign boards, chase daily challenges, shape each run through a skill tree, and build levels of your own.",
+    "scout_score": 50,
+    "reasons": [
+      "成長/積み上げ要素: Skill Tree +15",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Mokete",
+    "appid": 2598700,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2598700",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Collect strange creatures, build your team, and battle rival aliens in tactical turn-based combat. Explore Earth, survive bizarre encounters, and defeat its champions to claim the Mokete title.",
+    "scout_score": 48,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Gundrobe: an Incremental Gun Builder",
+    "appid": 5213660,
+    "price": 279,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5213660",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build your gun piece by piece, evolve its parts, unlock new technology and push your progression further with every prestige. Create increasingly powerful and absurd weapons, from clever builds to guns capable of firing thousands of bullets.",
+    "scout_score": 40,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "STAR TALE: Odyssey One",
+    "appid": 4502140,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4502140",
+    "current_players": 8,
+    "total_reviews": 3,
+    "positive_rate": 33.33,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is not a rescue mission. No one is coming. This is survival. You awaken alone aboard an infested colony ship carrying the last survivors of humanity. Restore critical systems, manage oxygen, and confront hostile organisms while the AI guiding you seems to be hiding something.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Growing My Manhole",
+    "appid": 4415120,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4415120",
+    "current_players": 566,
+    "total_reviews": 5,
+    "positive_rate": 80.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Consume the universe, grow from Manhole to Black Hole in this insatiable incremental game.",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Okko The Exiled",
+    "appid": 3479420,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3479420",
+    "current_players": 44,
+    "total_reviews": 10,
+    "positive_rate": 90.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Okko The Exiled is an action-packed adventure where you stomp, launch and bash your way through Kutala, a land of demons, on a quest to defeat the Demon Lord Yalda and link Okko’s isolated world with the heavens.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "ESC ape, You died?",
+    "appid": 5208240,
+    "price": 79,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5208240",
+    "current_players": 6,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "ESC ape, You died? started as a project to recreate a game that fits on a single floppy disk (1.44 MB): a platformer where you solve puzzles with the ESC (menu) settings UI and every other piece of UI.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hell Ascension",
+    "appid": 5220430,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5220430",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Embody a knight condemned to the ascent and brave death with every leap. On your path to the summit, only precision and mastery of combat will keep you alive. Face and defeat the creatures guarding this path to bring your ascension to its conclusion.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cold Transit",
+    "appid": 4712740,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4712740",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Catch your friends hiding in the public transport network, before they manage to disappear. Use bikes, trams, trains and more to move around in the city.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Combat Mission: Cold War - Battle Pack",
+    "appid": 5210200,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5210200",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Expand Combat Mission Cold War with 16 new standalone scenarios and two campaigns. Fight Blue-on-Blue training battles at BATUS or command the 4th Canadian Mechanized Brigade Group against a major Soviet advance.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Bad Dogs",
+    "appid": 4958630,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4958630",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "High-speed highway racing meets classic arcade madness. Drift through branching neon routes, survive dynamic roadblock mini-games, and compete across 5 endless arcade titles, weekly world events, and custom seeded runs. Will you ignite the revolution or sell out to the Syndicate?",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Crusader Kings III: By God Alone",
+    "appid": 4232900,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4232900",
+    "current_players": 0,
+    "total_reviews": 103,
+    "positive_rate": 71.84,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Crusader Kings III: By God Alone adds new gameplay options, with a focus on new religious themed content. Watch your characters wrestle with their faith and embrace or oppress heresies as your faith evolves.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "Swarm Idle",
+    "appid": 5097630,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5097630",
+    "current_players": 53,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Swarm Idle is a prestige idle/incremental game where you command an alien queen and her swarm: devour 100 cities, develop eight lineages, optimize your Mutations, and progress even while offline until the whole Earth is ravaged.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Speedway Club Manager 26",
+    "appid": 4345470,
+    "price": 2039,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4345470",
+    "current_players": 88,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Take on the role of a speedway club manager and lead your team to championship glory! Sign your dream riders, secure sponsorship deals, upgrade your facilities, and develop young speedway talents!",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Deck of Stabs",
+    "appid": 3658250,
+    "price": 1274,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3658250",
+    "current_players": 20,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Every card is a weapon. Every decision matters. Five distinct worlds, four unique classes, hundreds of cards, items, skills, and secrets to discover. Burn, curse, explode, and smash your way to victory—just bring your best blades.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Crystal Chatbox",
+    "appid": 5078580,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5078580",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Crystal Chatbox drives your VRChat chatbox from your desktop. Show your music with synced lyrics, the time, weather, heart rate or PC stats, and send custom messages without typing in game. Includes a SteamVR overlay and Space Drag.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Deleted Wiki: Clean Up the Lost Files",
+    "appid": 5204830,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5204830",
+    "current_players": 6,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In 2007 a vandal deleted all 10,324 items on the fan wiki for Plains of Embercraft: Online. You are the new Moderator. Drag each item out of the deletion log into its department, its sub-folder and its row, and watch the broken pages come back.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Futa Coloring Book",
+    "appid": 4558270,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4558270",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A friend gave you a rather... intriguing coloring book. Relax, pick up your virtual brushes, and bring a collection of captivating Futa characters to life. Color beautiful scenes, uncover hidden details, and unlock the personal stories behind each fascinating character!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Last Epoch - Enraged Legend Supporter Pack",
+    "appid": 5009590,
+    "price": 5999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5009590",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Claim the full might of the Enraged line! The Enraged Legend pack is for players who want it all, sheathing your character in glacial crystal and frost-crowned armor. Embody the relentless fury of a warrior who refuses to yield.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Technoidium",
+    "appid": 4673480,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4673480",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Master the swing of your dual directional combat tandem whip tether weapon. Seek and destroy the Corrupted Mechanoids and purge the infection. ",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "碧曦影韵(Pixi Vibe)",
+    "appid": 5069430,
+    "price": 99,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5069430",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Pixi Vibe&quot; is a single-player casual game of the pinball genre. Players need to use the mouse to control the direction and strength of the ball's launch, bounce it on bricks of different shapes, and ultimately reach the end to win.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Flashpoint Campaigns: Cold War - Lowland Lions",
+    "appid": 4758460,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4758460",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Third World War erupts across the German Border, and the Dutch I Corps stands to meet the first Soviet assault. Lowland Lions is the first DLC for Flashpoint Campaigns: Cold War.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Potassium Poisoning",
+    "appid": 5154040,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5154040",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Potassium Poisoning is a post-apocalyptic survivor game. Where you play as a monkey fighting off radioactive hoards, defeat monsters and complete objectives to earn DNA points, unlocking new mutations and traits to better help you fight and survive.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Sacred Echoes",
+    "appid": 4412510,
+    "price": 824,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4412510",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sacred Echoes is a story-driven action adventure. Play as The Shattered One and fight alongside your gang of swordsmen and gunslingers across floating islands to confront the man who shattered the Crystal Bound Island.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Songs of Glimmerwick - Supporter Pack",
+    "appid": 5213830,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5213830",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Support for the developers and get exclusive bonus content, including a dapper hat and cloak and the Cup and Kettle songs.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Songs of Glimmerwick Original Soundtrack",
+    "appid": 5214050,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5214050",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "47 tracks of original music from the enchanting lands of Glimmerwick by Phoenix Glendinning.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
