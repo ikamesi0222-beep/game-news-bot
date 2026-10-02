@@ -1,0 +1,596 @@
+[
+  {
+    "name": "Bloodspill",
+    "appid": 3737680,
+    "price": 360,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3737680",
+    "current_players": 24,
+    "total_reviews": 16,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bloodspill is a fast-paced, pvp retro fps with one hit combat, featuring classic gamemodes like deathmatch, capture the flag and conquest!",
+    "scout_score": 108,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "次点ジャンル: PvP +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Saldyr: Before the Crown Fell",
+    "appid": 5253510,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5253510",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 2D tactical RPG set in an empire on the brink. Lead your soldiers, exploit weapon matchups and break enemy morale. Eight chapters, solo or in co-op for two to three, with different endings shaped by the battles. Play in English, French or Italian.",
+    "scout_score": 103,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: Co-op +30",
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "punkt",
+    "appid": 5153210,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5153210",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A online PVP multiplayer movement boomer shooter. Gain momentum around the map by using a mix of sliding and your weapons natural propulsion to boost you in any direction.",
+    "scout_score": 100,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: PvP +20",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Intravenous 3: Borderline",
+    "appid": 4890770,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4890770",
+    "current_players": 430,
+    "total_reviews": 24,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Tense stealth action, tactical hardcore gunplay, and missions &amp; story shaped by the way you play. Step into the shoes of Gideon, a feared mercenary with nothing left to lose, and carve a bloody path of revenge through deep systemic stealth and brutal tactical gunplay.",
+    "scout_score": 73,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Beautiful Spores",
+    "appid": 4666490,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4666490",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Beautiful Spores is a roguelike twin-stick shooter with lots of spells to dodge and upgrades to make sure your own spells hit back harder every time.",
+    "scout_score": 68,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "MAMIO : Don't Fall !",
+    "appid": 4858900,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4858900",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "MAMIO is a 2–4 player online co-op platformer where one mistake resets the entire team. Collect fart orbs, master your double jump, and survive chaotic obstacle courses together.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "MarbleGo",
+    "appid": 4958470,
+    "price": 84,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4958470",
+    "current_players": 50,
+    "total_reviews": 6,
+    "positive_rate": 16.67,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Marble GO is a casual pixel RPG with marble combat and gear building. Launch marbles to trigger 20+ effects, defeat monsters, and earn gear &amp; gold via auto-launch idle mode. It offers 7 gear categories, 200+ items &amp; 40+ buffs for custom builds, delivering satisfying collisions and deep progression.",
+    "scout_score": 56,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Unpossess 2: Exorcism Simulator",
+    "appid": 4373870,
+    "price": 1279,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4373870",
+    "current_players": 2,
+    "total_reviews": 45,
+    "positive_rate": 66.67,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 1-4 co-op exorcism simulator game set in the late 1900s. Play as exorcists responsible for addressing cases of demonic possession.",
+    "scout_score": 55,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Origin Hunt",
+    "appid": 5113400,
+    "price": 1007,
+    "discount_percent": 28,
+    "url": "https://store.steampowered.com/app/5113400",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A story-rich RPG with challenging turn-based combat and an absurd amount of control over how you build your party. Exploit mechanics, break the rules, and play how YOU want. Experience an emotional story brought to life by memorable characters. Terrible puns included at no extra charge.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Tooth for Tooth",
+    "appid": 5012840,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5012840",
+    "current_players": 16,
+    "total_reviews": 4,
+    "positive_rate": 75.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A turn-based brawler where teeth are your health and your money. Build a crooked smile, buy an unfair advantage, and reclaim your stolen gold teeth. Or choose a fighter and knock another player’s out in PvP.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: PvP +20",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Game Keeper: Somebody Messed Up My Shop!",
+    "appid": 5186690,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5186690",
+    "current_players": 533,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Game Keeper: Somebody Messed Up My Shop! is a single-player organizing game set in a chaotic video game store. Sort 4,290 cases by genre and order, fill 96 racks, progress and unlock powerful abilities, and complete 650 parody-filled series - with questionable help from Jeff, the coolest cat ever.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Crack the Pack",
+    "appid": 4614210,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4614210",
+    "current_players": 141,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Open booster packs, buy upgrades, and collect over 1001 cards and their variants. Build a true automated booster factory by endlessly multiplying production until you unlock cloning and nuclear fusion !",
+    "scout_score": 39,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Murmuring of Moth Mouth",
+    "appid": 5075730,
+    "price": 239,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5075730",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An eleven-year-old video shows Yuna's car on the road today. Its instructions promise to get her to the interview that could change her life... A short psychological horror visual novel about desperation and dependence.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Spencer's Spaghetti Quest",
+    "appid": 3877570,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3877570",
+    "current_players": 0,
+    "total_reviews": 38,
+    "positive_rate": 71.05,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as Spencer, a chaotic demon as you experience vastly different games, styles, and genres in an arcade-like world",
+    "scout_score": 30,
+    "reasons": [
+      "無料 +20",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "DUAL PROTOCOL: The Case of Eva & Miles",
+    "appid": 4660280,
+    "price": 674,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4660280",
+    "current_players": 292,
+    "total_reviews": 2,
+    "positive_rate": 0.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as Agent Eva to follow the trail, or as Analyst Miles to manage the operation. Dual Protocol is an asymmetric noir puzzle game where two players progress only through conversation. Without seeing each other’s screens, combine the data you have and uncover the truth behind the Castellari murder.",
+    "scout_score": 29,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Let's Tidy Up! : Treasure",
+    "appid": 5023770,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5023770",
+    "current_players": 191,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Let's Tidy Up! : Treasure is a cozy organizing simulator about tidying up a Dwarf treasure room after a particularly lucrative year. Complete full shelves to unlock skills and abilities. Sort, stack and shelve 13,196 unique items as you slowly unravel the secrets beneath...",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Tidy Up the Flower Shop",
+    "appid": 5221510,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5221510",
+    "current_players": 68,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The grand opening is tomorrow, and someone has helpfully unpacked the entire delivery onto the floor. Pick the flowers up an armful at a time, sort them by species into baskets, paint them in patterns, and have the place ready by morning. No timers, nobody watching. A cozy first-person tidy-up.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Keepshore",
+    "appid": 5083090,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5083090",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A calm 3D island town-builder spanning nine ages, from stone huts to electric streets. Raise workshops, wire production chains, work a living market, and grow a town that keeps producing while you're away. Settle a new island to advance the age — every shore you leave sends tribute home forever.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Coloniam",
+    "appid": 4705440,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4705440",
+    "current_players": 9,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Real-time grand strategy MMO on the actual map of Earth. Choose one of four superpowers, command armies and navies, forge alliances, betray friends, and fight thousands of players in a persistent world that never pauses.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Obstacle Overdrive",
+    "appid": 3412490,
+    "price": 1349,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3412490",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cruise through a world of colorful retro inspired toys in Obstacle Overdrive, a cozy off-roading toy car adventure! Navigate fun, challenging courses, tumultuous tumbles, and enjoy the charm of a miniature world where the obstacles are as playful as the ride itself.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "From Beyond: Arcade Edition",
+    "appid": 4803460,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4803460",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A rock album you can play! Blast alien bad guys, shoot song lyrics, and stack multipliers... or chill in Peaceful Mode. Buy ships named by my 4 year old, top leaderboards, and hunt VHS tapes. Why VHS? Because VHS is life, that's why.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Blackout",
+    "appid": 5229750,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5229750",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A first-person game about being unable to see. One warehouse, one hundred thousand kilometers on a side, with a single live switch somewhere in it. Clap to light the room for a few seconds; find the switch by ear, following a hum and a ticking relay. Nothing is in here with you.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Vexcell",
+    "appid": 3845510,
+    "price": 1350,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3845510",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Vexcell is an elegant, minimalist puzzle game. Embrace the satisfaction of everything falling into place.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "CHAMBER 13",
+    "appid": 5314070,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5314070",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Wake up in a dark underground chamber with no memory of why you are here. CHAMBER 13 is an atmospheric incremental game where you smash rocks, earn money, and buy upgrades to break free!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Retail Robbery",
+    "appid": 4558820,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4558820",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this action packed game, you need to plan your heist and keep a low profile and steal the food, the TVs or even the microwaves! But be careful you must avoid the security hunting you down! Make it to the exit with your bag full of valuables to successfully pull of your Robbery.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Clickore Station",
+    "appid": 5209210,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5209210",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Defend your station with a click and survive as long as you can. Destroy the enemies, mine the deposit, then trade your ore for permanent upgrades. Every world has its own ore, its own enemies and its own rules.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Golazo: Arcade Football Cup",
+    "appid": 5207090,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5207090",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fast-paced 11-v-11 arcade football for solo or local 2-player matches. Choose from 16 fictional clubs, score headers, volleys, bicycle kicks and long-range goals, then battle through a knockout cup with extra time and penalties. Keyboard and gamepad supported.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "No Fly Zone",
+    "appid": 5199610,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5199610",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Drones have taken the city. You have one drone, a machine gun and a missile lock. Hunt them across 60 missions and six environments, dodging minefields and rooftop turrets, and bring down four boss craft before they bring down you.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "101 Dogs Hidden in Shenzhen",
+    "appid": 5263590,
+    "price": 59,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5263590",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Join this adventure and discover the hiding places of 101 dogs in Shenzhen 🐾 in the hand-crafted landscape. 🏆 Earn tons of achievements. How many 🐶 can you find? 🔎 Be quick! ⏱️",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Wizard Harder Or Get Laid Off",
+    "appid": 5184050,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5184050",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An evil baron poisoned the king's mind in the kingdom you hail from, convincing him that enchanted objects in the hands of simple goblins meant he could reduce headcount - that means you. Explore this new town, complete quests, fight goblins, and increase your power to gain the favor of the king.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
