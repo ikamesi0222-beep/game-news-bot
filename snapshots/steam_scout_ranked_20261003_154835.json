@@ -1,0 +1,587 @@
+[
+  {
+    "name": "Soldier Rush",
+    "appid": 5113560,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5113560",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Soldier Rush is a top-down auto-shooter roguelite: dodge waves while your gun auto-fires at the nearest enemy, beat bosses, and grow stronger between runs. Prestige for crystals, ascend to keep key upgrades, and push into endless loops of enemies. Climb the leaderboards.",
+    "scout_score": 70,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Birb",
+    "appid": 4364930,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4364930",
+    "current_players": 577,
+    "total_reviews": 26,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Start as a humble birb, eat popcorn, and evolve into a cosmic force of nature! Birb blends addictive idle mechanics with active roguelite expeditions. Build your nest, catch rare fish, challenge bosses, and compete on the global leaderboard. How many pecks will it take to rule the world?",
+    "scout_score": 53,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Tunnel Escape Fates Entwined",
+    "appid": 4285110,
+    "price": 1599,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4285110",
+    "current_players": 468,
+    "total_reviews": 39,
+    "positive_rate": 87.18,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fight through a zombie-ravaged city as Olivenia, a daring cop on an escort mission in this rogue-lite RPG/ADV. Use various weapons and upgrade your gear to survive brutal gunplay and deadly encounters where every choice counts. Fail, and very bad things might happen to you…",
+    "scout_score": 49,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Dreamspring",
+    "appid": 3231480,
+    "price": 1259,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3231480",
+    "current_players": 32,
+    "total_reviews": 57,
+    "positive_rate": 91.23,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dreamspring is a dark fantasy styled, open world dungeon crawler inspired by games like Morrowind and King's Field. Explore a dying kingdom and it's different realms in first person action combat, styled in a mix of retro and vaporwave aesthetics.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Rorasuketo",
+    "appid": 4401480,
+    "price": 299,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4401480",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A story-based casual JRPG inspired by sports manga, roller derby, and the Super Nintendo. Explore a fun world, make friends, and skate your heart out!",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "In These Hallowed Halls",
+    "appid": 4875320,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4875320",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In These Hallowed Halls is a first person, psychological horror puzzle game. Make your way through a decrepit, abandoned mental Institution as you solve puzzles and unravel the story behind what lurks in the darkest corners of the building.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Stick Cards RNG",
+    "appid": 4611600,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4611600",
+    "current_players": 5,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Gamble your life away by buying card packs until your broke, or until you climbed the mountain of money!",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Major Mutt",
+    "appid": 4408990,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4408990",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as a combat ready pup in this 3D survivorlike. Blast through swarms of giant critters with auto firing weapons attached to your harness, but don't just survive, Do Your Job! Herd lost sheep to safety to earn permanent stat boosts and become the ultimate Good Boy",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Keine’s Terakoya: A Schoolhouse in Gensokyo",
+    "appid": 3679100,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3679100",
+    "current_players": 0,
+    "total_reviews": 26,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as Keine Kamishirasawa, the half-beast teacher of Gensokyo! Teach humans and yokai, grow their minds, hearts, and bodies, and guide them to graduation. Balance tradition and change, expand your influence, and build your ideal school. Write your legend on the education frontlines!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Intercept Line",
+    "appid": 4899730,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4899730",
+    "current_players": 4,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You command Ukraine's air defense. Every night — missiles and drone swarms, and always fewer interceptors than targets. By day it's your turn: deep strikes past enemy radars. And when orders aren't enough — take the stick yourself.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "GENERAL IDLER",
+    "appid": 3200810,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3200810",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Conquer 195 nations on a parallel Earth. Build industries, raise armies, and snowball an empire across continents — then deploy the nuke and do it faster. Three rival generals play the same map by your exact rules. Idle strategy about the map, not the clicker.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Factorized",
+    "appid": 5230410,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5230410",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 2D side-scroller about killing robots with janky guns as a morally questionable main character.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Blackout",
+    "appid": 5267360,
+    "price": 159,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5267360",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Blackout is an indie puzzle game inspired by old-school handheld games from the 80s and 90s. 5x5 grid only able to be solved by a 3x3 cross/plus.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Spring Me Up",
+    "appid": 4218230,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4218230",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A challenging physics-based 2.5D platformer. Use your spring to bounce and land with precision, navigating tricky platforms and obstacles. Every miscalculation can send you back, testing your skill, patience, and self-control.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "LUMESPROUT",
+    "appid": 5242800,
+    "price": 239,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5242800",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Venture into six lost gardens in LUMESPROUT, a pixel-art action roguelite. Battle swarms, collect seeds, and shape your build with powerful upgrades. Return home with your harvest—or push deeper for more.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Deer Hunting - The Season 2",
+    "appid": 5158320,
+    "price": 2000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5158320",
+    "current_players": 92,
+    "total_reviews": 19,
+    "positive_rate": 63.16,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "This is a open world hunting simulation. Hunt some of North Americas best hunting spots for trophy Whitetail Deer, Mule Deer, and more to come soon! Manage and grow your bucks from one year to the next. Hunt with multiple firearms including compound bows, Rifle, Shotgun &amp; Muzzleloader.  ",
+    "scout_score": 28,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "GYROGUE",
+    "appid": 4548340,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4548340",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "GYROGUE is a fast‑paced, physics‑based roguelike where you pilot a customizable spinning top through procedurally generated arenas. Master fluid momentum‑based combat, craft unique builds, and survive escalating waves of enemies and powerful bosses in an ever‑changing crucible.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Alchemy Master",
+    "appid": 5201260,
+    "price": 559,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5201260",
+    "current_players": 11,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run a Chinese xianxia alchemy chamber. Consume pills to gain Cultivation and ascend thirteen realms from Qi Refining to Dao Ancestor. Spend Spirit Stones on better alchemy rooms and furnaces, Cultivation on five talent paths, and saved pills on artifacts; reincarnate for permanent Fortune.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Your First Half-Orc: A Fantasy Gay Sex Encounter in VR",
+    "appid": 4739740,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4739740",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your First: Half-Orc is a player-led MLM sexual experience in VR. Taking place in a fantasy world, enjoy the beautiful view of a glowing mushroom forest while you engage with a half-orc warrior in a dry sauna.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Airline Empire",
+    "appid": 4893990,
+    "price": 374,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4893990",
+    "current_players": 6,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Skyline Empire is a turn-based airline tycoon. Found your carrier, connect 300+ real cities, and secure airport slots while competing with up to 100 AI airlines. Set fares, buy aircraft, build hubs, and form alliances to grow a regional startup into a worldwide megacarrier.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Webring",
+    "appid": 4884750,
+    "price": 169,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4884750",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An Old Internet experience by someone who loved being there.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Pixel Trader",
+    "appid": 4962430,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4962430",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pixel Trader is a pixel-art stock market sim where each trading day brings new prices, headlines, and tough calls. Buy and sell fictional tickers, ride earnings and market shocks, and grow your portfolio in Journey scenarios or Endless mode—no real money at risk.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Myriad Gambit",
+    "appid": 5262940,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5262940",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Myriad Gambit is a mythic Chinese auto battler. Pick a hero, recruit across 8 shifting tribes, and master a 7-slot formation against 7 AI rivals. Upgrade units into golden True Forms, cast spells, and adapt builds to conquer multi-phase Hell boss trials.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Horde is Coming",
+    "appid": 4482600,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4482600",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your heroes never move. The horde never stops coming. Create insane builds, position your team, combine runes, and unleash two powerful abilities at the perfect moment to survive increasingly brutal waves of monsters.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "TimoS",
+    "appid": 4934110,
+    "price": 2352,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4934110",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "SteamOS coming soon! Operate your Windows PC in VR with only your head. Built for people who can't use controllers, but useful to those who can! Go hands free in more casual experiences. Gaze-and-dwell cursor, radial menu, on-screen keyboard, for the SteamVR dashboard and your Windows desktop.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The 3AM Convenience Store",
+    "appid": 5269520,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5269520",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Every night at exactly 3 AM, a mysterious customer visits your convenience store. Seven quiet nights of conversation — and your choices — will uncover her secret and decide which of 6 endings you reach. A short, heartfelt visual novel set in the stillness of dawn.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "SimRace Publisher Studio",
+    "appid": 5219510,
+    "price": 2699,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5219510",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "SimRace Publisher Studio automates your sim racing content workflow: record races, create automatic highlights without a monthly quota, generate up to 4 Event Shorts per project in Lite, prepare thumbnails, and publish to YouTube.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Spaceman's Luck",
+    "appid": 4706030,
+    "price": 699,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4706030",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A space 4X game. Colonize planets and annihilate enemy races in an intergalactic war for living space. Designed to be fun, fast, and easy to play.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Get To Orbit",
+    "appid": 5130440,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5130440",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 2D pixel-art score-chaser built on real orbital mechanics. Launch, pitch over, coast, and circularise into the exact orbit each contract asks for, then hold it for one full lap before the fuel runs out. Ten missions, three hulls, and a gold tier tuned past the developers' own autopilot.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Vessel",
+    "appid": 5228590,
+    "price": 239,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5228590",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Vessel is a dual-character-controlled puzzle game with mind-bending, block-based puzzles to solve across 150 rooms.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
