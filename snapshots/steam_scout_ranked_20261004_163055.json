@@ -1,0 +1,585 @@
+[
+  {
+    "name": "HEARKEN",
+    "appid": 5087210,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5087210",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A blind co-op horror comedy for up to 4 players. Sound is your only sight: every step, clap and scream lights up the dark — and calls a monster that hunts by ear and can call you in your friend's voice. Sneak, haul fragile vials, and scream at the worst possible moment.",
+    "scout_score": 71,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Soldier Rush",
+    "appid": 5113560,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5113560",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Soldier Rush is a top-down auto-shooter roguelite: dodge waves while your gun auto-fires at the nearest enemy, beat bosses, and grow stronger between runs. Prestige for crystals, ascend to keep key upgrades, and push into endless loops of enemies. Climb the leaderboards.",
+    "scout_score": 68,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "New Frontier9",
+    "appid": 5116740,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5116740",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Scout the unknown, choose a route, and load a freighter whose weight changes how it flies. Then take the controls and survive the path you planned in a side-scrolling delivery shooter where safer choices protect the cargo—and danger pays.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Nobody Clocks Out",
+    "appid": 5262000,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5262000",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A retro 2.5D heist shooter set in an office tower after closing. Fight your way up 26 floors of armed night security, win your next gun at the slot machine, and shoot straight through walls that were never built to stop a bullet, from a blowgun on floor one to rocket launchers at the top.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Gentle Night",
+    "appid": 4546070,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4546070",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Master primal desires in a wasteland. Gentle Night is an adult horror Visual Novel you just CAN'T MISS. As Store Manager in a perilous town, will you embrace dominance and corruption? Experience intense taboo, moans, and survival. In this eternal night, their fates are entirely in your hands.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Demon Lurking in Osaka Castle – Episode 1",
+    "appid": 5268550,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5268550",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A live-action horror visual novel set in Osaka Castle Park. Explore the park after dark, make choices, and uncover a disturbing supernatural mystery through footage filmed on location in Osaka.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "灵兽问道-MythicalBeast",
+    "appid": 5234170,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5234170",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore mystical lands, hatch spirit beasts, and master the Five Elements in this single-player cultivation RPG. Brew elixirs, forge gear, merge bloodlines, and ascend through five cultivation realms. Choose when to press on or retreat with your loot, then challenge four sects and the final boss.",
+    "scout_score": 48,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Demon Lord: Clicker",
+    "appid": 1742110,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1742110",
+    "current_players": 3,
+    "total_reviews": 6,
+    "positive_rate": 50.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A high-fantasy Steam-drop clicker. Click through demon hordes, gear up for idle power, claim real loot, and push the campaign until the Demon Lord falls.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Touhou: BlackEight",
+    "appid": 5008530,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5008530",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "If there is an anomaly, do not put the lights out. Survive eight nights at Eientei in this first person Touhou Project horror fan game. 99 ruinous anomalies warp the sleeping girls in the dark, and the distance between Reimu, Marisa, Kaguya and Mokou shifts night by night. Exit 8 like, yuri horror.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Keine’s Terakoya: A Schoolhouse in Gensokyo",
+    "appid": 3679100,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3679100",
+    "current_players": 4,
+    "total_reviews": 26,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as Keine Kamishirasawa, the half-beast teacher of Gensokyo! Teach humans and yokai, grow their minds, hearts, and bodies, and guide them to graduation. Balance tradition and change, expand your influence, and build your ideal school. Write your legend on the education frontlines!",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Go",
+    "appid": 5233540,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5233540",
+    "current_players": 0,
+    "total_reviews": 10,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play Go on 9×9, 13×13, or 19×19 boards with Chinese or Japanese rules. Learn the fundamentals, challenge local AI, play locally with a friend, study and analyze SGF records, or connect to OGS for online games and spectating.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Jolly Roger Jam: Cathraul's Curse",
+    "appid": 5235210,
+    "price": 1000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5235210",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A pirate platformer with a big heart... and a bigger skull.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Take Me in Totality",
+    "appid": 5117090,
+    "price": 419,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5117090",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An adult romance visual novel set in a Galician village stranded after a total eclipse. Make choices across three distinct routes, navigate community conflict, and pursue relationships with Bruna, Sabela, or Candela as Loureira decides its future.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Timefract",
+    "appid": 4450670,
+    "price": 240,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4450670",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Move through time. Back and forward. Create clones across timelines and cooperate with yourself to solve impossible puzzles.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Intercept Line",
+    "appid": 4899730,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4899730",
+    "current_players": 0,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You command Ukraine's air defense. Every night — missiles and drone swarms, and always fewer interceptors than targets. By day it's your turn: deep strikes past enemy radars. And when orders aren't enough — take the stick yourself.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Pixel Trader",
+    "appid": 4962430,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4962430",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pixel Trader is a pixel-art stock market sim where each trading day brings new prices, headlines, and tough calls. Buy and sell fictional tickers, ride earnings and market shocks, and grow your portfolio in Journey scenarios or Endless mode—no real money at risk.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Blackout",
+    "appid": 5267360,
+    "price": 159,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5267360",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Blackout is an indie puzzle game inspired by old-school handheld games from the 80s and 90s. 5x5 grid only able to be solved by a 3x3 cross/plus.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Airline Empire",
+    "appid": 4893990,
+    "price": 374,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4893990",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Skyline Empire is a turn-based airline tycoon. Found your carrier, connect 300+ real cities, and secure airport slots while competing with up to 100 AI airlines. Set fares, buy aircraft, build hubs, and form alliances to grow a regional startup into a worldwide megacarrier.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Washington in Blood",
+    "appid": 5136270,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5136270",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "《Washington in Blood》 is a near‑future Western fantasy interactive narrative game. Within Washington, ruled by vampire elites, players strive to overthrow the vampire empire. Gather evidence and make critical choices to steer the story toward distinct endings.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Snow War",
+    "appid": 1585100,
+    "price": 199,
+    "discount_percent": 50,
+    "url": "https://store.steampowered.com/app/1585100",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 0.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Neon lights, big hair, and mountains of snow — the 80s never ended in the frozen world of Snow War. Grab your snowballs, gear up with homemade gadgets, and dive into fast‑paced, retro‑flavored action.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "The Webring",
+    "appid": 4884750,
+    "price": 169,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4884750",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An Old Internet experience by someone who loved being there.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "LUPKAR - World of Billiards",
+    "appid": 5036340,
+    "price": 764,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5036340",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Online billiards with honest physics: Russian pyramid, 8-ball, 9-ball and snooker. 1v1 matches and a four-player table against players worldwide, cross-play with mobile, and full cue control — follow, draw and side spin.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hazard Ready",
+    "appid": 5261710,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5261710",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Walk a working industrial site, read the actual paperwork, isolate and verify real-feeling equipment with your own hands, and see exactly how a skipped step turns into an incident.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "BEYOND XII",
+    "appid": 5182380,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5182380",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Reality is breaking — and the clock is counting down. Explore impossible worlds, uncover the connection between them, and survive as each strike of midnight pulls you deeper into something you were never meant to find.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Draw Alive: Fish",
+    "appid": 5006170,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5006170",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Draw a fish, turtle, jellyfish or crab on paper, snap a photo, and bring it to life in a living 3D aquarium. Import your hand-drawn creatures, decorate coral reefs, and watch your tank teem with marine life.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Myriad Gambit",
+    "appid": 5262940,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5262940",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Myriad Gambit is a mythic Chinese auto battler. Pick a hero, recruit across 8 shifting tribes, and master a 7-slot formation against 7 AI rivals. Upgrade units into golden True Forms, cast spells, and adapt builds to conquer multi-phase Hell boss trials.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Horde is Coming",
+    "appid": 4482600,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4482600",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your heroes never move. The horde never stops coming. Create insane builds, position your team, combine runes, and unleash two powerful abilities at the perfect moment to survive increasingly brutal waves of monsters.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Fortress Within",
+    "appid": 4898210,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4898210",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Fortress Within is an interactive psychological mystery. Enter Xinghe Psychology Clinic and uncover sealed memories through empathic dives, memory analysis, and emotional intervention. Every choice reshapes relationships, clues, and the ending.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "TimoS",
+    "appid": 4934110,
+    "price": 2352,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4934110",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "SteamOS coming soon! Operate your Windows PC in VR with only your head. Built for people who can't use controllers, but useful to those who can! Go hands free in more casual experiences. Gaze-and-dwell cursor, radial menu, on-screen keyboard, for the SteamVR dashboard and your Windows desktop.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The 3AM Convenience Store",
+    "appid": 5269520,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5269520",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Every night at exactly 3 AM, a mysterious customer visits your convenience store. Seven quiet nights of conversation — and your choices — will uncover her secret and decide which of 6 endings you reach. A short, heartfelt visual novel set in the stillness of dawn.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
