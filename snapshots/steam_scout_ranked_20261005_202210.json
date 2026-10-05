@@ -1,0 +1,577 @@
+[
+  {
+    "name": "Chill Cat",
+    "appid": 4838690,
+    "price": 100,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4838690",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Chill Cat is a cute and chaotic 3v3 multiplayer top-down shooter where adorable cats battle for turf with colorful paint blasters!",
+    "scout_score": 91,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Sinever: First Seal",
+    "appid": 5001350,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5001350",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sinever: The First Seal is a 1–4 player co-op psychological horror game. Explore an isolated Victorian estate, operate paranormal equipment, manage your sanity, and uncover the truth behind its imprisoned entity before the house claims you too.",
+    "scout_score": 60,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Veillombre",
+    "appid": 4914240,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4914240",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Multiplayer pixel-art horror for 1-16 players. A manor drowned in darkness, a candle as your only ally, a monster on the prowl — and maybe traitors among you. Scavenge, barricade, hide, vote… and survive the night.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "AION 2",
+    "appid": 3393110,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3393110",
+    "current_players": 382255,
+    "total_reviews": 8988,
+    "positive_rate": 72.86,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "AION 2 is the only MMORPG built around a world where the sky is the battlefield. Choose your faction, ascend as a Daeva, and fight a faction war across a world 36 times larger than the original. PC only, on Unreal Engine 5.",
+    "scout_score": 53,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "HOUSE OF FEAR",
+    "appid": 5220870,
+    "price": 179,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5220870",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "House of Fear is a fast-paced horror action game with quest elements. Late at night, a priest receives an urgent call and travels to a country house.",
+    "scout_score": 41,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Solo Cultivation 独修",
+    "appid": 3878440,
+    "price": 882,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3878440",
+    "current_players": 48,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Xianxia inspired Cultivation game. Cultivate, farm materials, learn manuals, craft pills and equipments, hunt monsters and fight bosses!",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Stickility",
+    "appid": 3419140,
+    "price": 1189,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3419140",
+    "current_players": 18,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore vast and deep interiors of an underground research center, brimming with creative foes, bosses, NPC's, and more. Craft your equipment from scavenged tech, and uncover Biotec's dark experiments.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Midwest Goodbye",
+    "appid": 4917250,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4917250",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A narrative deck builder that mixes 2D and 3D art and makes you want to say goodbye just a little longer.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Gear Puzzle: the inheritance of grandpa",
+    "appid": 1114230,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/1114230",
+    "current_players": 3,
+    "total_reviews": 60,
+    "positive_rate": 75.0,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A hand-drawn steampunk point-and-click puzzle adventure. Search for clues, combine items and unravel a family mystery. Now includes Chapter 2, a journey into a miniature world, and free hints that recharge every 3 minutes.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Chefarzt",
+    "appid": 5220450,
+    "price": 1769,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5220450",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Examine patients, make diagnoses, treat emergencies, and perform medical procedures. Level up, sleep your way to the top, or try your hand at politics. CHEFARZT combines clinic, mini-games, career decisions, and personal life into a multifacet doctor and life simulation. But care: its mostly german.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Catkin Hollow: The Moonbell Mystery",
+    "appid": 5238890,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5238890",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A retro top-down adventure RPG where you customize your cat, explore interconnected rooms, complete quests, battle enemy ambushes, collect treats and toys, unlock hidden treasure chambers, and grow stronger through leveling and Prestige.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "SCUM Specialist Angler Pack",
+    "appid": 5088110,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5088110",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Whether you’re fishing from the shoreline or heading out in search of the Island’s biggest catches, the Specialist Angler Pack gives you everything you need to look and act the part.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Demonfall",
+    "appid": 3453010,
+    "price": 839,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3453010",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pending Deletion On Steam",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "GACHA AND SLEEP",
+    "appid": 2101640,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2101640",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A single-player gacha game. See how quickly you can pull the highest-rarity (★6) characters with limited in-game funds! Just pull! Pull! Pull! Don't think!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "ShiGuang",
+    "appid": 5083650,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5083650",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "100% local AI semantic search for images AND videos. Type &quot;sunset by the sea&quot; and find that picture instantly; deep video analysis takes you to the exact moment. Supports iPhone HEIC, camera RAW and 20+ video formats. All AI models built in, no internet — your library never leaves your PC.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Novo: The Colony",
+    "appid": 4991220,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4991220",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rebuild a shattered colony, send your survivors on missions to explore and find key resources, and discover the truth about what happened to your son. A story-driven post-apocalyptic strategy sim where every choice comes with a cost.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Oktoberfest Armor Set",
+    "appid": 5239930,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5239930",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The world may be over, but Oktoberfest is forever.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "THE MIDNIGHT QUEENS 2",
+    "appid": 5223280,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5223280",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "When two different mafia groups are brought into chaos; Chu Fen, and Betty Hunter set off on dual quests to end two separate gang wars with an unknown link. Featuring an all-female cast of cute, and dangerous chibis.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Corridors",
+    "appid": 5271960,
+    "price": 89,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5271960",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Go through the corridors and try to avoid dying to the different entities. Beat and share your Highscores!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "OverBlocked",
+    "appid": 5144390,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5144390",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Keep the ball alive while clearing the tables of blocks across 64 levels. To help you out, you have 12 upgradable power-ups, a time-limited light beacon on the ball, and paddle steering assistance. Create your own levels and custom games to share with others. Eyes on the ball!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Sandburied",
+    "appid": 5239020,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5239020",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sandburied is a relaxing idle sandbox that plays on its own while you work or unwind. Keep a tiny worm in a resizable desktop jar, take control at any time, explore a living sand world, and uncover 100 pieces of human waste buried beneath the earth.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Chesspath Dungeon",
+    "appid": 1869060,
+    "price": 279,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/1869060",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Chess decides where you may land. You draw the path between. In Chesspath Dungeon, play movement cards to weave around monsters, detour for treasure, or line up an attack. Find gear that turns one hit into a chain reaction. With few cards left, head for the exit or risk one more chest?",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Garden of the Dead",
+    "appid": 5244710,
+    "price": 749,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5244710",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A tower-defense with the roles reversed, where you play the Supreme Rotten and command an army of 14 Rottens to defend your house from endless waves of mutant, vengeful plants.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "CROVA CHAIN",
+    "appid": 5208960,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5208960",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Connect arrows, merge blocks, and turn chains into comebacks! CROVA CHAIN is a fast-paced puzzle battler where direction and timing matter. Take on a seven-stage solo challenge or go head-to-head with a Steam friend in online 1v1 battles.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Ping Ball!",
+    "appid": 5218430,
+    "price": 179,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5218430",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fast paced, paddle action with soccer/football style goals, tilting paddles, and power ups that turn every rally into chaos. Play 1v1 or 2v2 online, locally on one PC, or against CPU opponents.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Halloween Trouble 8 Collector's Edition",
+    "appid": 5207370,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5207370",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "When the Eternal Pumpkin Lantern vanishes on the opening night of the Grand Halloween Festival, Witch Ronida and her apprentice Diamante set out on a spooky match-3 adventure through enchanted forests and haunted vineyards to save Halloween.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Vacation Adventures: Cruise Director Mega Bundle 1",
+    "appid": 5052460,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5052460",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "THREE Amazing Hidden Object Games onboard theLuxury USS Liberty of the Waves. 1.The Americas 2.Round the World 3.The Atlantic &amp; Pacific",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Halloween: Trick or Treat",
+    "appid": 5063960,
+    "price": 699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5063960",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A family friendly Halloween themed Hidden Object Game",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "寻真仙侠传",
+    "appid": 5116960,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5116960",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A classic xianxia tale, driven by dual perspectives with multiple endings. The senior sister's devotion, the princess's deep love, the attendant's obsession, the fellow disciple's betrayal… four intertwined romantic paths — the ending is yours to decide.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "NTR Onsen Trip2",
+    "appid": 4906010,
+    "price": 2124,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4906010",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An NTR visual novel of betrayal, temptation, and corruption. Play as devoted housewife Kazuha Oba as a hot spring trip with the neighborhood association president awakens unknown pleasures. Featuring erotic CGs and voice acting.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
