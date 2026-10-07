@@ -1,0 +1,601 @@
+[
+  {
+    "name": "Fallgate",
+    "appid": 4991930,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4991930",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fallgate is a dynamic multiplayer arena FPS inspired by classic arena shooters, featuring advanced movement, projectile-based weapons, wallbangs and competitive PvP combat.",
+    "scout_score": 143,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: PvP +20",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Insomnia",
+    "appid": 3450300,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3450300",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Insomnia is a top-down shooter with psychological horror elements. Take part in fierce firefights, perform tasks covertly, act on intuition. Will you be able to survive all the enemies, stop moral outrage around you, and save others without losing your mind?",
+    "scout_score": 91,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "The Only Eye: Arcane Legacy",
+    "appid": 5238140,
+    "price": 679,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5238140",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Only Eye is a 2D pixel-art action roguelite where every run reshapes your journey. Master unique classes, combine powerful relics, face relentless bosses, and push through a dark fantasy world with deep progression and a challenging endgame.",
+    "scout_score": 63,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Antartopolemos Tactics",
+    "appid": 5023780,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5023780",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Turn-based tactical RPG about guerrilla warfare from the perspective of guerrillas.",
+    "scout_score": 62,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Steam & Iron. Battle of Port Arthur",
+    "appid": 3381300,
+    "price": 1299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3381300",
+    "current_players": 9,
+    "total_reviews": 7,
+    "positive_rate": 85.71,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Steam &amp; Iron: Battle of Port Arthur is a tactical real-time naval simulator focused on early 20th-century steam warships. Command battleships, cruisers, and torpedo boats in battle. Manage formations, speed, visibility, and firepower as Russian and Japanese fleets clash in the Yellow Sea.",
+    "scout_score": 61,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "放置：百夜炼诡录",
+    "appid": 5009490,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5009490",
+    "current_players": 30,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Hundred Nights of Alchemy &quot;is a Chinese style RPG with a unique theme of placement and construction.",
+    "scout_score": 46,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "SPAM",
+    "appid": 2902720,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2902720",
+    "current_players": 7032,
+    "total_reviews": 18,
+    "positive_rate": 72.22,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "SPAM is a free-to-play online turn-based combat game. Jump into dynamic battles where you’ll have to adapt to your opponents and try to impose your strategy. Earn new cards through your victories and create devastating combos!!",
+    "scout_score": 40,
+    "reasons": [
+      "無料 +20",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Shelved",
+    "appid": 5125590,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5125590",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sort 1,560+ cursed VHS tapes across 20 genres as a tiny orc! Master magical powers, upgrade your gear, and outsmart a chaotic poltergeist who scatters your work. Features Hidden secrets, 26 achievements, and a Spooky-Free Peaceful Mode. The ultimate cozy horror organizer!",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Superhero Simulator",
+    "appid": 3531260,
+    "price": 299,
+    "discount_percent": 50,
+    "url": "https://store.steampowered.com/app/3531260",
+    "current_players": 35,
+    "total_reviews": 976,
+    "positive_rate": 74.59,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Superhero Simulator is an open-world superhero game where you fight villains and save lives! But being a hero isn’t free! You’ll need to work, pay rent, and survive. Can you handle both sides of the superhero life?",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Hunt: Showdown 1896 - Bound by Blood",
+    "appid": 4733620,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4733620",
+    "current_players": 0,
+    "total_reviews": 68,
+    "positive_rate": 92.65,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "This DLC contains one Hunter, three Weapons, one Consumable, one Avatar, and one Frame: The Protegee (Hunter), The Primrose (Mosin-Nagant), Skin Deep (Sparks Pistol) (Sparks Pistol Silencer), The White Fox (Ammo Box), The Protegee (Avatar), The Protegee (Frame)",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "Dr. Mancell and Mr. Flame",
+    "appid": 5301420,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5301420",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "We made a homage game to go with the song collaboration between Waterflame and Josh Mancell, composer of the original Crash Bandicoot! Just in time for the 30th anniversary (unintentionally)!",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Borrowed Sight",
+    "appid": 5000040,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5000040",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A mysterious epidemic violently killed millions in hours. Sealed inside a darkened van, your only connection to the silent, altered city is a damaged remote-controlled car. Navigate using coordinates, angles, and camera feeds to uncover the truth without drawing the attention of what remains.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Super Macabre Madness",
+    "appid": 5291680,
+    "price": 399,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5291680",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Super Macabre Madness is a fast-paced 2D platformer where you’ll die over and over again. Can you beat it before it beats you?",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Office God",
+    "appid": 5293110,
+    "price": 699,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5293110",
+    "current_players": 6,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Climb from intern to administrator of reality in Office God, a satirical incremental game set inside a retro desktop. Automate busywork, hire employees, buy companies, and turn corporate drudgery into cosmic power. Your next promotion is everyone else's problem.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Heartbeats - Anniversary Edition",
+    "appid": 5213380,
+    "price": 200,
+    "discount_percent": 33,
+    "url": "https://store.steampowered.com/app/5213380",
+    "current_players": 4,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A stylish mix of classic point-and-click puzzles. Hardcore, old school, and unforgiving. A short story where each page is a puzzle, and each puzzle unlocks the next.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Distant Worlds 2: Shadows Rising",
+    "appid": 3989670,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3989670",
+    "current_players": 0,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Survive the shattered galaxy in Distant Worlds 2: Shadows Rising. Rise from a lone pirate to a legendary warlord, build criminal networks, smuggle, raid, trade, and shape the future of the stars while facing rival factions, emerging empires, and the relentless Hive.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Babel Legacy",
+    "appid": 4699770,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4699770",
+    "current_players": 454,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An idle game where you gather resources and grow your city. Sit back and watch your city expand!",
+    "scout_score": 29,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Cyber Cleaner Simulator",
+    "appid": 3807650,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3807650",
+    "current_players": 52,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Vacuum space junk, polish derelict ships, and clear alien worlds of debris as you upgrade your high-tech cleaning gear.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Splash Park Tycoon",
+    "appid": 5230000,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5230000",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a water park worth queuing for in this free tycoon game. Design twisting slides, create lively pools, and keep guests happy. Grow a profitable resort, tackle park challenges, or build without limits in the Creative Lab.",
+    "scout_score": 23,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "AIMPLE Studio",
+    "appid": 2392550,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2392550",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Broadcast program for 3D Vtuber. Unrealized and provides a high-quality broadcasting environment. With a VMC Code base network, you can easily operate your virtual avatar.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Pearl - Meeting on an Autumn Day -",
+    "appid": 4857310,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4857310",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Tells the story of a guy and a girl who were separated in childhood when the guy was adopted, and then reunite and fall in love in college ten years later.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Calcio Totale",
+    "appid": 5247020,
+    "price": 1349,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5247020",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A football management game with an old-school spirit but a fresh perspective: choose from 100 Italian clubs and build your career as a chief executive. Oversee finances, transfers, staff, facilities and marketing; delegate the sporting side or take full control.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Majhi",
+    "appid": 4890650,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4890650",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are the Majhi, bound to the river. Your work is to carry the dead across. Tonight, several villagers are waiting. That has never happened before.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Diamonds & Destruction",
+    "appid": 5247840,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5247840",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In Diamonds &amp; Destruction, you play as a miner who has a big debt to pay. Deep underground, you mine valuable diamonds, earn money, and become stronger with every round.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "PokerLines",
+    "appid": 2894770,
+    "price": 159,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2894770",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A Slightly New Poker Battle",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Chess Folk",
+    "appid": 5221860,
+    "price": 1019,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5221860",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play offline chess with AI rivals, tournaments, lessons and 2D or 3D boards.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Skyturns",
+    "appid": 5267430,
+    "price": 1004,
+    "discount_percent": 33,
+    "url": "https://store.steampowered.com/app/5267430",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Crazy flow, crazy speed, crazy skill, crazy levels. This game is hard, skill-based, and super fun once you get it.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Do you remember?",
+    "appid": 4891640,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4891640",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A realistic psychological experience where you undergo psychic tests while living a repetitive routine in a kind of psychiatric clinic.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "OrbitFix",
+    "appid": 3075420,
+    "price": 179,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3075420",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Inherit a derelict space station on the edge of the galaxy and breathe new life into it. As the ultimate space mechanic, you will repair diverse spaceships, trade with pilots, and expand your services. Start with a single rusty dock and build the most bustling service hub in the sector!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "One More Floor",
+    "appid": 5190700,
+    "price": 479,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5190700",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A small box dungeon crawl for one player. A deck of rooms, a handful of dice, four numbers on a character sheet, and five floors that do not care how well you did last time.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
