@@ -1,0 +1,599 @@
+[
+  {
+    "name": "Silver Pines",
+    "appid": 2333000,
+    "price": 2249,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2333000",
+    "current_players": 1155,
+    "total_reviews": 10,
+    "positive_rate": 90.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Silver Pines is a survival horror metroidvania set in small town America. Fight nightmarish terrors and solve puzzles, while carefully managing your scarce resources as you uncover the mysteries that could hold the key to redemption.",
+    "scout_score": 78,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Sort of Magic",
+    "appid": 4398290,
+    "price": 679,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4398290",
+    "current_players": 79,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy organizing game for 1–4 players in online co-op. You're a little magical cat who knocked over an entire magic school. Now put all 4,500 books, potions, and brooms back exactly where they belong. Learn sorting spells, split the rooms with friends, and restore the mess you made.",
+    "scout_score": 76,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Old War Together",
+    "appid": 5245720,
+    "price": 119,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5245720",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A stylized third-person WWII shooter for 1 to 16 players, with bots filling out battles of up to 100 soldiers. Fight across Normandy with tanks and planes, house to house, or against the Haunted. Build your own maps and mods.",
+    "scout_score": 60,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Run Giraffe Run",
+    "appid": 4260550,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4260550",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run Giraffe Run is a multiplayer fast-paced giraffe racing 2D platformer. Eat all kinds of fruit. Poop all kinds of things. Spit banana peels. Slip on banana peels. Race online or locally against friends through chaotic and colorful levels. Have you tried farting?",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Order of the Sinking Star",
+    "appid": 499170,
+    "price": 2999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/499170",
+    "current_players": 4174,
+    "total_reviews": 66,
+    "positive_rate": 100.0,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "From director Jonathan Blow (Braid, The Witness), Order of the Sinking Star is a massive puzzle adventure set in a realm of magic and enigma. Solve over 1000 interconnected, hand-crafted puzzles, discover unique playable heroes, master evolving gameplay mechanics, and decipher a grand mystery.",
+    "scout_score": 46,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "What’s Wrong with My Drawing?",
+    "appid": 5186550,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5186550",
+    "current_players": 4,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your drawing comes to life as the hero of an adventure! Grow your character in a tiny desktop world that shifts between landscape and portrait, and guide each battle with strategic choices. A free-to-play 2D hack-and-slash idle RPG with offline progress.",
+    "scout_score": 45,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Afterbeat (Project Arrhythmia)",
+    "appid": 440310,
+    "price": 1124,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/440310",
+    "current_players": 130,
+    "total_reviews": 2714,
+    "positive_rate": 95.43,
+    "steam_score": "Overwhelmingly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A musical bullet-hell where all things beautiful are deadly. Dodge well little nanobot, you don't have much time.",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "DROWSE",
+    "appid": 4613650,
+    "price": 867,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4613650",
+    "current_players": 8,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "DROWSE is a first-person psychological horror game set in the 1990s. A late-night favor brings you back to the office for a few photocopies. Explore, examine objects and solve puzzles as familiar places give way to memories you would rather leave behind.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Duelist: Idle Expedition",
+    "appid": 4282780,
+    "price": 719,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4282780",
+    "current_players": 183,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build your elite team in Duelist: Idle Expedition, the idle auto-battler that lives on your taskbar. Recruit from a pool of 90+ JRPG pixel-art roles and lead your traveling camp to victory against all the powerful Guilds on the Continent. Your epic journey continues even when you are busy!",
+    "scout_score": 36,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Drillbound",
+    "appid": 4149040,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4149040",
+    "current_players": 69,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Drillbound is a short incremental game about mining your way to the planet’s core. Crush layers of rock, gather resources, upgrade your drill, and unlock powerful machines as you descend into the depths.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Risk of Rain 2: Hallowed Concepts",
+    "appid": 3055670,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3055670",
+    "current_players": 0,
+    "total_reviews": 98,
+    "positive_rate": 98.98,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Death comes for us all - Overcome powerful curses, strange new enemies and deadly trials as two new Survivors but never forget for a moment… She is watching.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "Echo Weaver",
+    "appid": 2184080,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2184080",
+    "current_players": 59,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Time is your greatest resource and secrets are your only upgrades. Master an unraveling time loop in this knowledge-based Metroidvania. As the last Weaver, exploit time-altering anomalies and use what you learn to break the cycle. Explore what remains. Uncover the mystery. Perfect the loop.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Dragon Dinner",
+    "appid": 4148630,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4148630",
+    "current_players": 25,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An explosive cocktail of intense strategic action and deceivingly cute dragons! Manage chaotic clients and strategically design your restaurants layouts to handle the rush and serve endless waves of hungry dragons.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "All You Can FISH!",
+    "appid": 4436580,
+    "price": 584,
+    "discount_percent": 35,
+    "url": "https://store.steampowered.com/app/4436580",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cute and cozy incremental fishing adventure! Set sail as Luka the dog, reel in every fish in the sea, and grow a skill tree as deep as the ocean - one cast at a time on the road to becoming the best Fisherdog alive!",
+    "scout_score": 35,
+    "reasons": [
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Foundation: Harvest Festival",
+    "appid": 4713280,
+    "price": 1169,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4713280",
+    "current_players": 0,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Master the land by raising livestock, planting lush orchards, and cultivating hardy new crops. Expand your production chains to create new resources and crown your success by hosting the grandest of Harvest Festivals.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Magic Twinborn",
+    "appid": 4020120,
+    "price": 719,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4020120",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Magic Twinborn is a casual roguelite about elemental reactions. Pair two characters and ten elements to trigger elemental chemistry and ultimates. Fight beside a Soul Companion solo or with a friend in two-player mode, cross hordes and traps, grow stronger each run, and challenge the final boss.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Keep Watering",
+    "appid": 4569670,
+    "price": 594,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4569670",
+    "current_players": 163,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Keep Watering is an incremental game with a cozy, hypnotic loop where every drop of water grows into something extraordinary.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Tidy Up the Royal Armory",
+    "appid": 5169440,
+    "price": 539,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5169440",
+    "current_players": 33,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Crown is inspecting the Royal Armory for the first time in 20 years. You have spent 19 of them ignoring the mess. Return up to 4318 items, each modeled by hand, to their rightful racks in this cozy fantasy organizing game, with your faithful dog Marshmallow by your side.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Garden Cleanup Simulator",
+    "appid": 4608760,
+    "price": 719,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4608760",
+    "current_players": 14,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Turn overgrown, messy gardens into clean and beautiful spaces. There is no rush. No stress. Just you, your tools, and the simple pleasure of turning chaos into order.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Eishockey Manager Legacy",
+    "appid": 5186920,
+    "price": 1499,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5186920",
+    "current_players": 5,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Leading 2:0? Trailing late? Set a game plan for every scoreline, then step in live: call a timeout, pull the goalie, switch to attack. Build your roster, face the press and see what the club newspaper makes of it. Big ambitions. Small budget.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Two Point Museum: Rides & Relics",
+    "appid": 4511680,
+    "price": 989,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4511680",
+    "current_players": 0,
+    "total_reviews": 12,
+    "positive_rate": 66.67,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Step right up! We’re searching for Funfair Experts to transform the new location Riquetti Gardens into a one-of-a-kind mix of museum-meets-amusement park, or as we like to call it, a museum-ments.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Train of Thought - Murder on the Silver Line ACADEMIC VERSION",
+    "appid": 4994410,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4994410",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore, converse with passengers, solve handcrafted puzzles and connect clues on an interactive deduction board in this narrative-driven mystery adventure set aboard a luxury train line in 1925.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Birdseed",
+    "appid": 3952540,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3952540",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Snap pics of the chunkiest, cutest birds in VR! Relax in lush forests, complete quirky daily quests, and fill your Journal. Whether you’re birding alone or together with friends, get cozy and escape to nature.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "MOBA Manager 2026",
+    "appid": 5294050,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5294050",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pick and run a professional MOBA esports club with a goal of becoming the best team in the world through management of drafts, training, transfers and many other gameplay elements.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Harder Parkour",
+    "appid": 3740800,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3740800",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Every step is a promise, every fall a risk you can't take. In your arms, a small puppy who can't cross this world alone, carry them through every obstacle, steady every leap, and never let go. They trust you with everything; hold on, rise, and bring them home.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "More Slots More Money",
+    "appid": 4856210,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4856210",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A short incremental casino management game where you fill the floor with slot machines and table games, hire staff, expand to new rooms, and upgrade towards the ultimate automated casino.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Nion Forge",
+    "appid": 2954090,
+    "price": 607,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2954090",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your ship is your build. Put it together in the hangar from 50+ modules and enter the games: 9 districts, 9 bosses, one time limit - and beyond them, freedom. Run went sideways? Come back with scrap and build it better. 100+ upgrades, 30+ cores, countless builds.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Lists VR",
+    "appid": 3421520,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3421520",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mount your horse, lower your lance, and experience the thrill of medieval jousting in full virtual reality. The Lists VR puts you directly on the tournament field in 15th-century Europe.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Starfish ROOM: WELCOME TO LOOP ETERNAL",
+    "appid": 4520420,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4520420",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In a world colonized by aliens, you control a catboy and must eliminate hordes of monsters and collect Cores before time runs out. Choose high-risk cards and battle aliens in the Starfish Spaceship arena within a system known as the Eternal Loop; if you die, you are replaced by Kikna Starlight.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Bigger Brain",
+    "appid": 4878340,
+    "price": 179,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4878340",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Ascend and amplify your intellect with limitless endurance and sonic-Level Speed&quot;. Ostrich is almost perfect exsitence except for its intellect. Ostrich can not remember even the member of familly. This is an urgent problem. Collect brains!!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
