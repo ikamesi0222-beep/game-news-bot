@@ -1,0 +1,599 @@
+[
+  {
+    "name": "Duckoleon",
+    "appid": 3775510,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3775510",
+    "current_players": 54,
+    "total_reviews": 269,
+    "positive_rate": 93.31,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Experience (mildly) accurate historical battles from the Napoleonic era, but from the perspective of DUCKS! Duckoleon is a multiplayer FPS/TPS with strategic elements. Exciting combat with units ranging from line infantry to cavalry and artillery, historical uniforms, cute ducks and much more!",
+    "scout_score": 133,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "最優先ジャンル: TPS +50",
+      "次点ジャンル: Multiplayer +20",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Asobi Premium",
+    "appid": 4884070,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4884070",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Unlock the full Asobi Premium experience: 1080p 60 fps HDR streaming, Upscaling (4k) , 120 fps frame generation, Ambient Lightspill, Zoom and Fill view modes, Low latency modes, On-screen lightbar halo, On-device haptics and full controller haptics, Manual bitrate control",
+    "scout_score": 81,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Shopping Center Simulator",
+    "appid": 5259810,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5259810",
+    "current_players": 11,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build and manage your own shopping center! Open new stores, stock shelves, set prices, hire employees, deal with thieves, keep customers happy, and grow your business. Play alone or manage your mall together with friends in online co-op.",
+    "scout_score": 63,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "It Hears You: Together",
+    "appid": 4642120,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4642120",
+    "current_players": 12,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "It Hears You - a co-op horror. Escape the forest as fast as you can. Play with 1 to 6 people. Move quietly and avoid unnecessary sounds so Stag doesn’t hear you. He’s blind, but his hearing is perfect.",
+    "scout_score": 63,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "LOST & FOUND",
+    "appid": 4190960,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4190960",
+    "current_players": 309,
+    "total_reviews": 9,
+    "positive_rate": 100.0,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "LOST &amp; FOUND is a free to play dynamic sorting game. Match forms to the right items and build your own warehouse, or compete with your friends in multiplayer mode after your shift is over.",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Ardena",
+    "appid": 3441000,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3441000",
+    "current_players": 1,
+    "total_reviews": 16,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "The fire is dying, and the forest is not empty. In this first-person horror game, your campfire is your only light and your only protection. Step into the dark to keep it burning, piece together who you are and why you’re here, and find a way out before she finds you.",
+    "scout_score": 55,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Fister",
+    "appid": 4682330,
+    "price": 692,
+    "discount_percent": 23,
+    "url": "https://store.steampowered.com/app/4682330",
+    "current_players": 4,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fist your friends in a chaotic physics-based multiplayer brawler where you fist or be fisted! Wield weapons, powerups, and deadly combos, earn Tokens, unlock swag from the FiStore, and dominate the competition. Includes Fister+ with premium perks, cosmetics, and more.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Hat Man",
+    "appid": 4347270,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4347270",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A first-person psychological horror game inspired by The Hat Man urban legend, focusing on sleep paralysis, fear, and the terror of being unable to move.",
+    "scout_score": 42,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Shape Up!",
+    "appid": 5234450,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5234450",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Be a circle, a square, or a triangle - and change your mind mid-jump. A neon platformer about the right shape at the right instant. 53 hand-built rooms, a full level editor, and up to four players racing the same room. Need a rest, try building a level together, multiplayer level editor!",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Candyman: Legacy",
+    "appid": 2830780,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/2830780",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Follow a trail of candy into an abandoned manor on Halloween night in this short, first-person retro style horror experience. Explore its darkened halls, uncover its secrets, and survive the mysterious figure stalking you before you become the night’s final treat.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Denizen",
+    "appid": 2010030,
+    "price": 1699,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/2010030",
+    "current_players": 94,
+    "total_reviews": 916,
+    "positive_rate": 73.14,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Make a living for yourself in a city full of opportunity while you meet a variety of locals, explore unique locations, and work your way to the top in this open-world life simulator.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Penis Bird",
+    "appid": 5102980,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5102980",
+    "current_players": 10,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Gather juicy worms, dodge hawks and fly home to feed your three hungry chicks before they starve. The consummate mother. A ridiculous 2D arcade flyer across seven wild worlds, with costumes that change how you play — and a wicked vulture that steals your babies.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Aquilon: Lust Guild",
+    "appid": 4529700,
+    "price": 701,
+    "discount_percent": 22,
+    "url": "https://store.steampowered.com/app/4529700",
+    "current_players": 39,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Aquilon has entrusted you with the most unhinged guild branch around. So build it from the ground up, gather a crew of brazen outcasts, and send your heroes on missions. Seduce, fuck, get into trouble, and turn an abandoned island into your own personal den of pleasure.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "10000 Rats: The Simulation",
+    "appid": 5091950,
+    "price": 424,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5091950",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The classic internet meme brought to life, and it's as ridiculous as it sounds. Survival depends on your choices, and 10,000 Rats are only the beginning. Explore what's beyond them in the campaign, or battle it out in the 2 Player Arena - with Local Shared screen or Steam Remote Play support.",
+    "scout_score": 35,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "MoooooN - The cow jumps over the moon",
+    "appid": 5021380,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5021380",
+    "current_players": 2,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You play as Cow, a cow who has always wanted to jump over the moon! Luckily, their friends have figured out a way it might just be possible... Jump through interesting levels and speak to a cast of silly characters as you make your way there!",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Towerfolk",
+    "appid": 3948100,
+    "price": 659,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3948100",
+    "current_players": 11,
+    "total_reviews": 28,
+    "positive_rate": 75.0,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "In a medieval world, gather resources, build your city, and manage your people. Deal with theft and internal conflicts, complete royal missions, and fight enemies on the battlefield. Use strategy and economic management to keep your city thriving.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Tied to the Beat",
+    "appid": 4316340,
+    "price": 349,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4316340",
+    "current_players": 0,
+    "total_reviews": 29,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A music-driven arena survivor where lyrics trigger effects across the battlefield. Pick your instrument, fight through the chaos and bring your own songs. Your music. Your weapon.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Truckful",
+    "appid": 3090810,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3090810",
+    "current_players": 221,
+    "total_reviews": 7,
+    "positive_rate": 57.14,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Drive your pickup truck through seemingly peaceful countryside valleys, deliver much-needed goods to local townsfolk and unravel the small town mystery. Beware, the old forest is watching.",
+    "scout_score": 29,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "WildRoot",
+    "appid": 3446730,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3446730",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a thriving colony in a mysterious forest where every season, setback, and choice creates a different story.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Ghost Clicker: Ethereal Idle",
+    "appid": 5314960,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5314960",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Step into the realm of ethereal ghosts in Ghost Clicker! Upgrade your click power, build automation systems, cultivate spectral wheat fields, and transcend through 20 ascension tiers to build your idle empire.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Uppercute",
+    "appid": 3151660,
+    "price": 960,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3151660",
+    "current_players": 6,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Uppercute is a 3D action platformer where, with the help of your sister and the use of your runner skills, you’ll dive into people's minds, face challenging opponents and retrieve valuable information to solve the mystery of your brother's disappearance.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Hack Faster",
+    "appid": 5202720,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5202720",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hack Faster is a story-driven incremental hacking simulator. Scan networks, breach layered defenses, extract valuable files, and erase your traces before lockdown. Push your tools into Overclock, sell what you steal, and upgrade your rig.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Kenomas",
+    "appid": 5252510,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5252510",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A weird game that is not made for you to play. Travel the path of grief and reach self-acceptance. Enter Fram's subconscious in this psychedelic adventure.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Capitalize",
+    "appid": 5083730,
+    "price": 989,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5083730",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Do you want to get rich? Start playing.&quot; ✔ Manage your budget like in real life (rent, groceries, leisure). ✔ Invest in the stock market (ETFs, stocks, gold) and watch your money grow (or crash!). ✔ Create companies and take them public (IPO).",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cozy Wallpaper",
+    "appid": 5234850,
+    "price": 337,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5234850",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Beta. Bring your Windows desktop to life with a varied collection of live wallpapers and interactive scenes. Play, relax, add clocks, notes and timers, and give each monitor its own cozy atmosphere.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Wilgold's Playground",
+    "appid": 2287050,
+    "price": 1529,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2287050",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Challenges await in Wilgold's Playground, a third-person ragdoll physics adventure in a time attack format. A young boy suddenly finds himself trapped in a world full of mysteries, and must try to find his way back home, while uncovering the forces holding him back.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Another Tavern Simulator",
+    "appid": 4764780,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4764780",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Open your own tavern in a fantasy valley. Mix unusual cocktails, serve guests, furnish the hall and hire a helping hand. Get to know your neighbors and join their little adventures. Between orders, there's time for gardening and a stroll. Just remember who that drink was for.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Words of Power: Logos",
+    "appid": 5166730,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5166730",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A galaxy enslaved by ancient words. Type fast, spell true, and fight back — every word is a weapon. Duel bosses across a neon-vector galaxy, or hand the keyboard to a friend and settle it word for word.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Final Selection",
+    "appid": 4524500,
+    "price": 1104,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4524500",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fast-paced action adventure with brutal close combat. Lose limbs, learn the dungeon, and survive a seven-day trial beneath a ruined castle.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Continuous Imperfection",
+    "appid": 4746560,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4746560",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Trapped in the world of a god with eugenic ambitions, you must prove yourself by using your parkour skills to navigate and complete a series of levels as quickly as possible. Do not be a continuous imperfection.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
