@@ -1,0 +1,599 @@
+[
+  {
+    "name": "The Szyk",
+    "appid": 4150920,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4150920",
+    "current_players": 0,
+    "total_reviews": 8,
+    "positive_rate": 87.5,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "2D top-down survival game with multiplayer and procedural world generation",
+    "scout_score": 66,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "次点ジャンル: Survival +15",
+      "無料 +20",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Legends of the Pitch",
+    "appid": 5294190,
+    "price": 369,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5294190",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Football meets roguelike deckbuilding. Choose your nation, build your team, and combine cards in tactical battles. Upgrade your deck, explore branching paths, and defeat legendary bosses across five regions on your journey to football glory.",
+    "scout_score": 58,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "告死天使招魂令 Death Angel Requiem",
+    "appid": 4789070,
+    "price": 207,
+    "discount_percent": 23,
+    "url": "https://store.steampowered.com/app/4789070",
+    "current_players": 2,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 5-hour horror game where investigator Igarashi, tasked by the police, enters a haunted campus after a murder case kills four students. With her partner Shimo, she sets out to uncover the truth behind the &quot;ghost killings.&quot;",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Evenin' Shift",
+    "appid": 4711830,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4711830",
+    "current_players": 2,
+    "total_reviews": 4,
+    "positive_rate": 75.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Comedy horror set in Somerset. You're on the night shift again. Look lively, you get all sorts turning up round these parts. Let the right ones in, send the wronguns on their way and try not to make any enemies— there are strange folk about.",
+    "scout_score": 50,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "無料 +20",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "BOSS ARENA: The Goldilock One Trials",
+    "appid": 1965430,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1965430",
+    "current_players": 4,
+    "total_reviews": 44,
+    "positive_rate": 79.55,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Every door holds a new challenge. Face relentless waves and powerful bosses in this free standalone arcade/action RPG. Earn XP, shape your fighter, and combine weapons, armor, and abilities into your own build. Read enemy attacks, master your timing, and prove yourself in the Arena.",
+    "scout_score": 42,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "SEX for MONEY ≠ CHEATING 🔞",
+    "appid": 4843820,
+    "price": 530,
+    "discount_percent": 38,
+    "url": "https://store.steampowered.com/app/4843820",
+    "current_players": 31,
+    "total_reviews": 20,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Every girl has a secret. Every subscriber has a dirty fantasy. 📸🔥 Grab your camera, take on naughty requests, and charm stunning beauties. From innocent photoshoots to steamy encounters, every meeting hides a new temptation. Some girls have more to reveal than you think. 💋",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Scavenger's March",
+    "appid": 5301260,
+    "price": 197,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5301260",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A semi-idle incremental set in a radioactive wasteland. Your scavenger walks, loots and fights on his own. You choose his upgrades and priorities, occasionally aid with preemptive attacks, turning short, doomed runs into longer expeditions. Hunt ModNoids, buy better weapons and follow the rumours.",
+    "scout_score": 38,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "On Hold - Call Center Simulator",
+    "appid": 4847040,
+    "price": 230,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4847040",
+    "current_players": 6,
+    "total_reviews": 10,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dark comedy call center simulator where you answer calls, verify identities, catch fraudsters, and run side hustles under your supervisor's watchful eye. The queue never empties. The pay never improves.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Lightholm",
+    "appid": 3084460,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3084460",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A tower defence where every enemy has a weakness and every tower can overheat. Slow, burn or shock an enemy to open it up, then bring it down. Twelve boards, four tower types, element pads, a skill tree between runs, and an Endless mode on every board you beat.",
+    "scout_score": 35,
+    "reasons": [
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Light Work",
+    "appid": 4632980,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4632980",
+    "current_players": 1,
+    "total_reviews": 8,
+    "positive_rate": 100.0,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this first person experience, you are returning home after a long day of work. Turn off all of the lights on each floor of the office before you depart. Use the elevator to travel between floors, and be on the lookout for any unusual behavior from your coworkers.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sidewalk Simulator",
+    "appid": 3324100,
+    "price": 249,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3324100",
+    "current_players": 1,
+    "total_reviews": 23,
+    "positive_rate": 95.65,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sidewalk Simulator combines fast-paced shootout combat with a deep tower defense upgrade economy. Build, dodge, unlock, and fight to survive endless waves of 100+ unique enemies. Find balance between movement, power, and defense in each strange world you encounter.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Lord Liberty Quest II ~Pure White~",
+    "appid": 4330940,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4330940",
+    "current_players": 65,
+    "total_reviews": 9,
+    "positive_rate": 77.78,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Someone is secretly hastening the revival of the &quot;Black Devil&quot; that assaults the Disodart Continent every few decades. Taking the situation gravely, the royal capital entrusts the tower's investigation to a church priestess. But that priestess is a young, innocent maiden…",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "KABOOM Farm",
+    "appid": 4123450,
+    "price": 579,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4123450",
+    "current_players": 0,
+    "total_reviews": 12,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Collect, command, and chaos! Push your Kaboom Chickens to the limit—and prank them even harder. Rake in profits, evolve your team into crazed legends and restore the legendary farm to its former glory!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "Bar Keeper",
+    "appid": 5176690,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5176690",
+    "current_players": 7,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy first-person organizing simulator where you sort 3,235 scattered bottles, glasses, casks and more throughout a three-storey bar. Match every item to its proper place, combine half bottles, unlock helpful skills, and restore perfect order at your own pace—or race the clock.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Catch The Fish",
+    "appid": 5211870,
+    "price": 359,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5211870",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Catch The Fish is a chaotic fishing action-adventure where your catch fights back. Cast into lava, battle aggressive fish and powerful bosses, feed monstrous traders, and upgrade your weapons as you sail across seven strange and dangerous islands.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Not Suitable For Screening",
+    "appid": 3982940,
+    "price": 278,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3982940",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Assume the role of Assistant Film Censor Florian Schulz. Your job is to decide which films will be shown to public, balancing your duty to the nation with the need to provide for your family. Every decision carries weight. Shape the future of your country and protect those you love.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Astral shifter",
+    "appid": 5041240,
+    "price": 93,
+    "discount_percent": 33,
+    "url": "https://store.steampowered.com/app/5041240",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as a mysterious mage, clearing falling star clusters on a hex grid with Rubik's Cube-style moves. Meet witches with unique powers, earn their aid, and save the world in a single night! Alongside a lighthearted Story（puzzle） Mode, there's an Endless Mode for chasing high scores.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "SPACE JK",
+    "appid": 5105400,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5105400",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A laid-back idle life sim where you watch over cute pixel-art roommates called JK. Collect furniture, decorate the room, and build your own sticker book from the stickers they draw for you every day. Trade with other players for the ones you're missing. Decorate, collect, and again tomorrow.",
+    "scout_score": 25,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Make the Empire Great Again",
+    "appid": 3918670,
+    "price": 534,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3918670",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A simulation + turn-based auto-battle game. The &quot;Dusk Apocalypse&quot; nears; the empire teeters! Your people need food, work, and fun—but monsters seize your lands, plundering fields &amp; mines! Fight, reclaim! Build, forge the grandest city! Fear not the &quot;Dusk&quot;, for a new &quot;Sun&quot; has risen!",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "농구제왕",
+    "appid": 5099990,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5099990",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A real-time 3v3 street basketball game featuring online competitive matches, skill-based gameplay, player customization, and team-based street sports action.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "知秋~英语日语单词背诵学习陪伴桌宠~",
+    "appid": 4895790,
+    "price": 72,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4895790",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A Windows desktop companion for English and Japanese vocabulary study. Review built-in or imported decks with FSRS scheduling, track daily progress, play mini-games, and enjoy pet care, desktop interactions, and Workshop characters.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "MUSIC BAND SIMULATOR:TOGETHER",
+    "appid": 5133950,
+    "price": 197,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5133950",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Form a band with friends and play any song freely on realistic instruments! Gain fame, grow your fanbase, and rise from garage jams to massive stadium shows.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Shelf-Employed",
+    "appid": 5038020,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5038020",
+    "current_players": 6,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Restore order to a chaotic magical warehouse in this cozy first-person organizing simulator. Sort 4800+ packages into their proper places, unlock useful spells, and speed up your sorting. Turn towering piles of boxes into neatly filled shelves, one satisfying row at a time.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sort Labs",
+    "appid": 5195910,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5195910",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sort Labs is a casual first-person organization experiment: restore order to the laboratory full of geometric shapes and objects. Pick up and place each shape on the right shelf sorted by color and size. With customizable stages and multiple levels of difficulty, the experiments never end!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Enchanted Crayon",
+    "appid": 4979430,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4979430",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Enchanted Crayon is a coloring book for children aged 3 and above.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "キズツケ kizutsuke",
+    "appid": 4846870,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4846870",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "To escape, you must hurt someone. KIZUTSUKE is a psychological suspense visual novel about four young men trapped together. Read their conversations, make difficult choices, and discover four endings.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Soundgun",
+    "appid": 5280040,
+    "price": 471,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5280040",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play your own sounds through your microphone using hotkeys or an interactive overlay. Connect your phone via Bluetooth to play any audio directly into voice chat.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "No Cute Girl Can Stop My Sudoku",
+    "appid": 5260830,
+    "price": 118,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5260830",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sudoku, along with a cute desktop girl.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Mushroom Simulator",
+    "appid": 4928130,
+    "price": 269,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4928130",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A short, cozy mushroom experience in five small maps. Relax by a forest lake, change the weather around a spotted mushroom, hunt for a hidden mushroom, stay for a cosmic beat drop, then explore a misty jungle in third person. Deeply spiritual? Probably not. Mushrooms? Absolutely.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Space Tanks",
+    "appid": 4185150,
+    "price": 329,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4185150",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Like a forgotten Atari classic, only from 2003: Space Tanks introduced a new artillery gameplay concept and made gravity truly intuitive to play for the first time. This is the original 2003 game, not a remake. 30+ weapons, 70 tanks and strategy deliver that “just one more round” feeling.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
