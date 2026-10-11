@@ -1,0 +1,594 @@
+[
+  {
+    "name": "Bounty Hunter Horrors",
+    "appid": 3627560,
+    "price": 3300,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3627560",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hunt for monsters through creepy dungeons on your own or with a squad of up to four in this sci-fi horror-based shooter! Navigate treacherous traps and escape the planet once the job is done. Purchase various kinds of equipment to make sure you and your squad are ready! The Main HQ will be watching.",
+    "scout_score": 78,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Arcana Rift",
+    "appid": 2022260,
+    "price": 2475,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/2022260",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Arcana Rift is a tactical 1v1 card battler set inside a mysterious theatre. Build tempo, manage mana, summon powerful Arcana, forge suit-based items, and outplay your opponent in online PvP or offline battles against the AI opponent",
+    "scout_score": 68,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: PvP +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "100 Cats Lost in China 2 Find & Color",
+    "appid": 3911840,
+    "price": 1350,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3911840",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "🐱 Discover 500 hidden cats across 5 artistic hand-drawn scenes 🖌️. Relax with color-by-numbers 🎨 and add life to every detail. Play solo or in cozy co-op 👯‍♂️, while Meow FM 🎶 sets the perfect creative mood.",
+    "scout_score": 63,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "NekoTrak",
+    "appid": 5249210,
+    "price": 1440,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5249210",
+    "current_players": 163,
+    "total_reviews": 20,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "NekoTrak blends time tracking with focus-based pet care. Raise a cat that roams your desktop. Earn experience, collect coins, and unlock cats, and play multiplayer so your cats can meet. It tracks app and website time and shares your activity, music, and tasks on Steam and Discord.",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "KYRO",
+    "appid": 3063690,
+    "price": 4425,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3063690",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "KYRO is a top-down pixel art action-adventure. Play as Aiden, a boy with a trusty slingshot, exploring Ka'a on the edge of a black hole. Solve puzzles, uncover ruins, and help the people of Vila Carnaval face the apocalypse with laughter and party costumes!",
+    "scout_score": 56,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Astro Yoinkers",
+    "appid": 4456960,
+    "price": 2175,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4456960",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Team up with your fellow Astro Yoinkers in this fast-paced multiplayer CTF. Physics-based grappling across moving asteroids, yoink enemy crystals, and vaporize lobbies with orbital strike satellites.",
+    "scout_score": 51,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "CyberCowboys",
+    "appid": 5136630,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5136630",
+    "current_players": 4,
+    "total_reviews": 18,
+    "positive_rate": 66.67,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Saddle up for the wildest idle RPG this side of the Mississippi. Fight outlaws, duel rival cowboys, craft legendary gear, conquer world bosses, and build your frontier legacy — all set on a retro desktop OS straight outta 1998.",
+    "scout_score": 37,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Ant Clicker",
+    "appid": 4354120,
+    "price": 1980,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4354120",
+    "current_players": 14,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a busy ant colony, one crumb at a time. Click or hold to gather food, recruit 10 castes, and watch workers carry supplies through a growing underground nest. Explore four minigames, discover seasonal rewards, and rebirth for permanent upgrades.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Shelf-Employed",
+    "appid": 5038020,
+    "price": 2340,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5038020",
+    "current_players": 18,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Restore order to a chaotic magical warehouse in this cozy first-person organizing simulator. Sort 4800+ packages into their proper places, unlock useful spells, and speed up your sorting. Turn towering piles of boxes into neatly filled shelves, one satisfying row at a time.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Inspector Sommers in: Ouroborian Madness",
+    "appid": 4894260,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4894260",
+    "current_players": 2,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Inspector Sommers in: Ouroborian Madness: The escape room that breaks the laws of physics and time. Investigation, time travel, and a warping mansion await in this Cold War-era mystery adventure.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "On Hold - Call Center Simulator",
+    "appid": 4847040,
+    "price": 1540,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4847040",
+    "current_players": 4,
+    "total_reviews": 11,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dark comedy call center simulator where you answer calls, verify identities, catch fraudsters, and run side hustles under your supervisor's watchful eye. The queue never empties. The pay never improves.",
+    "scout_score": 35,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Natural Unintelligence: Zueirama 2 ",
+    "appid": 3259400,
+    "price": 2475,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3259400",
+    "current_players": 1,
+    "total_reviews": 36,
+    "positive_rate": 80.56,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A chaotic adventure game packed with minigames and meme references, where you deliver pizzas, fight robots, pull pranks and take on an AI trying to wipe out the fun.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Rooftops Parkour Pro",
+    "appid": 5291030,
+    "price": 1837,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5291030",
+    "current_players": 1,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Physics-driven parkour sandbox with active ragdolls, NPC combat, tricks, wall runs, slides and dynamic environments. Explore detailed rooftop maps, experiment with movement and physics, and soon build your own playgrounds with the Level Builder.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Ultimate Racing Simulator 1",
+    "appid": 5046820,
+    "price": 4600,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5046820",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run a motorsport team in a detailed management simulation. Develop your car, manage drivers and staff, and plan race strategy across a full season. Follow the action in 2D or 3D as tyre wear, damage and weather shape the race.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "No Cute Girl Can Stop My Sudoku",
+    "appid": 5260830,
+    "price": 935,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5260830",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sudoku, along with a cute desktop girl.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Catch The Fish",
+    "appid": 5211870,
+    "price": 1760,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5211870",
+    "current_players": 0,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Catch The Fish is a chaotic fishing action-adventure where your catch fights back. Cast into lava, battle aggressive fish and powerful bosses, feed monstrous traders, and upgrade your weapons as you sail across seven strange and dangerous islands.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "FUDAN ADVENTURE",
+    "appid": 3058680,
+    "price": 1760,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3058680",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A story-driven school-life RPG about friendship, academic pressure, and finding your voice. Explore campus with three companions, choose how to spend limited free time, and face exams and conflicts in turn-based battles. This release contains Chapter One.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Within",
+    "appid": 3580070,
+    "price": 1980,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3580070",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Immerse yourself in the atmospheric world of a first-person thriller. You will face a cunning criminal. Explore locations, solve puzzles, and try to escape the nightmare. But be careful: you can become not only the hunter but also the prey.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Warring States: Seven Hegemons",
+    "appid": 5234230,
+    "price": 660,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5234230",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rule a state in ancient China's Warring States era in this single-player, turn-based strategy game. Manage resources, recruit historical figures, enact reforms and navigate diplomacy. Grain spoils, armies need upkeep and conquered cities need pacification. Can your economy sustain your ambitions?",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sokoban: Ancient Ruins",
+    "appid": 5188710,
+    "price": 1040,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5188710",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 3D Sokoban game with more than 900 levels. Push every crate onto a target, avoid dead ends, and take on later puzzles featuring irregularly shaped crates.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Arcanum Idle",
+    "appid": 5129430,
+    "price": 4200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5129430",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A study, a circle of chalk, and eight Sigils that make each other. A deep incremental about tearing down what you built: six nested prestige layers, a Constellation you arrange by hand, time magic paid for in resets, and a story with an ending.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "429 - Four Twenty Knight",
+    "appid": 4665910,
+    "price": 2863,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4665910",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A physics-based VR puzzle game where you smash objects, uncover the right path forward, and survive swarms of creepy bugs.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "No Stars Football",
+    "appid": 5170150,
+    "price": 4200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5170150",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A retro pixel-art soccer game with old-school arcade action on the pitch and a deep management sim underneath - play or simulate every match, build a squad, and take a club from the lower divisions to the title over a full multi-season career.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "R.O.A.D.K.I.L.L.",
+    "appid": 5191780,
+    "price": 1980,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5191780",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Race around in a rocket-powered shopping kart, or lay down obstacles to see who is the drift king in this neighbourhood!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Slingshot: Escape the solar system",
+    "appid": 4604870,
+    "price": 1800,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4604870",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Launch. Slingshot. Crash. Repeat. Slingshot is a pixel-art orbital mechanics arcade about gravity, fuel, and perfect timing. Chain flybys across eight planets, reach escape velocity, and tune in to Spacify : 12 destinations, 12 soundtracks, 100+ achievements.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "NekoTrak - Supporter Pack",
+    "appid": 5388580,
+    "price": 990,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5388580",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The NekoTrak Supporter Pack DLC adds 9 different looks for your cat.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Logic Puzzle Hall",
+    "appid": 5235060,
+    "price": 1100,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5235060",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Logic Puzzle Hall is a casual collection of math and logic puzzles. Deduce clues in Einstein-style mysteries, plan routes, and crack classic brainteasers—all in a cozy 2D interface with tutorials and multiple languages. Perfect for relaxing single-player sessions that train your reasoning.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Faybound : Veils of Magic",
+    "appid": 4718070,
+    "price": 7848,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4718070",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An ancient darkness threatens the balance of a magical world. Take on the roles of different fairies and unite their powers. Use their unique abilities to confront the emerging threat. Experience a hand-drawn 2D Metroidvania full of danger and mystical secrets.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Euphoria: Supreme Mechanics VR",
+    "appid": 3749340,
+    "price": 5700,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/3749340",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Solve intricate puzzles in a mysterious sci-fi facility built for VR. Manipulate cubes, redirect lasers, activate mechanisms, and uncover the secrets of an abandoned research complex through hands-on interaction.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Sort Labs",
+    "appid": 5195910,
+    "price": 2210,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5195910",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sort Labs is a casual first-person organization experiment: restore order to the laboratory full of geometric shapes and objects. Pick up and place each shape on the right shelf sorted by color and size. With customizable stages and multiple levels of difficulty, the experiments never end!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
