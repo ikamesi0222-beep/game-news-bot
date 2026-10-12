@@ -1,0 +1,619 @@
+[
+  {
+    "name": "Haunted Heist",
+    "appid": 4024440,
+    "price": 3360,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4024440",
+    "current_players": 109,
+    "total_reviews": 30,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Haunted Heist is a 3-8 player round-based PvP horror party game where Heisters find and retrieve gems in a procedurally generated mansion, while Tricksters use chaotic abilities to distress, disrupt, and dispose of them to protect their home.",
+    "scout_score": 81,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Monkey Bizniz",
+    "appid": 4425550,
+    "price": 3240,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4425550",
+    "current_players": 18,
+    "total_reviews": 5,
+    "positive_rate": 80.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An online co-op physics game about collecting bananas for the Monkey King's feast — fill your cart, find the summit, and try not to blame your friends when it all goes wrong.",
+    "scout_score": 74,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Overdue",
+    "appid": 4456180,
+    "price": 3780,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4456180",
+    "current_players": 4,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "OVERDUE is a co-op multiplayer horror game for up to 6 players set in a massive shifting industrial warehouse where survival is based on productivity. Navigate through an anomalous industrial maze, manage your orders, and fulfill your mandate in time.",
+    "scout_score": 73,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "American Cooking Simulator: Multiplayer",
+    "appid": 3780530,
+    "price": 1760,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3780530",
+    "current_players": 2,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cook with firearms in the most patriotic cooking simulation of all time! Team up in chaotic co-op shifts at Joe’s Freedom Burgers and experience an absolutely normal, definitely accurate version of America.",
+    "scout_score": 73,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cult of the Yellow King",
+    "appid": 3928030,
+    "price": 1440,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3928030",
+    "current_players": 187,
+    "total_reviews": 136,
+    "positive_rate": 80.15,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cosmic horror idle game where you build the Yellow King’s cult, spread his living mold, and click yourself hollow. Memory by memory. Scream by silent scream, as the sky blooms with eyes watching your beautiful undoing.",
+    "scout_score": 62,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Den-Den: Tokyo Horror",
+    "appid": 3301010,
+    "price": 5015,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3301010",
+    "current_players": 13,
+    "total_reviews": 4,
+    "positive_rate": 75.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Den-Den: Tokyo Horror is a J-horror RPG where events unfold in real-time. Survive one night in a city where every choice you make impacts the world around you. How many deaths will you be responsible for tonight?",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "SHADOW OF THE KINGDOM",
+    "appid": 5213290,
+    "price": 3060,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5213290",
+    "current_players": 7,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Your three heroes fight on their own. What you command is hatred. A real-time party RPG built on MMO combat, not turns: chain weapon skills within 4 seconds, burst them with magic for 4x damage, and keep the aggro pinned on your shield. Past the shifting dungeons waits a 100-floor abyss.",
+    "scout_score": 55,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Last Round at the End of the World",
+    "appid": 4746890,
+    "price": 3240,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4746890",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dream the riddle. Question the village. Choose who drowns. A poetic folk-horror game about divine messages, guilty villagers, ritual games, and the terrible cost of keeping a place safe.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "For The Cat! Sorcerer's Revenge",
+    "appid": 4773180,
+    "price": 2210,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4773180",
+    "current_players": 52,
+    "total_reviews": 9,
+    "positive_rate": 100.0,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "They killed your cat. Fatal mistake. In this magic-infused bullet-heaven roguelike, develop your wizard, upgrade and evolve spells, collect items, and create unstoppable builds while battling hordes of enemies.",
+    "scout_score": 46,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Calculate It",
+    "appid": 3043740,
+    "price": 2320,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3043740",
+    "current_players": 5,
+    "total_reviews": 281,
+    "positive_rate": 87.9,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "A roguelike where you build your own calculator. Buy unusual buttons, combine them with passive upgrades, and reach target numbers while saving turns and charges. Defeat bosses that change the rules and unlock new possibilities for future runs.",
+    "scout_score": 46,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "No More Pain",
+    "appid": 5064290,
+    "price": 900,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5064290",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "No More Pain is a first-person psychological horror adventure game. Stepping into the shoes of different characters, you will examine personal belongings, gather photos, and inspect clues within mysterious environments to unravel the truth buried beneath past memories.",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Alpha Nomos",
+    "appid": 2529960,
+    "price": 4950,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2529960",
+    "current_players": 17,
+    "total_reviews": 24,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "It's time to wield the beat! Play as Cello and slice through an army of rogue puppets in a vibrant, melody-twisted world. Combat pulses to the soundtrack - time your moves to the beat to unleash show-stopping combos and perfectly choreographed chaos!",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Battleplan",
+    "appid": 3743140,
+    "price": 10900,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3743140",
+    "current_players": 818,
+    "total_reviews": 47,
+    "positive_rate": 72.34,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Battleplan is a historical, WW2 real-time strategy game of unparalleled realism and simulation. Fight across massive battlefields created from real-world geographic data. Create your army by customizing your order of battle and chain of command. Draw directly on the map to create elaborate plans.",
+    "scout_score": 38,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Refund This Game",
+    "appid": 5070190,
+    "price": 1092,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5070190",
+    "current_players": 13,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fling yourself up to the top in this “Getting Over It”-like 3D platformer! Stick your pole to walls, bend it and fling yourself with great speed! One mistake means falling all the way down. Can you reach the summit in under 2 hours and EARN that refund?!",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Dinerz",
+    "appid": 4513300,
+    "price": 2295,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4513300",
+    "current_players": 30,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run your own diner! Cook juicy burgers, crispy fries, fresh pizza and many other delicious meals. Manage chaotic orders, serve hungry customers, and unlock exotic ingredients. Play alone or team up with up to 4 friends!",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Coin Rush",
+    "appid": 5083390,
+    "price": 1100,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5083390",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Grab coins, punch rivals, and watch their loot spill everywhere. Paint your own character, then brawl online with up to 8 players or solo with bots.",
+    "scout_score": 36,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Capybaria",
+    "appid": 3250140,
+    "price": 1050,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3250140",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The coziest yet craziest game about capybara! Chill in hot springs, build architectural masterpieces, and start a family... then get behind the wheel, fly to space, or decide whether to let the President detonate a nuclear bomb. Your karma decides the fate of this world!",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "One More Wave",
+    "appid": 5303740,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5303740",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pick your loadout and fight through waves of enemy planes, UFOs and oversized bosses. Fly solo or with a friend, chase high scores, and see if you can survive just one more wave.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Road to Verdant",
+    "appid": 5157000,
+    "price": 2640,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5157000",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Immerse yourself in a massive magical world where you will start as a humble archer and grow to become a legend. An auto-runner with RPG elements where you can craft your equipment, upgrade your character, trade items, and complete quests... some of them very well hidden!",
+    "scout_score": 33,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Heart of the Machine - Supporter Pack",
+    "appid": 5236690,
+    "price": 1740,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5236690",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Heart of the Machine Supporter Pack includes the official game soundtrack and a 4K wallpaper set.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Heart of the Machine - Kinship",
+    "appid": 4565610,
+    "price": 4410,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4565610",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Step into the frontier of strategic roleplaying with the mind-bending storylines of Heart of the Machine - Kinship. New possibilities await, deepening the lore of the game and unlocking new avenues of exploration and expansion for The Machine Intelligence.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "TIMBER! Idle Village Builder",
+    "appid": 5042740,
+    "price": 1350,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5042740",
+    "current_players": 171,
+    "total_reviews": 8,
+    "positive_rate": 37.5,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Swing your axe, drop the trees, and watch a village rise from the stumps. Assign villagers to nine trades, unlock a 54-node talent tree, and carry your settlement through five ages — from a primitive camp to a medieval kingdom with a crown of its own.",
+    "scout_score": 29,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "smoke.exe",
+    "appid": 5203370,
+    "price": 2520,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5203370",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "One cigarette is all the time you get to break in. Lay out nodes, wire them into an auto-hacking routine, then light it and let it run. A cyber-noir roguelite about how deep you can get before the smoke runs out.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Colorbound",
+    "appid": 3778610,
+    "price": 5310,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3778610",
+    "current_players": 13,
+    "total_reviews": 2,
+    "positive_rate": 0.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "In Colorbound, color is more than just hue. As Anku, an Aymara boy with a unique gift, you’ll harness the power of color to shape the environment itself, uncovering hidden paths to navigate challenging and complex puzzles.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Triet Cat",
+    "appid": 5289540,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5289540",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Triet Cat is a casual drawing game where you recreate a cat picture across four levels. Use pen, eraser, and shape tools, submit your drawings for a score, earn stars, unlock new challenges, and save your art in an in-game gallery.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Blocky Miner",
+    "appid": 5124050,
+    "price": 1960,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5124050",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Blocky Miner is a relaxing incremental mining game where every spin takes you deeper. Mine valuable resources, upgrade your skills, unlock new worlds, and discover powerful items, companions, secrets, and plenty of surprises along the way!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "DSARTS",
+    "appid": 4611710,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4611710",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Drone Search and Rescue Training Simulator built by responders, for responders using real world locations. Learn drone controls then practice search patterns, camera handling, and target detection in dynamic environments where every run is different and every decision matters.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Desire's Burgers",
+    "appid": 3431760,
+    "price": 3780,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3431760",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "It’s your first real job—and you get to keep all the profits! But your boss? She’s a seductive succubus who drains your energy at night. Run a cozy burger joint by day, survive her temptations by night, and shape your fate in this rhythm-infused visual novel.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Vicarius",
+    "appid": 3894540,
+    "price": 2805,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3894540",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A small handcrafted open world focused on exploration and combat. Leave your safe zone to gather the resources that will help you craft better gear. The further you go, the more dangerous it gets but the resources are also better. Dying means losing everything that you are carrying.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cat Fiesta",
+    "appid": 5213150,
+    "price": 2494,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5213150",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Online prop hunt. Hiders turn into any object they can see - a crate, a candy cane - and win by collecting every fish on the map. The catch: your disguise has eyes. They blink at a random time you cannot stop, and the blink is seen and heard. Hunters carry guns and win by shooting them all first.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
