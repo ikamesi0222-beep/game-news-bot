@@ -1,0 +1,593 @@
+[
+  {
+    "name": "Ratatan",
+    "appid": 2949320,
+    "price": 2949,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2949320",
+    "current_players": 675,
+    "total_reviews": 3130,
+    "positive_rate": 85.5,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Ratatan is a rhythm roguelike action game that combines rhythm games and side-scrolling action, with online co-op gameplay supporting up to 4 players. An intense battle unfolds with over 100 characters fighting in a massive melee. Let's defeat the enemies together!",
+    "scout_score": 94,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "SIGNAL LOST",
+    "appid": 3079180,
+    "price": 722,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3079180",
+    "current_players": 2,
+    "total_reviews": 6,
+    "positive_rate": 100.0,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Signal Lost is a time-survival psychological horror game that leaves you stranded inside a collapsing pod. Type critical commands to fight cascading system failures and screaming alarms. Venus is your only hope. Every second counts. Will you complete your journey, or succumb to the void?",
+    "scout_score": 68,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Starbiz",
+    "appid": 2918650,
+    "price": 1125,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2918650",
+    "current_players": 0,
+    "total_reviews": 7,
+    "positive_rate": 85.71,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Discover strategic depth in our space board game! Use star-currency to buy interstellar sites. Compete with friends in turn-based matches, utilizing the Starbridge for tactical advantage. Accumulate currency for the Lottery, offering rewards and site boosts. Achieve cosmic success",
+    "scout_score": 59,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "The Witch's Bakery",
+    "appid": 2967950,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2967950",
+    "current_players": 559,
+    "total_reviews": 14,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Witch's Bakery is a 2D narrative Adventure RPG where you live a magical life as a witch-baker in Paris! Serve customers, visit iconic streets and heal people's heart with your croissants 🥐",
+    "scout_score": 53,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "The Lonely Hacker",
+    "appid": 2368100,
+    "price": 1000,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2368100",
+    "current_players": 0,
+    "total_reviews": 50,
+    "positive_rate": 98.0,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Ever wanted to feel like a hacker? Welcome to the Lonely Hacker! A realistic hacking simulation game!",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "Hubert",
+    "appid": 764930,
+    "price": 1709,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/764930",
+    "current_players": 81,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as a working shepherd dog protecting his flock and the only human who trusts him. As wolves draw closer, you must face the growing divide between the world you serve and the wild that calls to you. Herd sheep, track scents, and guard the farm across rugged northern lands.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Thank You Bus Driver",
+    "appid": 5067360,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5067360",
+    "current_players": 60,
+    "total_reviews": 25,
+    "positive_rate": 84.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Take on the role of a town’s rules-driven (and reckless) bus driver in Thank You Bus Driver! Drive fast, slap faster, and toss any rulebreakers out of your bus to reach true victory: being appreciated.",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Among the Trolls",
+    "appid": 1675260,
+    "price": 1572,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/1675260",
+    "current_players": 125,
+    "total_reviews": 4,
+    "positive_rate": 75.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Among the Trolls is a first-person narrative-adventure game where the secret mysteries of Finnish forests are unraveled. Venture deep into the Finnish wilderness to uncover family truths and confront what lies beyond.",
+    "scout_score": 34,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Plug and Slay",
+    "appid": 4540800,
+    "price": 530,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4540800",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Plug and Slay is a short incremental game about outgrowing your machine cage. Purchase anomalous PC parts and traverse a massive skill tree to overwhelm your wardens with automated neon firepower.",
+    "scout_score": 33,
+    "reasons": [
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "À Deriva",
+    "appid": 5284480,
+    "price": 365,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5284480",
+    "current_players": 3,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fisherman lives on your computer's taskbar. He fishes on his own while you work, from the Araguaia to the sea off Noronha. You glance over now and then, click when one bites, and buy a bigger boat. It also runs as a wallpaper.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Visual Novel: Ali Baba Basemen",
+    "appid": 5318330,
+    "price": 87,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5318330",
+    "current_players": 2,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Max stole a cursed ring and must now face insane trials to return it. Ghosts, mutated hamsters, talking animals, a parallel world, and a goth girl from kindergarten—just another day for someone who decided not to heed the warnings.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Shipping Store Simulator 2037",
+    "appid": 4098030,
+    "price": 1867,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4098030",
+    "current_players": 1271,
+    "total_reviews": 8,
+    "positive_rate": 62.5,
+    "steam_score": "8 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You're the manager of a bankrupt delivery service in the future. Do everything yourself or automate with robots and drones. VIP customers, the black market, competitors' dirty tricks, and van races—just a glimpse of a vibrant city that holds many secrets.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Halley's Big Catch",
+    "appid": 5128280,
+    "price": 1462,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5128280",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cartoon cat who loves to fish. Come home to Hidden Pond, fight real fish, and follow a trail of relics to waters around the world. New shores, new tackle, and a story that unfolds one cast at a time.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Hauberk",
+    "appid": 5327690,
+    "price": 75,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5327690",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An acclaimed traditional roguelike, remade with graphics! 50 terrain types, 152 monsters and 171 affixed items to combine — then face the Nameless Unmaker at the bottom of the 100-floor dungeon. Automated exploration lets you focus on stats, skills and gear.",
+    "scout_score": 31,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "The Assistant - Season 3",
+    "appid": 5227250,
+    "price": 1304,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5227250",
+    "current_players": 116,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Assistant is a choice-based adult visual novel that combines adventure, suspense, action, and sex. You play as a young man who works as the personal assistant to a wealthy family. In this final season, your choices will lead you toward the ultimate conclusion of the story.",
+    "scout_score": 29,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Hellternum",
+    "appid": 5162260,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5162260",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "There are many hells, and not all of them burn. This one has corridors that don't always lead to the same place, things that run at you and can't be stopped, and objects that should mean something to you. You don't remember what you did. This place does. Abandon all hope.",
+    "scout_score": 25,
+    "reasons": [
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Pinball FX VR",
+    "appid": 4738360,
+    "price": 1029,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4738360",
+    "current_players": 4,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Pinball FX VR brings the iconic franchise library to life with the ultimate ‘80s arcade atmosphere - now fully immersive in virtual reality! This game supports the Steam Frame hardware only.",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "ドロチェの箱庭",
+    "appid": 4536570,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4536570",
+    "current_players": 7,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Jackalope Doroche loves alcohol. Let's make flower liqueur and transform our winter garden into a spring wonderland.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "THANKS, LIGHT.",
+    "appid": 2544740,
+    "price": 1867,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2544740",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A first-person puzzle game where light turns flat shapes into solid objects. Absorb it to make them flat again. Solve spatial puzzles in a strange world built to be perfect.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Paradise Art Royale",
+    "appid": 2331730,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2331730",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A hyped up portal maze game where you can see where you're teleporting to and random shortcut portals spawn. Play as Aaron as you navigate through a maze of teleportation portals to reach paradise. Reach paradise in time.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "FIBS",
+    "appid": 5194790,
+    "price": 353,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5194790",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You and 2-5 friends receive a secret word and take turns giving clues. But the impostors don't know the word and must bluff their way through. Discuss, deceive, and vote to uncover the impostors before they fool the table.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Isle Forge",
+    "appid": 2626980,
+    "price": 900,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2626980",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Shape a living volcanic archipelago in this relaxed god game. Guide autonomous islanders as they gather, build, forge lava-made paths, rescue distant communities, and face threats from hostile islands.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Where It Happened",
+    "appid": 4631470,
+    "price": 427,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4631470",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You wake up to find yourself standing before an old house. The painful memories buried deep within your heart suddenly return. You don’t remember it well, but you used to live here. This is where it happened.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Super Frog Ninja",
+    "appid": 5059930,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5059930",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Become the ultimate Super Frog Ninja in this retro-inspired pixel platformer packed with challenging trials, hidden secrets, and lightning-fast gameplay.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Parallel Park",
+    "appid": 3153450,
+    "price": 1665,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3153450",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Park a car. Rewind Time. Park another. Rewind time.No pressure, but the fate of the world depends on your ability to PARALLEL PARK",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Witch's Cottage",
+    "appid": 5264130,
+    "price": 383,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5264130",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cozy room building game where you design the witchy cottage of your dreams! Build cottages and decorate them with magical furnishings, with hundreds of items to choose from.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Labyrinth Knights",
+    "appid": 4250470,
+    "price": 850,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4250470",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Conquer the shifting labyrinth and return with the spoils of your journey!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Le Tapis Vert",
+    "appid": 5307770,
+    "price": 343,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5307770",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Belote, Solitaire, Backgammon, Yatzy, Sudoku… 24 card and board games gathered on one green table. Play solo against the computer, pass-and-play with friends, or online with a friend. No ads, no microtransactions.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Sinners Please",
+    "appid": 5305580,
+    "price": 296,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5305580",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Only for sinners. ADMIT or SHOOT. You guard the gate of Hell. Check the papers, X-ray the bags and decide their fate. Some of them are sneaking in from heaven. We only want the sinners! Miss the rent, and Satan collects.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "How to Wait for the Bus",
+    "appid": 5313620,
+    "price": 300,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5313620",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The bus will arrive when it arrives. In the meantime, make some tiles explode. Fire coloured tiles into the board from any edge. Line up three or more matching tiles to make them explode, trigger chain reactions, and gradually clear the board.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
