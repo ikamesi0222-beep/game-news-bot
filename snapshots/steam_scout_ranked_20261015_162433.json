@@ -1,0 +1,601 @@
+[
+  {
+    "name": "Frosthaven",
+    "appid": 2347080,
+    "price": 2799,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/2347080",
+    "current_players": 690,
+    "total_reviews": 1001,
+    "positive_rate": 71.73,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "From the creative mind of Isaac Childres, the highly acclaimed board game moves to the digital realm in the video game adaptation of FROSTHAVEN! The dark fantasy tactical RPG features deep mechanics and challenging yet satisfying gameplay both in Single Player and Co-Op Online Multiplayer.",
+    "scout_score": 121,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Multiplayer +20",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Enshrouded",
+    "appid": 1203620,
+    "price": 3599,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/1203620",
+    "current_players": 44912,
+    "total_reviews": 106899,
+    "positive_rate": 85.89,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Enshrouded is a solo and co-op survival action RPG where your freedom and creativity come first. Conquer the Shroud, a corrupting fog devouring the kingdom of Embervale: explore a handcrafted world full of secrets, forge your hero your way, and build anything, anywhere in a fully terraformable land.",
+    "scout_score": 94,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Survival +15",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Enshrouded - Deluxe Upgrade Pack",
+    "appid": 4951850,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4951850",
+    "current_players": 0,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Enshrouded is a solo and co-op survival action RPG where your freedom and creativity come first. Conquer the Shroud, a corrupting fog devouring the kingdom of Embervale: explore a handcrafted world full of secrets, forge your hero your way, and build anything, anywhere in a fully terraformable land.",
+    "scout_score": 81,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Survival +15",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Reason and Rhyme",
+    "appid": 4461870,
+    "price": 679,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4461870",
+    "current_players": 17,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Birds of a feather solve puzzles together! An online co-op puzzle adventure for 2 friends (or soon-to-be-friends)",
+    "scout_score": 63,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Brick by Brick: Tidy Up the Small Town!",
+    "appid": 5228920,
+    "price": 495,
+    "discount_percent": 38,
+    "url": "https://store.steampowered.com/app/5228920",
+    "current_players": 1108,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Brick By Brick is a relaxing tidy-up game you can play solo or co-op with up to 5 players. Collect, sort, and place 18,490 bricks to rebuild a charming town. Unlock helpful abilities and watch scattered piles become finished buildings. One brick at a time!",
+    "scout_score": 61,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Muddi",
+    "appid": 4667790,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4667790",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Get rid of all your cards as quickly as possible. The one left with 0 cards wins. It's tactical and requires a bit of luck. A game is between 2-5 minutes. Ace is the lowest, then 2, 3 etc. J, Q, K = King is the highest. Clear the deck: with a 10 or 4 cards of the same rank. Make some legendary games",
+    "scout_score": 50,
+    "reasons": [
+      "最優先ジャンル: Tactical +30",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Ezmeralda",
+    "appid": 3981220,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3981220",
+    "current_players": 0,
+    "total_reviews": 6,
+    "positive_rate": 33.33,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Ezmeralda is an action-packed top-down RPG where you explore dangerous dungeons, battle powerful bosses, and collect legendary loot. Master fast-paced combat, uncover hidden secrets, and forge your path through a world of adventure.",
+    "scout_score": 49,
+    "reasons": [
+      "成長/積み上げ要素: Loot +18",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "DayZ Badlands",
+    "appid": 3816030,
+    "price": 2249,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3816030",
+    "current_players": 0,
+    "total_reviews": 186,
+    "positive_rate": 70.97,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "DayZ Badlands throws you into the troubled territories of Nasdara Province—267km² of arid expanse. Uncover its secrets, battle for control, forge fragile alliances and rebuild from the ashes of past wars. Survival here isn't just measured in drops of water saved, but in bullets spared.",
+    "scout_score": 46,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "Disney/Pixar Toy Story 3 Complete Edition",
+    "appid": 4049180,
+    "price": 2499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4049180",
+    "current_players": 908,
+    "total_reviews": 54,
+    "positive_rate": 81.48,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Reopen the toy chest and saddle up as Woody, Buzz Lightyear, and Jessie in Toy Story 3 Complete Edition, a 3D adventure based on the hit 2010 animated film, Toy Story 3. Play through authentic movie moments in Story Mode, or drop into the wild west sandbox of Woody’s Roundup in Toy Box Mode.",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "ATOM RPG - Plague Island",
+    "appid": 5210340,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5210340",
+    "current_players": 0,
+    "total_reviews": 7,
+    "positive_rate": 100.0,
+    "steam_score": "7 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Plague Island is a story-driven DLC that expands the world of ATOM RPG with a new region, complete with its own characters, quests, and locations, as well as your very own suit of Special Armor.",
+    "scout_score": 41,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Dupery: A Game of Solo Deduction",
+    "appid": 3845070,
+    "price": 1199,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3845070",
+    "current_players": 502,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A solo deduction roguelite with over 175 roles, set in a noir city run by a criminal syndicate. Investigate everyone, make arrests and protect your reputation. Take down the syndicate and don’t get duped like the rest. Everyone is a suspect, trust no one. No friends required.",
+    "scout_score": 38,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "The Vector",
+    "appid": 5266600,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5266600",
+    "current_players": 18,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Vector is a deep unfolding idle/incremental game that begins with a single pixel and a voice asking for your help. The architect has grand blueprints to construct an entire cosmos, but suffers from one fatal cosmic inconvenience: it has no physical hands or direct agency in this realm.",
+    "scout_score": 38,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Good Job",
+    "appid": 4596990,
+    "price": 999,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4596990",
+    "current_players": 63,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Take charge of a business that no one could put on their resume. Manage the girls at the underground massage parlor, delight customers with herbal blends, expand your e-commerce business, and grow your empire without drawing too much attention!",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "DESOLUS",
+    "appid": 1003460,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/1003460",
+    "current_players": 5,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore a city of Gothic architecture torn between past and future in Desolus, a first person puzzle game. Solve Escher-like puzzles through the use of black holes. Travel through time to make structures whole and save the city from ruin.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Melon Rally",
+    "appid": 4589340,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4589340",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Beat time attack challenges without losing your melons.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Disney/Pixar Toy Story: Retro Roundup!",
+    "appid": 4049170,
+    "price": 2999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4049170",
+    "current_players": 216,
+    "total_reviews": 22,
+    "positive_rate": 54.55,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Step back into Andy’s room with Woody, Buzz Lightyear, and more classic characters in Toy Story: Retro Roundup! This five-game collection features four Toy Story titles and A Bug’s Life. All the games have been upgraded with quality-of-life improvements and behind-the-scenes content.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "War Footing",
+    "appid": 4727860,
+    "price": 1079,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4727860",
+    "current_players": 221,
+    "total_reviews": 5,
+    "positive_rate": 60.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "War Footing puts you in command of a nation's defenses. With limited time &amp; resources, and tension rising, can you build the military needed to save your country's independence?",
+    "scout_score": 29,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Adventures of Mack",
+    "appid": 4801520,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4801520",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Join Mack on an exciting sci-fi hero's journey through mysterious desert planets. Solve tricky puzzles, explore alien worlds, and uncover the incredible secret behind the universe's countless desert planets!",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Bully Bully",
+    "appid": 5252490,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5252490",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Meet your desktop bully: a French Bulldog who lives on your screen. Pet it, dress it up, keep it close while you work, or send it on a little jump run. Daily gifts, seasonal looks, and a companion who’s always nearby.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Train Sim World® 7: Freightliner BR Class 70 Add-On",
+    "appid": 4680650,
+    "price": 1799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4680650",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Throttle up in Freightliner fashion as All Aboard Studios’ BR Class 70 roars into Train Sim World for cross-country cargo service! Take charge of a Powerhaul parade, working engineering trains and hefty freight from the East Midlands and beyond.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "College Hockey 27",
+    "appid": 5280910,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5280910",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run a college hockey program. Work recruits week by week, build a system and identity, and watch the games from above. Develop every player, win national championships, and your own campus to build. Leave your legacy.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Roll Pick Go!",
+    "appid": 5306150,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5306150",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a team of pixel monsters in a strategy auto battler. Buy, merge, and equip your squad, discover powerful combinations, and turn battles around with unique abilities and ultimates. Can your team reach 10 wins?",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Jigsaw Stories",
+    "appid": 4396090,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4396090",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Solve seductive jigsaw puzzles to progress intimate stories and hotter scenes with 6 unique characters, each with their own in-depth story arc. Smooth snaps, satisfying clicks, and countless wild scenes await!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Cuboy Adventure",
+    "appid": 4386400,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4386400",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An exciting and incredibly cute platformer full of parkour, puzzles, action-packed moments, and boss battles awaits you! Collect stars, unlock new abilities, discover secrets, defeat your enemies, and overcome every challenge!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Labyrinth A Way Out",
+    "appid": 4738910,
+    "price": 719,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4738910",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Lost in a massive surreal labyrinth, you must explore, solve puzzles, and collect three keys to unlock the gate at its center. Wander freely through a minimalist world where every path may lead you deeper into the labyrinth or closer to escape.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Ghost Room: Enter The Darkness",
+    "appid": 4812890,
+    "price": 99,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4812890",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "EVERY room is a new trap. EVERY shadow is a deadly threat. Unravel the mystery of this place and try to escape alive.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Exit_ComputerLab",
+    "appid": 5207000,
+    "price": 159,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5207000",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Stuck in an infinite loop inside a computer lab. To escape, you need to find the necessary anomalies to break the loop, making it possible to get out of this place. Good luck ;)",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Tiny Aquarium: Creepy Waters Supporter's Pack",
+    "appid": 5353520,
+    "price": 250,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5353520",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A Supporter's Pack with exclusive decorations for those of you who enjoy Tiny Aquarium and would like to support the game's development some more.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Desklings",
+    "appid": 5327670,
+    "price": 319,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5327670",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Tiny doodle friends live on top of your taskbar. Pet them, pick them up and toss them. Leave them running and their egg hatches on its own, or focus for 15 to 120 minutes to hatch it sooner with better odds of a rare friend. Collect all kinds of friends and give them hats and names.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Raid Sky",
+    "appid": 5337260,
+    "price": 224,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5337260",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Battle across floating islands, gather resources by fishing, craft items, and build structures. Fight rival teams in fast-paced matches with up to 3 teams. Feed your crystal, capture bonus zones, complete missions to score points and win the match or eliminate all opposing teams!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
