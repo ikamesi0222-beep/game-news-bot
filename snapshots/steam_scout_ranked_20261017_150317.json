@@ -1,0 +1,587 @@
+[
+  {
+    "name": "PATIENT ZERO",
+    "appid": 3576670,
+    "price": 1760,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3576670",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Enter high-risk extraction zones, plant containment bombs, and evacuate before the area is wiped out along with you and your team. Every decision matters. Death is permanent. A hardcore 6-player cooperative horror experience where survival is never guaranteed.",
+    "scout_score": 98,
+    "reasons": [
+      "最優先ジャンル: Extraction +40",
+      "次点ジャンル: Cooperative +30",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "FPS Game",
+    "appid": 5094120,
+    "price": 2200,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5094120",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fast and goofy multiplayer FPS where you sprint, slide and dive through chaotic battles, wield questionable amounts of firepower and earn wildly unnecessary scorestreaks against friends. OH AND IT LOOKS LIKE A CARTOON!!!!!",
+    "scout_score": 88,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Five Nights with Maids",
+    "appid": 4771580,
+    "price": 2320,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4771580",
+    "current_players": 82,
+    "total_reviews": 47,
+    "positive_rate": 76.6,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "In this survival horror game, play as a night guard watching over a mansion and its maids for five nights. Use lights, shutters, and cameras to spot suspicious activity. Each night grows more intense as the atmosphere shifts and the maids begin to behave strangely. Can you survive till the end?",
+    "scout_score": 68,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Wolf Island",
+    "appid": 4729580,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4729580",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 4-player co-op survival game. Played in a third-person perspective, players must explore the island to gather and craft resources while surviving against various threats. The ultimate goal is to collect repair parts, fix the boat, and escape the island.",
+    "scout_score": 60,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Survival +15",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Ghillie Wars",
+    "appid": 5211690,
+    "price": 2600,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5211690",
+    "current_players": 7,
+    "total_reviews": 9,
+    "positive_rate": 100.0,
+    "steam_score": "9 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Ghillie Wars is a multiplayer sniper hunt built around camouflage, patience, and the tension of being watched. Match your camo to the terrain, find the other snipers, and choose when to fire. One life per round. Everyone has access to the same rifle and camouflage choices.",
+    "scout_score": 53,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Beta Earth: Sovereignty Next",
+    "appid": 5114130,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5114130",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to Beta Earth, a text-driven sci-fi RPG with two journeys. Explore Sprawl 15 in Sovereignty or brave the harsher survival of Second Chances. Choose your class, find your footing, and make the story your own. Includes the Beta Earth Digital Library.",
+    "scout_score": 45,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Steel & Fortune",
+    "appid": 5252440,
+    "price": 2640,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5252440",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build your guild. Lead your party. Take control when it counts. Recruit adventurers, prepare their gear and skills, and choose your route. Let real-time auto battles unfold or directly control one hero's movement, attacks and skills. Bring home the rewards and build a stronger guild.",
+    "scout_score": 45,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Tower Survivor - Paper Invasion",
+    "appid": 5178830,
+    "price": 1800,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5178830",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A roguelite tower defense game about making the most of the choices you’re given. Choose from the weapons and upgrades offered to you, and see if your tower can survive the onslaught of paper enemies.",
+    "scout_score": 43,
+    "reasons": [
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Madcar Multiplayer",
+    "appid": 1979510,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1979510",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "One rule : Press the pedal ! Madcar: Multiplayer brings together the craziest drivers ! Enjoy the funniest online races !",
+    "scout_score": 42,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Open Sourcerer",
+    "appid": 4561260,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4561260",
+    "current_players": 3,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Open Sourcerer was a 2D platformer where players created and customized their spells in JavaScript.",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "The Great Game of Cards",
+    "appid": 5250500,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5250500",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A turn-based strategy card game where everyone can draft from the same card pool, but what you build and how you play them is up to you. Draft your deck, fight your friends, and... boom. CARDS",
+    "scout_score": 35,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Super Cuber",
+    "appid": 4398300,
+    "price": 2640,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4398300",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fully-customizable game about solving cubes. From casual fan to Speed Cuber, enjoy solving at your own pace. Customize your cubes, hone your skills, and top the leaderboards.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Fire and Water: Spirits of the Forest",
+    "appid": 4697950,
+    "price": 1530,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4697950",
+    "current_players": 63,
+    "total_reviews": 4,
+    "positive_rate": 75.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Embark on this two-player adventure in a colorful world to forge a strong bond with your friend, partner, or family. Overcome challenging puzzles. Unleash your unique playstyle using the diverse abilities of Fire, Water, and 5 other forest spirits.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Tales of the Immortal Path",
+    "appid": 5262700,
+    "price": 1080,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5262700",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "One sword breaks all arts, one thought attains immortality. Tales of the Immortal Path is an ink-wash xianxia single-player card roguelike. Countless artifacts and cards. Trample the heavens and seek the Dao of immortality!",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Nekomancer",
+    "appid": 5066530,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5066530",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A bullet-heaven roguelike where you are a cat, blasting through swarms of enemies. Level up, pick perks of different rarity and elemental affinity, grab new weapons, and take down tough bosses along the way.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Ocean",
+    "appid": 4360980,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4360980",
+    "current_players": 3,
+    "total_reviews": 15,
+    "positive_rate": 60.0,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to Ocean, the world's first AI-powered collectible card game! Here, you'll create your own unique AI cards. Every interaction and adventure will forge a special, one-of-a-kind relationship between you. All cards are freely tradable; build your own card world!",
+    "scout_score": 27,
+    "reasons": [
+      "無料 +20",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Just a Cat",
+    "appid": 4350900,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4350900",
+    "current_players": 6,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Just a Cat is a cute casual idle game about a cat that stays on your screen while you work or relax. Dress him with hats and glasses, watch his reactions, and track mouse clicks and keyboard presses as part of your personal statistics.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Gangster Clicker",
+    "appid": 3145070,
+    "price": 1260,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3145070",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 0.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Start with brass knuckles and empty pockets. Click rivals, upgrade your weapons and hire a crew to fight for you. Conquer 12 districts, defeat 12 bosses and build your criminal empire in a gangster idle clicker packed with dark humor, minigames and offline earnings.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "PenRogue",
+    "appid": 5319460,
+    "price": 1980,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5319460",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Catch a wide variety of Pens and battle all kinds of Trainers. Overcome the twists of a three-axis type system and survive 100 waves.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Astrology 101",
+    "appid": 5313050,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5313050",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is about learning astrology from the ground up: 48 lessons take you from the zodiac wheel to the houses, then cast your own birth chart for an eight-chapter report where every claim traces back to a degree. No account, no internet, five languages.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "AWAITING YOUR HORDERS",
+    "appid": 5280170,
+    "price": 2520,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5280170",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The best defense is offense. As long as you don't do anything stupid. Or do you? A serious and funny battle simulator where your smallest unit is an ARMY: click one soldier, 100,000 shout YAH! Up to 1,000,000 on screen climb into wobbly towers, get shelled, see stars, and charge again.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "中国式高考ChineseGaokao‌",
+    "appid": 5282110,
+    "price": 753,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5282110",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The core gameplay is QTR, which mainly includes learning knowledge points, acquiring learning skills, and taking exams. After 30 weeks or upon early active application, students will participate in the college entrance examination and be allocated universities and majors based on their exam scores",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Yatai 8",
+    "appid": 5080810,
+    "price": 1800,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5080810",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An endless loop in a dark Japanese corridor. Observe every detail carefully: if everything looks normal, keep walking. If you notice even the slightest anomaly, turn back immediately. Escape the loop before it's too late.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Strange Video Editor — Premium, Fast, Local, No Subscription",
+    "appid": 5093430,
+    "price": 9522,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5093430",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An local-first timeline editor. Finish captions, text, and export on your PC—no cloud upload to edit. Buy once on Steam and keep it for life.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Grounds-Keeper",
+    "appid": 4295900,
+    "price": 2700,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/4295900",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Death has retired from collecting souls, and now he keeps the grounds. Mowing grass by lantern light, scrubbing centuries of moss from forgotten headstones, and vacuum autumn leaves into oblivion across fifteen moonlit plots. A cozy isometric chore game with no timers, no enemies, and no stress.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Puzzle Jungle",
+    "appid": 5232240,
+    "price": 1800,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5232240",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Puzzle Fireworks",
+    "appid": 5151410,
+    "price": 1800,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5151410",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "TrafficJam",
+    "appid": 3993220,
+    "price": 480,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3993220",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Isn’t it enough for you to get stuck in real traffic and get annoyed at other drivers? Then here’s some good news! In the Traffic Jam Simulator, you can now get mad at virtual drivers and blow off some steam!",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "GRID64",
+    "appid": 5316940,
+    "price": 1350,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5316940",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Minimalist pixel-art chess in pure black and white. Solve mate puzzles, face an engine that thinks up to 8 moves ahead, or play strangers worldwide in rated matches and arena tournaments where the champion wins a golden card.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Mayor’s Hand",
+    "appid": 5175490,
+    "price": 2210,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5175490",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build the city, manage resources and services, shape your deck, and face new pressures every quarter. In The Mayor’s Hand, every decision shapes your administration: keep Public Trust high and make it to election day.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
