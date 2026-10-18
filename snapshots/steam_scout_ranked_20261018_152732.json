@@ -1,0 +1,596 @@
+[
+  {
+    "name": "PATIENT ZERO",
+    "appid": 3576670,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3576670",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Enter high-risk extraction zones, plant containment bombs, and evacuate before the area is wiped out along with you and your team. Every decision matters. Death is permanent. A hardcore 6-player cooperative horror experience where survival is never guaranteed.",
+    "scout_score": 98,
+    "reasons": [
+      "最優先ジャンル: Extraction +40",
+      "次点ジャンル: Cooperative +30",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Loomsong Chronicle Idle",
+    "appid": 4963690,
+    "price": 1199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4963690",
+    "current_players": 3,
+    "total_reviews": 6,
+    "positive_rate": 83.33,
+    "steam_score": "6 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a six-character party and explore a science-fantasy galaxy in a 2D-HD idle action RPG. Shape autonomous heroes through deep equipment, crafting and ability systems, develop your town, and challenge Grand Expeditions, Pinnacle bosses and endless dungeons.",
+    "scout_score": 81,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "成長/積み上げ要素: Crafting +15",
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "好評率80%以上 +8",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "NightClub Simulator",
+    "appid": 2729480,
+    "price": 799,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2729480",
+    "current_players": 7,
+    "total_reviews": 901,
+    "positive_rate": 92.01,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Step into the wild world of Nightclub Simulator VR! Experience an exclusive party where you can dance, mingle, fight, or flirt your way through a chaotic nightclub scene. Interact with lifelike NPCs, build relationships, cause a little mayhem, or just enjoy the music. Your night, your rules..",
+    "scout_score": 63,
+    "reasons": [
+      "次点ジャンル: Party +25",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Cat Life",
+    "appid": 2204760,
+    "price": 712,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/2204760",
+    "current_players": 2,
+    "total_reviews": 16,
+    "positive_rate": 68.75,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore a vast wild island as a cat. Climb anywhere, hunt, fight, and survive the elements as you uncover the island’s mysteries, either solo or in co-op.",
+    "scout_score": 55,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "GRIDMINE",
+    "appid": 5067390,
+    "price": 254,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5067390",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "GRIDMINE is a retro tower defense built around incremental progression. Survive for as long as possible, then return to your skill tree to spend extracted resources on tower-based upgrades and abilities.",
+    "scout_score": 50,
+    "reasons": [
+      "成長/積み上げ要素: Progression +20",
+      "成長/積み上げ要素: Skill Tree +15",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Retro Racers",
+    "appid": 3441620,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3441620",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Rev up for nostalgia! A co-op racing game where you choose vintage cars, customise wheels, and race through exciting tracks! 🚗💨🏁",
+    "scout_score": 48,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Beta Earth: Sovereignty Next",
+    "appid": 5114130,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5114130",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Welcome to Beta Earth, a text-driven sci-fi RPG with two journeys. Explore Sprawl 15 in Sovereignty or brave the harsher survival of Second Chances. Choose your class, find your footing, and make the story your own. Includes the Beta Earth Digital Library.",
+    "scout_score": 47,
+    "reasons": [
+      "次点ジャンル: Survival +15",
+      "成長/積み上げ要素: RPG +10",
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Surrounded",
+    "appid": 1813170,
+    "price": 899,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1813170",
+    "current_players": 0,
+    "total_reviews": 571,
+    "positive_rate": 43.96,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 6-player open world horror game. Explore a abandoned town, filled with mysteries, be chased around with your friends and survive creatures capable of ending your life. Uncover what really happened.",
+    "scout_score": 46,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "Madcar Multiplayer",
+    "appid": 1979510,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1979510",
+    "current_players": 3,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "One rule : Press the pedal ! Madcar: Multiplayer brings together the craziest drivers ! Enjoy the funniest online races !",
+    "scout_score": 45,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "無料 +20",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "FURRY MASSAGE 🔞",
+    "appid": 4908870,
+    "price": 944,
+    "discount_percent": 37,
+    "url": "https://store.steampowered.com/app/4908870",
+    "current_players": 151,
+    "total_reviews": 68,
+    "positive_rate": 91.18,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Got magic hands? Prove it! Become the new masseur for a town full of beautiful furry girls. From sore wings to tense tails, they all crave your touch. 🐾 Pick your client, choose the perfect pose, and hit the right spots to bring them to ultimate ecstasy. ✨",
+    "scout_score": 44,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "Fresh Stacker",
+    "appid": 5026810,
+    "price": 500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5026810",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 50.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A fast-paced, highly customizable tetromino stacking game featuring competitive multiplayer and everything you need to sharpen your skills, from guided opener practice to powerful custom training modes.",
+    "scout_score": 41,
+    "reasons": [
+      "次点ジャンル: Multiplayer +20",
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "SurgePoint",
+    "appid": 3342130,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3342130",
+    "current_players": 0,
+    "total_reviews": 14,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Craft weapons mid-run, strafe through chaos, chain recoil jumps, spawn platforms out of thin air. Pick cards. Break runs. Repeat.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "SuperStore Simulator",
+    "appid": 5127970,
+    "price": 599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5127970",
+    "current_players": 0,
+    "total_reviews": 4,
+    "positive_rate": 100.0,
+    "steam_score": "4 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build, manage, and expand your own supermarket from scratch! Stock shelves with popular products, set strategic prices, handle checkout payments, hire staff, and build the ultimate supermarket empire in town.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Mr. Prepper - Mountaineer DLC",
+    "appid": 3864280,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/3864280",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A cold new adventure awaits! Climb 10 levels of a mysterious mountain, survive freezing temperatures, uncover Agency secrets, and follow a mysterious climber's messages through a one-way walkie-talkie. Bring new technology and useful equipment back to your bunker.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Cook with Card",
+    "appid": 4597500,
+    "price": 479,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4597500",
+    "current_players": 0,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Cook with Card is a casual cooking and restaurant management game where you prepare recipes using cards, fulfill customer orders, and upgrade your kitchen. Unlock new recipes, manage ingredients and build an efficient kitchen!",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "DesktopPiP",
+    "appid": 5015450,
+    "price": 669,
+    "discount_percent": 33,
+    "url": "https://store.steampowered.com/app/5015450",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "DesktopPiP lets you capture regions of any window into interactive Picture-in-Picture windows. Save and restore layouts, interact through PiPs, and combine windows with Background Layers to build a beautiful customizable dashboard that fits the way you work.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "FURRY MASSAGE  - WALLPAPERS🔞",
+    "appid": 5277340,
+    "price": 224,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/5277340",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Bring the atmosphere of FURRY MASSAGE to your desktop with this exclusive collection of premium wallpapers featuring the game’s charming characters and memorable scenes.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Silly Suspects",
+    "appid": 4117190,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4117190",
+    "current_players": 0,
+    "total_reviews": 16,
+    "positive_rate": 75.0,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play as a detective in this comical guess-who mystery. Investigate absurd crimes in a weird and wacky world. Question suspects, learn their habits, and rule them out one by one until you uncover the truth hiding beneath all the nonsense",
+    "scout_score": 28,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー10件以上 +5"
+    ]
+  },
+  {
+    "name": "touhou AICHATRPG",
+    "appid": 5251110,
+    "price": 500,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5251110",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Touhou Project Fan Game An RPG where you can adventure while chatting with Touhou Project characters through AI!",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Nothing Simulator",
+    "appid": 2963850,
+    "price": 225,
+    "discount_percent": 25,
+    "url": "https://store.steampowered.com/app/2963850",
+    "current_players": 2,
+    "total_reviews": 1,
+    "positive_rate": 0.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A game about doing absolutely nothing. Stare at a black screen, watch a timer and prove that time is still passing",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Gangster Clicker",
+    "appid": 3145070,
+    "price": 279,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/3145070",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 0.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Start with brass knuckles and empty pockets. Click rivals, upgrade your weapons and hire a crew to fight for you. Conquer 12 districts, defeat 12 bosses and build your criminal empire in a gangster idle clicker packed with dark humor, minigames and offline earnings.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Meteors Are Art",
+    "appid": 5198130,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5198130",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "These days, destroying planets has become one of the hottest forms of art in the universe. The process is simple. Choose a meteor, attach some parts, and fire it at a planet. You can even choose your own judges. Would you like to join this world of art?",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Vampire's Kiss: Time Paradox",
+    "appid": 4207160,
+    "price": 359,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4207160",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Vampire's Kiss: Time Paradox – is a romantic anime novel about vampires and the distortion of time. Your choices will determine the fate of the heroine and her chosen one. Meet mysterious guys, uncover secrets, and find your unique ending!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "P'tit Tchîf",
+    "appid": 4795350,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4795350",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A dungeon crawler in which you’ll explore different aspects from the Wallon’s culture. Face enemies in a dynamic turn based combat system and rally other Walloons to your cause. Together dive into the tale because you’d never be able to make it on your own…",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Sparkle Mouse",
+    "appid": 5077340,
+    "price": 254,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5077340",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Custom Desktop Particles 🐁✨ No more boring computer!!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Iron Coffin Ice Queen: Her Gaze Awakens My Beast",
+    "appid": 4377020,
+    "price": 799,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4377020",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Former special forces analyst Barit wakes up and finds himself in a death cage. Under the brutal rule that anyone who lies will be executed immediately, he forms an alliance with the cold glamorous female doctor Evelyn to fight the behind-the-scenes game manipulator together.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Bad Bunnies - Beyond Brackenridge",
+    "appid": 4841350,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4841350",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A bunny-based 3D platformer where you have to collect carrots while avoiding fiendish enemies and traps.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "RetroHub",
+    "appid": 5285370,
+    "price": 1499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5285370",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A 1994 interactive-TV terminal, drawn pixel by pixel. Dial a number and play: backgammon, Yum dice, hangman, bowling, pinball, brick-breaker, Bizz-Billes… Solo, with friends around one screen, or online.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "AWAITING YOUR HORDERS",
+    "appid": 5280170,
+    "price": 599,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5280170",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The best defense is offense. As long as you don't do anything stupid. Or do you? A serious and funny battle simulator where your smallest unit is an ARMY: click one soldier, 100,000 shout YAH! Up to 1,000,000 on screen climb into wobbly towers, get shelled, see stars, and charge again.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "The Ripe Blood Anthology: This World Is Just for the Two of Us",
+    "appid": 2463560,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2463560",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Derek has a job, a beloved boyfriend, friends, and… “thought-piranhas.” Everything was almost perfect until one day his younger sister, Rina, returned to town and started claiming she was dead.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
