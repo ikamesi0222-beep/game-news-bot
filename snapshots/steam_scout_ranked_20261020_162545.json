@@ -1,0 +1,579 @@
+[
+  {
+    "name": "GONE Fishing",
+    "appid": 3645890,
+    "price": 669,
+    "discount_percent": 33,
+    "url": "https://store.steampowered.com/app/3645890",
+    "current_players": 825,
+    "total_reviews": 3727,
+    "positive_rate": 90.9,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "GONE Fishing is a 1-8 player survival horror game where you and your friends must work together to stay alive, by fishing. The only way to survive is to keep feeding the lake’s insatiable hunger before it feeds on you. Can you satisfy the hunger... or will you become the next offering?",
+    "scout_score": 81,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "次点ジャンル: Survival +15",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "We Were Here Tomorrow",
+    "appid": 2315050,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/2315050",
+    "current_players": 5217,
+    "total_reviews": 40,
+    "positive_rate": 52.5,
+    "steam_score": "Mixed",
+    "genres": [],
+    "categories": [],
+    "short_description": "You and your partner awaken inside a mysterious Norček facility with little recollection of how you got there. Communicate, cooperate, and unravel the secrets in this asymmetrical co-op adventure. Only together will you decide the fate of Tomorrow…",
+    "scout_score": 63,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "レビュー10件以上 +5",
+      "現在プレイヤー500人以上 +10"
+    ]
+  },
+  {
+    "name": "Out of the Shadows",
+    "appid": 3506830,
+    "price": 679,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3506830",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Out of the Shadows is a 2–4 player online co-op horror escape game. Explore unsettling locations, uncover their stories, solve cooperative and asymmetric puzzles, and survive the hostile inhabitants of places your team was never meant to enter.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Passage Zero",
+    "appid": 5165300,
+    "price": 629,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5165300",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A short psychological horror experience that asks one question: are you paying attention, or just doing what you were trained to?",
+    "scout_score": 38,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Sivers",
+    "appid": 3402230,
+    "price": 1199,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/3402230",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Sivers is an RPG-roguelike with a unique style, where waves of enemies test your strategy. Use spells and build defenses, develop your hero, and fight bosses and varied foes. Victory on the first try is unlikely — every attempt brings you closer to success!",
+    "scout_score": 38,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Bloom",
+    "appid": 5246400,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5246400",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A puzzle-platformer about an innocent, curious being exploring the planets of Bloom, planting seeds and sprouting flowers with its song. Sing! Use your voice and impact the ecosystem that birthed you, and become one with the cosmos.",
+    "scout_score": 33,
+    "reasons": [
+      "無料 +20",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "THE FINALS - Season 12 Starter Pack",
+    "appid": 5258290,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5258290",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Season 12 Starter Pack bundle includes: - 3 Legendary Weapon Skins - 1 Epic Season 12 Sticker - 1 150 Multibucks.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "THE FINALS - Bog Standard Set",
+    "appid": 5258300,
+    "price": 1999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5258300",
+    "current_players": 0,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Bog Standard Set includes: 1 Legendary Outfit, 1 Legendary Weapon Skin, 1 Legendary Emote, 1 Rare Charm, 2 400 Multibucks.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "THE FINALS - Season 12 Ultimate Battle Pass Bundle",
+    "appid": 5258280,
+    "price": 2999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5258280",
+    "current_players": 0,
+    "total_reviews": 5,
+    "positive_rate": 100.0,
+    "steam_score": "5 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Season 12 Ultimate Battle Pass includes: - Season 12 Premium Battle Pass - 20 Battle Pass Levels* - 25% Match XP Boost - 1,000 Multibucks - Season 12 Ultimate Rewards in the Battle Pass 25% Match XP Boost will be applied to your Contestant for the duration of Season 12.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Deep Drift Fishing",
+    "appid": 5374730,
+    "price": 299,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5374730",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Drop your line into the uncharted abyss! Dodge exotic aquatic fauna on your descent, snag high-value specimens on the reel-up, and survive encounters with mythical Apex predators. Upgrade your winch, harness burst nets, and unlock new oceans in this fast-paced arcade deep-sea fishing adventure.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "I Am Your Beast - Quitting Time DLC",
+    "appid": 4578110,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4578110",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Remember: you're one of the good guys. Fight a shadow war in Southeast Asia in this story prequel DLC to indie hit I Am Your Beast.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Beatrice",
+    "appid": 5355820,
+    "price": 307,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5355820",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You are sent to inspect an old abandoned estate before its demolition. Locals refuse to speak about the place, only whispering of a doll named Beatrice left behind. Uncover the horrible events that took place chapter by chapter, solve the mysteries, and find a way to escape. Are you brave enough?",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "A Sister's Journey",
+    "appid": 1730790,
+    "price": 1799,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/1730790",
+    "current_players": 54,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Explore a charmingly beautiful, hand-crafted pixel art world and help Violet on her journey searching for her sister. Uncover its mysteries, face its threatening foes, and run 'n gun your way through this challenging action-metroidvania - which will put your true platforming skills to the test.",
+    "scout_score": 26,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "AKIBA LOST",
+    "appid": 4131220,
+    "price": 1999,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4131220",
+    "current_players": 54,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Thirteen years ago, six girls vanished in Akihabara in the unsolved case “The Akiba Vanishing”. Daiki Shinjo announces a live-action game based on the incident, gathering six women who embody Akihabara’s subculture. But their story begins to seep into reality. Can AKIBA LOST be finished?",
+    "scout_score": 23,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "Random & Unfair Battlefields",
+    "appid": 5224050,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5224050",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Random &amp; Unfair Battlefields is a chaotic fantasy RTS where you barely control your own army. Pick a faction, muster your forces, and issue decrees (spells) to tilt the odds in your favour. Randomly generated maps and daily events mean no two battles play out the same.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "THE FINALS - Dead Certain Set",
+    "appid": 5258310,
+    "price": 4999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5258310",
+    "current_players": 0,
+    "total_reviews": 3,
+    "positive_rate": 66.67,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Dead Certain Set includes: 1 Mythic Outfit, 1 Mythic Weapon Skin, 1 Legendary Weapon Skin, 1 Mythic Emote, 1 Legendary Charm, 1 Epic Player Card Background, 6 250 Multibucks.",
+    "scout_score": 21,
+    "reasons": [
+      "1000円以下 +18",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "O'BLOCK",
+    "appid": 5357680,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5357680",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Flip sneakers from a Chicago block all the way to billionaires. Haggle with parody stars like Kan Yay and Elon Tusk, catch fakes by the stitching, and turn a $300 shoebox into a billion. One verb: name a price. Free on October 20.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "HENTAI CHAMELEON",
+    "appid": 5109030,
+    "price": 239,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5109030",
+    "current_players": 3,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "&quot;Hentai Chameleon&quot; puts your hide and seek skills to the test! Play as a sexy anime girl, pose, and paint yourself to hide in the level's environment. Or play as the male team to find the girls, and catch them to get their &quot;special reward&quot;💕💦Up to 8 players supported! Paint yourself and blend away!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Gloop: Liquid Physics",
+    "appid": 4510190,
+    "price": 679,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4510190",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Gloop: Liquid Physics is a real-time particle and liquid physics sandbox and VJ instrument. Thousands of interacting particles stir a canvas of flowing, pooling pigment. Paint into it with your mouse, drive it with music, your webcam or your own images and video, save scenes, and perform them live.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Dino Dome: Tidy Up!",
+    "appid": 5221770,
+    "price": 479,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5221770",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Dino Dome: Tidy Up! is a cozy first-person organization game about restoring a giant indoor toy dome. Pick up thousands of colorful dinosaurs, match each one to its proper cupboard, and turn a wonderfully messy floor into a calm, complete collection.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Camille Queen of Chess bots",
+    "appid": 4771440,
+    "price": 1799,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/4771440",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Play chess against bots with real personalities each bound by its own rules, moods, and game plans, not just a difficulty slider. Drill your openings, review every game, and climb from casual sparring to serious battles against the strong Camille engine. Fully offline.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sloptoberfest",
+    "appid": 5327190,
+    "price": 699,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/5327190",
+    "current_players": 5,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A chaotic festival tent simulator for up to 4 players. Run your own Oktoberfest beer tent, serve beer and food, expand your business, hire staff, brew your own beer, and sabotage the competition.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "BONG FLIP",
+    "appid": 3847310,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3847310",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "BONG FLIP is a fast-paced arcade game about launching, flipping, dodging enemies, and landing. Build your score, collect ridiculous skins, and see what you can survive before you crash. Flip it. Land it.",
+    "scout_score": 20,
+    "reasons": [
+      "無料 +20"
+    ]
+  },
+  {
+    "name": "Thirteen Provinces · Hanren",
+    "appid": 5009950,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5009950",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build a Three Kingdoms deck in this turn-based strategy card game. Battle AI, invite friends or find opponents through room matchmaking. Share the field and Strategy Points in 2v2, adapt to the seasons, and collect cards, cosmetics and stories of allies fighting side by side.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Swaplines",
+    "appid": 5354440,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5354440",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A simple, easy puzzle game: gather each color of ball onto its matching LINE. The more you play, the more the tricks click. Endless, randomly generated puzzles, and a cute little town in the background that grows with every puzzle you solve.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "SHOGITOON",
+    "appid": 5294600,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5294600",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Checkmate the king or paint your way to victory! SHOGITOON combines shogi with a colorful battle for territory. Face 20 CPU characters with distinct play styles, or challenge a friend locally or online. In-game text is available in Japanese only.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "House Rules 21",
+    "appid": 5144250,
+    "price": 399,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5144250",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Blackjack, but every dealer plays by their own house rules. Work your way through nine dealers, each bending the rules of 21 in a different direction, build your bankroll, and unlock the modifiers, side bets, and card backs that turn a simple hand into a full run.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "We Were Here Tomorrow: Fan Edition",
+    "appid": 5202830,
+    "price": 699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5202830",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Tomorrow Fan Edition contains exclusive content for our most dedicated Explorers. Discover the art and music of We Were Here Tomorrow with the Digital Art Book, official soundtrack and exclusive wallpapers.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Trick or Eat",
+    "appid": 5283850,
+    "price": 594,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5283850",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Halloween night, and the monsters are going door to door. Whoever opens up gets eaten. Defend the neighbourhood solo or with up to three friends: fight ghouls, witches and werewolves, spend your candy on upgrades, and if you fall, rise again as one of the monsters.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Formula Z: Controlled Dose",
+    "appid": 5364440,
+    "price": 1599,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5364440",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Build your pharmacy, manufacture unapproved Formula Z drugs, sell them on the streets or to hospitals, rob stores at night, evade the FDZ, and expand your business across four eras in this first-person pharmacy and business simulation.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
