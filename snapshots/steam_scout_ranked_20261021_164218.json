@@ -1,0 +1,599 @@
+[
+  {
+    "name": "MEAT TRAIN",
+    "appid": 3216230,
+    "price": 900,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/3216230",
+    "current_players": 0,
+    "total_reviews": 81,
+    "positive_rate": 92.59,
+    "steam_score": "Very Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Meat Train is a FPS game where you operate a train thats uses MEAT for FUEL. Explore a wasteland where everything wants you dead, scavenge for weapons and loot. Upgrade the train and attempt to destroy an evil AI megafactory.",
+    "scout_score": 104,
+    "reasons": [
+      "最優先ジャンル: FPS +50",
+      "成長/積み上げ要素: Loot +18",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー50件以上 +8"
+    ]
+  },
+  {
+    "name": "TPS Tickman: Castle Defense",
+    "appid": 5351820,
+    "price": 254,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5351820",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Hold the canyon wall against 30 waves of stickmen in a laid-back third-person shooter. Arm your castle with auto turrets, missiles, drones and cavalry, hijack enemy tanks, fly a gunship, and bring down six giant bosses. No grind, no difficulty levels — just shoot.",
+    "scout_score": 88,
+    "reasons": [
+      "最優先ジャンル: TPS +50",
+      "最優先ジャンル: Third-Person Shooter +50",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Pyramidion",
+    "appid": 4024600,
+    "price": 639,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/4024600",
+    "current_players": 18,
+    "total_reviews": 117,
+    "positive_rate": 79.49,
+    "steam_score": "Mostly Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Get a massive stone to the top of a pyramid without breaking it. In this physics-based online co-op game for 2 or 3 players, time your pushes, know when to wait, and split the work to overcome obstacles together.",
+    "scout_score": 76,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Online Co-op +30",
+      "1000円以下 +18",
+      "好評率70%以上 +5",
+      "レビュー50件以上 +8",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "ARCS",
+    "appid": 4409620,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4409620",
+    "current_players": 7,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A stage‑based shooter where you build optimal strategies and wipe out over a thousand enemies.",
+    "scout_score": 73,
+    "reasons": [
+      "最優先ジャンル: Shooter +40",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Handle with Care!",
+    "appid": 4996960,
+    "price": 489,
+    "discount_percent": 30,
+    "url": "https://store.steampowered.com/app/4996960",
+    "current_players": 20,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A co-op delivery game where you play as tiny postal workers in a town that’s trying to kill you. Deliver everything from coffins to ticking bombs, escape rabid dogs and berserk drivers, and stay in business for six days to earn your pint on Sunday.",
+    "scout_score": 66,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "DON'T SWITCH",
+    "appid": 5134560,
+    "price": 300,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5134560",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Co-op horror for 2-3 friends. Ransack a haunted mansion for cursed tapes, wake the spectres and blast them back to hell with a holy cross. Keep your energy up: the thing in the walls can possess you, and then YOU are the one hunting your friends.",
+    "scout_score": 58,
+    "reasons": [
+      "次点ジャンル: Co-op +30",
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Inky's Sleep",
+    "appid": 3996640,
+    "price": 699,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3996640",
+    "current_players": 14,
+    "total_reviews": 2,
+    "positive_rate": 100.0,
+    "steam_score": "2 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Step into Inky’s sleep — a haunting yet enchanting 2D horror-adventure with surreal touches, led by an endearing little cat. Explore dark dreams, unravel uncanny puzzles, and evade otherworldly creatures.",
+    "scout_score": 56,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "My Own Roguelike: RPG",
+    "appid": 5366690,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5366690",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "An auto-attack roguelite RPG. Pick level-up cards every run, farm gear with random options and grow a 331-node passive tree to craft a build that is all your own — across 9 worlds, Hell difficulty and an endless boss tower.",
+    "scout_score": 50,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "成長/積み上げ要素: Roguelite +10",
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "GemCraft - Legacy Collection",
+    "appid": 4207990,
+    "price": 999,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4207990",
+    "current_players": 486,
+    "total_reviews": 12,
+    "positive_rate": 100.0,
+    "steam_score": "Positive",
+    "genres": [],
+    "categories": [],
+    "short_description": "Forge and combine magical gems, build deadly defenses, and survive relentless waves in the Flash-era tower defense classics GemCraft, Chapter Zero, and Labyrinth. Now with up to 9x speed, new hotkeys, easier gem combining, and smoother performance.",
+    "scout_score": 41,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー10件以上 +5",
+      "現在プレイヤー100人以上 +8"
+    ]
+  },
+  {
+    "name": "The Wrong Way",
+    "appid": 5341070,
+    "price": 299,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5341070",
+    "current_players": 9,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The Wrong Way is a psychological horror experience about a camping trip that takes a dark turn when one friend drives home alone and ends up on a road he was never supposed to be on. Sometimes the most dangerous places are the ones you stumble into by accident.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Grease Trap '99",
+    "appid": 4509200,
+    "price": 449,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/4509200",
+    "current_players": 4,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mystery Horror / Comedic Takeaway Simulator. Deep-fry pizzas and live the Scottish dream. Voice-acted in Scottish Gaelic; subtitles in English or Gaelic.",
+    "scout_score": 40,
+    "reasons": [
+      "次点ジャンル: Horror +20",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Mine Heroes",
+    "appid": 5240770,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5240770",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Mine Heroes is a Minesweeper + Roguelite + turn-based strategy indie game. Play as a dice hero, defeat monsters on the Minesweeper board, and conquer 80 levels. Unlock 5 major classes and many hidden classes. Classic Minesweeper gameplay + dice RPG + dungeon adventure.",
+    "scout_score": 38,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "成長/積み上げ要素: Roguelite +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "WOIM",
+    "appid": 4272020,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/4272020",
+    "current_players": 28,
+    "total_reviews": 3,
+    "positive_rate": 100.0,
+    "steam_score": "3 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "WOIM is a puzzle game where you play as a worm! Push blocks, flip switches, eat apples and... cut yourself in half! WOIM will push you to keep digging downwards, solving tricky puzzles, finding secrets, and making new friends (that were once part of you).",
+    "scout_score": 36,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー10人以上 +5"
+    ]
+  },
+  {
+    "name": "ゆめみるサクラの卒業式",
+    "appid": 5292500,
+    "price": 499,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5292500",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A graduation that breaks, again and again. It should have been an ordinary day where all you had to do was choose which friend to talk to first. The order changes the conversations, and each loop warps the scene. Your friends' smiles fade. A visual novel about friendship. Broken, with care.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Truth Beneath the Shadows",
+    "appid": 3716120,
+    "price": 611,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3716120",
+    "current_players": 1,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Truth Beneath the Shadows – A detective game where players unravel hidden mysteries by connecting clues to expose a secret organization. Every piece of evidence brings you closer to the dark truth lurking in the shadows.",
+    "scout_score": 33,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "We Are Good Delivery",
+    "appid": 5056370,
+    "price": 269,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5056370",
+    "current_players": 0,
+    "total_reviews": 1,
+    "positive_rate": 100.0,
+    "steam_score": "1 user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A first-person action score-attack game about dealing with one spaceship disaster after another. Put out fires, patch hull breaches, handle asteroids and aliens, and survive your 10-minute shift. Protect your cargo and ship as you chase a higher score in this chaotic space delivery game.",
+    "scout_score": 31,
+    "reasons": [
+      "1000円以下 +18",
+      "好評率90%以上 +10",
+      "レビュー1件以上 +3"
+    ]
+  },
+  {
+    "name": "Ward Off Evil",
+    "appid": 3422000,
+    "price": 1529,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/3422000",
+    "current_players": 6,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Ward Off Evil is an open world strategy RPG set in an apocalyptic sword &amp; sorcery world. Create your character, rally an army, and roam the wastes as you battle to avert, or bring about, the end of the Cycle.",
+    "scout_score": 30,
+    "reasons": [
+      "成長/積み上げ要素: RPG +10",
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Baccarata",
+    "appid": 5231780,
+    "price": 400,
+    "discount_percent": 20,
+    "url": "https://store.steampowered.com/app/5231780",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A roguelike deckbuilding game built on baccarat, where the card you throw away goes to your opponent. Choose what to give up each hand, size your bets to chase a streak multiplier, and spend single-use cards to rescue a bad hand across twelve tables that each break the rules differently.",
+    "scout_score": 28,
+    "reasons": [
+      "成長/積み上げ要素: Roguelike +10",
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Kron Wars",
+    "appid": 4731070,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4731070",
+    "current_players": 2,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "A persistent space MMO that runs in your browser. No download. No installation. Open a tab and you are in the Frontier. Trade, mine and fight across 2 universes and 12,000 sectors, in an economy that players build. And one mechanic that no other MMO has: war rewrites the map.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Sweet Swipe",
+    "appid": 3323980,
+    "price": 0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3323980",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Run, jump and slide with style in Sweet Swipe! An exciting 2D platformer with simple controls, parkour-inspired movements, hand-drawn street art, an original soundtrack and a vibrant story of courage, resilience and justice.",
+    "scout_score": 22,
+    "reasons": [
+      "無料 +20",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Finding Words",
+    "appid": 1508190,
+    "price": 339,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/1508190",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Open a magical storybook and find the words that bring its tales to life. Complete 50 word-search puzzles across ten funny fantasy stories, fill in the missing passages and collect charming stickers, one discovery at a time. Play at your own pace.",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Yakiniku!!!",
+    "appid": 5087740,
+    "price": 1274,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5087740",
+    "current_players": 9,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Fire up the grill in this first-person yakiniku restaurant sim. Run it solo or with your friends in Career Mode, or compete directly against them as rival restaurants across the street in Rival Mode. Prep, serve, grill, restock, and build your restaurant into the pride of the shopping street!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "Apples Everywhere! Let's Tidy Up",
+    "appid": 5316020,
+    "price": 509,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5316020",
+    "current_players": 1,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "The orchard is overflowing, and there are Apples Everywhere! Clean up the grounds in this cozy Tidy-Up-lite, a tidy-up game with only two item types: good apples for the market crate, wormy ones for the food bin. Earn money, buy powerful upgrades, and unlock animal helpers. Let's tidy up!",
+    "scout_score": 20,
+    "reasons": [
+      "1000円以下 +18",
+      "現在プレイヤー1人以上 +2"
+    ]
+  },
+  {
+    "name": "JIGOKU YUGI: Only The Last Gambler Standing Returns to Life",
+    "appid": 5297320,
+    "price": 849,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5297320",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "You died slipping on your own winning lottery ticket. Now you're one of 100 corpses in Hell's Ninth Gambling Den: 32 sadistic games, each with a hidden trap, a cheating demon croupier and your funeral streaming live. Only the last gambler standing returns to life.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Monsters, Inn Order!",
+    "appid": 5375590,
+    "price": 899,
+    "discount_percent": 10,
+    "url": "https://store.steampowered.com/app/5375590",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Check in for cute monsters and deliciously tangled logic puzzles. Arrange a line of peculiar guests, connect their clues, and chase that glorious “aha!” across 100+ puzzles. Make unlikely friends, uncover a little mystery, and find a place for everyone.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Kaiju Climber",
+    "appid": 5332820,
+    "price": 899,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5332820",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Kaiju Climber is a surreal action-platformer where the goal is simple; Get to the next checkpoint! (Try not to die) Guide your chicken through dozens of intense levels - where falls, hazards and Kaiju wish to see you cooked. Brought to you by the one-man indie project: Capesize Entertainment.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "PunchMonkey",
+    "appid": 5281130,
+    "price": 199,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/5281130",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Keep a little monkey and a banana tree on the corner of your desktop. Every key you type makes the monkey punch the tree and knock down ripe bananas. Spend them to decorate your mouse cursor. Punch together with your Steam friends, too.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Farkle: Tavern Dice",
+    "appid": 5368450,
+    "price": 1274,
+    "discount_percent": 15,
+    "url": "https://store.steampowered.com/app/5368450",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Farkle: Tavern Dice brings the classic push-your-luck dice game to a cozy medieval tavern. Roll for points, decide when to bank your score, and risk another throw for a bigger payoff—or lose the round.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Brain Boost Fit",
+    "appid": 5173040,
+    "price": 359,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5173040",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Just fit the blocks — yet you won't be able to stop. &quot;Brain Boost Fit&quot; is a genuine block-packing puzzle with 1,500 stages. Drag the pieces and fill the board perfectly to clear. No time limits, no fail states.",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  },
+  {
+    "name": "Robot Fisher",
+    "appid": 5373530,
+    "price": 59,
+    "discount_percent": 40,
+    "url": "https://store.steampowered.com/app/5373530",
+    "current_players": 0,
+    "total_reviews": 0,
+    "positive_rate": 0,
+    "steam_score": "No user reviews",
+    "genres": [],
+    "categories": [],
+    "short_description": "Third person fishing simulation game, where player controls lonely robot who are just fishing",
+    "scout_score": 18,
+    "reasons": [
+      "1000円以下 +18"
+    ]
+  }
+]
